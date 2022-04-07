@@ -1,0 +1,25 @@
+---
+title: "Hyein Ko"
+about:
+  template: solana
+  image: hyein.jpg
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/hey__ikon
+    - icon: github
+      text: Github
+      href: https://github.com/hey-ikon/
+    - icon: globe
+      text: website
+      href: https://clas.uiowa.edu/polisci/people/hyein-ko
+    - icon: envelope
+      text: email
+      href: mailto:hyein-ko@uiowa.edu
+    # - icon: chat-left-quote
+    #   text: "Google Scholar"
+    #   href: https://scholar.google.com/citations?user=PNwjYEAAAAAJ
+    
+---
+
+Hyein Ko is a doctoral candidate in the Department of Political Science at the University of Iowa.  She received her BA in economics and political science and MA in political science from Ewha Womans University. Her current research interests include using [text as data](https://doi.org/10.1111/lsq.12367) and [images as data](http://dx.doi.org/10.2139/ssrn.3986482) to better understand the politics of the pandemic, political protest, and the politics of media coverage.

@@ -1,0 +1,26 @@
+---
+title: "Yue Hu"
+about:
+  template: solana
+  image: hu.png
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/yuehupolisci
+    - icon: github
+      text: Github
+      href: https://github.com/sammo3182
+    - icon: globe
+      text: website
+      href: https://sammo3182.github.io
+    - icon: envelope
+      text: email
+      href: mailto:yuehu@tsinghua.edu.cn
+    - icon: chat-left-quote
+      text: "Google Scholar"
+      href: https://scholar.google.com/citations?user=7FQJnB0AAAAJ&hl=en
+    
+---
+
+Yue Hu is an associate professor in the [Department of Political Science](https://www.dps.tsinghua.edu.cn/index.htm) at Tsinghua University. Hu is a comparativist and methodologist in political science. His research interests include political psychology, political linguistics, socioeconomic inequality and public opinion, and identity in urban politics.
+

@@ -1,0 +1,10 @@
+---
+title: "Team"
+subtitle: "Meet the people working on Dynamic Comparative Public Opinion"
+toc: true
+page-navigation: true
+# id: team
+---
+
+The core DCPO team is [Hyein Ko](hyein.qmd), [Yuehong 'Cassandra' Tai](cassandra.qmd), [Byung-Deuk Woo](byung-deuk.qmd), [Yue Hu](hu.qmd), and [Frederick Solt](fsolt.qmd).  Follow the links to find out more about each of us.
+

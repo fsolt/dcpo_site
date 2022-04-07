@@ -1,0 +1,25 @@
+---
+title: "Frederick Solt"
+about:
+  template: solana
+  image: fsolt.jpg
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/fredericksolt
+    - icon: github
+      text: Github
+      href: https://github.com/fsolt
+    - icon: globe
+      text: website
+      href: https://fsolt.org
+    - icon: envelope
+      text: email
+      href: mailto:frederick-solt@uiowa.edu
+    - icon: chat-left-quote
+      text: "Google Scholar"
+      href: https://scholar.google.com/citations?user=PNwjYEAAAAAJ
+    
+---
+
+Frederick Solt is an associate professor in the Department of Political Science at the University of Iowa. He is author and maintainer of the `DCPOtools` package and the founder of the DCPO Lab.  His other interests include comparative political behavior and political economy from a cross-national perspective. Much of his work focuses on understanding how---and why---the extent of economic inequality in a country shapes the attitudes and behavior of the people who live there. He also created and maintains the [Standardized World Income Inequality Database (SWIID)](https://fsolt.org/swiid/), which provides the most-comparable data available on income inequality for broadly cross-national research.

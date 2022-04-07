@@ -1,0 +1,25 @@
+---
+title: "Byung-Deuk Woo"
+about:
+  template: solana
+  image: bd.jpg
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/byung_deuk
+    - icon: github
+      text: Github
+      href: https://github.com/byngdeuk
+    - icon: globe
+      text: website
+      href: https://www.byung-deuk-woo.org
+    - icon: envelope
+      text: email
+      href: mailto:byungdeukwoo@gmail.com
+    - icon: chat-left-quote
+      text: "Google Scholar"
+      href: https://scholar.google.com/citations?user=mLfoTKIAAAAJ
+    
+---
+
+Byung-Deuk Woo is a postdoctoral researcher at the Institute of Social Data Science, Pohang University of Science and Technology in South Korea. He received my PhD degree in Political Science from the University of Iowa in 2021, and BA in Political Science and International Relations from Hankuk University of Foreign Studies (HUFS) in 2017. In his dissertation, "Re-Examining the Origins of Policy related to Violence Against Women: The Role of Women's Descriptive Representation in Achieving Substantive Representation," Byung-Deuk examines the role of women's descriptive representation on the adoption of criminal laws and public policies concerning violence against women with time-series cross-national data on 161 countries from 1908 to 2016 and with data on the Korean National Assembly.
