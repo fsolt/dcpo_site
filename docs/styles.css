@@ -9,6 +9,9 @@
   max-height: 80px;
 }
 
+.nav-link {
+  font-size:  1.1rem;
+}
 
 .platform-table td {
   vertical-align: middle;
