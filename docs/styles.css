@@ -6,11 +6,11 @@
 }
 
 .navbar-brand > img {
-  max-height: 80px;
+  max-height: 75px;
 }
 
 .nav-link {
-  font-size:  1.1rem;
+  font-size:  1.3rem;
 }
 
 .platform-table td {

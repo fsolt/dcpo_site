@@ -4,17 +4,17 @@ about:
   template: solana
   image: fsolt.jpg
   links:
-    - icon: twitter
+    - icon: "twitter"
       text: twitter
       href: https://twitter.com/fredericksolt
-    - icon: github
+    - icon: "github"
       text: Github
       href: https://github.com/fsolt
-    - icon: globe
+    - icon: "globe"
       text: website
       href: https://fsolt.org
-    - icon: envelope
-      text: email
+    - icon: "envelope"
+      text: "email"
       href: mailto:frederick-solt@uiowa.edu
     - icon: chat-left-quote
       text: "Google Scholar"
