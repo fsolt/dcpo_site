@@ -1,0 +1,100 @@
+[
+  {
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "News",
+    "section": "",
+    "text": "News"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "DCPO",
+    "section": "",
+    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Publications"
+  },
+  {
+    "objectID": "news/posts/post-with-code/index.html",
+    "href": "news/posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "news/posts/welcome/index.html",
+    "href": "news/posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "Since this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "news/index.html",
+    "href": "news/index.html",
+    "title": "DCPO News",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\nThis is a post with executable code.\n\n\n\n\n\n\nApr 6, 2022\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\nThis is the first post in a Quarto blog. Welcome!\n\n\n\n\n\n\nApr 3, 2022\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "team/index.html",
+    "href": "team/index.html",
+    "title": "Team",
+    "section": "",
+    "text": "The core DCPO team is Hyein Ko, Yuehong ‘Cassandra’ Tai, Byung-Deuk Woo, Yue Hu, and Frederick Solt. Follow the links to find out more about each of us."
+  },
+  {
+    "objectID": "team/hyein.html",
+    "href": "team/hyein.html",
+    "title": "Hyein Ko",
+    "section": "",
+    "text": "Hyein Ko is a doctoral candidate in the Department of Political Science at the University of Iowa. She received her BA in economics and political science and MA in political science from Ewha Womans University. Her current research interests include using text as data and images as data to better understand the politics of the pandemic, political protest, and the politics of media coverage."
+  },
+  {
+    "objectID": "team/cassandra.html",
+    "href": "team/cassandra.html",
+    "title": "Yuehong ‘Cassandra’ Tai",
+    "section": "",
+    "text": "Yuehong ‘Cassandra’ Tai is a Ph.D. candidate in the Department of Political Science at the University of Iowa. Her research attempts to understand the interaction between public opinion and policymaking, policy output, policy outcomes, and policy feedback as a process in governance in comparative perspective. She is particularly interested in the role of social and political trust on public health and economic policy. Her methodological interests include Bayesian analysis and machine learning."
+  },
+  {
+    "objectID": "team/hu.html",
+    "href": "team/hu.html",
+    "title": "Yue Hu",
+    "section": "",
+    "text": "Yue Hu is an associate professor in the Department of Political Science at Tsinghua University. Hu is a comparativist and methodologist in political science. His research interests include political psychology, political linguistics, socioeconomic inequality and public opinion, and identity in urban politics."
+  },
+  {
+    "objectID": "team/byung-deuk.html",
+    "href": "team/byung-deuk.html",
+    "title": "Byung-Deuk Woo",
+    "section": "",
+    "text": "Byung-Deuk Woo is a postdoctoral researcher at the Institute of Social Data Science, Pohang University of Science and Technology in South Korea. He received my PhD degree in Political Science from the University of Iowa in 2021, and BA in Political Science and International Relations from Hankuk University of Foreign Studies (HUFS) in 2017. In his dissertation, “Re-Examining the Origins of Policy related to Violence Against Women: The Role of Women’s Descriptive Representation in Achieving Substantive Representation,” Byung-Deuk examines the role of women’s descriptive representation on the adoption of criminal laws and public policies concerning violence against women with time-series cross-national data on 161 countries from 1908 to 2016 and with data on the Korean National Assembly."
+  },
+  {
+    "objectID": "team/fsolt.html",
+    "href": "team/fsolt.html",
+    "title": "Frederick Solt",
+    "section": "",
+    "text": "Frederick Solt is an associate professor in the Department of Political Science at the University of Iowa. He is author and maintainer of the DCPOtools package and the founder of the DCPO Lab. His other interests include comparative political behavior and political economy from a cross-national perspective. Much of his work focuses on understanding how—and why—the extent of economic inequality in a country shapes the attitudes and behavior of the people who live there. He also created and maintains the Standardized World Income Inequality Database (SWIID), which provides the most-comparable data available on income inequality for broadly cross-national research."
+  },
+  {
+    "objectID": "software.html",
+    "href": "software.html",
+    "title": "Software",
+    "section": "",
+    "text": "DCPO software"
+  },
+  {
+    "objectID": "data.html",
+    "href": "data.html",
+    "title": "Data",
+    "section": "",
+    "text": "Data"
+  }
+]
