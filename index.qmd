@@ -1,0 +1,9 @@
+---
+pagetitle: "DCPO"
+toc: false
+sidebar: false
+---
+
+DCPO is Dynamic Comparative Public Opinion
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.

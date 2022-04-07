@@ -1,0 +1,72 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "DCPO"
+  image: "dcpo.png"
+  favicon: "favicon.png"
+  open-graph: true
+  twitter-card:
+    site: "@dcpo_lab"
+  site-url: https://dcpo.org
+  description: "Dynamic Comparative Public Opinion"
+  repo-url: https://github.com/fsolt/dcpo_site
+  repo-actions: [edit, issue]
+  navbar:
+    background: "#2849A0"
+    logo: dcpo.png
+    title: false
+    collapse-below: lg
+    left:
+      - text: "Team"
+        href: team/index.qmd
+      - text: "News"
+        href: news/index.qmd
+      - publications.qmd
+      - data.qmd
+      - software.qmd
+      - text: "Help"
+        menu:
+          - text: "Report an Issue"
+            icon: "bug"
+            href: "https://github.com/fsolt/DCPOtools/issues"
+          - text: "DCPO Discussions"
+            icon: "chat-right-text"
+            href: "https://github.com/fsolt/DCPOtools/discussions"
+    right:
+      - icon: twitter
+        href: https://twitter.com/dcpo_lab
+      - icon: github
+        href: https://github.com/fsolt/DCPOtools
+
+  sidebar:
+    - id: team
+      style: "floating"
+      collapse-level: 2
+      align: left
+      contents:
+        - text: "Team"
+          href: team/index.qmd
+        - text: "Hyein Ko"
+          href: team/hyein.qmd
+        - text: "Yuehong 'Cassandra' Tai"
+          href: team/cassandra.qmd
+        - text: "Byung-Deuk Woo"
+          href: team/byung-deuk.qmd
+        - text: "Yue Hu"
+          href: team/hu.qmd
+        - text: "Frederick Solt"
+          href: team/fsolt.qmd
+
+format:
+  html:
+    theme: cosmo
+    code-copy: true
+    code-overflow: wrap
+    css: styles.css
+
+
+freeze: true
+
+
