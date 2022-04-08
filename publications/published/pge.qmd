@@ -1,0 +1,78 @@
+---
+title: "Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere"
+date: 2022-04-01
+research_type: 
+# - working-paper
+- journal-article
+# - book-chapter
+# - review
+format: 
+  html:
+    from: markdown+autolink_bare_uris
+citation: "[Woo, Byung-Deuk](https://www.byung-deuk-woo.org), [Lindsey A. Goldberg](https://www.lindsey-allemang-goldberg.com), and [Frederick Solt](https://fsolt.org). Forthcoming. \"Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere.\" _British Journal of Political Science_."
+extra: >-
+  Extra information, like where this was presented, etc.
+links:
+# - name: PDF
+#   url: ""
+#   local: true
+#   icon: far fa-file-pdf
+- name: Preprint
+  url: ""
+  icon: far fa-file-pdf
+#   local: true
+# - name: Final version
+#   url: ""
+#   icon: fas fa-scroll
+- name: Code
+  url: ""
+  icon: github
+# - name: Data
+#   url: ""
+#   icon: fas fa-table
+pub_status: 
+  status: Forthcoming
+  class: warning
+  icon: pencil-square
+#   status: Writing
+#   class: warning
+#   icon: fas fa-edit
+#   status: Revising
+#   class: info
+#   icon: fas fa-sync
+#   status: Under review
+#   class: success
+#   icon: fas fa-glasses
+draft: true
+---
+
+<!-- ## Important links -->
+
+<!-- - [Paper (preprint)](#) -->
+<!-- - [Statistical analysis notebook](#) -->
+<!-- - [GitHub repository](#) -->
+
+## Abstract
+
+Societal attitudes toward gender roles in the workplace and politics play a central part in theorizing on the difficulty women face in achieving political equality, but shortcomings in the available data have prevented direct examination of many implications of these theories. Drawing on recent advances in latent variable modeling of public opinion and a comprehensive collection of survey data, we present the Public Gender Egalitarianism dataset to address this need: comparable estimates of the public's attitudes on gender equality in the public sphere across more than one hundred countries over time. These PGE scores are strongly correlated with responses to individual survey items and with women's rates of participation in the labor force and corporate boards. We expect that the PGE data will become an invaluable source for broadly cross-national and longitudinal research on the causes and consequences of collective attitudes toward gender equality in politics and the economy.
+
+## Important figure
+
+Figure 3: PGE Scores Over Time Within Selected Countries
+
+![Figure 3: PGE Scores Over Time Within Selected Countries](egr_fig3.png)
+
+
+## BibTeX citation
+
+```bibtex
+@article{WooAllemangSolt2022,
+	author = {Woo, Byung-Deuk, and Goldberg, Lindsey A., and Solt, Frederick},
+    year = {2022},
+	doi = {10.31235/osf.io/37dq9},
+	month = {Feb},
+	publisher = {SocArXiv},
+	title = {Public {{Gender Egalitarianism}}: {{A Dataset}} of {{Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles}} in the {{Public Sphere}}},
+	url = {https://osf.io/preprints/socarxiv/37dq9},
+	year = {2022}}
+```

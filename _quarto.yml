@@ -23,7 +23,8 @@ website:
         href: team/index.qmd
       - text: "News"
         href: news/index.qmd
-      - publications.qmd
+      - text: "Publications"
+        href: publications/index.qmd
       - data.qmd
       - software.qmd
       - text: "Help"
@@ -40,25 +41,25 @@ website:
       - icon: github
         href: https://github.com/fsolt/DCPOtools
 
-  sidebar:
-    - id: team
-      style: "floating"
-      collapse-level: 2
-      align: left
-      contents:
-        - text: "Team"
-          href: team/index.qmd
-          contents:
-            - text: "Hyein Ko"
-              href: team/hyein.qmd
-            - text: "Yuehong 'Cassandra' Tai"
-              href: team/cassandra.qmd
-            - text: "Byung-Deuk Woo"
-              href: team/byung-deuk.qmd
-            - text: "Yue Hu"
-              href: team/hu.qmd
-            - text: "Frederick Solt"
-              href: team/fsolt.qmd
+  # sidebar:
+  #   - id: team
+  #     style: "floating"
+  #     collapse-level: 2
+  #     align: left
+  #     contents:
+  #       - text: "Team"
+  #         href: team/index.qmd
+  #         contents:
+  #           - text: "Hyein Ko"
+  #             href: team/hyein.qmd
+  #           - text: "Yuehong 'Cassandra' Tai"
+  #             href: team/cassandra.qmd
+  #           - text: "Byung-Deuk Woo"
+  #             href: team/byung-deuk.qmd
+  #           - text: "Yue Hu"
+  #             href: team/hu.qmd
+  #           - text: "Frederick Solt"
+  #             href: team/fsolt.qmd
 
 format:
   html:
