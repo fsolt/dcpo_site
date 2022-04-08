@@ -1,49 +1,44 @@
 ---
 title: "Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere"
 date: 2022-04-01
-research_type: 
-# - working-paper
-- journal-article
-# - book-chapter
-# - review
 format: 
   html:
     from: markdown+autolink_bare_uris
 citation: "[Woo, Byung-Deuk](https://www.byung-deuk-woo.org), [Lindsey A. Goldberg](https://www.lindsey-allemang-goldberg.com), and [Frederick Solt](https://fsolt.org). Forthcoming. \"Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere.\" _British Journal of Political Science_."
-extra: >-
-  Extra information, like where this was presented, etc.
-links:
-# - name: PDF
+# extra: >-
+#   Extra information, like where this was presented, etc.
+# links:
+# # - name: PDF
+# #   url: ""
+# #   local: true
+# #   icon: far fa-file-pdf
+# - name: Preprint
 #   url: ""
-#   local: true
 #   icon: far fa-file-pdf
-- name: Preprint
-  url: ""
-  icon: far fa-file-pdf
-#   local: true
-# - name: Final version
+# #   local: true
+# # - name: Final version
+# #   url: ""
+# #   icon: fas fa-scroll
+# - name: Code
 #   url: ""
-#   icon: fas fa-scroll
-- name: Code
-  url: ""
-  icon: github
-# - name: Data
-#   url: ""
-#   icon: fas fa-table
-pub_status: 
-  status: Forthcoming
-  class: warning
-  icon: pencil-square
-#   status: Writing
+#   icon: github
+# # - name: Data
+# #   url: ""
+# #   icon: fas fa-table
+# pub_status: 
+#   status: Forthcoming
 #   class: warning
-#   icon: fas fa-edit
-#   status: Revising
-#   class: info
-#   icon: fas fa-sync
-#   status: Under review
-#   class: success
-#   icon: fas fa-glasses
-draft: true
+#   icon: pencil-square
+# #   status: Writing
+# #   class: warning
+# #   icon: fas fa-edit
+# #   status: Revising
+# #   class: info
+# #   icon: fas fa-sync
+# #   status: Under review
+# #   class: success
+# #   icon: fas fa-glasses
+# draft: true
 ---
 
 <!-- ## Important links -->
@@ -60,7 +55,7 @@ Societal attitudes toward gender roles in the workplace and politics play a cent
 
 Figure 3: PGE Scores Over Time Within Selected Countries
 
-![Figure 3: PGE Scores Over Time Within Selected Countries](egr_fig3.png)
+![Figure 3: PGE Scores Over Time Within Selected Countries](pge_fig3.png)
 
 
 ## BibTeX citation
