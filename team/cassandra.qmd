@@ -1,5 +1,7 @@
 ---
 title: "Yuehong 'Cassandra' Tai"
+image: cassandra.png
+order: 2
 about:
   template: solana
   image: cassandra.png

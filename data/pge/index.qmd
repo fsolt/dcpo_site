@@ -1,0 +1,30 @@
+---
+title: "PGE: Public Gender Egalitarianism"
+---
+
+## PGE
+
+### The Public Gender Egalitarianism Database
+
+Societal attitudes toward gender roles in the workplace and politics play a central part in theorizing on the difficulty women face in achieving political equality, but shortcomings in the available data have prevented direct examination of many implications of these theories.
+Drawing on recent advances in latent variable modeling of public opinion and a comprehensive collection of survey data, we present the Public Gender Egalitarianism dataset to address this need: comparable estimates of the public's attitudes on gender equality in the public sphere across more than one hundred countries over time.
+These PGE scores are strongly correlated with responses to individual survey items and with women's rates of participation in the labor force and corporate boards.
+We expect that the PGE data will become an invaluable source for broadly cross-national and longitudinal research on the causes and consequences of collective attitudes toward gender equality in politics and the economy.
+
+A full description of the PGE dataset, the source data used to generate it, and an assessment of the PGE's performance in comparison to the available alternatives is presented here:
+
+[Woo, Byung-Deuk](https://www.byung-deuk-woo.org), [Lindsey A. Goldberg](https://www.lindsey-allemang-goldberg.com), and [Frederick Solt](https://fsolt.org). Forthcoming. "Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere." _British Journal of Political Science_.
+
+There are two ways of using the PGE data.  To directly compare up to four countries in estimated levels and trends of public gender egalitarianism, use the PGE web app below.  To use the PGE in statistical analyses, datasets formatted for use in Stata and R are available for download.
+
+<!-- <a class="button" href="swiid_source/">Explore the Source Data</a> -->
+<!-- <a class="button" href="swiid_faq/">SWIID FAQ</a> -->
+<!-- <a class="button" href="swiid_downloads/">Download the SWIID</a> -->
+
+<iframe src="https://fsolt.shinyapps.io/pgeweb" style="border: none; width: 990px; height: 500px"></iframe>
+
+Powered by [RStudio](http://shiny.rstudio.com). 
+
+Please cite the PGE as follows:
+
+Woo, Byung-Deuk, Lindsey A. Goldberg, and Frederick Solt. Forthcoming. "Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere." _British Journal of Political Science_. PGE Version 1.0, April 2002.

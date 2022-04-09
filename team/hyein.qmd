@@ -1,5 +1,7 @@
 ---
 title: "Hyein Ko"
+image: hyein.jpg
+order: 1
 about:
   template: solana
   image: hyein.jpg

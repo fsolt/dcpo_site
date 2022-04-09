@@ -2,9 +2,22 @@
 title: "Team"
 subtitle: "Meet the people working on Dynamic Comparative Public Opinion"
 toc: true
-page-navigation: true
-id: team
+page-layout: full
+listing: 
+  type: grid
+  id: team
+  sort: order asc
+  sort-ui: false
+  filter-ui: false
+  contents: 
+    - hyein.qmd
+    - cassandra.qmd
+    - byung-deuk.qmd
+    - hu.qmd
+    - fsolt.qmd
+  
+
 ---
 
-The core DCPO team is [Hyein Ko](hyein.qmd), [Yuehong 'Cassandra' Tai](cassandra.qmd), [Byung-Deuk Woo](byung-deuk.qmd), [Yue Hu](hu.qmd), and [Frederick Solt](fsolt.qmd).  Follow the links to find out more about each of us.
+<!-- The core DCPO team is [Hyein Ko](hyein.qmd), [Yuehong 'Cassandra' Tai](cassandra.qmd), [Byung-Deuk Woo](byung-deuk.qmd), [Yue Hu](hu.qmd), and [Frederick Solt](fsolt.qmd).  Follow the links to find out more about each of us. -->
 

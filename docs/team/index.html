@@ -21,6 +21,8 @@
   <script src="../site_libs/quarto-search/fuse.min.js"></script>
   <script src="../site_libs/quarto-search/quarto-search.js"></script>
   <link href="../favicon.png" rel="icon" type="image/png">
+  <script src="../site_libs/quarto-listing/list.min.js"></script>
+  <script src="../site_libs/quarto-listing/quarto-listing.js"></script>
   <script src="../site_libs/quarto-html/quarto.js"></script>
   <script src="../site_libs/quarto-html/popper.min.js"></script>
   <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -49,6 +51,29 @@
       "search-submit-button-title": "Submit"
     }
   }</script>
+  <script>
+
+    window.document.addEventListener("DOMContentLoaded", function (_event) {
+      const listingTargetEl = window.document.querySelector('#listing-team .list');
+      if (!listingTargetEl) {
+        // No listing discovered, do not attach.
+        return; 
+      }
+
+      const options = {
+        valueNames: ['listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+        
+        searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
+      };
+
+      window['quarto-listings'] = window['quarto-listings'] || {};
+      window['quarto-listings']['listing-team'] = new List('listing-team', options);
+
+      if (window['quarto-listing-loaded']) {
+        window['quarto-listing-loaded']();
+      }
+    });
+    </script>
   <!--[if lt IE 9]>
     <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
   <![endif]-->
@@ -58,7 +83,7 @@
 <meta name="twitter:title" content="DCPO - Team">
 <meta name="twitter:card" content="summary">
 </head>
-<body class="floating fullcontent">
+<body>
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg navbar-dark ">
@@ -78,7 +103,7 @@
     <a class="nav-link" href="../news/index.html">News</a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../publications.html">Publications</a>
+    <a class="nav-link" href="../publications/index.html">Publications</a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="../data.html">Data</a>
@@ -118,72 +143,140 @@
           </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
-  <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
-    <div class="container-fluid d-flex justify-content-between">
-      <h1 class="quarto-secondary-nav-title">Team</h1>
-      <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
-        <i class="bi bi-chevron-right"></i>
-      </button>
-    </div>
-  </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
-  <nav id="quarto-sidebar" class="sidebar collapse sidebar-navigation floating overflow-auto">
-    <div class="sidebar-menu-container"> 
-    <ul class="list-unstyled mt-1">
-        <li class="sidebar-item sidebar-item-section">
-    <div class="sidebar-item-container"> 
-        <a href="../team/index.html" class="sidebar-item-text sidebar-link active">Team</a>
-      <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#" aria-expanded="true">
-        <i class="bi bi-chevron-right ms-2"></i>
-      </a>
-    </div>
-    <ul id="" class="collapse list-unstyled sidebar-section depth1 show">  
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../team/hyein.html" class="sidebar-item-text sidebar-link">Hyein Ko</a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../team/cassandra.html" class="sidebar-item-text sidebar-link">Yuehong ‘Cassandra’ Tai</a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../team/byung-deuk.html" class="sidebar-item-text sidebar-link">Byung-Deuk Woo</a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../team/hu.html" class="sidebar-item-text sidebar-link">Yue Hu</a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../team/fsolt.html" class="sidebar-item-text sidebar-link">Frederick Solt</a>
-  </div>
-</li>
-    </ul>
-  </li>
-    </ul>
-    </div>
-</nav>
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content column-page" id="quarto-document-content">
 <header id="title-block-header" class="quarto-title-block default">
 
 
-<div class="quarto-title"><h1 class="title d-none d-lg-block display-7">Team</h1><p class="subtitle lead">Meet the people working on Dynamic Comparative Public Opinion</p></div></header>
-<p>The core DCPO team is <a href="../team/hyein.html">Hyein Ko</a>, <a href="../team/cassandra.html">Yuehong ‘Cassandra’ Tai</a>, <a href="../team/byung-deuk.html">Byung-Deuk Woo</a>, <a href="../team/hu.html">Yue Hu</a>, and <a href="../team/fsolt.html">Frederick Solt</a>. Follow the links to find out more about each of us.</p>
+<div class="quarto-title"><h1 class="title display-7">Team</h1><p class="subtitle lead">Meet the people working on Dynamic Comparative Public Opinion</p></div></header>
+<!-- The core DCPO team is [Hyein Ko](hyein.qmd), [Yuehong 'Cassandra' Tai](cassandra.qmd), [Byung-Deuk Woo](byung-deuk.qmd), [Yue Hu](hu.qmd), and [Frederick Solt](fsolt.qmd).  Follow the links to find out more about each of us. -->
 
 
 
-</main> <!-- /main -->
+
+<div class="quarto-listing quarto-listing-container-grid" id="listing-team">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1649376972016" data-listing-reading-time-sort="0.325">
+<a href="../team/hyein.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="../team/hyein.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Hyein Ko
+</h5>
+<div class="card-text listing-description">
+Hyein Ko is a doctoral candidate in the Department of Political Science at the University of Iowa. She received her BA in economics and political science and MA in…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1649376953317" data-listing-reading-time-sort="0.365">
+<a href="../team/cassandra.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="../team/cassandra.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Yuehong ‘Cassandra’ Tai
+</h5>
+<div class="card-text listing-description">
+Yuehong ‘Cassandra’ Tai is a Ph.D.&nbsp;candidate in the Department of Political Science at the University of Iowa. Her research attempts to understand the interaction between…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1649376932815" data-listing-reading-time-sort="0.585">
+<a href="../team/byung-deuk.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="../team/bd.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Byung-Deuk Woo
+</h5>
+<div class="card-text listing-description">
+Byung-Deuk Woo is a postdoctoral researcher at the Institute of Social Data Science, Pohang University of Science and Technology in South Korea. He received his PhD degree…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1649377046551" data-listing-reading-time-sort="0.21">
+<a href="../team/hu.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="../team/hu.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Yue Hu
+</h5>
+<div class="card-text listing-description">
+Yue Hu is an associate professor in the <span>Department of Political Science</span> at Tsinghua University. Hu is a comparativist and…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="4" data-listing-file-modified-sort="1649376702793" data-listing-reading-time-sort="0.5">
+<a href="../team/fsolt.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="../team/fsolt.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Frederick Solt
+</h5>
+<div class="card-text listing-description">
+Frederick Solt is an associate professor in the Department of Political Science at the University of Iowa. He is author and maintainer of the <code>DCPOtools</code> package and the…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const icon = "";

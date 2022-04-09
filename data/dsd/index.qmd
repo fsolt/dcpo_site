@@ -1,0 +1,25 @@
+---
+title: "DSD: The Democratic Support Dataset"
+---
+
+## DSD
+
+### The Democratic Support Dataset
+
+
+
+(Tai, Yuehong 'Cassandra')[https://cassyuehtai.netlify.app], (Yue Hu)[https://sammo3182.github.io], and [Frederick Solt](https://fsolt.org). Forthcoming. "Democracy, Public Support, and Measurement Uncertainty." _American Political Science Review_. DSD Version 1.0, March 2002.
+
+There are two ways of using the DSD data.  To directly compare up to four countries in estimated levels and trends of democratic support, use the DSD web app below.  To use the DSD in statistical analyses, datasets formatted for use in Stata and R are available for download.
+
+<!-- <a class="button" href="swiid_source/">Explore the Source Data</a> -->
+<!-- <a class="button" href="swiid_faq/">SWIID FAQ</a> -->
+<!-- <a class="button" href="swiid_downloads/">Download the SWIID</a> -->
+
+<iframe src="https://ctai.shinyapps.io/dmsweb/" style="border: none; width: 990px; height: 500px"></iframe>
+
+Powered by [RStudio](http://shiny.rstudio.com). 
+
+Please cite the DSD as follows:
+
+Tai, Yuehong 'Cassandra', Yue Hu, and Frederick Solt. Forthcoming. "Democracy, Public Support, and Measurement Uncertainty." _American Political Science Review_. DSD Version 1.0, March 2002.

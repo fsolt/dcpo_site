@@ -21,8 +21,6 @@
   <script src="../site_libs/quarto-search/fuse.min.js"></script>
   <script src="../site_libs/quarto-search/quarto-search.js"></script>
   <link href="../favicon.png" rel="icon" type="image/png">
-  <script src="../site_libs/quarto-listing/list.min.js"></script>
-  <script src="../site_libs/quarto-listing/quarto-listing.js"></script>
   <script src="../site_libs/quarto-html/quarto.js"></script>
   <script src="../site_libs/quarto-html/popper.min.js"></script>
   <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -51,51 +49,6 @@
       "search-submit-button-title": "Submit"
     }
   }</script>
-  <script>
-
-    window.document.addEventListener("DOMContentLoaded", function (_event) {
-      const listingTargetEl = window.document.querySelector('#listing-published .list');
-      if (!listingTargetEl) {
-        // No listing discovered, do not attach.
-        return; 
-      }
-
-      const options = {
-        valueNames: [{ data: ['index'] },{ data: ['categories'] }],
-        
-        searchColumns: [],
-      };
-
-      window['quarto-listings'] = window['quarto-listings'] || {};
-      window['quarto-listings']['listing-published'] = new List('listing-published', options);
-
-      if (window['quarto-listing-loaded']) {
-        window['quarto-listing-loaded']();
-      }
-    });
-    
-
-    window.document.addEventListener("DOMContentLoaded", function (_event) {
-      const listingTargetEl = window.document.querySelector('#listing-in-progress .list');
-      if (!listingTargetEl) {
-        // No listing discovered, do not attach.
-        return; 
-      }
-
-      const options = {
-        valueNames: [{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
-        
-        searchColumns: [],
-      };
-
-      window['quarto-listings'] = window['quarto-listings'] || {};
-      window['quarto-listings']['listing-in-progress'] = new List('listing-in-progress', options);
-
-      if (window['quarto-listing-loaded']) {
-        window['quarto-listing-loaded']();
-      }
-    });
-    </script>
   <!--[if lt IE 9]>
     <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
   <![endif]-->
@@ -176,42 +129,15 @@
 <header id="title-block-header" class="quarto-title-block default">
 
 <div class="quarto-title"><h1 class="title display-7">Publications</h1></div></header>
-<section id="publications" class="level2">
-<h2 class="anchored" data-anchor-id="publications">Publications</h2>
-<div id="listing-published" class="quarto-listing quarto-listing-container-custom">
-<ul class="list">
-</ul>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div>
-</section>
-<section id="works-in-progress" class="level2">
-<h2 class="anchored" data-anchor-id="works-in-progress">Works in Progress</h2>
-<div id="listing-in-progress" class="quarto-listing quarto-listing-container-table">
-<div class="listing-actions-group">
-    <div class="input-group input-group-sm quarto-listing-filter">
-      <span class="input-group-text"><i class="bi bi-search"></i></span>
-      <input type="text" class="search form-control" placeholder="Filter">
-    </div>
-</div>
-<table class="quarto-listing-table table">
-<thead>
-<tr>
-</tr>
-</thead>
-<tbody class="list">
-</tbody>
-</table>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div>
+<!-- ## Publications -->
+<!-- :::{#published} -->
+<!-- ::: -->
+<!-- ## Works in Progress -->
+<!-- :::{#in-progress} -->
+<!-- ::: -->
 
 
 
-
-</section>
 </main> <!-- /main -->
 <script type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {

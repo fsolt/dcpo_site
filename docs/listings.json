@@ -5,5 +5,15 @@
       "/news/posts/post-with-code/index.html",
       "/news/posts/welcome/index.html"
     ]
+  },
+  {
+    "listing": "/team/index.html",
+    "items": [
+      "/team/hyein.html",
+      "/team/cassandra.html",
+      "/team/byung-deuk.html",
+      "/team/hu.html",
+      "/team/fsolt.html"
+    ]
   }
 ]

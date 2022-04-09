@@ -25,7 +25,12 @@ website:
         href: news/index.qmd
       - text: "Publications"
         href: publications/index.qmd
-      - data.qmd
+      - text: "Data"
+        menu:
+          - text: "Public Gender Egalitarianism"
+            href: data/pge/index.qmd
+          - text: "Democratic Support Dataset"
+            href: data/dsd/index.qmd
       - software.qmd
       - text: "Help"
         menu:

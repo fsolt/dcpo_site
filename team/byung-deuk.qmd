@@ -1,5 +1,7 @@
 ---
 title: "Byung-Deuk Woo"
+image: bd.jpg
+order: 3
 about:
   template: solana
   image: bd.jpg
