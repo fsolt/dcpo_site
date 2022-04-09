@@ -13,5 +13,3 @@ The study of public opinion in comparative context has been hampered by data tha
 Questions of representation and of policy feedback on public opinion, for example, cannot be explored fully from a cross-national perspective without comparable time-series data for many countries that span their respective times of policy adoption.
 Recent works have introduced a latent variable approach to the study of comparative public opinion that maximizes the information gleaned from available surveys to overcome issues of sparse and incomparable data and allow comparativists to examine the dynamics of public opinion.
 DCPO advances the field by presenting a new model and software for estimating latent variables of public opinion from cross-national survey data that yield superior fit and more quantities of theoretical interest than previous works allow.
-
-:::
