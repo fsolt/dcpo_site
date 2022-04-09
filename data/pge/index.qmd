@@ -27,4 +27,4 @@ Powered by [RStudio](http://shiny.rstudio.com).
 
 Please cite the PGE as follows:
 
-Woo, Byung-Deuk, Lindsey A. Goldberg, and Frederick Solt. Forthcoming. "Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere." _British Journal of Political Science_. PGE Version 1.0, April 2002.
+Woo, Byung-Deuk, Lindsey A. Goldberg, and Frederick Solt. Forthcoming. "Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere." _British Journal of Political Science_. PGE Version 1.0, April 2022.
