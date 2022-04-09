@@ -81,7 +81,7 @@
     "href": "data/dsd/index.html",
     "title": "DSD: The Democratic Support Dataset",
     "section": "",
-    "text": "(Tai, Yuehong ‘Cassandra’)[https://cassyuehtai.netlify.app], (Yue Hu)[https://sammo3182.github.io], and Frederick Solt. Forthcoming. “Democracy, Public Support, and Measurement Uncertainty.” American Political Science Review. DSD Version 1.0, March 2002.\nThere are two ways of using the DSD data. To directly compare up to four countries in estimated levels and trends of democratic support, use the DSD web app below. To use the DSD in statistical analyses, datasets formatted for use in Stata and R are available for download.\n\n\n\n\n\nPowered by RStudio.\nPlease cite the DSD as follows:\nTai, Yuehong ‘Cassandra’, Yue Hu, and Frederick Solt. Forthcoming. “Democracy, Public Support, and Measurement Uncertainty.” American Political Science Review. DSD Version 1.0, March 2002."
+    "text": "Tai, Yuehong ‘Cassandra’, Yue Hu, and Frederick Solt. Forthcoming. “Democracy, Public Support, and Measurement Uncertainty.” American Political Science Review. DSD Version 1.0, March 2022.\nThere are two ways of using the DSD data. To directly compare up to four countries in estimated levels and trends of democratic support, use the DSD web app below. To use the DSD in statistical analyses, datasets formatted for use in Stata and R are available for download.\n\n\n\n\n\nPowered by RStudio.\nPlease cite the DSD as follows:\nTai, Yuehong ‘Cassandra’, Yue Hu, and Frederick Solt. Forthcoming. “Democracy, Public Support, and Measurement Uncertainty.” American Political Science Review. DSD Version 1.0, March 2002."
   },
   {
     "objectID": "data.html",
