@@ -36,8 +36,8 @@
 .hero-image {
   background-image: url("images/pge_ts.png");
   background-color: #cccccc;
-  height: 450px;
-  background-position: 100% 5%;
+  height: 435px;
+  background-position: 100% 15%;
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
