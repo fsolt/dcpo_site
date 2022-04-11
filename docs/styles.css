@@ -5,6 +5,12 @@
 }
 }
 
+iframe{
+  border: none;
+  width: 100%;
+  min-height: 620px;
+}
+
 .navbar-brand > img {
   max-height: 75px;
 }

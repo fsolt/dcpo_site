@@ -16,7 +16,9 @@ There are two ways of using the DSD data.  To directly compare up to four countr
 <!-- <a class="button" href="swiid_faq/">SWIID FAQ</a> -->
 <!-- <a class="button" href="swiid_downloads/">Download the SWIID</a> -->
 
-<iframe src="https://ctai.shinyapps.io/dmsweb/" style="border: none; width: 990px; height: 500px"></iframe>
+:::{.column-page}
+<iframe src="https://ctai.shinyapps.io/dmsweb/"></iframe>
+:::
 
 Powered by [RStudio](http://shiny.rstudio.com). 
 
