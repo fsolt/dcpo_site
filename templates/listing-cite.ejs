@@ -1,0 +1,24 @@
+<script src="https://kit.fontawesome.com/b9466c47ef.js" crossorigin="anonymous"></script>
+
+<div class="project-list">
+  <% for (const item of items) { %>
+  <li class="project">
+
+  <div class="project-content">
+  <p><%= item['cite'] %></p>
+  </div>
+
+  <div class="project-details">
+  <ul class="project-links">
+  <li class="project-link details"><a href="<%- item.path %>"><i class="fas fa-info-circle"></i> Full details »</a></li>
+  <% for (const link of item['links']) { %>
+  <li class="project-link">
+  <a href="<%= link.url %>"><i class="<%- link.icon %>"></i> <%= link.name %></a>
+  </li>
+  <% } %>
+  </ul>
+  </div>
+
+  </li>
+  <% } %>
+</div>

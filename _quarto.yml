@@ -46,33 +46,14 @@ website:
       - icon: github
         href: https://github.com/fsolt/DCPOtools
 
-  # sidebar:
-  #   - id: team
-  #     style: "floating"
-  #     collapse-level: 2
-  #     align: left
-  #     contents:
-  #       - text: "Team"
-  #         href: team/index.qmd
-  #         contents:
-  #           - text: "Hyein Ko"
-  #             href: team/hyein.qmd
-  #           - text: "Yuehong 'Cassandra' Tai"
-  #             href: team/cassandra.qmd
-  #           - text: "Byung-Deuk Woo"
-  #             href: team/byung-deuk.qmd
-  #           - text: "Yue Hu"
-  #             href: team/hu.qmd
-  #           - text: "Frederick Solt"
-  #             href: team/fsolt.qmd
-
 format:
   html:
-    theme: cosmo
+    theme:
+      - cosmo
+      - custom.scss
     code-copy: true
     code-overflow: wrap
     css: styles.css
-
 
 freeze: true
 

@@ -1,20 +1,20 @@
 ---
 title: "Publications"
-# listing: 
-#   - id: published
-#     contents: "published/*.qmd"
-#     template: table
+listing:
+  - id: published
+    contents: "published/*/*.qmd"
+    template: "../templates/listing-cite.ejs"
 #   - id: in-progress
 #     contents: "in-progress/*.qmd"
 #     type: table
 ---
 
-<!-- ## Publications -->
+## Publications
 
-<!-- :::{#published} -->
-<!-- ::: -->
+:::{#published}
+:::
 
-<!-- ## Works in Progress -->
+## Works in Progress
 
-<!-- :::{#in-progress} -->
-<!-- ::: -->
+:::{#in-progress}
+:::
