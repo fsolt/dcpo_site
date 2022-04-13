@@ -15,9 +15,7 @@ listing:
     - byung-deuk.qmd
     - hu.qmd
     - fsolt.qmd
-  
-
 ---
 
-<!-- The core DCPO team is [Hyein Ko](hyein.qmd), [Yuehong 'Cassandra' Tai](cassandra.qmd), [Byung-Deuk Woo](byung-deuk.qmd), [Yue Hu](hu.qmd), and [Frederick Solt](fsolt.qmd).  Follow the links to find out more about each of us. -->
+
 
