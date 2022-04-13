@@ -21,6 +21,8 @@
   <script src="../site_libs/quarto-search/fuse.min.js"></script>
   <script src="../site_libs/quarto-search/quarto-search.js"></script>
   <link href="../favicon.png" rel="icon" type="image/png">
+  <script src="../site_libs/quarto-listing/list.min.js"></script>
+  <script src="../site_libs/quarto-listing/quarto-listing.js"></script>
   <script src="../site_libs/quarto-html/quarto.js"></script>
   <script src="../site_libs/quarto-html/popper.min.js"></script>
   <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -49,6 +51,29 @@
       "search-submit-button-title": "Submit"
     }
   }</script>
+  <script>
+
+    window.document.addEventListener("DOMContentLoaded", function (_event) {
+      const listingTargetEl = window.document.querySelector('#listing-published .list');
+      if (!listingTargetEl) {
+        // No listing discovered, do not attach.
+        return; 
+      }
+
+      const options = {
+        valueNames: ['listing-title','listing-cite','listing-author','listing-extra','listing-links','listing-pub_status','listing-listing','listing-path','listing-image','listing-description','listing-filename','listing-file-modified','listing-reading-time',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] }],
+        
+        searchColumns: ["listing-title","listing-cite","listing-author","listing-extra","listing-links","listing-pub_status","listing-listing","listing-path","listing-image","listing-description","listing-filename","listing-file-modified","listing-reading-time"],
+      };
+
+      window['quarto-listings'] = window['quarto-listings'] || {};
+      window['quarto-listings']['listing-published'] = new List('listing-published', options);
+
+      if (window['quarto-listing-loaded']) {
+        window['quarto-listing-loaded']();
+      }
+    });
+    </script>
   <!--[if lt IE 9]>
     <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
   <![endif]-->
@@ -139,15 +164,47 @@
 <header id="title-block-header" class="quarto-title-block default">
 
 <div class="quarto-title"><h1 class="title display-7">Publications</h1></div></header>
-<!-- ## Publications -->
-<!-- :::{#published} -->
-<!-- ::: -->
-<!-- ## Works in Progress -->
-<!-- :::{#in-progress} -->
-<!-- ::: -->
+<section id="publications" class="level2">
+<h2 class="anchored" data-anchor-id="publications">Publications</h2>
+<div id="listing-published" class="quarto-listing quarto-listing-container-custom">
+<script src="https://kit.fontawesome.com/b9466c47ef.js" crossorigin="anonymous"></script>
+<div class="project-list">
+<li class="project">
+<div class="project-content">
+<p>
+<a href="https://www.byung-deuk-woo.org">Woo, Byung-Deuk</a>, <a href="https://www.lindsey-allemang-goldberg.com">Lindsey A. Goldberg</a>, and <a href="https://fsolt.org">Frederick Solt</a>. Forthcoming. “Public Gender Egalitarianism A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere.” <em>British Journal of Political Science</em>.
+</p>
+</div>
+<div class="project-details">
+<ul class="project-links">
+<li class="project-link details">
+<a href="../publications/published/pge/index.html"><i class="fas fa-info-circle"></i> Full details »</a>
+</li>
+<li class="project-link">
+<a href="https://osf.io/preprints/socarxiv/37dq9"><i class="far fa-file-pdf"></i> Preprint</a>
+</li>
+<li class="project-link">
+<a href="https://github.com/fsolt/dcpo_gender_roles"><i class="fa-brands fa-github"></i> Code</a>
+</li>
+</ul>
+</div>
+</li>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
+</section>
+<section id="works-in-progress" class="level2">
+<h2 class="anchored" data-anchor-id="works-in-progress">Works in Progress</h2>
+<div id="in-progress">
+
+</div>
 
 
 
+
+</section>
 </main> <!-- /main -->
 <script type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {

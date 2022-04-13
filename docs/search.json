@@ -1,5 +1,47 @@
 [
   {
+    "objectID": "publications/index.html",
+    "href": "publications/index.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Woo, Byung-Deuk, Lindsey A. Goldberg, and Frederick Solt. Forthcoming. “Public Gender Egalitarianism A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere.” British Journal of Political Science.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications/index.html#works-in-progress",
+    "href": "publications/index.html#works-in-progress",
+    "title": "Publications",
+    "section": "Works in Progress",
+    "text": "Works in Progress"
+  },
+  {
+    "objectID": "publications/published/pge/index.html",
+    "href": "publications/published/pge/index.html",
+    "title": "Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere",
+    "section": "",
+    "text": "Woo, Byung-Deuk, Lindsey A. Goldberg, and Frederick Solt. Forthcoming. “Public Gender Egalitarianism A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere.” British Journal of Political Science.\n\n\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications/published/pge/index.html#abstract",
+    "href": "publications/published/pge/index.html#abstract",
+    "title": "Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere",
+    "section": "Abstract",
+    "text": "Abstract\nSocietal attitudes toward gender roles in the workplace and politics play a central part in theorizing on the difficulty women face in achieving political equality, but shortcomings in the available data have prevented direct examination of many implications of these theories. Drawing on recent advances in latent variable modeling of public opinion and a comprehensive collection of survey data, we present the Public Gender Egalitarianism dataset to address this need: comparable estimates of the public’s attitudes on gender equality in the public sphere across more than one hundred countries over time. These PGE scores are strongly correlated with responses to individual survey items and with women’s rates of participation in the labor force and corporate boards. We expect that the PGE data will become an invaluable source for broadly cross-national and longitudinal research on the causes and consequences of collective attitudes toward gender equality in politics and the economy."
+  },
+  {
+    "objectID": "publications/published/pge/index.html#important-figures",
+    "href": "publications/published/pge/index.html#important-figures",
+    "title": "Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere",
+    "section": "Important figures",
+    "text": "Important figures\n\n\n\nFigure 3: PGE Scores Over Time Within Selected Countries\n\n\n\n\n\nFigure 6: Construct Validation: Correlations Between PGE Scores and Indicators of Workplace Gender Equality"
+  },
+  {
+    "objectID": "publications/published/pge/index.html#bibtex-citation",
+    "href": "publications/published/pge/index.html#bibtex-citation",
+    "title": "Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere",
+    "section": "BibTeX citation",
+    "text": "BibTeX citation\n@article{WooAllemangSolt2022,\n    author = {Woo, Byung-Deuk, and Goldberg, Lindsey A., and Solt, Frederick},\n    year = {2022},\n    doi = {10.31235/osf.io/37dq9},\n    month = {Feb},\n    publisher = {SocArXiv},\n    title = {Public {{Gender Egalitarianism}}: {{A Dataset}} of {{Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles}} in the {{Public Sphere}}},\n    url = {https://osf.io/preprints/socarxiv/37dq9},\n    year = {2022}}"
+  },
+  {
     "objectID": "news/posts/post-with-code/index.html",
     "href": "news/posts/post-with-code/index.html",
     "title": "Post With Code",

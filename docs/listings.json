@@ -1,5 +1,17 @@
 [
   {
+    "listing": "/publications/index.html",
+    "items": [
+      "/publications/published/pge/index.html"
+    ]
+  },
+  {
+    "listing": "/publications/published/pge/index.html",
+    "items": [
+      "/publications/published/pge/index.html"
+    ]
+  },
+  {
     "listing": "/news/index.html",
     "items": [
       "/news/posts/post-with-code/index.html",
