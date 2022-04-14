@@ -1,5 +1,6 @@
 ---
 title: "Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere"
+date: 2022-04-01
 cite: >
   [Woo, Byung-Deuk](https://www.byung-deuk-woo.org),
   [Lindsey A. Goldberg](https://www.lindsey-allemang-goldberg.com), and
@@ -65,7 +66,7 @@ Societal attitudes toward gender roles in the workplace and politics play a cent
 ## BibTeX citation
 
 ```bibtex
-@article{WooAllemangSolt2022,
+@misc{WooAllemangSolt2022,
 	author = {Woo, Byung-Deuk, and Goldberg, Lindsey A., and Solt, Frederick},
     year = {2022},
 	doi = {10.31235/osf.io/37dq9},
@@ -75,6 +76,3 @@ Societal attitudes toward gender roles in the workplace and politics play a cent
 	url = {https://osf.io/preprints/socarxiv/37dq9},
 	year = {2022}}
 ```
-
-</article>
-</section>
