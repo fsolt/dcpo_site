@@ -4,7 +4,7 @@
     "href": "publications/index.html",
     "title": "Publications",
     "section": "",
-    "text": "Woo, Byung-Deuk, Lindsey A. Goldberg, and Frederick Solt. Forthcoming. “Public Gender Egalitarianism A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere.” British Journal of Political Science.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\nNo matching items"
+    "text": "Tai, Yuehong ‘Cassandra’, Yue Hu, and Frederick Solt. Forthcoming. “Democracy, Public Support, and Measurement Uncertainty.” American Political Science Review.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\nWoo, Byung-Deuk, Lindsey A. Goldberg, and Frederick Solt. Forthcoming. “Public Gender Egalitarianism A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere.” British Journal of Political Science.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications/index.html#works-in-progress",
@@ -12,6 +12,34 @@
     "title": "Publications",
     "section": "Works in Progress",
     "text": "Works in Progress"
+  },
+  {
+    "objectID": "publications/published/dem_support/index.html",
+    "href": "publications/published/dem_support/index.html",
+    "title": "Democracy, Public Support, and Measurement Uncertainty",
+    "section": "",
+    "text": "Tai, Yuehong ‘Cassandra’, Yue Hu, and Frederick Solt. Forthcoming. “Democracy, Public Support, and Measurement Uncertainty.” American Political Science Review.\n\n\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications/published/dem_support/index.html#abstract",
+    "href": "publications/published/dem_support/index.html#abstract",
+    "title": "Democracy, Public Support, and Measurement Uncertainty",
+    "section": "Abstract",
+    "text": "Abstract\nDo democratic regimes depend on public support to avoid backsliding? Does public support, in turn, respond thermostatically to changes in democracy? Two prominent recent studies (Claassen 2020a, 2020b) reinvigorated the classic hypothesis on the positive relationship between public support for democracy and regime survival—and challenged its reciprocal counterpart—by using a latent variable approach to measure mass democratic support from cross-national survey data. Both studies, however, used only the point estimates of democratic support; we show that incorporating the concomitant measurement uncertainty into these analyses reveals that there is no support for either study’s conclusion. Efforts to minimize the uncertainty by incorporating additional survey data still fail to yield evidence in support of either hypothesis. These results underscore the need both for more nuanced analyses of the relationships between public support and democracy and for taking measurement uncertainty into account when working with latent variables."
+  },
+  {
+    "objectID": "publications/published/dem_support/index.html#important-figure",
+    "href": "publications/published/dem_support/index.html#important-figure",
+    "title": "Democracy, Public Support, and Measurement Uncertainty",
+    "section": "Important figure",
+    "text": "Important figure\n\n\n\nFigure 1: The Effect of Public Support on Democracy with Uncertainty"
+  },
+  {
+    "objectID": "publications/published/dem_support/index.html#bibtex-citation",
+    "href": "publications/published/dem_support/index.html#bibtex-citation",
+    "title": "Democracy, Public Support, and Measurement Uncertainty",
+    "section": "BibTeX citation",
+    "text": "BibTeX citation\n@misc{TaiHuSolt2022,\n author={Tai, Yuehong 'Cassandra' and Hu, Yue and Solt, Frederick},\n title={Democracy, Public Support, and Measurement Uncertainty},\n url={osf.io/preprints/socarxiv/y5fdv},\n doi={10.31235/osf.io/y5fdv},\n publisher={SocArXiv},\n year={2022},\n}"
   },
   {
     "objectID": "publications/published/pge/index.html",
@@ -39,7 +67,7 @@
     "href": "publications/published/pge/index.html#bibtex-citation",
     "title": "Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere",
     "section": "BibTeX citation",
-    "text": "BibTeX citation\n@article{WooAllemangSolt2022,\n    author = {Woo, Byung-Deuk, and Goldberg, Lindsey A., and Solt, Frederick},\n    year = {2022},\n    doi = {10.31235/osf.io/37dq9},\n    month = {Feb},\n    publisher = {SocArXiv},\n    title = {Public {{Gender Egalitarianism}}: {{A Dataset}} of {{Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles}} in the {{Public Sphere}}},\n    url = {https://osf.io/preprints/socarxiv/37dq9},\n    year = {2022}}"
+    "text": "BibTeX citation\n@misc{WooAllemangSolt2022,\n    author = {Woo, Byung-Deuk, and Goldberg, Lindsey A., and Solt, Frederick},\n    year = {2022},\n    doi = {10.31235/osf.io/37dq9},\n    month = {Feb},\n    publisher = {SocArXiv},\n    title = {Public {{Gender Egalitarianism}}: {{A Dataset}} of {{Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles}} in the {{Public Sphere}}},\n    url = {https://osf.io/preprints/socarxiv/37dq9},\n    year = {2022}}"
   },
   {
     "objectID": "news/posts/post-with-code/index.html",
