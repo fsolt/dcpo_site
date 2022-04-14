@@ -28,6 +28,9 @@ links:
 # - name: Data
 #   url: ""
 #   icon: fas fa-table
+- name: Database
+  url: ../../../data/dsd/
+  icon: fa-solid fa-database
 pub_status:
   status: Forthcoming
   class: warning
