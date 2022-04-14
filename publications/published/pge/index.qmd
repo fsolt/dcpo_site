@@ -6,7 +6,7 @@ cite: >
   [Lindsey A. Goldberg](https://www.lindsey-allemang-goldberg.com), and
   [Frederick Solt](https://fsolt.org). 
   Forthcoming.
-  "Public Gender Egalitarianism A Dataset of Dynamic Comparative Public Opinion Toward
+  "Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward
   Egalitarian Gender Roles in the Public Sphere." 
   _British Journal of Political Science_.
 author:
