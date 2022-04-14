@@ -1,9 +1,10 @@
 ---
 title: "Modeling Dynamic Comparative Public Opinion"
-date: 2022-04-01
+date: 2020-01-12
 cite: >
-  [Frederick Solt](https://fsolt.org). 
-  "Modeling Dynamic Comparative Public Opinion." 
+  [Frederick Solt](https://fsolt.org).
+  2020.
+  "Modeling Dynamic Comparative Public Opinion."
   _SocArXiv_.
 author:
     - name: Frederick Solt
