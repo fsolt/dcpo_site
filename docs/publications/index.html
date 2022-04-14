@@ -73,6 +73,28 @@
         window['quarto-listing-loaded']();
       }
     });
+    
+
+    window.document.addEventListener("DOMContentLoaded", function (_event) {
+      const listingTargetEl = window.document.querySelector('#listing-working-papers .list');
+      if (!listingTargetEl) {
+        // No listing discovered, do not attach.
+        return; 
+      }
+
+      const options = {
+        valueNames: ['listing-title','listing-date','listing-cite','listing-author','listing-extra','listing-links','listing-listing','listing-path','listing-image','listing-description','listing-filename','listing-file-modified','listing-reading-time',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] }],
+        
+        searchColumns: ["listing-title","listing-date","listing-cite","listing-author","listing-extra","listing-links","listing-listing","listing-path","listing-image","listing-description","listing-filename","listing-file-modified","listing-reading-time"],
+      };
+
+      window['quarto-listings'] = window['quarto-listings'] || {};
+      window['quarto-listings']['listing-working-papers'] = new List('listing-working-papers', options);
+
+      if (window['quarto-listing-loaded']) {
+        window['quarto-listing-loaded']();
+      }
+    });
     </script>
   <!--[if lt IE 9]>
     <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
@@ -215,10 +237,35 @@ No matching items
 </div>
 </div>
 </section>
-<section id="works-in-progress" class="level2">
-<h2 class="anchored" data-anchor-id="works-in-progress">Works in Progress</h2>
-<div id="in-progress">
-
+<section id="working-papers" class="level2">
+<h2 class="anchored" data-anchor-id="working-papers">Working Papers</h2>
+<div id="listing-working-papers" class="quarto-listing quarto-listing-container-custom">
+<script src="https://kit.fontawesome.com/b9466c47ef.js" crossorigin="anonymous"></script>
+<div class="project-list">
+<li class="project">
+<div class="project-content">
+<p>
+<a href="https://fsolt.org">Frederick Solt</a>. “Modeling Dynamic Comparative Public Opinion.” <em>SocArXiv</em>.
+</p>
+</div>
+<div class="project-details">
+<ul class="project-links">
+<li class="project-link details">
+<a href="../publications/working-papers/dcpo_article/index.html"><i class="fas fa-info-circle"></i> Full details »</a>
+</li>
+<li class="project-link">
+<a href="https://osf.io/preprints/socarxiv/d5n9p"><i class="far fa-file-pdf"></i> Preprint</a>
+</li>
+<li class="project-link">
+<a href="https://github.com/fsolt/dcpo_article"><i class="fa-brands fa-github"></i> Code</a>
+</li>
+</ul>
+</div>
+</li>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
 </div>
 
 

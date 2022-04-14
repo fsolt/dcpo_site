@@ -4,9 +4,9 @@ listing:
   - id: published
     contents: "published/*/*.qmd"
     template: "../templates/listing-cite.ejs"
-#   - id: in-progress
-#     contents: "in-progress/*.qmd"
-#     type: table
+  - id: working-papers
+    contents: "working-papers/*/*.qmd"
+    template: "../templates/listing-cite.ejs"
 ---
 
 ## Publications
@@ -14,7 +14,7 @@ listing:
 :::{#published}
 :::
 
-## Works in Progress
+## Working Papers
 
-:::{#in-progress}
+:::{#working-papers}
 :::

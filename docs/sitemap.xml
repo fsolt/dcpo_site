@@ -2,66 +2,70 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://dcpo.org/publications/index.html</loc>
-    <lastmod>2022-04-14T01:09:04.183Z</lastmod>
+    <lastmod>2022-04-14T11:30:15.580Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dcpo.org/publications/working-papers/dcpo_article/index.html</loc>
+    <lastmod>2022-04-14T11:30:16.089Z</lastmod>
   </url>
   <url>
     <loc>https://dcpo.org/publications/published/dem_support/index.html</loc>
-    <lastmod>2022-04-14T01:09:04.637Z</lastmod>
+    <lastmod>2022-04-14T11:30:16.565Z</lastmod>
   </url>
   <url>
     <loc>https://dcpo.org/publications/published/pge/index.html</loc>
-    <lastmod>2022-04-14T01:09:05.091Z</lastmod>
+    <lastmod>2022-04-14T11:30:16.988Z</lastmod>
   </url>
   <url>
     <loc>https://dcpo.org/index.html</loc>
-    <lastmod>2022-04-14T01:09:05.495Z</lastmod>
+    <lastmod>2022-04-14T11:30:17.324Z</lastmod>
   </url>
   <url>
     <loc>https://dcpo.org/news/posts/post-with-code/index.html</loc>
-    <lastmod>2022-04-14T01:09:05.993Z</lastmod>
+    <lastmod>2022-04-14T11:30:17.737Z</lastmod>
   </url>
   <url>
     <loc>https://dcpo.org/news/posts/welcome/index.html</loc>
-    <lastmod>2022-04-14T01:09:06.387Z</lastmod>
+    <lastmod>2022-04-14T11:30:18.118Z</lastmod>
   </url>
   <url>
     <loc>https://dcpo.org/news/index.html</loc>
-    <lastmod>2022-04-14T01:09:06.865Z</lastmod>
+    <lastmod>2022-04-14T11:30:18.509Z</lastmod>
   </url>
   <url>
     <loc>https://dcpo.org/team/index.html</loc>
-    <lastmod>2022-04-14T01:09:07.284Z</lastmod>
+    <lastmod>2022-04-14T11:30:18.834Z</lastmod>
   </url>
   <url>
     <loc>https://dcpo.org/team/hyein.html</loc>
-    <lastmod>2022-04-14T01:09:07.645Z</lastmod>
+    <lastmod>2022-04-14T11:30:19.228Z</lastmod>
   </url>
   <url>
     <loc>https://dcpo.org/team/cassandra.html</loc>
-    <lastmod>2022-04-14T01:09:07.965Z</lastmod>
+    <lastmod>2022-04-14T11:30:19.563Z</lastmod>
   </url>
   <url>
     <loc>https://dcpo.org/team/hu.html</loc>
-    <lastmod>2022-04-14T01:09:08.392Z</lastmod>
+    <lastmod>2022-04-14T11:30:19.853Z</lastmod>
   </url>
   <url>
     <loc>https://dcpo.org/team/byung-deuk.html</loc>
-    <lastmod>2022-04-14T01:09:08.738Z</lastmod>
+    <lastmod>2022-04-14T11:30:20.227Z</lastmod>
   </url>
   <url>
     <loc>https://dcpo.org/team/fsolt.html</loc>
-    <lastmod>2022-04-14T01:09:09.265Z</lastmod>
+    <lastmod>2022-04-14T11:30:20.559Z</lastmod>
   </url>
   <url>
     <loc>https://dcpo.org/software.html</loc>
-    <lastmod>2022-04-14T01:09:09.660Z</lastmod>
+    <lastmod>2022-04-14T11:30:20.835Z</lastmod>
   </url>
   <url>
     <loc>https://dcpo.org/data/pge/index.html</loc>
-    <lastmod>2022-04-14T01:09:10.166Z</lastmod>
+    <lastmod>2022-04-14T11:30:21.117Z</lastmod>
   </url>
   <url>
     <loc>https://dcpo.org/data/dsd/index.html</loc>
-    <lastmod>2022-04-14T01:09:10.615Z</lastmod>
+    <lastmod>2022-04-14T11:30:21.396Z</lastmod>
   </url>
 </urlset>
