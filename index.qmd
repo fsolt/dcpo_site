@@ -3,7 +3,7 @@ pagetitle: "DCPO"
 page-layout: custom
 section-divs: false
 toc: false
-css: index.css
+css: templates/index.css
 editor: source
 ---
 

@@ -50,10 +50,11 @@ format:
   html:
     theme:
       - cosmo
-      - custom.scss
+      - templates/custom.scss
     code-copy: true
     code-overflow: wrap
-    css: styles.css
+    css: templates/styles.css
+    include-in-header: templates/sc.html
 
 freeze: true
 

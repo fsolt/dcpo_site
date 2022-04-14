@@ -59,7 +59,7 @@ Societal attitudes toward gender roles in the workplace and politics play a cent
 
 ## Important figures
 
-![Figure 3: PGE Scores Over Time Within Selected Countries](pge_fig3.png)
+![Figure 3: PGE Scores Over Time Within Selected Countries](pge_fig3.png){.preview-image}
 
 ![Figure 6: Construct Validation: Correlations Between PGE Scores and Indicators of Workplace Gender Equality](pge_fig6.png)
 

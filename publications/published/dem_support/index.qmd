@@ -58,7 +58,7 @@ Do democratic regimes depend on public support to avoid backsliding? Does public
 
 ## Important figure
 
-![Figure 1: The Effect of Public Support on Democracy with Uncertainty](dem_support_fig1.png)
+![Figure 1: The Effect of Public Support on Democracy with Uncertainty](dem_support_fig1.png){.preview-image}
 
 
 ## BibTeX citation
