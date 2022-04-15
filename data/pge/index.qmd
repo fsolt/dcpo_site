@@ -2,9 +2,7 @@
 title: "PGE: Public Gender Egalitarianism"
 ---
 
-## PGE
-
-### The Public Gender Egalitarianism Database
+### The Public Gender Egalitarianism (PGE) Database
 
 Societal attitudes toward gender roles in the workplace and politics play a central part in theorizing on the difficulty women face in achieving political equality, but shortcomings in the available data have prevented direct examination of many implications of these theories.
 Drawing on recent advances in latent variable modeling of public opinion and a comprehensive collection of survey data, we present the Public Gender Egalitarianism dataset to address this need: comparable estimates of the public's attitudes on gender equality in the public sphere across more than one hundred countries over time.

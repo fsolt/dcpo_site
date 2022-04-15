@@ -22,35 +22,11 @@ $fg-color: #212121;
 $alt-bg-color: #E0E0E0;
 $alt-fg-color: #000;
 
-$theme-colors: () !default;
-$theme-colors: map-merge(
-  (
-    "primary": #A52C60,
-    "secondary": #495057,
-    "success": #118230,
-    "info": #3093CF,
-    "warning": #EE6A24,
-    "danger": #CF4446,
-    "light": #ced4da,
-    "dark": #000000
-  ),
-  $theme-colors
-);
+$alert-bg-level: -10 !default;
+$alert-border-level: -9 !default;
+$alert-color-level: 6 !default;
+$theme-color-interval: 8% !default;
 
-$alert-icons: () !default;
-$alert-icons: map-merge(
-  (
-    "primary": "\f1ce",  // https://fontawesome.com/icons/circle-notch
-    "secondary": "\f1ce",  // https://fontawesome.com/icons/circle-notch
-    "success": "\f058",  // https://fontawesome.com/icons/check-circle
-    "info": "\f05a",  // https://fontawesome.com/icons/info-circle
-    "warning": "\f071",  // https://fontawesome.com/icons/exclamation-triangle
-    "danger": "\f05e",  // https://fontawesome.com/icons/ban
-    "light": "\f1ce",  // https://fontawesome.com/icons/circle-notch
-    "dark": "\f1ce"  // https://fontawesome.com/icons/circle-notch
-  ),
-  $alert-icons
-);
 
 /*-- scss:rules --*/
 .project-list {
@@ -181,5 +157,101 @@ $alert-icons: map-merge(
                 color: #FFFFFF;
             }
         }
+    }
+}
+
+.alert {
+    position: relative;
+    padding: 0.75rem 1.25rem 0.75rem 3rem;
+    margin-bottom: 1rem;
+    border: 1 solid transparent;
+    border-radius: 0.25rem;
+}
+
+.alert:before {
+    position: absolute;
+    font-family: FontAwesome;
+    left: 1rem;
+}
+
+.alert-heading {
+    // Specified to prevent conflicts of changing $headings-color
+    color: inherit;
+}
+
+/*-- scss:mixins --*/
+@mixin alert-variant($background, $border, $color) {
+    color: $color;
+    background: $background;
+    border-color: $border;
+
+    hr {
+        border-top-color: darken($border, 5%);
+    }
+
+    .alert-link {
+        color: darken($color, 10%);
+    }
+}
+
+/*-- scss:functions --*/
+@function theme-color($key: "primary") {
+    @return map-get($theme-colors, $key);
+}
+
+@function theme-color-level($color-name: "primary", $level: 0) {
+    $color: theme-color($color-name);
+    $color-base: if($level > 0, #000000, #FFFFFF);
+    $level: abs($level);
+
+    @return mix($color-base, $color, $level * $theme-color-interval);
+}
+
+/*-- scss:rules --*/
+$theme-colors: () !default;
+$theme-colors: map-merge(
+  (
+    "primary": #A52C60,
+    "secondary": #495057,
+    "success": #118230,
+    "info": #3093CF,
+    "warning": #EE6A24,
+    "danger": #CF4446,
+    "light": #ced4da,
+    "dark": #000000
+  ),
+  $theme-colors
+);
+
+$alert-icons: () !default;
+$alert-icons: map-merge(
+  (
+    "primary": "\f1ce",  // https://fontawesome.com/icons/circle-notch
+    "secondary": "\f1ce",  // https://fontawesome.com/icons/circle-notch
+    "success": "\f058",  // https://fontawesome.com/icons/check-circle
+    "info": "\f05a",  // https://fontawesome.com/icons/info-circle
+    "warning": "\f071",  // https://fontawesome.com/icons/exclamation-triangle
+    "danger": "\f05e",  // https://fontawesome.com/icons/ban
+    "light": "\f1ce",  // https://fontawesome.com/icons/circle-notch
+    "dark": "\f1ce"  // https://fontawesome.com/icons/circle-notch
+  ),
+  $alert-icons
+);
+
+@each $color, $value in $theme-colors {
+    .alert-#{$color} {
+        @include alert-variant(theme-color-level($color, $alert-bg-level), theme-color-level($color, $alert-border-level), theme-color-level($color, $alert-color-level));
+    }
+}
+
+@each $color, $value in $theme-colors {
+    .btn-#{$color} {
+        @include alert-variant(theme-color-level($color, $alert-bg-level), theme-color-level($color, $alert-border-level), theme-color-level($color, $alert-color-level));
+    }
+}
+
+@each $alert, $icon in $alert-icons {
+    .alert-#{$alert}:before {
+        content: $icon;
     }
 }

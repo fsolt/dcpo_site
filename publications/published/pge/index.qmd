@@ -32,19 +32,18 @@ links:
 - name: Database
   url: ../../../data/dsd/
   icon: fa-solid fa-database
-pub_status:
-  status: Forthcoming
-  class: warning
-  icon: pencil-square
+status: Forthcoming
+status_class: warning
+status_icon: fa-regular fa-clock
 # #   status: Writing
-# #   class: warning
-# #   icon: fas fa-edit
+# #   status_class: warning
+# #   status_icon: fa-regular fa-pen-to-square
 # #   status: Revising
-# #   class: info
-# #   icon: fas fa-sync
+# #   status_class: info
+# #   status_icon: fa-solid fa-arrows-rotate
 # #   status: Under review
-# #   class: success
-# #   icon: fas fa-glasses
+# #   status_class: success
+# #   status_icon: fa-solid fa-glasses
 listing:
   - id: cite
     contents: "*.qmd"
