@@ -2,9 +2,7 @@
 title: "DSD: The Democratic Support Dataset"
 ---
 
-## DSD
-
-### The Democratic Support Dataset
+### The Democratic Support Dataset (DSD)
 
 
 
