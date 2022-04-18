@@ -1,5 +1,5 @@
 ---
-pagetitle: "DCPO"
+pagetitle: "DCPO: Dynamic Comparative Public Opinion"
 page-layout: custom
 section-divs: false
 toc: false

@@ -43,11 +43,13 @@
 
 .hero-text h1 {
   font-size: 5rem;
+  font-weight: bold;
 }
 
 .hero-text h3 {
   font-size: 2rem;
   margin-top: 2.5rem;
+  font-weight: bold;
 }
 
 .project-list {
