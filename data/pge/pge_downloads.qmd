@@ -1,0 +1,5 @@
+---
+title: "PGE: Public Gender Egalitarianism"
+header-includes: |
+  <meta http-equiv="Refresh" content="0; URL=https://doi.org/10.7910/DVN/WF3USY">
+---

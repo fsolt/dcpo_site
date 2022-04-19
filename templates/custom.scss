@@ -255,3 +255,14 @@ $alert-icons: map-merge(
         content: $icon;
     }
 }
+
+.btn-custom {
+  background-color: $link-color;
+  color: white;
+  border-radius: 0.25rem;
+}
+
+.btn-custom:hover {
+  background-color: lighten($link-color, 45%);
+  color: $link-color;
+}
