@@ -26,9 +26,9 @@ links:
 - name: Code
   url: "https://github.com/fsolt/dcpo_gender_roles"
   icon: fa-brands fa-github
-# - name: Data
-#   url: ""
-#   icon: fas fa-table
+- name: Dataverse
+  url: "https://doi.org/10.7910/DVN/T3UP6R"
+  icon: fas fa-table
 - name: Database
   url: ../../../data/pge/
   icon: fa-solid fa-database
