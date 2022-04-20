@@ -11,6 +11,25 @@
     div.column{display: inline-block; vertical-align: top; width: 50%;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
     ul.task-list{list-style: none;}
+    div.csl-bib-body { }
+    div.csl-entry {
+      clear: both;
+    }
+    .hanging div.csl-entry {
+      margin-left:2em;
+      text-indent:-2em;
+    }
+    div.csl-left-margin {
+      min-width:2em;
+      float:left;
+    }
+    div.csl-right-inline {
+      margin-left:2em;
+      padding-left:1em;
+    }
+    div.csl-indent {
+      margin-left: 2em;
+    }
   </style>
 
   <script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -151,7 +170,10 @@
 <div class="quarto-title"><h1 class="title display-7">DSD: The Democratic Support Dataset</h1></div></header>
 <section id="the-democratic-support-dataset-dsd" class="level3 page-columns page-full">
 <h3 class="anchored" data-anchor-id="the-democratic-support-dataset-dsd">The Democratic Support Dataset (DSD)</h3>
-<p><a href="https://cassyuehtai.netlify.app">Tai, Yuehong ‘Cassandra’</a>, <a href="https://sammo3182.github.io">Yue Hu</a>, and <a href="https://fsolt.org">Frederick Solt</a>. Forthcoming. “Democracy, Public Support, and Measurement Uncertainty.” <em>American Political Science Review</em>. DSD Version 1.0, March 2022.</p>
+<p>Democratic regimes and public support for them have long been argued to be mutually reinforcing, with high levels of public support ensuring democracies remain strong, and experience with democratic governance generating robust public support <span class="citation" data-cites="Lipset1959a Easton1965">(see <a href="#ref-Lipset1959a" role="doc-biblioref">Lipset 1959</a>; <a href="#ref-Easton1965" role="doc-biblioref">Easton 1965</a>)</span>. The evidence for either of these claims, however, has been decidedly mixed.</p>
+<p>One important reason is the difficulty in measuring the public’s support for democracy over time and across many countries. The Democratic Support Dataset draws on recent advances in latent variable modeling of public opinion and a comprehensive collection of survey data on support for democracy to address this problem. We note, however, that the items commonly employed to measure democratic support in surveys may be inadequate to the task. These questions upon which the DSD is based contain no information on respondents’ support for democracy <em>relative to</em> other values with which it may come into conflict <span class="citation" data-cites="GrahamSvolik2020 SimonovitsEtAl2022">(see, e.g., <a href="#ref-GrahamSvolik2020" role="doc-biblioref">Graham and Svolik 2020</a>; <a href="#ref-SimonovitsEtAl2022" role="doc-biblioref">Simonovits, McCoy, and Littvay 2022</a>)</span> or on whether respondents even understand the meaning of the democracy they are claiming to support <span class="citation" data-cites="KirschWelzel2019 WuttkeEtAl2020">(see, e.g., <a href="#ref-KirschWelzel2019" role="doc-biblioref">Kirsch and Welzel 2019</a>; <a href="#ref-WuttkeEtAl2020" role="doc-biblioref">Wuttke, Gavras, and Schoen 2020</a>)</span>. For these reasons, it could easily be that these questions miss capturing the true extent of the support among the public that democracy will actually find when public support is in fact most needed. These concerns notwithstanding, the DSD remains a valuable source—perhaps the most valuable source—for testing arguments about the causes and consequences of support for democracy in broadly cross-national perspective.</p>
+<p>For more, please see the following article and its supplemental materials:</p>
+<p><a href="https://cassyuehtai.netlify.app">Tai, Yuehong ‘Cassandra’</a>, <a href="https://sammo3182.github.io">Yue Hu</a>, and <a href="https://fsolt.org">Frederick Solt</a>. Forthcoming. “Democracy, Public Support, and Measurement Uncertainty.” <em>American Political Science Review</em>.</p>
 <p>There are two ways of using the DSD data. To directly compare up to four countries in estimated levels and trends of democratic support, use the DSD web app below. To use the DSD in statistical analyses, datasets formatted for use in Stata and R are available for download.</p>
 <!-- <a class="button" href="swiid_source/">Explore the Source Data</a> -->
 <!-- <a class="button" href="swiid_faq/">SWIID FAQ</a> -->
@@ -166,8 +188,28 @@
 
 
 
+
 </section>
-</main> <!-- /main -->
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" role="doc-bibliography">
+<div id="ref-Easton1965" class="csl-entry" role="doc-biblioentry">
+Easton, David. 1965. <em>A <span>Systems Analysis</span> of <span>Political Life</span></em>. <span>New York</span>: <span>Wiley</span>.
+</div>
+<div id="ref-GrahamSvolik2020" class="csl-entry" role="doc-biblioentry">
+Graham, Matthew H., and Milan W. Svolik. 2020. <span>“Democracy in <span>America</span>? <span>Partisanship</span>, <span>Polarization</span>, and the <span>Robustness</span> of <span>Support</span> for <span>Democracy</span> in the <span>United States</span>.”</span> <em>American Political Science Review</em> 114 (2): 392–409. <a href="https://doi.org/10.1017/S0003055420000052">https://doi.org/10.1017/S0003055420000052</a>.
+</div>
+<div id="ref-KirschWelzel2019" class="csl-entry" role="doc-biblioentry">
+Kirsch, Helen, and Christian Welzel. 2019. <span>“Democracy <span>Misunderstood</span>: <span>Authoritarian Notions</span> of <span>Democracy Around</span> the <span>Globe</span>.”</span> <em>Social Forces</em> 98 (1): 59–92.
+</div>
+<div id="ref-Lipset1959a" class="csl-entry" role="doc-biblioentry">
+Lipset, Seymour Martin. 1959. <span>“Some <span>Social Requisites</span> of <span>Democracy</span>: <span>Economic Development</span> and <span>Political Legitimacy</span>.”</span> <em>American Political Science Review</em> 53 (01): 69–105.
+</div>
+<div id="ref-SimonovitsEtAl2022" class="csl-entry" role="doc-biblioentry">
+Simonovits, Gabor, Jennifer McCoy, and Levente Littvay. 2022. <span>“Democratic <span>Hypocrisy</span> and <span class="nocase">Out-group Threat</span>: <span>Explaining Citizen Support</span> for <span>Democratic Erosion</span>.”</span> <em>Journal of Politics</em>, January. <a href="https://doi.org/10.1086/719009">https://doi.org/10.1086/719009</a>.
+</div>
+<div id="ref-WuttkeEtAl2020" class="csl-entry" role="doc-biblioentry">
+Wuttke, Alexander, Konstantin Gavras, and Harald Schoen. 2020. <span>“Leader of the <span>Free World</span> or <span>Pioneer</span> in <span>Democracy</span>’s <span>Decline</span>? <span>Examining</span> the <span>Democratic Deconsolidation Hypothesis</span> on the <span>Mass Level</span> in <span>East</span> and <span>West Germany</span>.”</span> <em>Research &amp; Politics</em> 7 (1): 1–10.
+</div>
+</div></section></div></main> <!-- /main -->
 <script type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const icon = "";

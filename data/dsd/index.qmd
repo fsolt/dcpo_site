@@ -1,12 +1,23 @@
 ---
 title: "DSD: The Democratic Support Dataset"
+bibliography: dsd.bib
 ---
 
 ### The Democratic Support Dataset (DSD)
 
+Democratic regimes and public support for them have long been argued to be mutually reinforcing, with high levels of public support ensuring democracies remain strong, and experience with democratic governance generating robust public support [see @Lipset1959a; @Easton1965].
+The evidence for either of these claims, however, has been decidedly mixed.
 
+One important reason is the difficulty in measuring the public's support for democracy over time and across many countries.
+The Democratic Support Dataset draws on recent advances in latent variable modeling of public opinion and a comprehensive collection of survey data on support for democracy to address this problem.
+We note, however, that the items commonly employed to measure democratic support in surveys may be inadequate to the task.
+These questions upon which the DSD is based contain no information on respondents' support for democracy _relative to_ other values with which it may come into conflict [see, e.g., @GrahamSvolik2020; @SimonovitsEtAl2022] or on whether respondents even understand the meaning of the democracy they are claiming to support [see, e.g., @KirschWelzel2019; @WuttkeEtAl2020].
+For these reasons, it could easily be that these questions miss capturing the true extent of the support among the public that democracy will actually find when public support is in fact most needed.
+These concerns notwithstanding, the DSD remains a valuable source---perhaps the most valuable source---for testing arguments about the causes and consequences of support for democracy in broadly cross-national perspective.
 
-[Tai, Yuehong 'Cassandra'](https://cassyuehtai.netlify.app), [Yue Hu](https://sammo3182.github.io), and [Frederick Solt](https://fsolt.org). Forthcoming. "Democracy, Public Support, and Measurement Uncertainty." _American Political Science Review_. DSD Version 1.0, March 2022.
+For more, please see the following article and its supplemental materials:
+
+[Tai, Yuehong 'Cassandra'](https://cassyuehtai.netlify.app), [Yue Hu](https://sammo3182.github.io), and [Frederick Solt](https://fsolt.org). Forthcoming. "Democracy, Public Support, and Measurement Uncertainty." _American Political Science Review_.
 
 There are two ways of using the DSD data.  To directly compare up to four countries in estimated levels and trends of democratic support, use the DSD web app below.  To use the DSD in statistical analyses, datasets formatted for use in Stata and R are available for download.
 
