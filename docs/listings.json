@@ -41,5 +41,19 @@
       "/team/hu.html",
       "/team/fsolt.html"
     ]
+  },
+  {
+    "listing": "/data/pge/pge_faq/index.html",
+    "items": [
+      "/data/pge/pge_faq/posts/data/partition-and-successors.html",
+      "/data/pge/pge_faq/posts/data/changes-between-versions.html",
+      "/data/pge/pge_faq/posts/data/germany.html",
+      "/data/pge/pge_faq/posts/how-to/download-pge.html",
+      "/data/pge/pge_faq/posts/how-to/not-a-stata-file.html",
+      "/data/pge/pge_faq/posts/how-to/csv-format.html",
+      "/data/pge/pge_faq/posts/how-to/stata-time-series.html",
+      "/data/pge/pge_faq/posts/how-to/mean-and-std-err.html",
+      "/data/pge/pge_faq/posts/how-to/country-codes.html"
+    ]
   }
 ]
