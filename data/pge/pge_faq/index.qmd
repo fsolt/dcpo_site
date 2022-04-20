@@ -7,21 +7,18 @@ listing:
     sort: "title desc"
     sort-ui: false
     filter-ui: false
+    max-description-length: 150
   - id: how-to
     contents: "how-to/*.md"
     type: default
     sort: "title desc"
     sort-ui: false
     filter-ui: false
+    max-description-length: 150
 page-layout: full
 ---
 
-<!-- listing: -->
-<!--   contents: posts -->
-<!--   sort: "date desc" -->
-<!--   type: default -->
-<!--   categories: true -->
-<!--   feed: true -->
+#### Click on the topic headings to learn more
 
 ## How to . . .
 
