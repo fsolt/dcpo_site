@@ -30,7 +30,7 @@ links:
 #   url: ""
 #   icon: fas fa-table
 - name: Database
-  url: ../../../data/dsd/
+  url: ../../../data/pge/
   icon: fa-solid fa-database
 status: Forthcoming
 status_class: warning
