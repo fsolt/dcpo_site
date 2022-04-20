@@ -1,0 +1,34 @@
+---
+title: "PGE Frequently Asked Questions"
+listing:
+  - id: data
+    contents: "data/*.md"
+    type: default
+    sort: "title desc"
+    sort-ui: false
+    filter-ui: false
+  - id: how-to
+    contents: "how-to/*.md"
+    type: default
+    sort: "title desc"
+    sort-ui: false
+    filter-ui: false
+page-layout: full
+---
+
+<!-- listing: -->
+<!--   contents: posts -->
+<!--   sort: "date desc" -->
+<!--   type: default -->
+<!--   categories: true -->
+<!--   feed: true -->
+
+## How to . . .
+
+:::{#how-to}
+:::
+
+## The PGE Data
+
+:::{#data}
+:::
