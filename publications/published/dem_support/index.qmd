@@ -28,7 +28,7 @@ links:
 # - name: Data
 #   url: ""
 #   icon: fas fa-table
-- name: Database
+- name: DSD Database
   url: ../../../data/dsd/
   icon: fa-solid fa-database
 status: Forthcoming

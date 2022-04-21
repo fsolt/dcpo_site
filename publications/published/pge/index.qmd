@@ -29,7 +29,7 @@ links:
 - name: Dataverse
   url: "https://doi.org/10.7910/DVN/T3UP6R"
   icon: fas fa-table
-- name: Database
+- name: PGE Database
   url: ../../../data/pge/
   icon: fa-solid fa-database
 status: Forthcoming
