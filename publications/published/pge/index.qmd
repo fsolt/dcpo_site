@@ -21,7 +21,7 @@ links:
 #   url: ""
 #   icon: fas fa-scroll
 - name: Preprint
-  url: "https://osf.io/preprints/socarxiv/37dq9"
+  url: /papers/woogoldbergsolt2022
   icon: far fa-file-pdf
 - name: Code
   url: "https://github.com/fsolt/dcpo_gender_roles"

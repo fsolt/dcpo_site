@@ -16,7 +16,7 @@ extra: >
     Presented at the joint meeting of the Asian Political Methodology group and the Australian Society for Quantitative Political Science (AsianPolmeth VIII & ASQPS IX), January 2021.
 links:
 - name: Final version
-  url: "https://www.doi.org/10.1017/S0003055422000429"
+  url: /papers/taihusolt2022
   icon: fas fa-scroll
 - name: Preprint
   url: /papers/taihusolt2022_pre
