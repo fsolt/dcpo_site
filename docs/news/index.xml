@@ -16,13 +16,16 @@
 <height>63</height>
 <width>144</width>
 </image>
-<generator>quarto-0.9.188</generator>
+<generator>quarto-0.9.351</generator>
 <lastBuildDate>Wed, 06 Apr 2022 05:00:00 GMT</lastBuildDate>
 <item>
   <title>Post With Code</title>
   <dc:creator>Harlow Malloc</dc:creator>
   <link>https://dcpo.org/news/posts/post-with-code/index.html</link>
   <description><![CDATA[ 
+
+
+
 
 <p>This is a post with executable code.</p>
 
@@ -41,6 +44,9 @@
   <dc:creator>Tristan O'Malley</dc:creator>
   <link>https://dcpo.org/news/posts/welcome/index.html</link>
   <description><![CDATA[ 
+
+
+
 
 <p>This is the first post in a Quarto blog. Welcome!</p>
 <p><img src="https://dcpo.org/news/posts/welcome/thumbnail.jpg" class="img-fluid"></p>

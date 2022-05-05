@@ -2,7 +2,7 @@
 title: "Modeling Dynamic Comparative Public Opinion"
 date: 2020-01-12
 cite: >
-  [Frederick Solt](https://fsolt.org).
+  **Frederick Solt**.
   2020.
   "Modeling Dynamic Comparative Public Opinion."
   _SocArXiv_.
@@ -44,7 +44,7 @@ links:
 # #   icon: fas fa-glasses
 listing:
   - id: cite
-    contents: "short.qmd"
+    contents: "*.qmd"
     template: "../../../templates/single-cite.ejs"
 # draft: true
 ---

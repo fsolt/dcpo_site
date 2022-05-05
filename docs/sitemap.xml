@@ -2,114 +2,126 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://dcpo.org/publications/index.html</loc>
-    <lastmod>2022-04-21T20:27:45.049Z</lastmod>
+    <lastmod>2022-05-05T14:30:47.748Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dcpo.org/publications/working-papers/dcpo_article/short.html</loc>
+    <lastmod>2022-05-05T14:30:48.341Z</lastmod>
   </url>
   <url>
     <loc>https://dcpo.org/publications/working-papers/dcpo_article/index.html</loc>
-    <lastmod>2022-04-21T20:27:45.418Z</lastmod>
+    <lastmod>2022-05-05T14:30:48.904Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dcpo.org/publications/published/dem_support/short.html</loc>
+    <lastmod>2022-05-05T14:30:49.456Z</lastmod>
   </url>
   <url>
     <loc>https://dcpo.org/publications/published/dem_support/index.html</loc>
-    <lastmod>2022-04-21T20:27:45.834Z</lastmod>
+    <lastmod>2022-05-05T14:30:49.968Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dcpo.org/publications/published/pge/short.html</loc>
+    <lastmod>2022-05-05T14:30:50.621Z</lastmod>
   </url>
   <url>
     <loc>https://dcpo.org/publications/published/pge/index.html</loc>
-    <lastmod>2022-04-21T20:27:46.304Z</lastmod>
+    <lastmod>2022-05-05T14:30:51.290Z</lastmod>
   </url>
   <url>
     <loc>https://dcpo.org/index.html</loc>
-    <lastmod>2022-04-21T20:27:46.587Z</lastmod>
+    <lastmod>2022-05-05T14:30:51.880Z</lastmod>
   </url>
   <url>
     <loc>https://dcpo.org/news/posts/post-with-code/index.html</loc>
-    <lastmod>2022-04-21T20:27:46.982Z</lastmod>
+    <lastmod>2022-05-05T14:30:52.490Z</lastmod>
   </url>
   <url>
     <loc>https://dcpo.org/news/posts/welcome/index.html</loc>
-    <lastmod>2022-04-21T20:27:47.282Z</lastmod>
+    <lastmod>2022-05-05T14:30:53.032Z</lastmod>
   </url>
   <url>
     <loc>https://dcpo.org/news/index.html</loc>
-    <lastmod>2022-04-21T20:27:47.670Z</lastmod>
+    <lastmod>2022-05-05T14:30:53.583Z</lastmod>
   </url>
   <url>
     <loc>https://dcpo.org/team/index.html</loc>
-    <lastmod>2022-04-21T20:27:48.061Z</lastmod>
+    <lastmod>2022-05-05T14:30:54.176Z</lastmod>
   </url>
   <url>
     <loc>https://dcpo.org/team/hyein.html</loc>
-    <lastmod>2022-04-21T20:27:48.364Z</lastmod>
+    <lastmod>2022-05-05T14:30:54.674Z</lastmod>
   </url>
   <url>
     <loc>https://dcpo.org/team/cassandra.html</loc>
-    <lastmod>2022-04-21T20:27:48.683Z</lastmod>
+    <lastmod>2022-05-05T14:30:55.277Z</lastmod>
   </url>
   <url>
     <loc>https://dcpo.org/team/hu.html</loc>
-    <lastmod>2022-04-21T20:27:48.962Z</lastmod>
+    <lastmod>2022-05-05T14:30:55.909Z</lastmod>
   </url>
   <url>
     <loc>https://dcpo.org/team/byung-deuk.html</loc>
-    <lastmod>2022-04-21T20:27:49.314Z</lastmod>
+    <lastmod>2022-05-05T14:30:56.454Z</lastmod>
   </url>
   <url>
     <loc>https://dcpo.org/team/fsolt.html</loc>
-    <lastmod>2022-04-21T20:27:49.709Z</lastmod>
+    <lastmod>2022-05-05T14:30:57.030Z</lastmod>
   </url>
   <url>
     <loc>https://dcpo.org/software.html</loc>
-    <lastmod>2022-04-21T20:27:50.017Z</lastmod>
+    <lastmod>2022-05-05T14:30:57.606Z</lastmod>
   </url>
   <url>
     <loc>https://dcpo.org/data/pge/index.html</loc>
-    <lastmod>2022-04-21T20:27:50.423Z</lastmod>
+    <lastmod>2022-05-05T14:30:58.142Z</lastmod>
   </url>
   <url>
     <loc>https://dcpo.org/data/pge/pge_downloads.html</loc>
-    <lastmod>2022-04-21T20:27:50.733Z</lastmod>
+    <lastmod>2022-05-05T14:30:58.710Z</lastmod>
   </url>
   <url>
     <loc>https://dcpo.org/data/pge/pge_faq/posts/how-to/country-codes.html</loc>
-    <lastmod>2022-04-21T20:27:51.089Z</lastmod>
+    <lastmod>2022-05-05T14:30:59.241Z</lastmod>
   </url>
   <url>
     <loc>https://dcpo.org/data/pge/pge_faq/posts/how-to/csv-format.html</loc>
-    <lastmod>2022-04-21T20:27:51.500Z</lastmod>
+    <lastmod>2022-05-05T14:30:59.824Z</lastmod>
   </url>
   <url>
     <loc>https://dcpo.org/data/pge/pge_faq/posts/how-to/download-pge.html</loc>
-    <lastmod>2022-04-21T20:27:51.836Z</lastmod>
+    <lastmod>2022-05-05T14:31:00.350Z</lastmod>
   </url>
   <url>
     <loc>https://dcpo.org/data/pge/pge_faq/posts/how-to/not-a-stata-file.html</loc>
-    <lastmod>2022-04-21T20:27:52.140Z</lastmod>
+    <lastmod>2022-05-05T14:31:00.912Z</lastmod>
   </url>
   <url>
     <loc>https://dcpo.org/data/pge/pge_faq/posts/how-to/stata-time-series.html</loc>
-    <lastmod>2022-04-21T20:27:52.444Z</lastmod>
+    <lastmod>2022-05-05T14:31:01.561Z</lastmod>
   </url>
   <url>
     <loc>https://dcpo.org/data/pge/pge_faq/posts/how-to/mean-and-std-err.html</loc>
-    <lastmod>2022-04-21T20:27:52.923Z</lastmod>
+    <lastmod>2022-05-05T14:31:02.279Z</lastmod>
   </url>
   <url>
     <loc>https://dcpo.org/data/pge/pge_faq/posts/data/partition-and-successors.html</loc>
-    <lastmod>2022-04-21T20:27:53.203Z</lastmod>
+    <lastmod>2022-05-05T14:31:02.758Z</lastmod>
   </url>
   <url>
     <loc>https://dcpo.org/data/pge/pge_faq/posts/data/changes-between-versions.html</loc>
-    <lastmod>2022-04-21T20:27:53.500Z</lastmod>
+    <lastmod>2022-05-05T14:31:03.351Z</lastmod>
   </url>
   <url>
     <loc>https://dcpo.org/data/pge/pge_faq/posts/data/germany.html</loc>
-    <lastmod>2022-04-21T20:27:53.879Z</lastmod>
+    <lastmod>2022-05-05T14:31:03.852Z</lastmod>
   </url>
   <url>
     <loc>https://dcpo.org/data/pge/pge_faq/index.html</loc>
-    <lastmod>2022-04-21T20:27:54.297Z</lastmod>
+    <lastmod>2022-05-05T14:31:04.419Z</lastmod>
   </url>
   <url>
     <loc>https://dcpo.org/data/dsd/index.html</loc>
-    <lastmod>2022-04-21T20:27:54.704Z</lastmod>
+    <lastmod>2022-05-05T14:31:05.086Z</lastmod>
   </url>
 </urlset>

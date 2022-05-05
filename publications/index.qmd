@@ -1,10 +1,10 @@
 ---
 listing:
   - id: published
-    contents: "published/*/*.qmd"
+    contents: "published/*/index.qmd"
     template: "../templates/listing-cite.ejs"
   - id: working-papers
-    contents: "working-papers/*/*.qmd"
+    contents: "working-papers/*/index.qmd"
     template: "../templates/listing-cite.ejs"
 ---
 

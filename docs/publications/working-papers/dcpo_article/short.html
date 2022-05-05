@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Frederick Solt">
+<meta name="dcterms.date" content="2020-01-12">
 
-<title>DCPO - How can I use the PGE data to make my own graphs?</title>
+<title>DCPO - Modeling Dynamic Comparative Public Opinion</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -80,23 +82,25 @@ code span.vs { color: #4070a0; } /* VerbatimString */
 code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warning */
 </style>
 
-<script src="../../../../../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../../../../../site_libs/quarto-nav/headroom.min.js"></script>
-<script src="../../../../../site_libs/clipboard/clipboard.min.js"></script>
-<meta name="quarto:offset" content="../../../../../">
-<script src="../../../../../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../../../../../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../../../../../site_libs/quarto-search/quarto-search.js"></script>
-<link href="../../../../../favicon.png" rel="icon" type="image/png">
-<script src="../../../../../site_libs/quarto-html/quarto.js"></script>
-<script src="../../../../../site_libs/quarto-html/popper.min.js"></script>
-<script src="../../../../../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../../../../../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../../../../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link id="quarto-text-highlighting-styles" href="../../../../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet">
-<script src="../../../../../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../../../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../../../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet">
+<script src="../../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../../site_libs/clipboard/clipboard.min.js"></script>
+<meta name="quarto:offset" content="../../../">
+<script src="../../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../../site_libs/quarto-search/quarto-search.js"></script>
+<link href="../../../favicon.png" rel="icon" type="image/png">
+<script src="../../../site_libs/quarto-listing/list.min.js"></script>
+<script src="../../../site_libs/quarto-listing/quarto-listing.js"></script>
+<script src="../../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link id="quarto-text-highlighting-styles" href="../../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet">
+<script src="../../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -116,6 +120,29 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
     "search-submit-button-title": "Submit"
   }
 }</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-cite .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-date','listing-cite','listing-author','listing-extra','listing-links','listing-listing','listing-path','listing-image','listing-description','listing-filename','listing-file-modified','listing-reading-time',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] }],
+      
+      searchColumns: ["listing-title","listing-date","listing-cite","listing-author","listing-extra","listing-links","listing-listing","listing-path","listing-image","listing-description","listing-filename","listing-file-modified","listing-reading-time"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-cite'] = new List('listing-cite', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+  </script>
 <script src="https://kit.fontawesome.com/b9466c47ef.js" crossorigin="anonymous"></script>
 
 <!-- Default Statcounter code -->
@@ -127,11 +154,12 @@ var sc_security="da58688a";
 <script type="text/javascript" src="https://www.statcounter.com/counter/counter.js" async=""></script>
 <!-- End of Statcounter Code -->
 
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-<link rel="stylesheet" href="../../../../../templates/styles.css">
-<meta property="og:title" content="DCPO - How can I use the PGE data to make my own graphs?">
+<link rel="stylesheet" href="../../../templates/styles.css">
+<meta property="og:title" content="DCPO - Modeling Dynamic Comparative Public Opinion">
 <meta property="og:site-name" content="DCPO">
-<meta name="twitter:title" content="DCPO - How can I use the PGE data to make my own graphs?">
+<meta name="twitter:title" content="DCPO - Modeling Dynamic Comparative Public Opinion">
 <meta name="twitter:card" content="summary">
 </head>
 
@@ -141,8 +169,8 @@ var sc_security="da58688a";
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg navbar-dark ">
       <div class="navbar-container container-fluid">
-      <a class="navbar-brand" href="../../../../../index.html">
-    <img src="../../../../../dcpo.png" alt="">
+      <a class="navbar-brand" href="../../../index.html">
+    <img src="../../../dcpo.png" alt="">
   </a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
@@ -150,29 +178,29 @@ var sc_security="da58688a";
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../../../../../team/index.html">Team</a>
+    <a class="nav-link" href="../../../team/index.html">Team</a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../../../news/index.html">News</a>
+    <a class="nav-link" href="../../../news/index.html">News</a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../../../publications/index.html">Publications</a>
+    <a class="nav-link" href="../../../publications/index.html">Publications</a>
   </li>  
   <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-data" role="button" data-bs-toggle="dropdown" aria-expanded="false">Data</a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-data">    
         <li>
-    <a class="dropdown-item" href="../../../../../data/pge/index.html">
+    <a class="dropdown-item" href="../../../data/pge/index.html">
  <span class="dropdown-text">Public Gender Egalitarianism</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../../../../../data/dsd/index.html">
+    <a class="dropdown-item" href="../../../data/dsd/index.html">
  <span class="dropdown-text">Democratic Support Dataset</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="../../../../../software.html">Software</a>
+    <a class="nav-link" href="../../../software.html">Software</a>
   </li>  
   <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-help" role="button" data-bs-toggle="dropdown" aria-expanded="false">Help</a>
@@ -208,71 +236,100 @@ var sc_security="da58688a";
     </nav>
 </header>
 <!-- content -->
-<header id="title-block-header" class="quarto-title-block default page-columns page-full">
-  <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-body">
-      <h1 class="title">How can I use the PGE data to make my own graphs?</h1>
-                          <div class="quarto-categories">
-                <div class="quarto-category">howto</div>
-              </div>
-                  </div>
-  </div>
-    
-  
-
-
-
-  <div class="quarto-title-meta">
-
-      
-      
-    </div>
-    
-  
-  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content quarto-banner-title-block" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Modeling Dynamic Comparative Public Opinion</h1>
+</div>
 
 
 
 
-<p>The <a href="../../../../../data/pge/pge_downloads.html">PGE download</a> contains files pre-formatted for use with the tools for analyzing multiply-imputed data and other data measured with uncertainty in Stata (e.g., <code>pge1_0.dta</code>) or R (e.g., <code>pge1_0.rda</code>). This is meant to “set the default” in a way that encourages researchers to take into account the uncertainty in the PGE estimates. This uncertainty is considerable in many countries, and the tools available in both software packages can now handle pretty much any analysis one may desire (for details, read the documents <code>R_pge.pdf</code> and <code>stata_pge.pdf</code> in the PGE download). But this format does not lend itself to graphing. For this purpose, use the summary file (e.g., <code>pge1_0_summary.csv</code>), which presents the PGE estimates in mean-plus-standard-error summary format.</p>
-<p>In Stata:</p>
-<pre><code>import delimited "pge1_0_summary.csv", clear
 
-// A silly example
-gen name_length = length(country)
-gen first_letter = substr(country, 1, 1)
-keep if year==2010 &amp; first_letter=="S" /*2010 for Senegal, Serbia, . . .*/
+<div class="quarto-title-meta">
 
-// A scatterplot with 95% uncertainty intervals
-twoway rspike p2_5 p97_5 name_length, lstyle(ci) || ///
-    scatter pge name_length, msize(small) ///
-    legend(order(2 "PGE Public Gender Equality")) </code></pre>
-<p>In R:</p>
-<div class="sourceCode" id="cb2"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="fu">llibrary</span>(tidyverse)</span>
-<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a><span class="co"># Load the PGE</span></span>
-<span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a><span class="fu">load</span>(<span class="st">"pge1_0.rda"</span>)</span>
-<span id="cb2-5"><a href="#cb2-5" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-6"><a href="#cb2-6" aria-hidden="true" tabindex="-1"></a><span class="co"># Plot PGE estimates for the United States</span></span>
-<span id="cb2-7"><a href="#cb2-7" aria-hidden="true" tabindex="-1"></a>pge_summary <span class="sc">%&gt;%</span> </span>
-<span id="cb2-8"><a href="#cb2-8" aria-hidden="true" tabindex="-1"></a>    <span class="fu">filter</span>(country <span class="sc">==</span> <span class="st">"United States"</span>) <span class="sc">%&gt;%</span> </span>
-<span id="cb2-9"><a href="#cb2-9" aria-hidden="true" tabindex="-1"></a>    <span class="fu">ggplot</span>(<span class="fu">aes</span>(<span class="at">x=</span>year, <span class="at">y=</span>pge)) <span class="sc">+</span> </span>
-<span id="cb2-10"><a href="#cb2-10" aria-hidden="true" tabindex="-1"></a>    <span class="fu">geom_line</span>() <span class="sc">+</span></span>
-<span id="cb2-11"><a href="#cb2-11" aria-hidden="true" tabindex="-1"></a>    <span class="fu">geom_ribbon</span>(<span class="fu">aes</span>(<span class="at">ymin =</span> pge<span class="fl">-1.96</span><span class="sc">*</span>pge_se,</span>
-<span id="cb2-12"><a href="#cb2-12" aria-hidden="true" tabindex="-1"></a>                    <span class="at">ymax =</span> pge<span class="fl">+1.96</span><span class="sc">*</span>pge_se, </span>
-<span id="cb2-13"><a href="#cb2-13" aria-hidden="true" tabindex="-1"></a>                    <span class="at">linetype=</span><span class="cn">NA</span>), <span class="at">alpha =</span> .<span class="dv">25</span>) <span class="sc">+</span></span>
-<span id="cb2-14"><a href="#cb2-14" aria-hidden="true" tabindex="-1"></a>    <span class="fu">scale_x_continuous</span>(<span class="at">breaks=</span><span class="fu">seq</span>(<span class="dv">1970</span>, <span class="dv">2020</span>, <span class="dv">5</span>)) <span class="sc">+</span></span>
-<span id="cb2-15"><a href="#cb2-15" aria-hidden="true" tabindex="-1"></a>    <span class="fu">theme_bw</span>() <span class="sc">+</span> </span>
-<span id="cb2-16"><a href="#cb2-16" aria-hidden="true" tabindex="-1"></a>    <span class="fu">labs</span>(<span class="at">x =</span> <span class="st">"Year"</span>, </span>
-<span id="cb2-17"><a href="#cb2-17" aria-hidden="true" tabindex="-1"></a>         <span class="at">y =</span> <span class="st">"PGE: Public Gender Egalitarianism"</span>,</span>
-<span id="cb2-18"><a href="#cb2-18" aria-hidden="true" tabindex="-1"></a>         <span class="at">title =</span> <span class="st">"Public gender egalitarianism in the United States"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Frederick Solt </p>
+          </div>
+  </div>
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">January 12, 2020</p>
+    </div>
+  </div>
+    
+  </div>
+  
+
+</header>
+
+<div id="listing-cite" class="quarto-listing quarto-listing-container-custom">
+<div class="research-page">
+<li class="project">
+<div class="project-details">
+<div class="project-content">
+<p>
+<a href="https://fsolt.org">Frederick Solt</a>. 2020. “Modeling Dynamic Comparative Public Opinion.” <em>SocArXiv</em>.
+</p>
+</div>
+<ul class="project-links">
+<li class="project-link">
+<a href="https://osf.io/preprints/socarxiv/d5n9p"><i class="far fa-file-pdf"></i> Preprint</a>
+</li>
+<li class="project-link">
+<a href="https://github.com/fsolt/dcpo_article"><i class="fa-brands fa-github"></i> Code</a>
+</li>
+</ul>
+</div>
+<div class="publication-extra">
+<p>
+<strong>Other details:</strong> Previous versions of this project were presented at the 2014 meetings of the European Political Science Association and American Political Science Association, the 2016 meeting of the Midwest Political Science Association, the 2019 St.&nbsp;Louis Area Methods Meeting, the 2020 meeting of the Southern Political Science Association, and at Princeton University, Oxford University, the University of Tennessee, the University of Iowa, Central European University, and the Polish Academy of Sciences.
+</p>
+</div>
+</li>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<p>The study of public opinion in comparative context has been hampered by data that is sparse, that is, unavailable for many countries and years; incomparable, i.e., ostensibly addressing the same issue but generated by different survey items; or, most often, both. Questions of representation and of policy feedback on public opinion, for example, cannot be explored fully from a cross-national perspective without comparable time-series data for many countries that span their respective times of policy adoption. Recent works (Claassen 2019; Caughey, O’Grady, and Warshaw 2019) have introduced a latent variable approach to the study of comparative public opinion that maximizes the information gleaned from available surveys to overcome issues of sparse and incomparable data and allow comparativists to examine the dynamics of public opinion. This paper advances this field of research by presenting a new model and software for estimating latent variables of public opinion from cross-national survey data that yield superior fit and more quantities of theoretical interest than previous works allow.</p>
+</section>
+<section id="important-figure" class="level2">
+<h2 class="anchored" data-anchor-id="important-figure">Important figure</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="dcpo_article_fig1.png" class="img-fluid figure-img"></p>
+<p></p><figcaption aria-hidden="true" class="figure-caption">Figure 1: Probability of an Affirmative Response in the 2PL IRT Model</figcaption><p></p>
+</figure>
+</div>
+</section>
+<section id="bibtex-citation" class="level2">
+<h2 class="anchored" data-anchor-id="bibtex-citation">BibTeX citation</h2>
+<div class="sourceCode" id="cb1"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="va">@misc</span>{<span class="ot">Solt2020</span>,</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a> <span class="dt">author</span>={Solt, Frederick},</span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a> <span class="dt">title</span>={Modeling Dynamic Comparative Public Opinion},</span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a> <span class="dt">publisher</span>={SocArXiv},</span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a> <span class="dt">year</span>={2020},</span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a> <span class="dt">month</span>={Jan}, </span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a> <span class="dt">url</span>={osf.io/preprints/socarxiv/d5n9p},</span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a> <span class="dt">doi</span>={10.31235/osf.io/d5n9p}</span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a>}</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 
 
+
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
