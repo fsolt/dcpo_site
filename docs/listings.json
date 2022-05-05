@@ -2,8 +2,8 @@
   {
     "listing": "/publications/index.html",
     "items": [
-      "/publications/published/dem_support/index.html",
       "/publications/published/pge/index.html",
+      "/publications/published/dem_support/index.html",
       "/publications/working-papers/dcpo_article/index.html"
     ]
   },

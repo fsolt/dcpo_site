@@ -1,6 +1,6 @@
 <div class="project-list">
   <% for (const item of items) { %>
-  <li class="project">
+  <li class="project" <%= metadataAttrs(item) %>>
 
   <div class="project-content">
   <p><% if (item['status_class']) {%><span class="status btn-<%- item['status_class'] %>"><i class="<%- item['status_icon'] %>"></i> <%= item['status'] %></span> <% } %><%= item['cite'] %></p>

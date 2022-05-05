@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>DCPO</title>
+<link>https://dcpo.org/publications/index.html</link>
+<atom:link href="https://dcpo.org/publications/index.xml" rel="self" type="application/rss+xml"/>
+<description>Dynamic Comparative Public Opinion</description>
+<image>
+<url>https://dcpo.org/dcpo.png</url>
+<title>DCPO</title>
+<link>https://dcpo.org/publications/index.html</link>
+<height>63</height>
+<width>144</width>
+</image>
+<generator>quarto-0.9.351</generator>
+<lastBuildDate>Fri, 01 Apr 2022 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere</title>
+  <dc:creator>Byung-Deuk Woo</dc:creator>
+  <dc:creator>Lindsey A. Goldberg</dc:creator>
+  <dc:creator>Frederick Solt</dc:creator>
+  <link>https://dcpo.org/publications/published/pge/index.html</link>
+  <description><![CDATA[ 
+
+
+
+<div id="listing-cite" class="quarto-listing quarto-listing-container-custom">
+<div class="research-page">
+<li class="project">
+<div class="project-details">
+<div class="project-content">
+<p>
+<a href="https://www.byung-deuk-woo.org">Woo, Byung-Deuk</a>, <a href="https://www.lindsey-allemang-goldberg.com">Lindsey A. Goldberg</a>, and <a href="https://fsolt.org">Frederick Solt</a>. Forthcoming. “Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere.” <em>British Journal of Political Science</em>.
+</p>
+</div>
+<ul class="project-links">
+<li class="project-link">
+<a href="https://osf.io/preprints/socarxiv/37dq9"><i class="far fa-file-pdf"></i> Preprint</a>
+</li>
+<li class="project-link">
+<a href="https://github.com/fsolt/dcpo_gender_roles"><i class="fa-brands fa-github"></i> Code</a>
+</li>
+<li class="project-link">
+<a href="https://doi.org/10.7910/DVN/T3UP6R"><i class="fas fa-table"></i> Dataverse</a>
+</li>
+<li class="project-link">
+<a href="../../../data/pge/"><i class="fa-solid fa-database"></i> PGE Database</a>
+</li>
+</ul>
+</div>
+<div class="publication-extra">
+<p>
+<strong>Other details:</strong> Presented at the annual meeting of the Midwest Political Science Association (MPSA), April 2022.
+</p>
+</div>
+</li>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<p>Societal attitudes toward gender roles in the workplace and politics play a central part in theorizing on the difficulty women face in achieving political equality, but shortcomings in the available data have prevented direct examination of many implications of these theories. Drawing on recent advances in latent variable modeling of public opinion and a comprehensive collection of survey data, we present the Public Gender Egalitarianism dataset to address this need: comparable estimates of the public’s attitudes on gender equality in the public sphere across more than one hundred countries over time. These PGE scores are strongly correlated with responses to individual survey items and with women’s rates of participation in the labor force and corporate boards. We expect that the PGE data will become an invaluable source for broadly cross-national and longitudinal research on the causes and consequences of collective attitudes toward gender equality in politics and the economy.</p>
+</section>
+<section id="important-figures" class="level2">
+<h2 class="anchored" data-anchor-id="important-figures">Important figures</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://dcpo.org/publications/published/pge/pge_fig3.png" class="preview-image img-fluid figure-img"></p>
+<p></p><p></p>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://dcpo.org/publications/published/pge/pge_fig6.png" class="img-fluid figure-img"></p>
+<p></p><p></p>
+</figure>
+</div>
+</section>
+<section id="bibtex-citation" class="level2">
+<h2 class="anchored" data-anchor-id="bibtex-citation">BibTeX citation</h2>
+<div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;">@misc</span>{<span class="ot" style="color: #003B4F;">WooAllemangSolt2022</span>,</span>
+<span id="cb1-2">    <span class="dt" style="color: #AD0000;">author</span> = {Woo, Byung-Deuk, and Goldberg, Lindsey A., and Solt, Frederick},</span>
+<span id="cb1-3">    <span class="dt" style="color: #AD0000;">year</span> = {2022},</span>
+<span id="cb1-4">    <span class="dt" style="color: #AD0000;">doi</span> = {10.31235/osf.io/37dq9},</span>
+<span id="cb1-5">    <span class="dt" style="color: #AD0000;">month</span> = {Feb},</span>
+<span id="cb1-6">    <span class="dt" style="color: #AD0000;">publisher</span> = {SocArXiv},</span>
+<span id="cb1-7">    <span class="dt" style="color: #AD0000;">title</span> = {Public {{Gender Egalitarianism}}: {{A Dataset}} of {{Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles}} in the {{Public Sphere}}},</span>
+<span id="cb1-8">    <span class="dt" style="color: #AD0000;">url</span> = {https://osf.io/preprints/socarxiv/37dq9},</span>
+<span id="cb1-9">    <span class="dt" style="color: #AD0000;">year</span> = {2022}}</span></code></pre></div>
+
+
+
+</section>
+
+ ]]></description>
+  <guid>https://dcpo.org/publications/published/pge/index.html</guid>
+  <pubDate>Fri, 01 Apr 2022 05:00:00 GMT</pubDate>
+  <media:content url="https://dcpo.org//publications/published/pge/pge_fig3.png" medium="image" type="image/png" height="72" width="144"/>
+</item>
+<item>
+  <title>Democracy, Public Support, and Measurement Uncertainty</title>
+  <dc:creator>Yuehong 'Cassandra' Tai</dc:creator>
+  <dc:creator>Yue Hu</dc:creator>
+  <dc:creator>Frederick Solt</dc:creator>
+  <link>https://dcpo.org/publications/published/dem_support/index.html</link>
+  <description><![CDATA[ 
+
+
+
+<div id="listing-cite" class="quarto-listing quarto-listing-container-custom">
+<div class="research-page">
+<li class="project">
+<div class="project-details">
+<div class="project-content">
+<p>
+<a href="https://github.com/Tyhcass/">Tai, Yuehong ‘Cassandra’</a>, <a href="https://sammo3182.github.io">Yue Hu</a>, and <a href="https://fsolt.org">Frederick Solt</a>. Forthcoming. “Democracy, Public Support, and Measurement Uncertainty.” <em>American Political Science Review</em>.
+</p>
+</div>
+<ul class="project-links">
+<li class="project-link">
+<a href="https://www.doi.org/10.1017/S0003055422000429"><i class="fas fa-scroll"></i> Final version</a>
+</li>
+<li class="project-link">
+<a href="../../../papers/taihusolt2022_pre"><i class="far fa-file-pdf"></i> Preprint</a>
+</li>
+<li class="project-link">
+<a href="https://github.com/fsolt/dcpo_dem_mood"><i class="fa-brands fa-github"></i> Code</a>
+</li>
+<li class="project-link">
+<a href="https://doi.org/10.7910/DVN/XAUF3H"><i class="fas fa-table"></i> Dataverse</a>
+</li>
+<li class="project-link">
+<a href="https://dcpo.org/data/dsd/"><i class="fa-solid fa-database"></i> DSD Database</a>
+</li>
+</ul>
+</div>
+<div class="publication-extra">
+<p>
+<strong>Other details:</strong> Presented at the joint meeting of the Asian Political Methodology group and the Australian Society for Quantitative Political Science (AsianPolmeth VIII &amp; ASQPS IX), January 2021.
+</p>
+</div>
+</li>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<p>Do democratic regimes depend on public support to avoid backsliding? Does public support, in turn, respond thermostatically to changes in democracy? Two prominent recent studies (Claassen 2020a, 2020b) reinvigorated the classic hypothesis on the positive relationship between public support for democracy and regime survival—and challenged its reciprocal counterpart—by using a latent variable approach to measure mass democratic support from cross-national survey data. Both studies, however, used only the point estimates of democratic support; we show that incorporating the concomitant measurement uncertainty into these analyses reveals that there is no support for either study’s conclusion. Efforts to minimize the uncertainty by incorporating additional survey data still fail to yield evidence in support of either hypothesis. These results underscore the need both for more nuanced analyses of the relationships between public support and democracy and for taking measurement uncertainty into account when working with latent variables.</p>
+</section>
+<section id="important-figure" class="level2">
+<h2 class="anchored" data-anchor-id="important-figure">Important Figure</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://dcpo.org/publications/published/dem_support/dem_support_fig1.png" class="preview-image img-fluid figure-img"></p>
+<p></p><p></p>
+</figure>
+</div>
+</section>
+<section id="bibtex-citation" class="level2">
+<h2 class="anchored" data-anchor-id="bibtex-citation">BibTeX Citation</h2>
+<div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;">@misc</span>{<span class="ot" style="color: #003B4F;">TaiHuSolt2022</span>,</span>
+<span id="cb1-2"> <span class="dt" style="color: #AD0000;">author</span>={Tai, Yuehong 'Cassandra' and Hu, Yue and Solt, Frederick},</span>
+<span id="cb1-3"> <span class="dt" style="color: #AD0000;">title</span>={Democracy, Public Support, and Measurement Uncertainty},</span>
+<span id="cb1-4"> <span class="dt" style="color: #AD0000;">url</span>={osf.io/preprints/socarxiv/y5fdv},</span>
+<span id="cb1-5"> <span class="dt" style="color: #AD0000;">doi</span>={10.31235/osf.io/y5fdv},</span>
+<span id="cb1-6"> <span class="dt" style="color: #AD0000;">publisher</span>={SocArXiv},</span>
+<span id="cb1-7"> <span class="dt" style="color: #AD0000;">year</span>={2022},</span>
+<span id="cb1-8">}</span></code></pre></div>
+
+
+
+</section>
+
+ ]]></description>
+  <category>dcpo</category>
+  <category>democracy</category>
+  <category>attitudes</category>
+  <category>measurement</category>
+  <guid>https://dcpo.org/publications/published/dem_support/index.html</guid>
+  <pubDate>Fri, 25 Mar 2022 05:00:00 GMT</pubDate>
+  <media:content url="https://dcpo.org//publications/published/dem_support/dem_support_fig1.png" medium="image" type="image/png" height="288" width="144"/>
+</item>
+<item>
+  <title>Modeling Dynamic Comparative Public Opinion</title>
+  <dc:creator>Frederick Solt</dc:creator>
+  <link>https://dcpo.org/publications/working-papers/dcpo_article/index.html</link>
+  <description><![CDATA[ 
+
+
+
+<div id="listing-cite" class="quarto-listing quarto-listing-container-custom">
+<div class="research-page">
+<li class="project">
+<div class="project-details">
+<div class="project-content">
+<p>
+<strong>Frederick Solt</strong>. 2020. “Modeling Dynamic Comparative Public Opinion.” <em>SocArXiv</em>.
+</p>
+</div>
+<ul class="project-links">
+<li class="project-link">
+<a href="https://osf.io/preprints/socarxiv/d5n9p"><i class="far fa-file-pdf"></i> Preprint</a>
+</li>
+<li class="project-link">
+<a href="https://github.com/fsolt/dcpo_article"><i class="fa-brands fa-github"></i> Code</a>
+</li>
+</ul>
+</div>
+<div class="publication-extra">
+<p>
+<strong>Other details:</strong> Previous versions of this project were presented at the 2014 meetings of the European Political Science Association and American Political Science Association, the 2016 meeting of the Midwest Political Science Association, the 2019 St.&nbsp;Louis Area Methods Meeting, the 2020 meeting of the Southern Political Science Association, and at Princeton University, Oxford University, the University of Tennessee, the University of Iowa, Central European University, and the Polish Academy of Sciences.
+</p>
+</div>
+</li>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<p>The study of public opinion in comparative context has been hampered by data that is sparse, that is, unavailable for many countries and years; incomparable, i.e., ostensibly addressing the same issue but generated by different survey items; or, most often, both. Questions of representation and of policy feedback on public opinion, for example, cannot be explored fully from a cross-national perspective without comparable time-series data for many countries that span their respective times of policy adoption. Recent works (Claassen 2019; Caughey, O’Grady, and Warshaw 2019) have introduced a latent variable approach to the study of comparative public opinion that maximizes the information gleaned from available surveys to overcome issues of sparse and incomparable data and allow comparativists to examine the dynamics of public opinion. This paper advances this field of research by presenting a new model and software for estimating latent variables of public opinion from cross-national survey data that yield superior fit and more quantities of theoretical interest than previous works allow.</p>
+</section>
+<section id="important-figure" class="level2">
+<h2 class="anchored" data-anchor-id="important-figure">Important figure</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://dcpo.org/publications/working-papers/dcpo_article/dcpo_article_fig1.png" class="img-fluid figure-img"></p>
+<p></p><p></p>
+</figure>
+</div>
+</section>
+<section id="bibtex-citation" class="level2">
+<h2 class="anchored" data-anchor-id="bibtex-citation">BibTeX citation</h2>
+<div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;">@misc</span>{<span class="ot" style="color: #003B4F;">Solt2020</span>,</span>
+<span id="cb1-2"> <span class="dt" style="color: #AD0000;">author</span>={Solt, Frederick},</span>
+<span id="cb1-3"> <span class="dt" style="color: #AD0000;">title</span>={Modeling Dynamic Comparative Public Opinion},</span>
+<span id="cb1-4"> <span class="dt" style="color: #AD0000;">publisher</span>={SocArXiv},</span>
+<span id="cb1-5"> <span class="dt" style="color: #AD0000;">year</span>={2020},</span>
+<span id="cb1-6"> <span class="dt" style="color: #AD0000;">month</span>={Jan}, </span>
+<span id="cb1-7"> <span class="dt" style="color: #AD0000;">url</span>={osf.io/preprints/socarxiv/d5n9p},</span>
+<span id="cb1-8"> <span class="dt" style="color: #AD0000;">doi</span>={10.31235/osf.io/d5n9p}</span>
+<span id="cb1-9">}</span></code></pre></div>
+
+
+
+</section>
+
+ ]]></description>
+  <guid>https://dcpo.org/publications/working-papers/dcpo_article/index.html</guid>
+  <pubDate>Sun, 12 Jan 2020 06:00:00 GMT</pubDate>
+  <media:content url="https://dcpo.org//publications/working-papers/dcpo_article/dcpo_article_fig1.png" medium="image" type="image/png" height="72" width="144"/>
+</item>
+</channel>
+</rss>
