@@ -17,7 +17,7 @@
   </div>
 
   <div class="publication-extra">
-  <p><strong>Other details:</strong> <%= item['extra'] %></p>
+  <p><% if (item['extra']) {%><strong>Other details:</strong> <%= item['extra'] %><% } %></p>
   </div>
 
   </li>
