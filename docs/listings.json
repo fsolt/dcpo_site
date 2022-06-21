@@ -4,6 +4,7 @@
     "items": [
       "/publications/published/pge/index.html",
       "/publications/published/dem_support/index.html",
+      "/publications/working-papers/dem_mood/index.html",
       "/publications/working-papers/dcpo_article/index.html"
     ]
   },
@@ -17,6 +18,16 @@
     "listing": "/publications/working-papers/dcpo_article/index.html",
     "items": [
       "/publications/working-papers/dcpo_article/short.html"
+    ]
+  },
+  {
+    "listing": "/publications/working-papers/dem_mood/short.html",
+    "items": []
+  },
+  {
+    "listing": "/publications/working-papers/dem_mood/index.html",
+    "items": [
+      "/publications/working-papers/dem_mood/short.html"
     ]
   },
   {
