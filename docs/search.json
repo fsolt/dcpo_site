@@ -238,25 +238,11 @@
     "text": "BibTeX citation\n@misc{WooAllemangSolt2022,\n    author = {Woo, Byung-Deuk, and Goldberg, Lindsey A., and Solt, Frederick},\n    year = {2022},\n    doi = {10.31235/osf.io/37dq9},\n    month = {Feb},\n    publisher = {SocArXiv},\n    title = {Public {{Gender Egalitarianism}}: {{A Dataset}} of {{Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles}} in the {{Public Sphere}}},\n    url = {https://osf.io/preprints/socarxiv/37dq9},\n    year = {2022}}"
   },
   {
-    "objectID": "news/posts/post-with-code/index.html",
-    "href": "news/posts/post-with-code/index.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "This is a post with executable code."
-  },
-  {
-    "objectID": "news/posts/welcome/index.html",
-    "href": "news/posts/welcome/index.html",
-    "title": "Welcome To My Blog",
-    "section": "",
-    "text": "Since this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
-  },
-  {
     "objectID": "news/index.html",
     "href": "news/index.html",
     "title": "DCPO News",
     "section": "",
-    "text": "news\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nApr 6, 2022\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nApr 3, 2022\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "No matching items"
   },
   {
     "objectID": "team/index.html",
