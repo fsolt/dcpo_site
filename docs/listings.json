@@ -4,6 +4,7 @@
     "items": [
       "/publications/published/pge/index.html",
       "/publications/published/dem_support/index.html",
+      "/publications/working-papers/hutaikowoosolt2023/index.html",
       "/publications/working-papers/dem_mood/index.html",
       "/publications/working-papers/dcpo_article/index.html"
     ]
@@ -28,6 +29,16 @@
     "listing": "/publications/working-papers/dem_mood/index.html",
     "items": [
       "/publications/working-papers/dem_mood/short.html"
+    ]
+  },
+  {
+    "listing": "/publications/working-papers/hutaikowoosolt2023/short.html",
+    "items": []
+  },
+  {
+    "listing": "/publications/working-papers/hutaikowoosolt2023/index.html",
+    "items": [
+      "/publications/working-papers/hutaikowoosolt2023/short.html"
     ]
   },
   {

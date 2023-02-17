@@ -17,7 +17,103 @@
 <width>144</width>
 </image>
 <generator>quarto-0.9.351</generator>
-<lastBuildDate>Tue, 21 Jun 2022 05:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 16 Feb 2023 06:00:00 GMT</lastBuildDate>
+<item>
+  <title>Support for Democracy Is Multidimensional: Why Unidimensional Latent Variable Measures of Democratic Support Are Invalid</title>
+  <dc:creator>Yue Hu</dc:creator>
+  <dc:creator>Yuehong Cassandra Tai</dc:creator>
+  <dc:creator>Hyein Ko</dc:creator>
+  <dc:creator>Byung-Deuk Woo</dc:creator>
+  <dc:creator>Frederick Solt</dc:creator>
+  <link>https://dcpo.org/publications/working-papers/hutaikowoosolt2023/index.html</link>
+  <description><![CDATA[ 
+
+
+
+<div id="listing-cite" class="quarto-listing quarto-listing-container-custom">
+<div class="research-page">
+<li class="project">
+<div class="project-details">
+<div class="project-content">
+<p>
+<a href="https://sammo3182.github.io">Hu, Yue</a>, <a href="https://cassyuehtai.netlify.app">Yuehong Cassandra Tai</a>, <a href="https://www.heyikon.com">Hyein Ko</a>, <a href="https://www.byung-deuk-woo.org">Byung-Deuk Woo</a>, and <a href="https://fsolt.org">Frederick Solt</a>. 2023. “Support for Democracy Is Multidimensional: Why Unidimensional Latent Variable Measures of Democratic Support Are Invalid.” <em>SocArXiv</em>.
+</p>
+</div>
+<ul class="project-links">
+<li class="project-link">
+<a href="https://osf.io/preprints/socarxiv/rym8g/"><i class="far fa-file-pdf"></i> Preprint</a>
+</li>
+<li class="project-link">
+<a href="https://github.com/fsolt/dcpo_demsupport_data"><i class="fa-brands fa-github"></i> Code</a>
+</li>
+</ul>
+</div>
+<div class="publication-extra">
+<p>
+</p>
+</div>
+</li>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<p>Measuring democratic support as a single latent variable requires assuming that it falls along a single dimension from steadfast opposition to wholehearted support. This ignores ample evidence that support for democracy is complex and multidimensional. Here we provide a series of validation tests of the sort of cross-national time-series latent variable measures employed in recent research by reference to questions on support for liberal democracy and opposition to its erosion from multiwave surveys conducted around the world. These tests show that, across countries and years, this latent variable is nearly orthogonal to measures of support for contestation and participation; civil liberties; institutional constraints on executive power; and prioritizing democracy over the economy, economic equality, or order. We conclude that support for democracy in any robust sense is simply not well captured by a unidimensional latent variable. Such measures are powerful but researchers must be mindful of their limitations.</p>
+</section>
+<section id="important-figures" class="level2">
+<h2 class="anchored" data-anchor-id="important-figures">Important figures</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://dcpo.org/publications/working-papers/hutaikowoosolt2023/demsupport_data_fig1.png" class="img-fluid figure-img"></p>
+<p></p><p></p>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://dcpo.org/publications/working-papers/hutaikowoosolt2023/demsupport_data_fig2.png" class="img-fluid figure-img"></p>
+<p></p><p></p>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://dcpo.org/publications/working-papers/hutaikowoosolt2023/demsupport_data_fig3.png" class="img-fluid figure-img"></p>
+<p></p><p></p>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://dcpo.org/publications/working-papers/hutaikowoosolt2023/demsupport_data_fig4.png" class="img-fluid figure-img"></p>
+<p></p><p></p>
+</figure>
+</div>
+</section>
+<section id="bibtex-citation" class="level2">
+<h2 class="anchored" data-anchor-id="bibtex-citation">BibTeX citation</h2>
+<div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;">@misc</span>{<span class="ot" style="color: #003B4F;">HuTaiSolt2022</span>,</span>
+<span id="cb1-2"> <span class="dt" style="color: #AD0000;">author</span>={Hu, Yue and Tai, Yuehong Cassandra and Ko, Hyein and Woo, Byung-Deuk and Solt, Frederick},</span>
+<span id="cb1-3"> <span class="dt" style="color: #AD0000;">title</span>={Support for Democracy Is Multidimensional: Why Unidimensional Latent Variable Measures of Democratic Support Are Invalid},</span>
+<span id="cb1-4"> <span class="dt" style="color: #AD0000;">publisher</span>={SocArXiv},</span>
+<span id="cb1-5"> <span class="dt" style="color: #AD0000;">year</span>={2023},</span>
+<span id="cb1-6"> <span class="dt" style="color: #AD0000;">month</span>={February}, </span>
+<span id="cb1-7"> <span class="dt" style="color: #AD0000;">url</span>={osf.io/preprints/socarxiv/rym8g/},</span>
+<span id="cb1-8"> <span class="dt" style="color: #AD0000;">doi</span>={10.31235/osf.io/rym8g/}</span>
+<span id="cb1-9">}</span></code></pre></div>
+
+
+
+</section>
+
+ ]]></description>
+  <category>attitudes</category>
+  <category>democracy</category>
+  <category>measurement</category>
+  <category>dcpo</category>
+  <guid>https://dcpo.org/publications/working-papers/hutaikowoosolt2023/index.html</guid>
+  <pubDate>Thu, 16 Feb 2023 06:00:00 GMT</pubDate>
+  <media:content url="https://dcpo.org//publications/working-papers/hutaikowoosolt2023/demsupport_data_fig1.png" medium="image" type="image/png" height="62" width="144"/>
+</item>
 <item>
   <title>On Data ‘Janitor Work’ in Political Science: The Case of Thermostatic Support for Democracy</title>
   <dc:creator>Yue Hu</dc:creator>
