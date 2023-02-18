@@ -6,7 +6,7 @@ cite: >
   [Yuehong Cassandra Tai](https://cassyuehtai.netlify.app), 
   [Hyein Ko](https://www.heyikon.com),
   [Byung-Deuk Woo](https://www.byung-deuk-woo.org), and
-  **Frederick Solt**. 
+  [Frederick Solt](https://fsolt.org). 
   2023.
   "Support for Democracy Is Multidimensional: Why Unidimensional Latent Variable Measures of Democratic Support Are Invalid."
   _SocArXiv_.
