@@ -6,7 +6,7 @@ cite: >
   [Yuehong Cassandra Tai](https://cassyuehtai.netlify.app), 
   [Hyein Ko](https://www.heyikon.com),
   [Byung-Deuk Woo](https://www.byung-deuk-woo.org), and
-  [Frederick Solt](https://fsolt.org). 
+  **Frederick Solt**. 
   2023.
   "Support for Democracy Is Multidimensional: Why Unidimensional Latent Variable Measures of Democratic Support Are Invalid."
   _SocArXiv_.
@@ -21,7 +21,7 @@ links:
 #   url: ""
 #   icon: fas fa-scroll
 - name: Preprint
-  url: "https://osf.io/preprints/socarxiv/rym8g/"
+  url: /papers/hutaikowoosolt2023_pre
   icon: far fa-file-pdf
 - name: Code
   url: "https://github.com/fsolt/dcpo_demsupport_data"
