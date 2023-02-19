@@ -8,6 +8,9 @@ cite: >
   _SocArXiv_.
 author:
     - name: Frederick Solt
+      affiliation: University of Iowa
+      url: https://fsolt.org
+      orcid: 0000-0002-3154-6132
 extra: >
     Previous versions of this project were presented at the 2014 meetings of
     the European Political Science Association and American Political 
