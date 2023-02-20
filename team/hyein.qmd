@@ -14,7 +14,7 @@ about:
       href: https://github.com/hey-ikon/
     - icon: globe
       text: website
-      href: https://clas.uiowa.edu/polisci/people/hyein-ko
+      href: https://www.heyikon.com
     - icon: envelope
       text: email
       href: mailto:hyein-ko@uiowa.edu
