@@ -17,11 +17,11 @@ about:
       href: https://cassyuehtai.netlify.app
     - icon: envelope
       text: email
-      href: mailto:yuehong-tai@uiowa.edu
+      href: mailto:yhcasstai@psu.edu
     # - icon: chat-left-quote
     #   text: "Google Scholar"
     #   href: https://scholar.google.com/citations?user=PNwjYEAAAAAJ
     
 ---
 
-Yuehong 'Cassandra' Tai is a Ph.D. candidate in the Department of Political Science at the University of Iowa. Her research attempts to understand the interaction between public opinion and policymaking, policy output, policy outcomes, and policy feedback as a process in governance in comparative perspective. She is particularly interested in the role of social and political trust on public health and economic policy.  Her methodological interests include Bayesian analysis and machine learning.
+Yuehong 'Cassandra' Tai is a postdoctoral scholar at the [Center for Social Data Analytics](https://soda.la.psu.edu/the-center/) (C-SoDA) at Pennsylvania State University. Her research attempts to understand the interaction between public opinion and policymaking, policy output, policy outcomes, and policy feedback as a process in governance in comparative perspective. She is particularly interested in the role of social and political trust on public health and economic policy.  Her methodological interests include Bayesian analysis and machine learning.
