@@ -2,10 +2,11 @@
   {
     "listing": "/publications/index.html",
     "items": [
-      "/publications/published/pge/index.html",
       "/publications/published/dem_support/index.html",
-      "/publications/working-papers/demsupport_data/index.html",
+      "/publications/published/pge/index.html",
       "/publications/working-papers/dem_mood/index.html",
+      "/publications/working-papers/macrointerest/index.html",
+      "/publications/working-papers/demsupport_data/index.html",
       "/publications/working-papers/dcpo_article/index.html"
     ]
   },
@@ -39,6 +40,16 @@
     "listing": "/publications/working-papers/dem_mood/index.html",
     "items": [
       "/publications/working-papers/dem_mood/short.html"
+    ]
+  },
+  {
+    "listing": "/publications/working-papers/macrointerest/short.html",
+    "items": []
+  },
+  {
+    "listing": "/publications/working-papers/macrointerest/index.html",
+    "items": [
+      "/publications/working-papers/macrointerest/short.html"
     ]
   },
   {

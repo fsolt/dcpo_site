@@ -1,6 +1,6 @@
 ---
 title: "On Data 'Janitor Work' in Political Science: The Case of Thermostatic Support for Democracy"
-date: 2022-06-21
+date: 2023-05-29
 cite: >
   [Hu, Yue](https://sammo3182.github.io),
   [Yuehong Cassandra Tai](https://cassyuehtai.netlify.app), and
@@ -41,12 +41,12 @@ links:
 # #   status: Writing
 # #   class: warning
 # #   icon: fas fa-edit
-# #   status: Revising
-# #   class: info
-# #   icon: fas fa-sync
-status: Under review
-status_class: success
-status_icon: fa-solid fa-glasses
+status: Revising
+status_class: info
+status_icon: fa-solid fa-arrows-rotate
+# status: Under review
+# status_class: success
+# status_icon: fa-solid fa-glasses
 listing:
   - id: cite
     contents: "short.qmd"

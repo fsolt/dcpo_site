@@ -16,280 +16,8 @@
 <height>63</height>
 <width>144</width>
 </image>
-<generator>quarto-0.9.351</generator>
-<lastBuildDate>Thu, 16 Feb 2023 06:00:00 GMT</lastBuildDate>
-<item>
-  <title>Support for Democracy Is Multidimensional: Why Unidimensional Latent Variable Measures of Democratic Support Are Invalid</title>
-  <dc:creator>Yue Hu</dc:creator>
-  <dc:creator>Yuehong Cassandra Tai</dc:creator>
-  <dc:creator>Hyein Ko</dc:creator>
-  <dc:creator>Byung-Deuk Woo</dc:creator>
-  <dc:creator>Frederick Solt</dc:creator>
-  <link>https://dcpo.org/publications/working-papers/demsupport_data/index.html</link>
-  <description><![CDATA[ 
-
-
-
-<div id="listing-cite" class="quarto-listing quarto-listing-container-custom">
-<div class="research-page">
-<li class="project">
-<div class="project-details">
-<div class="project-content">
-<p>
-<a href="https://sammo3182.github.io">Hu, Yue</a>, <a href="https://cassyuehtai.netlify.app">Yuehong Cassandra Tai</a>, <a href="https://www.heyikon.com">Hyein Ko</a>, <a href="https://www.byung-deuk-woo.org">Byung-Deuk Woo</a>, and <a href="https://fsolt.org">Frederick Solt</a>. 2023. “Support for Democracy Is Multidimensional: Why Unidimensional Latent Variable Measures of Democratic Support Are Invalid.” <em>SocArXiv</em>.
-</p>
-</div>
-<ul class="project-links">
-<li class="project-link">
-<a href="../../../papers/hutaikowoosolt2023_pre"><i class="far fa-file-pdf"></i> Preprint</a>
-</li>
-<li class="project-link">
-<a href="https://github.com/fsolt/dcpo_demsupport_data"><i class="fa-brands fa-github"></i> Code</a>
-</li>
-</ul>
-</div>
-<div class="publication-extra">
-<p>
-</p>
-</div>
-</li>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div>
-<section id="abstract" class="level2">
-<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
-<p>Measuring democratic support as a single latent variable requires assuming that it falls along a single dimension from steadfast opposition to wholehearted support. This ignores ample evidence that support for democracy is complex and multidimensional. Here we provide a series of validation tests of the sort of cross-national time-series latent variable measures employed in recent research by reference to questions on support for liberal democracy and opposition to its erosion from multiwave surveys conducted around the world. These tests show that, across countries and years, this latent variable is nearly orthogonal to measures of support for contestation and participation; civil liberties; institutional constraints on executive power; and prioritizing democracy over the economy, economic equality, or order. We conclude that support for democracy in any robust sense is simply not well captured by a unidimensional latent variable. Such measures are powerful but researchers must be mindful of their limitations.</p>
-</section>
-<section id="important-figures" class="level2">
-<h2 class="anchored" data-anchor-id="important-figures">Important figures</h2>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://dcpo.org/publications/working-papers/demsupport_data/demsupport_data_fig1.png" class="img-fluid figure-img"></p>
-<p></p><p></p>
-</figure>
-</div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://dcpo.org/publications/working-papers/demsupport_data/demsupport_data_fig2.png" class="img-fluid figure-img"></p>
-<p></p><p></p>
-</figure>
-</div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://dcpo.org/publications/working-papers/demsupport_data/demsupport_data_fig3.png" class="img-fluid figure-img"></p>
-<p></p><p></p>
-</figure>
-</div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://dcpo.org/publications/working-papers/demsupport_data/demsupport_data_fig4.png" class="img-fluid figure-img"></p>
-<p></p><p></p>
-</figure>
-</div>
-</section>
-<section id="bibtex-citation" class="level2">
-<h2 class="anchored" data-anchor-id="bibtex-citation">BibTeX citation</h2>
-<div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;">@misc</span>{<span class="ot" style="color: #003B4F;">HuTaiSolt2022</span>,</span>
-<span id="cb1-2"> <span class="dt" style="color: #AD0000;">author</span>={Hu, Yue and Tai, Yuehong Cassandra and Ko, Hyein and Woo, Byung-Deuk and Solt, Frederick},</span>
-<span id="cb1-3"> <span class="dt" style="color: #AD0000;">title</span>={Support for Democracy Is Multidimensional: Why Unidimensional Latent Variable Measures of Democratic Support Are Invalid},</span>
-<span id="cb1-4"> <span class="dt" style="color: #AD0000;">publisher</span>={SocArXiv},</span>
-<span id="cb1-5"> <span class="dt" style="color: #AD0000;">year</span>={2023},</span>
-<span id="cb1-6"> <span class="dt" style="color: #AD0000;">month</span>={February}, </span>
-<span id="cb1-7"> <span class="dt" style="color: #AD0000;">url</span>={osf.io/preprints/socarxiv/rym8g/},</span>
-<span id="cb1-8"> <span class="dt" style="color: #AD0000;">doi</span>={10.31235/osf.io/rym8g/}</span>
-<span id="cb1-9">}</span></code></pre></div>
-
-
-
-</section>
-
- ]]></description>
-  <category>attitudes</category>
-  <category>democracy</category>
-  <category>measurement</category>
-  <category>dcpo</category>
-  <guid>https://dcpo.org/publications/working-papers/demsupport_data/index.html</guid>
-  <pubDate>Thu, 16 Feb 2023 06:00:00 GMT</pubDate>
-  <media:content url="https://dcpo.org//publications/working-papers/demsupport_data/demsupport_data_fig1.png" medium="image" type="image/png" height="62" width="144"/>
-</item>
-<item>
-  <title>On Data ‘Janitor Work’ in Political Science: The Case of Thermostatic Support for Democracy</title>
-  <dc:creator>Yue Hu</dc:creator>
-  <dc:creator>Yuehong Cassandra Tai</dc:creator>
-  <dc:creator>Frederick Solt</dc:creator>
-  <link>https://dcpo.org/publications/working-papers/dem_mood/index.html</link>
-  <description><![CDATA[ 
-
-
-
-<div id="listing-cite" class="quarto-listing quarto-listing-container-custom">
-<div class="research-page">
-<li class="project">
-<div class="project-details">
-<div class="project-content">
-<p>
-<a href="https://sammo3182.github.io">Hu, Yue</a>, <a href="https://cassyuehtai.netlify.app">Yuehong Cassandra Tai</a>, and <a href="https://fsolt.org">Frederick Solt</a>. 2022. “On Data ‘Janitor Work’ in Political Science: The Case of Thermostatic Support for Democracy.” <em>SocArXiv</em>.
-</p>
-</div>
-<ul class="project-links">
-<li class="project-link">
-<a href="../../../papers/hutaisolt2022_pre"><i class="far fa-file-pdf"></i> Preprint</a>
-</li>
-<li class="project-link">
-<a href="https://github.com/fsolt/dem_mood"><i class="fa-brands fa-github"></i> Code</a>
-</li>
-</ul>
-</div>
-<div class="publication-extra">
-<p>
-</p>
-</div>
-</li>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div>
-<section id="abstract" class="level2">
-<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
-<p>Data ‘janitor work’, the task of getting data into a format appropriate for analysis, has grown increasingly important as political science research has come to depend on data drawn from hundreds and thousands of sources. One tempting solution is to simply enter the data by hand, but this approach raises serious risks of data-entry error, a difficult-to-catch problem with the potential to fatally undermine our conclusions. Underscoring these points, we identify data-entry errors in a prominent recent article, the 2020 study by Claassen that examines the effect of changes in democracy on public support for democracy. We then show that when these errors are corrected, the work’s models provide no support for its conclusion that publics react thermostatically to changes in democracy. Researchers should refrain from hand-entering data as much as possible, and we offer additional suggestions for avoiding errors.</p>
-</section>
-<section id="important-figures" class="level2">
-<h2 class="anchored" data-anchor-id="important-figures">Important figures</h2>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://dcpo.org/publications/working-papers/dem_mood/dem_mood_fig1.png" class="img-fluid figure-img"></p>
-<p></p><p></p>
-</figure>
-</div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://dcpo.org/publications/working-papers/dem_mood/dem_mood_fig2.png" class="img-fluid figure-img"></p>
-<p></p><p></p>
-</figure>
-</div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://dcpo.org/publications/working-papers/dem_mood/dem_mood_fig3.png" class="img-fluid figure-img"></p>
-<p></p><p></p>
-</figure>
-</div>
-</section>
-<section id="bibtex-citation" class="level2">
-<h2 class="anchored" data-anchor-id="bibtex-citation">BibTeX citation</h2>
-<div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;">@misc</span>{<span class="ot" style="color: #003B4F;">HuTaiSolt2022</span>,</span>
-<span id="cb1-2"> <span class="dt" style="color: #AD0000;">author</span>={Hu, Yue and Tai, Yuehong Cassandra and Solt, Frederick},</span>
-<span id="cb1-3"> <span class="dt" style="color: #AD0000;">title</span>={On Data 'Janitor Work' in Political Science: The Case of Thermostatic Support for Democracy},</span>
-<span id="cb1-4"> <span class="dt" style="color: #AD0000;">publisher</span>={SocArXiv},</span>
-<span id="cb1-5"> <span class="dt" style="color: #AD0000;">year</span>={2022},</span>
-<span id="cb1-6"> <span class="dt" style="color: #AD0000;">month</span>={June}, </span>
-<span id="cb1-7"> <span class="dt" style="color: #AD0000;">url</span>={osf.io/preprints/socarxiv/kd7mu},</span>
-<span id="cb1-8"> <span class="dt" style="color: #AD0000;">doi</span>={10.31235/osf.io/kd7mu}</span>
-<span id="cb1-9">}</span></code></pre></div>
-
-
-
-</section>
-
- ]]></description>
-  <category>attitudes</category>
-  <category>democracy</category>
-  <category>measurement</category>
-  <category>dcpo</category>
-  <guid>https://dcpo.org/publications/working-papers/dem_mood/index.html</guid>
-  <pubDate>Tue, 21 Jun 2022 05:00:00 GMT</pubDate>
-  <media:content url="https://dcpo.org//publications/working-papers/dem_mood/dem_mood_fig1.png" medium="image" type="image/png" height="113" width="144"/>
-</item>
-<item>
-  <title>Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere</title>
-  <dc:creator>Byung-Deuk Woo</dc:creator>
-  <dc:creator>Lindsey A. Goldberg</dc:creator>
-  <dc:creator>Frederick Solt</dc:creator>
-  <link>https://dcpo.org/publications/published/pge/index.html</link>
-  <description><![CDATA[ 
-
-
-
-<div id="listing-cite" class="quarto-listing quarto-listing-container-custom">
-<div class="research-page">
-<li class="project">
-<div class="project-details">
-<div class="project-content">
-<p>
-<a href="https://www.byung-deuk-woo.org">Woo, Byung-Deuk</a>, <a href="https://www.lindsey-allemang-goldberg.com">Lindsey A. Goldberg</a>, and <a href="https://fsolt.org">Frederick Solt</a>. Forthcoming. “Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere.” <em>British Journal of Political Science</em>.
-</p>
-</div>
-<ul class="project-links">
-<li class="project-link">
-<a href="../../../papers/woogoldbergsolt2022"><i class="fas fa-scroll"></i> Final version</a>
-</li>
-<li class="project-link">
-<a href="../../../papers/woogoldbergsolt2022_pre"><i class="far fa-file-pdf"></i> Preprint</a>
-</li>
-<li class="project-link">
-<a href="https://github.com/fsolt/dcpo_gender_roles"><i class="fa-brands fa-github"></i> Code</a>
-</li>
-<li class="project-link">
-<a href="https://doi.org/10.7910/DVN/T3UP6R"><i class="fas fa-table"></i> Dataverse</a>
-</li>
-<li class="project-link">
-<a href="../../../data/pge/"><i class="fa-solid fa-database"></i> PGE Database</a>
-</li>
-</ul>
-</div>
-<div class="publication-extra">
-<p>
-<strong>Other details:</strong> Presented at the annual meeting of the Midwest Political Science Association (MPSA), April 2022.
-</p>
-</div>
-</li>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div>
-<section id="abstract" class="level2">
-<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
-<p>Societal attitudes toward gender roles in the workplace and politics play a central part in theorizing on the difficulty women face in achieving political equality, but shortcomings in the available data have prevented direct examination of many implications of these theories. Drawing on recent advances in latent variable modeling of public opinion and a comprehensive collection of survey data, we present the Public Gender Egalitarianism dataset to address this need: comparable estimates of the public’s attitudes on gender equality in the public sphere across more than one hundred countries over time. These PGE scores are strongly correlated with responses to individual survey items and with women’s rates of participation in the labor force and corporate boards. We expect that the PGE data will become an invaluable source for broadly cross-national and longitudinal research on the causes and consequences of collective attitudes toward gender equality in politics and the economy.</p>
-</section>
-<section id="important-figures" class="level2">
-<h2 class="anchored" data-anchor-id="important-figures">Important figures</h2>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://dcpo.org/publications/published/pge/pge_fig3.png" class="preview-image img-fluid figure-img"></p>
-<p></p><p></p>
-</figure>
-</div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://dcpo.org/publications/published/pge/pge_fig6.png" class="img-fluid figure-img"></p>
-<p></p><p></p>
-</figure>
-</div>
-</section>
-<section id="bibtex-citation" class="level2">
-<h2 class="anchored" data-anchor-id="bibtex-citation">BibTeX citation</h2>
-<div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;">@misc</span>{<span class="ot" style="color: #003B4F;">WooAllemangSolt2022</span>,</span>
-<span id="cb1-2">    <span class="dt" style="color: #AD0000;">author</span> = {Woo, Byung-Deuk, and Goldberg, Lindsey A., and Solt, Frederick},</span>
-<span id="cb1-3">    <span class="dt" style="color: #AD0000;">year</span> = {2022},</span>
-<span id="cb1-4">    <span class="dt" style="color: #AD0000;">doi</span> = {10.31235/osf.io/37dq9},</span>
-<span id="cb1-5">    <span class="dt" style="color: #AD0000;">month</span> = {Feb},</span>
-<span id="cb1-6">    <span class="dt" style="color: #AD0000;">publisher</span> = {SocArXiv},</span>
-<span id="cb1-7">    <span class="dt" style="color: #AD0000;">title</span> = {Public {{Gender Egalitarianism}}: {{A Dataset}} of {{Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles}} in the {{Public Sphere}}},</span>
-<span id="cb1-8">    <span class="dt" style="color: #AD0000;">url</span> = {https://osf.io/preprints/socarxiv/37dq9},</span>
-<span id="cb1-9">    <span class="dt" style="color: #AD0000;">year</span> = {2022}}</span></code></pre></div>
-
-
-
-</section>
-
- ]]></description>
-  <guid>https://dcpo.org/publications/published/pge/index.html</guid>
-  <pubDate>Fri, 01 Apr 2022 05:00:00 GMT</pubDate>
-  <media:content url="https://dcpo.org//publications/published/pge/pge_fig3.png" medium="image" type="image/png" height="72" width="144"/>
-</item>
+<generator>quarto-1.3.353</generator>
+<lastBuildDate>Mon, 29 May 2023 05:00:00 GMT</lastBuildDate>
 <item>
   <title>Democracy, Public Support, and Measurement Uncertainty</title>
   <dc:creator>Yuehong Cassandra Tai</dc:creator>
@@ -344,19 +72,35 @@ No matching items
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://dcpo.org/publications/published/dem_support/dem_support_fig1.png" class="preview-image img-fluid figure-img"></p>
-<p></p><p></p>
+<figcaption class="figure-caption">Figure 1: The Effect of Public Support on Democracy with Uncertainty</figcaption>
 </figure>
 </div>
 </section>
 <section id="bibtex-citation" class="level2">
 <h2 class="anchored" data-anchor-id="bibtex-citation">BibTeX Citation</h2>
-<div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;">@misc</span>{<span class="ot" style="color: #003B4F;">TaiHuSolt2022</span>,</span>
-<span id="cb1-2"> <span class="dt" style="color: #AD0000;">author</span>={Tai, Yuehong 'Cassandra' and Hu, Yue and Solt, Frederick},</span>
-<span id="cb1-3"> <span class="dt" style="color: #AD0000;">title</span>={Democracy, Public Support, and Measurement Uncertainty},</span>
-<span id="cb1-4"> <span class="dt" style="color: #AD0000;">url</span>={osf.io/preprints/socarxiv/y5fdv},</span>
-<span id="cb1-5"> <span class="dt" style="color: #AD0000;">doi</span>={10.31235/osf.io/y5fdv},</span>
-<span id="cb1-6"> <span class="dt" style="color: #AD0000;">publisher</span>={SocArXiv},</span>
-<span id="cb1-7"> <span class="dt" style="color: #AD0000;">year</span>={2022},</span>
+<div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
+background-color: null;
+font-style: inherit;">@article</span>{<span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">TaiHuSolt2022</span>,</span>
+<span id="cb1-2">    <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">author</span> = {Tai, Yuehong 'Cassandra' and Hu, Yue and Solt, Frederick},</span>
+<span id="cb1-3">    <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">year</span> = {2022},</span>
+<span id="cb1-4">    <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">journal</span> = {American Political Science Review},</span>
+<span id="cb1-5">    <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">title</span> = {Democracy, Public Support, and Measurement Uncertainty},</span>
+<span id="cb1-6">    <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">volume</span> = {FirstView},</span>
+<span id="cb1-7">    <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">doi</span> = {doi.org/10.1017/S0003055422000429}</span>
 <span id="cb1-8">}</span></code></pre></div>
 
 
@@ -369,8 +113,435 @@ No matching items
   <category>attitudes</category>
   <category>measurement</category>
   <guid>https://dcpo.org/publications/published/dem_support/index.html</guid>
-  <pubDate>Fri, 25 Mar 2022 05:00:00 GMT</pubDate>
-  <media:content url="https://dcpo.org//publications/published/dem_support/dem_support_fig1.png" medium="image" type="image/png" height="288" width="144"/>
+  <pubDate>Mon, 29 May 2023 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>On Data ‘Janitor Work’ in Political Science: The Case of Thermostatic Support for Democracy</title>
+  <dc:creator>Yue Hu</dc:creator>
+  <dc:creator>Yuehong Cassandra Tai</dc:creator>
+  <dc:creator>Frederick Solt</dc:creator>
+  <link>https://dcpo.org/publications/working-papers/dem_mood/index.html</link>
+  <description><![CDATA[ 
+
+
+
+<div id="listing-cite" class="quarto-listing quarto-listing-container-custom">
+<div class="research-page">
+<li class="project">
+<div class="project-details">
+<div class="project-content">
+<p>
+<a href="https://sammo3182.github.io">Hu, Yue</a>, <a href="https://cassyuehtai.netlify.app">Yuehong Cassandra Tai</a>, and <a href="https://fsolt.org">Frederick Solt</a>. 2022. “On Data ‘Janitor Work’ in Political Science: The Case of Thermostatic Support for Democracy.” <em>SocArXiv</em>.
+</p>
+</div>
+<ul class="project-links">
+<li class="project-link">
+<a href="../../../papers/hutaisolt2022_pre"><i class="far fa-file-pdf"></i> Preprint</a>
+</li>
+<li class="project-link">
+<a href="https://github.com/fsolt/dem_mood"><i class="fa-brands fa-github"></i> Code</a>
+</li>
+</ul>
+</div>
+<div class="publication-extra">
+<p>
+</p>
+</div>
+</li>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<p>Data ‘janitor work’, the task of getting data into a format appropriate for analysis, has grown increasingly important as political science research has come to depend on data drawn from hundreds and thousands of sources. One tempting solution is to simply enter the data by hand, but this approach raises serious risks of data-entry error, a difficult-to-catch problem with the potential to fatally undermine our conclusions. Underscoring these points, we identify data-entry errors in a prominent recent article, the 2020 study by Claassen that examines the effect of changes in democracy on public support for democracy. We then show that when these errors are corrected, the work’s models provide no support for its conclusion that publics react thermostatically to changes in democracy. Researchers should refrain from hand-entering data as much as possible, and we offer additional suggestions for avoiding errors.</p>
+</section>
+<section id="important-figures" class="level2">
+<h2 class="anchored" data-anchor-id="important-figures">Important figures</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://dcpo.org/publications/working-papers/dem_mood/dem_mood_fig1.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Figure 1: Comparing Democracy-Supporting Responses in the Publication Data and the Corrected Data</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://dcpo.org/publications/working-papers/dem_mood/dem_mood_fig2.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Figure 2: The Effect of Democracy on Change in Public Support</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://dcpo.org/publications/working-papers/dem_mood/dem_mood_fig3.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Figure 3: Simulated Effects of Change in Democracy on Public Support</figcaption>
+</figure>
+</div>
+</section>
+<section id="bibtex-citation" class="level2">
+<h2 class="anchored" data-anchor-id="bibtex-citation">BibTeX citation</h2>
+<div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
+background-color: null;
+font-style: inherit;">@misc</span>{<span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">HuTaiSolt2022</span>,</span>
+<span id="cb1-2"> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">author</span>={Hu, Yue and Tai, Yuehong Cassandra and Solt, Frederick},</span>
+<span id="cb1-3"> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">title</span>={On Data 'Janitor Work' in Political Science: The Case of Thermostatic Support for Democracy},</span>
+<span id="cb1-4"> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">publisher</span>={SocArXiv},</span>
+<span id="cb1-5"> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">year</span>={2022},</span>
+<span id="cb1-6"> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">month</span>={June}, </span>
+<span id="cb1-7"> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">url</span>={osf.io/preprints/socarxiv/kd7mu},</span>
+<span id="cb1-8"> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">doi</span>={10.31235/osf.io/kd7mu}</span>
+<span id="cb1-9">}</span></code></pre></div>
+
+
+
+</section>
+
+ ]]></description>
+  <category>attitudes</category>
+  <category>democracy</category>
+  <category>measurement</category>
+  <category>dcpo</category>
+  <guid>https://dcpo.org/publications/working-papers/dem_mood/index.html</guid>
+  <pubDate>Mon, 29 May 2023 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere</title>
+  <dc:creator>Byung-Deuk Woo</dc:creator>
+  <dc:creator>Lindsey A. Goldberg</dc:creator>
+  <dc:creator>Frederick Solt</dc:creator>
+  <link>https://dcpo.org/publications/published/pge/index.html</link>
+  <description><![CDATA[ 
+
+
+
+<div id="listing-cite" class="quarto-listing quarto-listing-container-custom">
+<div class="research-page">
+<li class="project">
+<div class="project-details">
+<div class="project-content">
+<p>
+<a href="https://www.byung-deuk-woo.org">Woo, Byung-Deuk</a>, <a href="https://www.lindsey-allemang-goldberg.com">Lindsey A. Goldberg</a>, and <a href="https://fsolt.org">Frederick Solt</a>. 2023. “Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere.” <em>British Journal of Political Science</em> 53(2), 766-775.
+</p>
+</div>
+<ul class="project-links">
+<li class="project-link">
+<a href="../../../papers/woogoldbergsolt2022"><i class="fas fa-scroll"></i> Final version</a>
+</li>
+<li class="project-link">
+<a href="../../../papers/woogoldbergsolt2022_pre"><i class="far fa-file-pdf"></i> Preprint</a>
+</li>
+<li class="project-link">
+<a href="https://github.com/fsolt/dcpo_gender_roles"><i class="fa-brands fa-github"></i> Code</a>
+</li>
+<li class="project-link">
+<a href="https://doi.org/10.7910/DVN/T3UP6R"><i class="fas fa-table"></i> Dataverse</a>
+</li>
+<li class="project-link">
+<a href="../../../data/pge/"><i class="fa-solid fa-database"></i> PGE Database</a>
+</li>
+</ul>
+</div>
+<div class="publication-extra">
+<p>
+<strong>Other details:</strong> Presented at the annual meeting of the Midwest Political Science Association (MPSA), April 2022.
+</p>
+</div>
+</li>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<p>Societal attitudes toward gender roles in the workplace and politics play a central part in theorizing on the difficulty women face in achieving political equality, but shortcomings in the available data have prevented direct examination of many implications of these theories. Drawing on recent advances in latent variable modeling of public opinion and a comprehensive collection of survey data, we present the Public Gender Egalitarianism dataset to address this need: comparable estimates of the public’s attitudes on gender equality in the public sphere across more than one hundred countries over time. These PGE scores are strongly correlated with responses to individual survey items and with women’s rates of participation in the labor force and corporate boards. We expect that the PGE data will become an invaluable source for broadly cross-national and longitudinal research on the causes and consequences of collective attitudes toward gender equality in politics and the economy.</p>
+</section>
+<section id="important-figures" class="level2">
+<h2 class="anchored" data-anchor-id="important-figures">Important figures</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://dcpo.org/publications/published/pge/pge_fig3.png" class="preview-image img-fluid figure-img"></p>
+<figcaption class="figure-caption">Figure 3: PGE Scores Over Time Within Selected Countries</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://dcpo.org/publications/published/pge/pge_fig6.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Figure 6: Construct Validation: Correlations Between PGE Scores and Indicators of Workplace Gender Equality</figcaption>
+</figure>
+</div>
+</section>
+<section id="bibtex-citation" class="level2">
+<h2 class="anchored" data-anchor-id="bibtex-citation">BibTeX citation</h2>
+<div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
+background-color: null;
+font-style: inherit;">@misc</span>{<span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">WooAllemangSolt2022</span>,</span>
+<span id="cb1-2">    <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">author</span> = {Woo, Byung-Deuk, and Goldberg, Lindsey A., and Solt, Frederick},</span>
+<span id="cb1-3">    <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">year</span> = {2022},</span>
+<span id="cb1-4">    <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">doi</span> = {10.31235/osf.io/37dq9},</span>
+<span id="cb1-5">    <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">month</span> = {Feb},</span>
+<span id="cb1-6">    <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">publisher</span> = {SocArXiv},</span>
+<span id="cb1-7">    <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">title</span> = {Public {{Gender Egalitarianism}}: {{A Dataset}} of {{Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles}} in the {{Public Sphere}}},</span>
+<span id="cb1-8">    <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">url</span> = {https://osf.io/preprints/socarxiv/37dq9},</span>
+<span id="cb1-9">    <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">year</span> = {2022}}</span></code></pre></div>
+
+
+
+</section>
+
+ ]]></description>
+  <guid>https://dcpo.org/publications/published/pge/index.html</guid>
+  <pubDate>Sun, 28 May 2023 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Macrointerest Across Countries</title>
+  <dc:creator>Frederick Solt</dc:creator>
+  <link>https://dcpo.org/publications/working-papers/macrointerest/index.html</link>
+  <description><![CDATA[ 
+
+
+
+<div id="listing-cite" class="quarto-listing quarto-listing-container-custom">
+<div class="research-page">
+<li class="project">
+<div class="project-details">
+<div class="project-content">
+<p>
+<a href="https://fsolt.org">Solt, Frederick</a>. 2023. “Macrointerest Across Countries.” <em>SocArXiv</em>.
+</p>
+</div>
+<ul class="project-links">
+<li class="project-link">
+<a href="../../../papers/solt2023_pre"><i class="far fa-file-pdf"></i> Preprint</a>
+</li>
+<li class="project-link">
+<a href="https://github.com/fsolt/dcpo_macrointerest"><i class="fa-brands fa-github"></i> Code</a>
+</li>
+</ul>
+</div>
+<div class="publication-extra">
+<p>
+</p>
+</div>
+</li>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<p>The extent to which the public takes an interest in politics has long been argued to be foundational to democracy, but the want of appropriate data has prevented cross- national and longitudinal analysis. This letter takes advantage of recent advances in latent-variable modeling of aggregate survey responses and a comprehensive collection of survey data to generate dynamic comparative estimates of macrointerest, that is, aggregate political interest, for over a hundred countries over the past four decades. These macrointerest scores are validated with other aggregate measures of political interest and of other types of political engagement. A cross-national and longitudinal analysis of macrointerest in advanced democracies reveals that along with election campaigns and inclusive institutions, it is good times, not bad, that spur publics to greater interest in politics.</p>
+</section>
+<section id="important-figures" class="level2">
+<h2 class="anchored" data-anchor-id="important-figures">Important figures</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://dcpo.org/publications/working-papers/macrointerest/macrointerest_fig2.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Figure 2: Internal Convergent Validation: Correlations Between Macrointerest and Individual Source-Data Survey Items</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://dcpo.org/publications/working-papers/macrointerest/macrointerest_fig3.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Figure 3: Construct Validation: Correlations Between Macrointerest and Other Aspects of Political Engagement</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://dcpo.org/publications/working-papers/macrointerest/macrointerest_fig5.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Figure 5: Predicting Macrointerest in OECD Democracies</figcaption>
+</figure>
+</div>
+</section>
+<section id="bibtex-citation" class="level2">
+<h2 class="anchored" data-anchor-id="bibtex-citation">BibTeX citation</h2>
+<div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
+background-color: null;
+font-style: inherit;">@misc</span>{<span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">Solt2023</span>,</span>
+<span id="cb1-2"> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">author</span>={Solt, Frederick},</span>
+<span id="cb1-3"> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">title</span>={Macrointerest Across Countries},</span>
+<span id="cb1-4"> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">publisher</span>={SocArXiv},</span>
+<span id="cb1-5"> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">year</span>={2023},</span>
+<span id="cb1-6"> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">month</span>={May}, </span>
+<span id="cb1-7"> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">url</span>={osf.io/preprints/socarxiv/nkgdy/},</span>
+<span id="cb1-8"> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">doi</span>={10.31235/osf.io/nkgdy}</span>
+<span id="cb1-9">}</span></code></pre></div>
+
+
+
+</section>
+
+ ]]></description>
+  <category>attitudes</category>
+  <category>democracy</category>
+  <category>measurement</category>
+  <category>dcpo</category>
+  <guid>https://dcpo.org/publications/working-papers/macrointerest/index.html</guid>
+  <pubDate>Wed, 10 May 2023 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Support for Democracy Is Multidimensional: Why Unidimensional Latent Variable Measures of Democratic Support Are Invalid</title>
+  <dc:creator>Yue Hu</dc:creator>
+  <dc:creator>Yuehong Cassandra Tai</dc:creator>
+  <dc:creator>Hyein Ko</dc:creator>
+  <dc:creator>Byung-Deuk Woo</dc:creator>
+  <dc:creator>Frederick Solt</dc:creator>
+  <link>https://dcpo.org/publications/working-papers/demsupport_data/index.html</link>
+  <description><![CDATA[ 
+
+
+
+<div id="listing-cite" class="quarto-listing quarto-listing-container-custom">
+<div class="research-page">
+<li class="project">
+<div class="project-details">
+<div class="project-content">
+<p>
+<a href="https://sammo3182.github.io">Hu, Yue</a>, <a href="https://cassyuehtai.netlify.app">Yuehong Cassandra Tai</a>, <a href="https://www.heyikon.com">Hyein Ko</a>, <a href="https://www.byung-deuk-woo.org">Byung-Deuk Woo</a>, and <a href="https://fsolt.org">Frederick Solt</a>. 2023. “Support for Democracy Is Multidimensional: Why Unidimensional Latent Variable Measures of Democratic Support Are Invalid.” <em>SocArXiv</em>.
+</p>
+</div>
+<ul class="project-links">
+<li class="project-link">
+<a href="../../../papers/hutaikowoosolt2023_pre"><i class="far fa-file-pdf"></i> Preprint</a>
+</li>
+<li class="project-link">
+<a href="https://github.com/fsolt/dcpo_demsupport_data"><i class="fa-brands fa-github"></i> Code</a>
+</li>
+</ul>
+</div>
+<div class="publication-extra">
+<p>
+</p>
+</div>
+</li>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<p>Measuring democratic support as a single latent variable requires assuming that it falls along a single dimension from steadfast opposition to wholehearted support. This ignores ample evidence that support for democracy is complex and multidimensional. Here we provide a series of validation tests of the sort of cross-national time-series latent variable measures employed in recent research by reference to questions on support for liberal democracy and opposition to its erosion from multiwave surveys conducted around the world. These tests show that, across countries and years, this latent variable is nearly orthogonal to measures of support for contestation and participation; civil liberties; institutional constraints on executive power; and prioritizing democracy over the economy, economic equality, or order. We conclude that support for democracy in any robust sense is simply not well captured by a unidimensional latent variable. Such measures are powerful but researchers must be mindful of their limitations.</p>
+</section>
+<section id="important-figures" class="level2">
+<h2 class="anchored" data-anchor-id="important-figures">Important figures</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://dcpo.org/publications/working-papers/demsupport_data/demsupport_data_fig1.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Figure 1: Correlations Between Democratic Support as a Unidimensional Latent Variable and Polyarchy Survey Items</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://dcpo.org/publications/working-papers/demsupport_data/demsupport_data_fig2.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Figure 2: Correlations Between Democratic Support as a Unidimensional Latent Variable and Civil Liberties Survey Items</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://dcpo.org/publications/working-papers/demsupport_data/demsupport_data_fig3.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Figure 3: Correlations Between Democratic Support as a Unidimensional Latent Variable and Democratic Institutions Survey Items</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://dcpo.org/publications/working-papers/demsupport_data/demsupport_data_fig4.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Figure 4: Correlations Between Democratic Support as a Unidimensional Latent Variable and Prioritization Survey Items</figcaption>
+</figure>
+</div>
+</section>
+<section id="bibtex-citation" class="level2">
+<h2 class="anchored" data-anchor-id="bibtex-citation">BibTeX citation</h2>
+<div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
+background-color: null;
+font-style: inherit;">@misc</span>{<span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">HuTaiSolt2022</span>,</span>
+<span id="cb1-2"> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">author</span>={Hu, Yue and Tai, Yuehong Cassandra and Ko, Hyein and Woo, Byung-Deuk and Solt, Frederick},</span>
+<span id="cb1-3"> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">title</span>={Support for Democracy Is Multidimensional: Why Unidimensional Latent Variable Measures of Democratic Support Are Invalid},</span>
+<span id="cb1-4"> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">publisher</span>={SocArXiv},</span>
+<span id="cb1-5"> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">year</span>={2023},</span>
+<span id="cb1-6"> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">month</span>={February}, </span>
+<span id="cb1-7"> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">url</span>={osf.io/preprints/socarxiv/rym8g/},</span>
+<span id="cb1-8"> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">doi</span>={10.31235/osf.io/rym8g/}</span>
+<span id="cb1-9">}</span></code></pre></div>
+
+
+
+</section>
+
+ ]]></description>
+  <category>attitudes</category>
+  <category>democracy</category>
+  <category>measurement</category>
+  <category>dcpo</category>
+  <guid>https://dcpo.org/publications/working-papers/demsupport_data/index.html</guid>
+  <pubDate>Thu, 16 Feb 2023 06:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Modeling Dynamic Comparative Public Opinion</title>
@@ -418,20 +589,38 @@ No matching items
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://dcpo.org/publications/working-papers/dcpo_article/dcpo_article_fig1.png" class="img-fluid figure-img"></p>
-<p></p><p></p>
+<figcaption class="figure-caption">Figure 1: Probability of an Affirmative Response in the 2PL IRT Model</figcaption>
 </figure>
 </div>
 </section>
 <section id="bibtex-citation" class="level2">
 <h2 class="anchored" data-anchor-id="bibtex-citation">BibTeX citation</h2>
-<div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;">@misc</span>{<span class="ot" style="color: #003B4F;">Solt2020</span>,</span>
-<span id="cb1-2"> <span class="dt" style="color: #AD0000;">author</span>={Solt, Frederick},</span>
-<span id="cb1-3"> <span class="dt" style="color: #AD0000;">title</span>={Modeling Dynamic Comparative Public Opinion},</span>
-<span id="cb1-4"> <span class="dt" style="color: #AD0000;">publisher</span>={SocArXiv},</span>
-<span id="cb1-5"> <span class="dt" style="color: #AD0000;">year</span>={2020},</span>
-<span id="cb1-6"> <span class="dt" style="color: #AD0000;">month</span>={Jan}, </span>
-<span id="cb1-7"> <span class="dt" style="color: #AD0000;">url</span>={osf.io/preprints/socarxiv/d5n9p},</span>
-<span id="cb1-8"> <span class="dt" style="color: #AD0000;">doi</span>={10.31235/osf.io/d5n9p}</span>
+<div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
+background-color: null;
+font-style: inherit;">@misc</span>{<span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">Solt2020</span>,</span>
+<span id="cb1-2"> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">author</span>={Solt, Frederick},</span>
+<span id="cb1-3"> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">title</span>={Modeling Dynamic Comparative Public Opinion},</span>
+<span id="cb1-4"> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">publisher</span>={SocArXiv},</span>
+<span id="cb1-5"> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">year</span>={2020},</span>
+<span id="cb1-6"> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">month</span>={Jan}, </span>
+<span id="cb1-7"> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">url</span>={osf.io/preprints/socarxiv/d5n9p},</span>
+<span id="cb1-8"> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">doi</span>={10.31235/osf.io/d5n9p}</span>
 <span id="cb1-9">}</span></code></pre></div>
 
 
@@ -441,7 +630,6 @@ No matching items
  ]]></description>
   <guid>https://dcpo.org/publications/working-papers/dcpo_article/index.html</guid>
   <pubDate>Sun, 12 Jan 2020 06:00:00 GMT</pubDate>
-  <media:content url="https://dcpo.org//publications/working-papers/dcpo_article/dcpo_article_fig1.png" medium="image" type="image/png" height="72" width="144"/>
 </item>
 </channel>
 </rss>
