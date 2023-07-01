@@ -17,7 +17,126 @@
 <width>144</width>
 </image>
 <generator>quarto-1.3.353</generator>
-<lastBuildDate>Mon, 29 May 2023 05:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 30 Jun 2023 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>Measuring Tolerance of Homosexuality in the Mass Public Across Countries and Over Time</title>
+  <dc:creator>Byung-Deuk Woo</dc:creator>
+  <dc:creator>Hyein Ko</dc:creator>
+  <dc:creator>Yuehong Cassandra Tai</dc:creator>
+  <dc:creator>Yue Hu</dc:creator>
+  <dc:creator>Frederick Solt</dc:creator>
+  <link>https://dcpo.org/publications/working-papers/tol-h/index.html</link>
+  <description><![CDATA[ 
+
+
+
+<div id="listing-cite" class="quarto-listing quarto-listing-container-custom">
+<div class="research-page">
+<li class="project">
+<div class="project-details">
+<div class="project-content">
+<p>
+<a href="https://www.byung-deuk-woo.org">Woo, Byung-Deuk</a>, <a href="https://www.heyikon.com">Hyein Ko</a>, <a href="https://cassyuehtai.netlify.app">Yuehong Cassandra Tai</a>, <a href="https://sammo3182.github.io">Yue Hu</a>, and <a href="https://fsolt.org">Frederick Solt</a>. 2023. “Measuring Tolerance of Homosexuality in the Mass Public Across Countries and Over Time.” <em>SocArXiv</em>.
+</p>
+</div>
+<ul class="project-links">
+<li class="project-link">
+<a href="../../../papers/wookotaihusolt2023_pre"><i class="far fa-file-pdf"></i> Preprint</a>
+</li>
+<li class="project-link">
+<a href="https://github.com/fsolt/dcpo_gayrights"><i class="fa-brands fa-github"></i> Code</a>
+</li>
+</ul>
+</div>
+<div class="publication-extra">
+<p>
+</p>
+</div>
+</li>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<p>Tolerance of homosexuality has increased in many countries over recent decades, but the resulting scholarship has been hindered by the limited available data on these trends in public opinion. To overcome this problem, we present the Tolerance of Homosexuality (TOL-H) dataset, which combines a comprehensive collection of survey data with a latent-variable model to provide annual time-series estimates of public attitudes toward homosexuality across 119 countries and over as many as 49 years that are comparable across space and time. We show these data perform well in validation tests and demonstrate their potential by replicating an influential but recently questioned finding that more income inequality yields less tolerance of homosexuality. We anticipate that the TOL-H data will become a crucial source for cross-regional, cross-national, and longitudinal research that improves our understanding of the sources and consequences of tolerance of homosexuality.</p>
+</section>
+<section id="important-figures" class="level2">
+<h2 class="anchored" data-anchor-id="important-figures">Important figures</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://dcpo.org/publications/working-papers/tol-h/tol-h_fig1.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Figure 1: Countries and Mean Years Observed in Survey Datasets</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://dcpo.org/publications/working-papers/tol-h/tol-h_fig2.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Figure 2: Countries and Mean Years Observed in Prominent Research</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://dcpo.org/publications/working-papers/tol-h/tol-h_fig4.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Figure 4: TOL-H Scores, Most Recent Available Year</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://dcpo.org/publications/working-papers/tol-h/tol-h_fig7.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Figure 7: Construct Validation: Correlations Between TOL-H Scores and Tolerance of Homosexuality Survey Items</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://dcpo.org/publications/working-papers/tol-h/tol-h_fig8.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Figure 8: Predicting Tolerance of Homosexuality</figcaption>
+</figure>
+</div>
+</section>
+<section id="bibtex-citation" class="level2">
+<h2 class="anchored" data-anchor-id="bibtex-citation">BibTeX citation</h2>
+<div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
+background-color: null;
+font-style: inherit;">@misc</span>{<span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">WooKoTaiHuSolt2023</span>,</span>
+<span id="cb1-2"> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">title</span>={Measuring Tolerance of Homosexuality in the Mass Public Across Countries and Over Time},</span>
+<span id="cb1-3"> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">url</span>={osf.io/preprints/socarxiv/74hym},</span>
+<span id="cb1-4"> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">DOI</span>={10.31235/osf.io/74hym},</span>
+<span id="cb1-5"> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">publisher</span>={SocArXiv},</span>
+<span id="cb1-6"> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">author</span>={Woo, Byung-Deuk and Ko, Hyein and Tai, Yuehong Cassandra and Hu, Yue and Solt, Frederick},</span>
+<span id="cb1-7"> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">year</span>={2023},</span>
+<span id="cb1-8"> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">month</span>={Jun}</span>
+<span id="cb1-9">}</span></code></pre></div>
+
+
+
+</section>
+
+ ]]></description>
+  <category>attitudes</category>
+  <category>democracy</category>
+  <category>measurement</category>
+  <category>dcpo</category>
+  <guid>https://dcpo.org/publications/working-papers/tol-h/index.html</guid>
+  <pubDate>Fri, 30 Jun 2023 05:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Democracy, Public Support, and Measurement Uncertainty</title>
   <dc:creator>Yuehong Cassandra Tai</dc:creator>
