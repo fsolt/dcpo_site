@@ -18,7 +18,7 @@
     "href": "publications/index.html#working-papers",
     "title": "DCPO",
     "section": "Working Papers",
-    "text": "Working Papers\n\n\n\n\n\n Revised & Resubmitted Hu, Yue and Solt, Frederick. 2024. “Macrointerest Across Countries.” SocArXiv.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n Under review Woo, Byung-Deuk, Hyein Ko, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. 2023. “Measuring Tolerance of Homosexuality in the Mass Public Across Countries and Over Time.” SocArXiv.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\nHu, Yue, Yuehong Cassandra Tai, and Frederick Solt. 2022. “On Data ‘Janitor Work’ in Political Science: The Case of Thermostatic Support for Democracy.” SocArXiv.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n Under review Hu, Yue, Yuehong Cassandra Tai, Hyein Ko, Byung-Deuk Woo, and Frederick Solt. 2023. “Support for Democracy Is Multidimensional: Why Unidimensional Latent Variable Measures of Democratic Support Are Invalid.” SocArXiv.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\nFrederick Solt. 2020. “Modeling Dynamic Comparative Public Opinion.” SocArXiv.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\nNo matching items"
+    "text": "Working Papers\n\n\n\n\n\n Revised & Resubmitted Hu, Yue and Solt, Frederick. 2024. “Macrointerest Across Countries.” SocArXiv.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n Under review Woo, Byung-Deuk, Hyein Ko, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. 2023. “Measuring Tolerance of Homosexuality in the Mass Public Across Countries and Over Time.” SocArXiv.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n Under review Hu, Yue, Yuehong Cassandra Tai, Hyein Ko, Byung-Deuk Woo, and Frederick Solt. 2023. “Support for Democracy Is Multidimensional: Why Unidimensional Latent Variable Measures of Democratic Support Are Invalid.” SocArXiv.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\nHu, Yue, Yuehong Cassandra Tai, and Frederick Solt. 2022. “On Data ‘Janitor Work’ in Political Science: The Case of Thermostatic Support for Democracy.” SocArXiv.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\nFrederick Solt. 2020. “Modeling Dynamic Comparative Public Opinion.” SocArXiv.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications/working-papers/dcpo_article/short.html",
@@ -635,5 +635,33 @@
     "title": "Revisiting the Evidence on Thermostatic Response to Democratic Change: Degrees of Democratic Support or Researcher Degrees of Freedom?",
     "section": "BibTeX citation",
     "text": "BibTeX citation\n@misc{HuTaiSolt2024,\nauthor={Hu, Yue and Tai, Yuehong Cassandra and Solt, Frederick},\ntitle={Revisiting the Evidence on Thermostatic Response to Democratic Change: Degrees of Democratic Support or Researcher Degrees of Freedom?},\njournal = {Political Science Research and Methods},\nyear = {Forthcoming}}"
+  },
+  {
+    "objectID": "publications/working-papers/janitor_work/short.html",
+    "href": "publications/working-papers/janitor_work/short.html",
+    "title": "On Data ‘Janitor Work’ in Political Science: The Case of Thermostatic Support for Democracy",
+    "section": "",
+    "text": "Hu, Yue, Yuehong Cassandra Tai, and Frederick Solt. 2022. “On Data ‘Janitor Work’ in Political Science: The Case of Thermostatic Support for Democracy.” SocArXiv.\n\n\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications/working-papers/janitor_work/short.html#abstract",
+    "href": "publications/working-papers/janitor_work/short.html#abstract",
+    "title": "On Data ‘Janitor Work’ in Political Science: The Case of Thermostatic Support for Democracy",
+    "section": "Abstract",
+    "text": "Abstract\nData ‘janitor work’, the task of getting data into a format appropriate for analysis, has grown increasingly important as political science research has come to depend on data drawn from hundreds and thousands of sources. One tempting solution is to simply enter the data by hand, but this approach raises serious risks of data-entry error, a difficult-to-catch problem with the potential to fatally undermine our conclusions. Underscoring these points, we identify data-entry errors in a prominent recent article, the 2020 study by Claassen that examines the effect of changes in democracy on public support for democracy. We then show that when these errors are corrected, the work’s models provide no support for its conclusion that publics react thermostatically to changes in democracy. Researchers should refrain from hand-entering data as much as possible, and we offer additional suggestions for avoiding errors."
+  },
+  {
+    "objectID": "publications/working-papers/janitor_work/short.html#important-figures",
+    "href": "publications/working-papers/janitor_work/short.html#important-figures",
+    "title": "On Data ‘Janitor Work’ in Political Science: The Case of Thermostatic Support for Democracy",
+    "section": "Important figures",
+    "text": "Important figures\n\n\n\nFigure 1: Comparing Democracy-Supporting Responses in the Publication Data and the Corrected Data\n\n\n\n\n\nFigure 2: The Effect of Democracy on Change in Public Support\n\n\n\n\n\nFigure 3: Simulated Effects of Change in Democracy on Public Support"
+  },
+  {
+    "objectID": "publications/working-papers/janitor_work/short.html#bibtex-citation",
+    "href": "publications/working-papers/janitor_work/short.html#bibtex-citation",
+    "title": "On Data ‘Janitor Work’ in Political Science: The Case of Thermostatic Support for Democracy",
+    "section": "BibTeX citation",
+    "text": "BibTeX citation\n@misc{HuTaiSolt2022,\n author={Hu, Yue and Tai, Yuehong Cassandra and Solt, Frederick},\n title={On Data 'Janitor Work' in Political Science: The Case of Thermostatic Support for Democracy},\n publisher={SocArXiv},\n year={2022},\n month={June}, \n url={osf.io/preprints/socarxiv/kd7mu},\n doi={10.31235/osf.io/kd7mu}\n}"
   }
 ]

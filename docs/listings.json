@@ -7,8 +7,8 @@
       "/publications/published/pge/index.html",
       "/publications/working-papers/macrointerest/index.html",
       "/publications/working-papers/tol-h/index.html",
-      "/publications/working-papers/janitor_work/index.html",
       "/publications/working-papers/demsupport_data/index.html",
+      "/publications/working-papers/janitor_work/index.html",
       "/publications/working-papers/dcpo_article/index.html"
     ]
   },
@@ -134,6 +134,12 @@
     "listing": "/publications/published/dem_mood/index.html",
     "items": [
       "/publications/published/dem_mood/short.html"
+    ]
+  },
+  {
+    "listing": "/publications/working-papers/janitor_work/short.html",
+    "items": [
+      "/publications/working-papers/janitor_work/index.html"
     ]
   }
 ]
