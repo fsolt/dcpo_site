@@ -3,7 +3,7 @@ title: "Macrointerest Across Countries"
 date: 2024-02-06
 cite: >
   [Hu, Yue](https://sammo3182.github.io) and
-  **Solt, Frederick**. 
+  [Frederick Solt](https://fsolt.org). 
   2023.
   "Macrointerest Across Countries."
   _SocArXiv_.

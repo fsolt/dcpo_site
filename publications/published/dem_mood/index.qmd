@@ -4,7 +4,7 @@ date: 2024-02-06
 cite: >
   [Hu, Yue](https://sammo3182.github.io),
   [Yuehong Cassandra Tai](https://cassyuehtai.netlify.app), and
-  **Frederick Solt**. 
+  [Frederick Solt](https://fsolt.org). 
   Forthcoming.
   "Revisiting the Evidence on Thermostatic Response to Democratic Change: Degrees of Democratic Support or Researcher Degrees of Freedom?"
   _Political Science Research and Methods_.
