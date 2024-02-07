@@ -2,11 +2,12 @@
   {
     "listing": "/publications/index.html",
     "items": [
+      "/publications/published/dem_mood/index.html",
       "/publications/published/dem_support/index.html",
       "/publications/published/pge/index.html",
-      "/publications/working-papers/tol-h/index.html",
-      "/publications/working-papers/dem_mood/index.html",
       "/publications/working-papers/macrointerest/index.html",
+      "/publications/working-papers/tol-h/index.html",
+      "/publications/working-papers/janitor_work/index.html",
       "/publications/working-papers/demsupport_data/index.html",
       "/publications/working-papers/dcpo_article/index.html"
     ]
@@ -55,7 +56,9 @@
   },
   {
     "listing": "/publications/working-papers/macrointerest/short.html",
-    "items": []
+    "items": [
+      "/publications/working-papers/macrointerest/index.html"
+    ]
   },
   {
     "listing": "/publications/working-papers/macrointerest/index.html",
@@ -113,6 +116,24 @@
       "/data/pge/pge_faq/posts/how-to/stata-time-series.html",
       "/data/pge/pge_faq/posts/how-to/mean-and-std-err.html",
       "/data/pge/pge_faq/posts/how-to/country-codes.html"
+    ]
+  },
+  {
+    "listing": "/publications/working-papers/janitor_work/index.html",
+    "items": [
+      "/publications/working-papers/janitor_work/short.html"
+    ]
+  },
+  {
+    "listing": "/publications/published/dem_mood/short.html",
+    "items": [
+      "/publications/published/dem_mood/index.html"
+    ]
+  },
+  {
+    "listing": "/publications/published/dem_mood/index.html",
+    "items": [
+      "/publications/published/dem_mood/short.html"
     ]
   }
 ]

@@ -39,8 +39,6 @@ website:
             icon: "chat-right-text"
             href: "https://github.com/fsolt/DCPOtools/discussions"
     right:
-      - icon: twitter
-        href: https://twitter.com/dcpo_lab
       - icon: github
         href: https://github.com/fsolt/DCPOtools
 
