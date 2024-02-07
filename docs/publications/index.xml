@@ -343,6 +343,7 @@ font-style: inherit;">month</span>={Jun}</span>
 
 
 
+
 <div id="listing-cite" class="quarto-listing quarto-listing-container-custom">
 <div class="research-page">
 <li class="project">
@@ -387,7 +388,7 @@ No matching items
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://dcpo.org/publications/published/dem_support/dem_support_fig1.png" class="preview-image img-fluid figure-img"></p>
-<figcaption class="figure-caption">Figure 1: The Effect of Public Support on Democracy with Uncertainty</figcaption>
+<figcaption>Figure 1: The Effect of Public Support on Democracy with Uncertainty</figcaption>
 </figure>
 </div>
 </section>
@@ -440,6 +441,7 @@ font-style: inherit;">doi</span> = {doi.org/10.1017/S0003055422000429}</span>
 
 
 
+
 <div id="listing-cite" class="quarto-listing quarto-listing-container-custom">
 <div class="research-page">
 <li class="project">
@@ -487,13 +489,13 @@ No matching items
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://dcpo.org/publications/published/pge/pge_fig3.png" class="preview-image img-fluid figure-img"></p>
-<figcaption class="figure-caption">Figure 3: PGE Scores Over Time Within Selected Countries</figcaption>
+<figcaption>Figure 3: PGE Scores Over Time Within Selected Countries</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://dcpo.org/publications/published/pge/pge_fig6.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Figure 6: Construct Validation: Correlations Between PGE Scores and Indicators of Workplace Gender Equality</figcaption>
+<figcaption>Figure 6: Construct Validation: Correlations Between PGE Scores and Indicators of Workplace Gender Equality</figcaption>
 </figure>
 </div>
 </section>
@@ -549,6 +551,7 @@ font-style: inherit;">year</span> = {2022}}</span></code></pre></div>
 
 
 
+
 <div id="listing-cite" class="quarto-listing quarto-listing-container-custom">
 <div class="research-page">
 <li class="project">
@@ -586,25 +589,25 @@ No matching items
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://dcpo.org/publications/working-papers/demsupport_data/demsupport_data_fig1.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Figure 1: Correlations Between Democratic Support as a Unidimensional Latent Variable and Polyarchy Survey Items</figcaption>
+<figcaption>Figure 1: Correlations Between Democratic Support as a Unidimensional Latent Variable and Polyarchy Survey Items</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://dcpo.org/publications/working-papers/demsupport_data/demsupport_data_fig2.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Figure 2: Correlations Between Democratic Support as a Unidimensional Latent Variable and Civil Liberties Survey Items</figcaption>
+<figcaption>Figure 2: Correlations Between Democratic Support as a Unidimensional Latent Variable and Civil Liberties Survey Items</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://dcpo.org/publications/working-papers/demsupport_data/demsupport_data_fig3.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Figure 3: Correlations Between Democratic Support as a Unidimensional Latent Variable and Democratic Institutions Survey Items</figcaption>
+<figcaption>Figure 3: Correlations Between Democratic Support as a Unidimensional Latent Variable and Democratic Institutions Survey Items</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://dcpo.org/publications/working-papers/demsupport_data/demsupport_data_fig4.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Figure 4: Correlations Between Democratic Support as a Unidimensional Latent Variable and Prioritization Survey Items</figcaption>
+<figcaption>Figure 4: Correlations Between Democratic Support as a Unidimensional Latent Variable and Prioritization Survey Items</figcaption>
 </figure>
 </div>
 </section>
@@ -764,6 +767,7 @@ font-style: inherit;">doi</span>={10.31235/osf.io/kd7mu}</span>
 
 
 
+
 <div id="listing-cite" class="quarto-listing quarto-listing-container-custom">
 <div class="research-page">
 <li class="project">
@@ -802,7 +806,7 @@ No matching items
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://dcpo.org/publications/working-papers/dcpo_article/dcpo_article_fig1.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Figure 1: Probability of an Affirmative Response in the 2PL IRT Model</figcaption>
+<figcaption>Figure 1: Probability of an Affirmative Response in the 2PL IRT Model</figcaption>
 </figure>
 </div>
 </section>

@@ -1,5 +1,59 @@
 [
   {
+    "listing": "/news/index.html",
+    "items": [
+      "/news/posts/dem-mood-accepted.html"
+    ]
+  },
+  {
+    "listing": "/publications/published/pge/short.html",
+    "items": [
+      "/publications/published/pge/index.html"
+    ]
+  },
+  {
+    "listing": "/publications/published/dem_mood/short.html",
+    "items": [
+      "/publications/published/dem_mood/index.html"
+    ]
+  },
+  {
+    "listing": "/publications/published/dem_support/short.html",
+    "items": [
+      "/publications/published/dem_support/index.html"
+    ]
+  },
+  {
+    "listing": "/publications/working-papers/macrointerest/short.html",
+    "items": [
+      "/publications/working-papers/macrointerest/index.html"
+    ]
+  },
+  {
+    "listing": "/publications/working-papers/janitor_work/short.html",
+    "items": [
+      "/publications/working-papers/janitor_work/index.html"
+    ]
+  },
+  {
+    "listing": "/publications/working-papers/tol-h/short.html",
+    "items": [
+      "/publications/working-papers/tol-h/index.html"
+    ]
+  },
+  {
+    "listing": "/publications/working-papers/demsupport_data/short.html",
+    "items": [
+      "/publications/working-papers/demsupport_data/index.html"
+    ]
+  },
+  {
+    "listing": "/publications/working-papers/dcpo_article/short.html",
+    "items": [
+      "/publications/working-papers/dcpo_article/index.html"
+    ]
+  },
+  {
     "listing": "/publications/index.html",
     "items": [
       "/publications/published/dem_mood/index.html",
@@ -13,20 +67,10 @@
     ]
   },
   {
-    "listing": "/publications/working-papers/dcpo_article/short.html",
-    "items": [
-      "/publications/working-papers/dcpo_article/index.html"
-    ]
-  },
-  {
     "listing": "/publications/working-papers/dcpo_article/index.html",
     "items": [
       "/publications/working-papers/dcpo_article/short.html"
     ]
-  },
-  {
-    "listing": "/publications/working-papers/demsupport_data/short.html",
-    "items": []
   },
   {
     "listing": "/publications/working-papers/demsupport_data/index.html",
@@ -35,29 +79,15 @@
     ]
   },
   {
-    "listing": "/publications/working-papers/dem_mood/short.html",
-    "items": []
-  },
-  {
-    "listing": "/publications/working-papers/dem_mood/index.html",
-    "items": [
-      "/publications/working-papers/dem_mood/short.html"
-    ]
-  },
-  {
-    "listing": "/publications/working-papers/tol-h/short.html",
-    "items": []
-  },
-  {
     "listing": "/publications/working-papers/tol-h/index.html",
     "items": [
       "/publications/working-papers/tol-h/short.html"
     ]
   },
   {
-    "listing": "/publications/working-papers/macrointerest/short.html",
+    "listing": "/publications/working-papers/janitor_work/index.html",
     "items": [
-      "/publications/working-papers/macrointerest/index.html"
+      "/publications/working-papers/janitor_work/short.html"
     ]
   },
   {
@@ -67,21 +97,15 @@
     ]
   },
   {
-    "listing": "/publications/published/dem_support/short.html",
-    "items": [
-      "/publications/published/dem_support/index.html"
-    ]
-  },
-  {
     "listing": "/publications/published/dem_support/index.html",
     "items": [
       "/publications/published/dem_support/short.html"
     ]
   },
   {
-    "listing": "/publications/published/pge/short.html",
+    "listing": "/publications/published/dem_mood/index.html",
     "items": [
-      "/publications/published/pge/index.html"
+      "/publications/published/dem_mood/short.html"
     ]
   },
   {
@@ -89,10 +113,6 @@
     "items": [
       "/publications/published/pge/short.html"
     ]
-  },
-  {
-    "listing": "/news/index.html",
-    "items": []
   },
   {
     "listing": "/team/index.html",
@@ -116,30 +136,6 @@
       "/data/pge/pge_faq/posts/how-to/stata-time-series.html",
       "/data/pge/pge_faq/posts/how-to/mean-and-std-err.html",
       "/data/pge/pge_faq/posts/how-to/country-codes.html"
-    ]
-  },
-  {
-    "listing": "/publications/working-papers/janitor_work/index.html",
-    "items": [
-      "/publications/working-papers/janitor_work/short.html"
-    ]
-  },
-  {
-    "listing": "/publications/published/dem_mood/short.html",
-    "items": [
-      "/publications/published/dem_mood/index.html"
-    ]
-  },
-  {
-    "listing": "/publications/published/dem_mood/index.html",
-    "items": [
-      "/publications/published/dem_mood/short.html"
-    ]
-  },
-  {
-    "listing": "/publications/working-papers/janitor_work/short.html",
-    "items": [
-      "/publications/working-papers/janitor_work/index.html"
     ]
   }
 ]

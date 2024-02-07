@@ -1,360 +1,73 @@
 [
   {
-    "objectID": "publications/index.html",
-    "href": "publications/index.html",
-    "title": "DCPO",
+    "objectID": "data/pge/pge_faq/posts/data/germany.html",
+    "href": "data/pge/pge_faq/posts/data/germany.html",
+    "title": "How is Germany treated in the PGE? Where’s East Germany?",
     "section": "",
-    "text": "Hu, Yue, Yuehong Cassandra Tai, and Frederick Solt. Forthcoming. “Revisiting the Evidence on Thermostatic Response to Democratic Change: Degrees of Democratic Support or Researcher Degrees of Freedom?” Political Science Research and Methods.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n Forthcoming Tai, Yuehong ‘Cassandra’, Yue Hu, and Frederick Solt. Forthcoming. “Democracy, Public Support, and Measurement Uncertainty.” American Political Science Review.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n\n\n\n\n\nWoo, Byung-Deuk, Lindsey A. Goldberg, and Frederick Solt. 2023. “Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere.” British Journal of Political Science 53(2), 766-775.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n PGE Database\n\n\n\n\n\n\nNo matching items"
+    "text": "Germany is West Germany only before 1991 and (united) Germany from that point forward. The PGE includes no estimates for East Germany; we just haven’t found much to include in the source data. If you know of a survey with East German Ginis, email us with the details, and we’ll be happy to get it into the next version."
   },
   {
-    "objectID": "publications/index.html#publications",
-    "href": "publications/index.html#publications",
-    "title": "DCPO",
+    "objectID": "data/pge/pge_faq/posts/data/partition-and-successors.html",
+    "href": "data/pge/pge_faq/posts/data/partition-and-successors.html",
+    "title": "What about Russia and the rest of the former Soviet Union? Yugoslavia? Czechoslovakia? Pakistan? Sudan? Ethiopia? Why are there estimates for successor states before they actually existed?",
     "section": "",
-    "text": "Hu, Yue, Yuehong Cassandra Tai, and Frederick Solt. Forthcoming. “Revisiting the Evidence on Thermostatic Response to Democratic Change: Degrees of Democratic Support or Researcher Degrees of Freedom?” Political Science Research and Methods.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n Forthcoming Tai, Yuehong ‘Cassandra’, Yue Hu, and Frederick Solt. Forthcoming. “Democracy, Public Support, and Measurement Uncertainty.” American Political Science Review.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n\n\n\n\n\nWoo, Byung-Deuk, Lindsey A. Goldberg, and Frederick Solt. 2023. “Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere.” British Journal of Political Science 53(2), 766-775.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n PGE Database\n\n\n\n\n\n\nNo matching items"
+    "text": "For countries that have undergone partition, the PGE estimates for a given year include all of the origin country’s then-current territories. This means that for dates before partition, all of the once united territory is included: estimates for Sudan before 2011, for example, include present-day South Sudan.\nWhere survey data are available from before the breakup for the territory of successor states, these data have been used to generate PGE estimates like anything else in the source data (the DCPO routine does not make any effort to incorporate information from the origin state into estimates for the successor state). For example, the estimates for Russia for dates before the breakup of the Soviet Union are for the territories of the USSR that would become Russia after the breakup; there are similar pre-breakup data available for several FSU states, the Czech Republic and Slovakia, and a few successor states of the former Yugoslavia. The resulting estimates are available for use when appropriate, that is, to match the conventions of the other data one may be employing."
   },
   {
-    "objectID": "publications/index.html#working-papers",
-    "href": "publications/index.html#working-papers",
-    "title": "DCPO",
-    "section": "Working Papers",
-    "text": "Working Papers\n\n\n\n\n\n Revised & Resubmitted Hu, Yue and Solt, Frederick. 2024. “Macrointerest Across Countries.” SocArXiv.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n Under review Woo, Byung-Deuk, Hyein Ko, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. 2023. “Measuring Tolerance of Homosexuality in the Mass Public Across Countries and Over Time.” SocArXiv.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n Under review Hu, Yue, Yuehong Cassandra Tai, Hyein Ko, Byung-Deuk Woo, and Frederick Solt. 2023. “Support for Democracy Is Multidimensional: Why Unidimensional Latent Variable Measures of Democratic Support Are Invalid.” SocArXiv.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\nHu, Yue, Yuehong Cassandra Tai, and Frederick Solt. 2022. “On Data ‘Janitor Work’ in Political Science: The Case of Thermostatic Support for Democracy.” SocArXiv.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\nFrederick Solt. 2020. “Modeling Dynamic Comparative Public Opinion.” SocArXiv.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "publications/working-papers/dcpo_article/short.html",
-    "href": "publications/working-papers/dcpo_article/short.html",
-    "title": "Modeling Dynamic Comparative Public Opinion",
+    "objectID": "data/pge/pge_faq/posts/how-to/stata-time-series.html",
+    "href": "data/pge/pge_faq/posts/how-to/stata-time-series.html",
+    "title": "How can I use the PGE data with Stata’s time-series operators?",
     "section": "",
-    "text": "Frederick Solt. 2020. “Modeling Dynamic Comparative Public Opinion.” SocArXiv.\n\n\n\n\n Preprint\n\n\n Code\n\n\n\n\n\nOther details: Previous versions of this project were presented at the 2014 meetings of the European Political Science Association and American Political Science Association, the 2016 meeting of the Midwest Political Science Association, the 2019 St. Louis Area Methods Meeting, the 2020 meeting of the Southern Political Science Association, and at Princeton University, Oxford University, the University of Tennessee, the University of Iowa, Central European University, and the Polish Academy of Sciences.\n\n\n\n\n\nNo matching items"
+    "text": "To use Stata’s time-series operators (l. , f. , d. , etc.), you must first declare the time and panel variables using tsset, but the PGE is already mi set, so tsset won’t work. Run the following before merging the rest of your data (called my_data.dta in this example) into the SWIID:\nuse pge1_0.dta, clear\negen cc = group(country)  \nmi tsset cc year\nmerge 1:1 country year using \"my_data.dta\", keep(match master) \nNow you’ll be able to use l. and the rest of Stata’s time-series operators."
   },
   {
-    "objectID": "publications/working-papers/dcpo_article/short.html#abstract",
-    "href": "publications/working-papers/dcpo_article/short.html#abstract",
-    "title": "Modeling Dynamic Comparative Public Opinion",
-    "section": "Abstract",
-    "text": "Abstract\nThe study of public opinion in comparative context has been hampered by data that is sparse, that is, unavailable for many countries and years; incomparable, i.e., ostensibly addressing the same issue but generated by different survey items; or, most often, both. Questions of representation and of policy feedback on public opinion, for example, cannot be explored fully from a cross-national perspective without comparable time-series data for many countries that span their respective times of policy adoption. Recent works (Claassen 2019; Caughey, O’Grady, and Warshaw 2019) have introduced a latent variable approach to the study of comparative public opinion that maximizes the information gleaned from available surveys to overcome issues of sparse and incomparable data and allow comparativists to examine the dynamics of public opinion. This paper advances this field of research by presenting a new model and software for estimating latent variables of public opinion from cross-national survey data that yield superior fit and more quantities of theoretical interest than previous works allow."
-  },
-  {
-    "objectID": "publications/working-papers/dcpo_article/short.html#important-figure",
-    "href": "publications/working-papers/dcpo_article/short.html#important-figure",
-    "title": "Modeling Dynamic Comparative Public Opinion",
-    "section": "Important figure",
-    "text": "Important figure\n\n\n\nFigure 1: Probability of an Affirmative Response in the 2PL IRT Model"
-  },
-  {
-    "objectID": "publications/working-papers/dcpo_article/short.html#bibtex-citation",
-    "href": "publications/working-papers/dcpo_article/short.html#bibtex-citation",
-    "title": "Modeling Dynamic Comparative Public Opinion",
-    "section": "BibTeX citation",
-    "text": "BibTeX citation\n@misc{Solt2020,\n author={Solt, Frederick},\n title={Modeling Dynamic Comparative Public Opinion},\n publisher={SocArXiv},\n year={2020},\n month={Jan}, \n url={osf.io/preprints/socarxiv/d5n9p},\n doi={10.31235/osf.io/d5n9p}\n}"
-  },
-  {
-    "objectID": "publications/working-papers/dcpo_article/index.html",
-    "href": "publications/working-papers/dcpo_article/index.html",
-    "title": "Modeling Dynamic Comparative Public Opinion",
+    "objectID": "data/pge/pge_faq/posts/how-to/download-pge.html",
+    "href": "data/pge/pge_faq/posts/how-to/download-pge.html",
+    "title": "Wait, how can I download the data again?",
     "section": "",
-    "text": "Frederick Solt. 2020. “Modeling Dynamic Comparative Public Opinion.” SocArXiv.\n\n\n\n\n Preprint\n\n\n Code\n\n\n\n\n\nOther details: Previous versions of this project were presented at the 2014 meetings of the European Political Science Association and American Political Science Association, the 2016 meeting of the Midwest Political Science Association, the 2019 St. Louis Area Methods Meeting, the 2020 meeting of the Southern Political Science Association, and at Princeton University, Oxford University, the University of Tennessee, the University of Iowa, Central European University, and the Polish Academy of Sciences.\n\n\n\n\n\nNo matching items"
+    "text": "First, click on this link. Scroll down past the description until you see a list of files. The dataset is a .zip file, the latest version will be listed first. Clicking on the big downward-pointing-arrow icon on the right side of this line will show a menu; choosing “ZIP Archive” will download the file."
   },
   {
-    "objectID": "publications/working-papers/dcpo_article/index.html#abstract",
-    "href": "publications/working-papers/dcpo_article/index.html#abstract",
-    "title": "Modeling Dynamic Comparative Public Opinion",
-    "section": "Abstract",
-    "text": "Abstract\nThe study of public opinion in comparative context has been hampered by data that is sparse, that is, unavailable for many countries and years; incomparable, i.e., ostensibly addressing the same issue but generated by different survey items; or, most often, both. Questions of representation and of policy feedback on public opinion, for example, cannot be explored fully from a cross-national perspective without comparable time-series data for many countries that span their respective times of policy adoption. Recent works (Claassen 2019; Caughey, O’Grady, and Warshaw 2019) have introduced a latent variable approach to the study of comparative public opinion that maximizes the information gleaned from available surveys to overcome issues of sparse and incomparable data and allow comparativists to examine the dynamics of public opinion. This paper advances this field of research by presenting a new model and software for estimating latent variables of public opinion from cross-national survey data that yield superior fit and more quantities of theoretical interest than previous works allow."
-  },
-  {
-    "objectID": "publications/working-papers/dcpo_article/index.html#important-figure",
-    "href": "publications/working-papers/dcpo_article/index.html#important-figure",
-    "title": "Modeling Dynamic Comparative Public Opinion",
-    "section": "Important figure",
-    "text": "Important figure\n\n\n\nFigure 1: Probability of an Affirmative Response in the 2PL IRT Model"
-  },
-  {
-    "objectID": "publications/working-papers/dcpo_article/index.html#bibtex-citation",
-    "href": "publications/working-papers/dcpo_article/index.html#bibtex-citation",
-    "title": "Modeling Dynamic Comparative Public Opinion",
-    "section": "BibTeX citation",
-    "text": "BibTeX citation\n@misc{Solt2020,\n author={Solt, Frederick},\n title={Modeling Dynamic Comparative Public Opinion},\n publisher={SocArXiv},\n year={2020},\n month={Jan}, \n url={osf.io/preprints/socarxiv/d5n9p},\n doi={10.31235/osf.io/d5n9p}\n}"
-  },
-  {
-    "objectID": "publications/working-papers/demsupport_data/short.html",
-    "href": "publications/working-papers/demsupport_data/short.html",
-    "title": "Support for Democracy Is Multidimensional: Why Unidimensional Latent Variable Measures of Democratic Support Are Invalid",
+    "objectID": "data/pge/pge_faq/posts/how-to/country-codes.html",
+    "href": "data/pge/pge_faq/posts/how-to/country-codes.html",
+    "title": "How can I merge my other data into the PGE using ISO or other country codes?",
     "section": "",
-    "text": "No matching items"
+    "text": "First, add whatever country codes are needed to the PGE data: there are routines for both Stata (kountry; type findit kountry in Stata’s command window to install) and R (countrycode, on CRAN) to generate many commonly used country codes. Then follow the instructions for merging data into the PGE found in the “stata_pge.pdf” or “R_pge.pdf” files included in the data download."
   },
   {
-    "objectID": "publications/working-papers/demsupport_data/short.html#abstract",
-    "href": "publications/working-papers/demsupport_data/short.html#abstract",
-    "title": "Support for Democracy Is Multidimensional: Why Unidimensional Latent Variable Measures of Democratic Support Are Invalid",
-    "section": "Abstract",
-    "text": "Abstract\nMeasuring democratic support as a single latent variable requires assuming that it falls along a single dimension from steadfast opposition to wholehearted support. This ignores ample evidence that support for democracy is complex and multidimensional. Here we provide a series of validation tests of the sort of cross-national time-series latent variable measures employed in recent research by reference to questions on support for liberal democracy and opposition to its erosion from multiwave surveys conducted around the world. These tests show that, across countries and years, this latent variable is nearly orthogonal to measures of support for contestation and participation; civil liberties; institutional constraints on executive power; and prioritizing democracy over the economy, economic equality, or order. We conclude that support for democracy in any robust sense is simply not well captured by a unidimensional latent variable. Such measures are powerful but researchers must be mindful of their limitations."
-  },
-  {
-    "objectID": "publications/working-papers/demsupport_data/short.html#important-figures",
-    "href": "publications/working-papers/demsupport_data/short.html#important-figures",
-    "title": "Support for Democracy Is Multidimensional: Why Unidimensional Latent Variable Measures of Democratic Support Are Invalid",
-    "section": "Important figures",
-    "text": "Important figures\n\n\n\nFigure 1: Correlations Between Democratic Support as a Unidimensional Latent Variable and Polyarchy Survey Items\n\n\n\n\n\nFigure 2: Correlations Between Democratic Support as a Unidimensional Latent Variable and Civil Liberties Survey Items\n\n\n\n\n\nFigure 3: Correlations Between Democratic Support as a Unidimensional Latent Variable and Democratic Institutions Survey Items\n\n\n\n\n\nFigure 4: Correlations Between Democratic Support as a Unidimensional Latent Variable and Prioritization Survey Items"
-  },
-  {
-    "objectID": "publications/working-papers/demsupport_data/short.html#bibtex-citation",
-    "href": "publications/working-papers/demsupport_data/short.html#bibtex-citation",
-    "title": "Support for Democracy Is Multidimensional: Why Unidimensional Latent Variable Measures of Democratic Support Are Invalid",
-    "section": "BibTeX citation",
-    "text": "BibTeX citation\n@misc{HuTaiSolt2022,\n author={Hu, Yue and Tai, Yuehong Cassandra and Ko, Hyein and Woo, Byung-Deuk and Solt, Frederick},\n title={Support for Democracy Is Multidimensional: Why Unidimensional Latent Variable Measures of Democratic Support Are Invalid},\n publisher={SocArXiv},\n year={2023},\n month={February}, \n url={osf.io/preprints/socarxiv/rym8g/},\n doi={10.31235/osf.io/rym8g/}\n}"
-  },
-  {
-    "objectID": "publications/working-papers/demsupport_data/index.html",
-    "href": "publications/working-papers/demsupport_data/index.html",
-    "title": "Support for Democracy Is Multidimensional: Why Unidimensional Latent Variable Measures of Democratic Support Are Invalid",
+    "objectID": "data/pge/index.html",
+    "href": "data/pge/index.html",
+    "title": "PGE: Public Gender Egalitarianism",
     "section": "",
-    "text": "Hu, Yue, Yuehong Cassandra Tai, Hyein Ko, Byung-Deuk Woo, and Frederick Solt. 2023. “Support for Democracy Is Multidimensional: Why Unidimensional Latent Variable Measures of Democratic Support Are Invalid.” SocArXiv.\n\n\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "The Public Gender Egalitarianism (PGE) Database\nSocietal attitudes toward gender roles in the workplace and politics play a central part in theorizing on the difficulty women face in achieving political equality, but shortcomings in the available data have prevented direct examination of many implications of these theories. Drawing on recent advances in latent variable modeling of public opinion and a comprehensive collection of survey data, we present the Public Gender Egalitarianism dataset to address this need: comparable estimates of the public’s attitudes on gender equality in the public sphere across more than one hundred countries over time. These PGE scores are strongly correlated with responses to individual survey items and with women’s rates of participation in the labor force and corporate boards. We expect that the PGE data will become an invaluable source for broadly cross-national and longitudinal research on the causes and consequences of collective attitudes toward gender equality in politics and the economy.\nA full description of the PGE dataset, the source data used to generate it, and validations of its estimates is presented here:\nWoo, Byung-Deuk, Lindsey A. Goldberg, and Frederick Solt. Forthcoming. “Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere.” British Journal of Political Science.\nThere are two ways of using the PGE data. To directly compare up to four countries in estimated levels and trends of public gender egalitarianism, use the PGE web app below. To use the PGE in statistical analyses, datasets formatted for use in Stata and R are available for download.\n\n Download the PGE  PGE FAQ\n\n\n\n\nPowered by RStudio.\nPlease cite the PGE as follows:\nWoo, Byung-Deuk, Lindsey A. Goldberg, and Frederick Solt. Forthcoming. “Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere.” British Journal of Political Science. PGE Version 1.0, April 2022."
   },
   {
-    "objectID": "publications/working-papers/demsupport_data/index.html#abstract",
-    "href": "publications/working-papers/demsupport_data/index.html#abstract",
-    "title": "Support for Democracy Is Multidimensional: Why Unidimensional Latent Variable Measures of Democratic Support Are Invalid",
-    "section": "Abstract",
-    "text": "Abstract\nMeasuring democratic support as a single latent variable requires assuming that it falls along a single dimension from steadfast opposition to wholehearted support. This ignores ample evidence that support for democracy is complex and multidimensional. Here we provide a series of validation tests of the sort of cross-national time-series latent variable measures employed in recent research by reference to questions on support for liberal democracy and opposition to its erosion from multiwave surveys conducted around the world. These tests show that, across countries and years, this latent variable is nearly orthogonal to measures of support for contestation and participation; civil liberties; institutional constraints on executive power; and prioritizing democracy over the economy, economic equality, or order. We conclude that support for democracy in any robust sense is simply not well captured by a unidimensional latent variable. Such measures are powerful but researchers must be mindful of their limitations."
-  },
-  {
-    "objectID": "publications/working-papers/demsupport_data/index.html#important-figures",
-    "href": "publications/working-papers/demsupport_data/index.html#important-figures",
-    "title": "Support for Democracy Is Multidimensional: Why Unidimensional Latent Variable Measures of Democratic Support Are Invalid",
-    "section": "Important figures",
-    "text": "Important figures\n\n\n\nFigure 1: Correlations Between Democratic Support as a Unidimensional Latent Variable and Polyarchy Survey Items\n\n\n\n\n\nFigure 2: Correlations Between Democratic Support as a Unidimensional Latent Variable and Civil Liberties Survey Items\n\n\n\n\n\nFigure 3: Correlations Between Democratic Support as a Unidimensional Latent Variable and Democratic Institutions Survey Items\n\n\n\n\n\nFigure 4: Correlations Between Democratic Support as a Unidimensional Latent Variable and Prioritization Survey Items"
-  },
-  {
-    "objectID": "publications/working-papers/demsupport_data/index.html#bibtex-citation",
-    "href": "publications/working-papers/demsupport_data/index.html#bibtex-citation",
-    "title": "Support for Democracy Is Multidimensional: Why Unidimensional Latent Variable Measures of Democratic Support Are Invalid",
-    "section": "BibTeX citation",
-    "text": "BibTeX citation\n@misc{HuTaiSolt2022,\n author={Hu, Yue and Tai, Yuehong Cassandra and Ko, Hyein and Woo, Byung-Deuk and Solt, Frederick},\n title={Support for Democracy Is Multidimensional: Why Unidimensional Latent Variable Measures of Democratic Support Are Invalid},\n publisher={SocArXiv},\n year={2023},\n month={February}, \n url={osf.io/preprints/socarxiv/rym8g/},\n doi={10.31235/osf.io/rym8g/}\n}"
-  },
-  {
-    "objectID": "publications/working-papers/dem_mood/short.html",
-    "href": "publications/working-papers/dem_mood/short.html",
-    "title": "On Data ‘Janitor Work’ in Political Science: The Case of Thermostatic Support for Democracy",
+    "objectID": "team/fsolt.html",
+    "href": "team/fsolt.html",
+    "title": "Frederick Solt",
     "section": "",
-    "text": "No matching items"
+    "text": "Frederick Solt is an associate professor in the Department of Political Science at the University of Iowa. He is author and maintainer of the DCPOtools package and the founder of the DCPO Lab. His other interests include comparative political behavior and political economy from a cross-national perspective. Much of his work focuses on understanding how—and why—the extent of economic inequality in a country shapes the attitudes and behavior of the people who live there. He also created and maintains the Standardized World Income Inequality Database (SWIID), which provides the most-comparable data available on income inequality for broadly cross-national research."
   },
   {
-    "objectID": "publications/working-papers/dem_mood/short.html#abstract",
-    "href": "publications/working-papers/dem_mood/short.html#abstract",
-    "title": "On Data ‘Janitor Work’ in Political Science: The Case of Thermostatic Support for Democracy",
-    "section": "Abstract",
-    "text": "Abstract\nData ‘janitor work’, the task of getting data into a format appropriate for analysis, has grown increasingly important as political science research has come to depend on data drawn from hundreds and thousands of sources. One tempting solution is to simply enter the data by hand, but this approach raises serious risks of data-entry error, a difficult-to-catch problem with the potential to fatally undermine our conclusions. Underscoring these points, we identify data-entry errors in a prominent recent article, the 2020 study by Claassen that examines the effect of changes in democracy on public support for democracy. We then show that when these errors are corrected, the work’s models provide no support for its conclusion that publics react thermostatically to changes in democracy. Researchers should refrain from hand-entering data as much as possible, and we offer additional suggestions for avoiding errors."
-  },
-  {
-    "objectID": "publications/working-papers/dem_mood/short.html#important-figures",
-    "href": "publications/working-papers/dem_mood/short.html#important-figures",
-    "title": "On Data ‘Janitor Work’ in Political Science: The Case of Thermostatic Support for Democracy",
-    "section": "Important figures",
-    "text": "Important figures\n\n\n\nFigure 1: Comparing Democracy-Supporting Responses in the Publication Data and the Corrected Data\n\n\n\n\n\nFigure 2: The Effect of Democracy on Change in Public Support\n\n\n\n\n\nFigure 3: Simulated Effects of Change in Democracy on Public Support"
-  },
-  {
-    "objectID": "publications/working-papers/dem_mood/short.html#bibtex-citation",
-    "href": "publications/working-papers/dem_mood/short.html#bibtex-citation",
-    "title": "On Data ‘Janitor Work’ in Political Science: The Case of Thermostatic Support for Democracy",
-    "section": "BibTeX citation",
-    "text": "BibTeX citation\n@misc{HuTaiSolt2022,\n author={Hu, Yue and Tai, Yuehong Cassandra and Solt, Frederick},\n title={On Data 'Janitor Work' in Political Science: The Case of Thermostatic Support for Democracy},\n publisher={SocArXiv},\n year={2022},\n month={June}, \n url={osf.io/preprints/socarxiv/kd7mu},\n doi={10.31235/osf.io/kd7mu}\n}"
-  },
-  {
-    "objectID": "publications/working-papers/dem_mood/index.html",
-    "href": "publications/working-papers/dem_mood/index.html",
-    "title": "On Data ‘Janitor Work’ in Political Science: The Case of Thermostatic Support for Democracy",
+    "objectID": "team/hu.html",
+    "href": "team/hu.html",
+    "title": "Yue Hu",
     "section": "",
-    "text": "Hu, Yue, Yuehong Cassandra Tai, and Frederick Solt. 2022. “On Data ‘Janitor Work’ in Political Science: The Case of Thermostatic Support for Democracy.” SocArXiv.\n\n\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Yue Hu is an associate professor in the Department of Political Science at Tsinghua University. Hu is a comparativist and methodologist in political science. His research interests include political psychology, political linguistics, socioeconomic inequality and public opinion, and identity in urban politics."
   },
   {
-    "objectID": "publications/working-papers/dem_mood/index.html#abstract",
-    "href": "publications/working-papers/dem_mood/index.html#abstract",
-    "title": "On Data ‘Janitor Work’ in Political Science: The Case of Thermostatic Support for Democracy",
-    "section": "Abstract",
-    "text": "Abstract\nData ‘janitor work’, the task of getting data into a format appropriate for analysis, has grown increasingly important as political science research has come to depend on data drawn from hundreds and thousands of sources. One tempting solution is to simply enter the data by hand, but this approach raises serious risks of data-entry error, a difficult-to-catch problem with the potential to fatally undermine our conclusions. Underscoring these points, we identify data-entry errors in a prominent recent article, the 2020 study by Claassen that examines the effect of changes in democracy on public support for democracy. We then show that when these errors are corrected, the work’s models provide no support for its conclusion that publics react thermostatically to changes in democracy. Researchers should refrain from hand-entering data as much as possible, and we offer additional suggestions for avoiding errors."
-  },
-  {
-    "objectID": "publications/working-papers/dem_mood/index.html#important-figures",
-    "href": "publications/working-papers/dem_mood/index.html#important-figures",
-    "title": "On Data ‘Janitor Work’ in Political Science: The Case of Thermostatic Support for Democracy",
-    "section": "Important figures",
-    "text": "Important figures\n\n\n\nFigure 1: Comparing Democracy-Supporting Responses in the Publication Data and the Corrected Data\n\n\n\n\n\nFigure 2: The Effect of Democracy on Change in Public Support\n\n\n\n\n\nFigure 3: Simulated Effects of Change in Democracy on Public Support"
-  },
-  {
-    "objectID": "publications/working-papers/dem_mood/index.html#bibtex-citation",
-    "href": "publications/working-papers/dem_mood/index.html#bibtex-citation",
-    "title": "On Data ‘Janitor Work’ in Political Science: The Case of Thermostatic Support for Democracy",
-    "section": "BibTeX citation",
-    "text": "BibTeX citation\n@misc{HuTaiSolt2022,\n author={Hu, Yue and Tai, Yuehong Cassandra and Solt, Frederick},\n title={On Data 'Janitor Work' in Political Science: The Case of Thermostatic Support for Democracy},\n publisher={SocArXiv},\n year={2022},\n month={June}, \n url={osf.io/preprints/socarxiv/kd7mu},\n doi={10.31235/osf.io/kd7mu}\n}"
-  },
-  {
-    "objectID": "publications/working-papers/tol-h/short.html",
-    "href": "publications/working-papers/tol-h/short.html",
-    "title": "Measuring Tolerance of Homosexuality in the Mass Public Across Countries and Over Time",
+    "objectID": "team/hyein.html",
+    "href": "team/hyein.html",
+    "title": "Hyein Ko",
     "section": "",
-    "text": "No matching items"
+    "text": "Hyein Ko is a doctoral candidate in the Department of Political Science at the University of Iowa. She received her BA in economics and political science and MA in political science from Ewha Womans University. Her current research interests include using text as data and images as data to better understand the politics of the pandemic, political protest, and the politics of media coverage."
   },
   {
-    "objectID": "publications/working-papers/tol-h/short.html#abstract",
-    "href": "publications/working-papers/tol-h/short.html#abstract",
-    "title": "Measuring Tolerance of Homosexuality in the Mass Public Across Countries and Over Time",
-    "section": "Abstract",
-    "text": "Abstract\nTolerance of homosexuality has increased in many countries over recent decades, but the resulting scholarship has been hindered by the limited available data on these trends in public opinion. To overcome this problem, we present the Tolerance of Homosexuality (TOL-H) dataset, which combines a comprehensive collection of survey data with a latent-variable model to provide annual time-series estimates of public attitudes toward homosexuality across 119 countries and over as many as 49 years that are comparable across space and time. We show these data perform well in validation tests and demonstrate their potential by replicating an influential but recently questioned finding that more income inequality yields less tolerance of homosexuality. We anticipate that the TOL-H data will become a crucial source for cross-regional, cross-national, and longitudinal research that improves our understanding of the sources and consequences of tolerance of homosexuality."
-  },
-  {
-    "objectID": "publications/working-papers/tol-h/short.html#important-figures",
-    "href": "publications/working-papers/tol-h/short.html#important-figures",
-    "title": "Measuring Tolerance of Homosexuality in the Mass Public Across Countries and Over Time",
-    "section": "Important figures",
-    "text": "Important figures\n\n\n\nFigure 1: Countries and Mean Years Observed in Survey Datasets\n\n\n\n\n\nFigure 2: Countries and Mean Years Observed in Prominent Research\n\n\n\n\n\nFigure 4: TOL-H Scores, Most Recent Available Year\n\n\n\n\n\nFigure 7: Construct Validation: Correlations Between TOL-H Scores and Tolerance of Homosexuality Survey Items\n\n\n\n\n\nFigure 8: Predicting Tolerance of Homosexuality"
-  },
-  {
-    "objectID": "publications/working-papers/tol-h/short.html#bibtex-citation",
-    "href": "publications/working-papers/tol-h/short.html#bibtex-citation",
-    "title": "Measuring Tolerance of Homosexuality in the Mass Public Across Countries and Over Time",
-    "section": "BibTeX citation",
-    "text": "BibTeX citation\n@misc{WooKoTaiHuSolt2023,\n title={Measuring Tolerance of Homosexuality in the Mass Public Across Countries and Over Time},\n url={osf.io/preprints/socarxiv/74hym},\n DOI={10.31235/osf.io/74hym},\n publisher={SocArXiv},\n author={Woo, Byung-Deuk and Ko, Hyein and Tai, Yuehong Cassandra and Hu, Yue and Solt, Frederick},\n year={2023},\n month={Jun}\n}"
-  },
-  {
-    "objectID": "publications/working-papers/tol-h/index.html",
-    "href": "publications/working-papers/tol-h/index.html",
-    "title": "Measuring Tolerance of Homosexuality in the Mass Public Across Countries and Over Time",
+    "objectID": "news/index.html",
+    "href": "news/index.html",
+    "title": "DCPO News",
     "section": "",
-    "text": "Woo, Byung-Deuk, Hyein Ko, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. 2023. “Measuring Tolerance of Homosexuality in the Mass Public Across Countries and Over Time.” SocArXiv.\n\n\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "publications/working-papers/tol-h/index.html#abstract",
-    "href": "publications/working-papers/tol-h/index.html#abstract",
-    "title": "Measuring Tolerance of Homosexuality in the Mass Public Across Countries and Over Time",
-    "section": "Abstract",
-    "text": "Abstract\nTolerance of homosexuality has increased in many countries over recent decades, but the resulting scholarship has been hindered by the limited available data on these trends in public opinion. To overcome this problem, we present the Tolerance of Homosexuality (TOL-H) dataset, which combines a comprehensive collection of survey data with a latent-variable model to provide annual time-series estimates of public attitudes toward homosexuality across 119 countries and over as many as 49 years that are comparable across space and time. We show these data perform well in validation tests and demonstrate their potential by replicating an influential but recently questioned finding that more income inequality yields less tolerance of homosexuality. We anticipate that the TOL-H data will become a crucial source for cross-regional, cross-national, and longitudinal research that improves our understanding of the sources and consequences of tolerance of homosexuality."
-  },
-  {
-    "objectID": "publications/working-papers/tol-h/index.html#important-figures",
-    "href": "publications/working-papers/tol-h/index.html#important-figures",
-    "title": "Measuring Tolerance of Homosexuality in the Mass Public Across Countries and Over Time",
-    "section": "Important figures",
-    "text": "Important figures\n\n\n\nFigure 1: Countries and Mean Years Observed in Survey Datasets\n\n\n\n\n\nFigure 2: Countries and Mean Years Observed in Prominent Research\n\n\n\n\n\nFigure 4: TOL-H Scores, Most Recent Available Year\n\n\n\n\n\nFigure 7: Construct Validation: Correlations Between TOL-H Scores and Tolerance of Homosexuality Survey Items\n\n\n\n\n\nFigure 8: Predicting Tolerance of Homosexuality"
-  },
-  {
-    "objectID": "publications/working-papers/tol-h/index.html#bibtex-citation",
-    "href": "publications/working-papers/tol-h/index.html#bibtex-citation",
-    "title": "Measuring Tolerance of Homosexuality in the Mass Public Across Countries and Over Time",
-    "section": "BibTeX citation",
-    "text": "BibTeX citation\n@misc{WooKoTaiHuSolt2023,\n title={Measuring Tolerance of Homosexuality in the Mass Public Across Countries and Over Time},\n url={osf.io/preprints/socarxiv/74hym},\n DOI={10.31235/osf.io/74hym},\n publisher={SocArXiv},\n author={Woo, Byung-Deuk and Ko, Hyein and Tai, Yuehong Cassandra and Hu, Yue and Solt, Frederick},\n year={2023},\n month={Jun}\n}"
-  },
-  {
-    "objectID": "publications/working-papers/macrointerest/short.html",
-    "href": "publications/working-papers/macrointerest/short.html",
-    "title": "Macrointerest Across Countries",
-    "section": "",
-    "text": "Hu, Yue and Solt, Frederick. 2024. “Macrointerest Across Countries.” SocArXiv.\n\n\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "publications/working-papers/macrointerest/short.html#abstract",
-    "href": "publications/working-papers/macrointerest/short.html#abstract",
-    "title": "Macrointerest Across Countries",
-    "section": "Abstract",
-    "text": "Abstract\nThe extent to which the public takes an interest in politics has long been argued to be foundational to democracy, but the want of appropriate data has prevented cross- national and longitudinal analysis. This letter takes advantage of recent advances in latent-variable modeling of aggregate survey responses and a comprehensive collection of survey data to generate dynamic comparative estimates of macrointerest, that is, aggregate political interest, for over a hundred countries over the past four decades. These macrointerest scores are validated with other aggregate measures of political interest and of other types of political engagement. A cross-national and longitudinal analysis of macrointerest in advanced democracies reveals that along with election campaigns and inclusive institutions, it is good times, not bad, that spur publics to greater interest in politics."
-  },
-  {
-    "objectID": "publications/working-papers/macrointerest/short.html#important-figures",
-    "href": "publications/working-papers/macrointerest/short.html#important-figures",
-    "title": "Macrointerest Across Countries",
-    "section": "Important figures",
-    "text": "Important figures\n\n\n\nFigure 2: Internal Convergent Validation: Correlations Between Macrointerest and Individual Source-Data Survey Items\n\n\n\n\n\nFigure 3: Construct Validation: Correlations Between Macrointerest and Other Aspects of Political Engagement\n\n\n\n\n\nFigure 5: Predicting Macrointerest in OECD Democracies"
-  },
-  {
-    "objectID": "publications/working-papers/macrointerest/short.html#bibtex-citation",
-    "href": "publications/working-papers/macrointerest/short.html#bibtex-citation",
-    "title": "Macrointerest Across Countries",
-    "section": "BibTeX citation",
-    "text": "BibTeX citation\n@misc{HuSolt2024,\n author={Hu, Yue, and Solt, Frederick},\n title={Macrointerest Across Countries},\n publisher={SocArXiv},\n year={2024},\n month={February}, \n url={osf.io/preprints/socarxiv/nkgdy/},\n doi={10.31235/osf.io/nkgdy}\n}"
-  },
-  {
-    "objectID": "publications/working-papers/macrointerest/index.html",
-    "href": "publications/working-papers/macrointerest/index.html",
-    "title": "Macrointerest Across Countries",
-    "section": "",
-    "text": "Hu, Yue and Solt, Frederick. 2023. “Macrointerest Across Countries.” SocArXiv.\n\n\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "publications/working-papers/macrointerest/index.html#abstract",
-    "href": "publications/working-papers/macrointerest/index.html#abstract",
-    "title": "Macrointerest Across Countries",
-    "section": "Abstract",
-    "text": "Abstract\nThe extent to which the public takes an interest in politics has long been argued to be foundational to democracy, but the want of appropriate data has prevented cross- national and longitudinal analysis. This letter takes advantage of recent advances in latent-variable modeling of aggregate survey responses and a comprehensive collection of survey data to generate dynamic comparative estimates of macrointerest, that is, aggregate political interest, for over a hundred countries over the past four decades. These macrointerest scores are validated with other aggregate measures of political interest and of other types of political engagement. A cross-national and longitudinal analysis of macrointerest in advanced democracies reveals that along with election campaigns and inclusive institutions, it is good times, not bad, that spur publics to greater interest in politics."
-  },
-  {
-    "objectID": "publications/working-papers/macrointerest/index.html#important-figures",
-    "href": "publications/working-papers/macrointerest/index.html#important-figures",
-    "title": "Macrointerest Across Countries",
-    "section": "Important figures",
-    "text": "Important figures\n\n\n\nFigure 2: Internal Convergent Validation: Correlations Between Macrointerest and Individual Source-Data Survey Items\n\n\n\n\n\nFigure 3: Construct Validation: Correlations Between Macrointerest and Other Aspects of Political Engagement\n\n\n\n\n\nFigure 5: Predicting Macrointerest in OECD Democracies"
-  },
-  {
-    "objectID": "publications/working-papers/macrointerest/index.html#bibtex-citation",
-    "href": "publications/working-papers/macrointerest/index.html#bibtex-citation",
-    "title": "Macrointerest Across Countries",
-    "section": "BibTeX citation",
-    "text": "BibTeX citation\n@misc{HuSolt2024,\n author={Hu, Yue, and Solt, Frederick},\n title={Macrointerest Across Countries},\n publisher={SocArXiv},\n year={2024},\n month={February}, \n url={osf.io/preprints/socarxiv/nkgdy/},\n doi={10.31235/osf.io/nkgdy}\n}"
-  },
-  {
-    "objectID": "publications/published/dem_support/short.html",
-    "href": "publications/published/dem_support/short.html",
-    "title": "Democracy, Public Support, and Measurement Uncertainty",
-    "section": "",
-    "text": "Tai, Yuehong ‘Cassandra’, Yue Hu, and Frederick Solt. Forthcoming. “Democracy, Public Support, and Measurement Uncertainty.” American Political Science Review.\n\n\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n\n\n\nOther details: Presented at the joint meeting of the Asian Political Methodology group and the Australian Society for Quantitative Political Science (AsianPolmeth VIII & ASQPS IX), January 2021.\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "publications/published/dem_support/short.html#abstract",
-    "href": "publications/published/dem_support/short.html#abstract",
-    "title": "Democracy, Public Support, and Measurement Uncertainty",
-    "section": "Abstract",
-    "text": "Abstract\nDo democratic regimes depend on public support to avoid backsliding? Does public support, in turn, respond thermostatically to changes in democracy? Two prominent recent studies (Claassen 2020a, 2020b) reinvigorated the classic hypothesis on the positive relationship between public support for democracy and regime survival—and challenged its reciprocal counterpart—by using a latent variable approach to measure mass democratic support from cross-national survey data. Both studies, however, used only the point estimates of democratic support; we show that incorporating the concomitant measurement uncertainty into these analyses reveals that there is no support for either study’s conclusion. Efforts to minimize the uncertainty by incorporating additional survey data still fail to yield evidence in support of either hypothesis. These results underscore the need both for more nuanced analyses of the relationships between public support and democracy and for taking measurement uncertainty into account when working with latent variables."
-  },
-  {
-    "objectID": "publications/published/dem_support/short.html#important-figure",
-    "href": "publications/published/dem_support/short.html#important-figure",
-    "title": "Democracy, Public Support, and Measurement Uncertainty",
-    "section": "Important Figure",
-    "text": "Important Figure\n\n\n\nFigure 1: The Effect of Public Support on Democracy with Uncertainty"
-  },
-  {
-    "objectID": "publications/published/dem_support/short.html#bibtex-citation",
-    "href": "publications/published/dem_support/short.html#bibtex-citation",
-    "title": "Democracy, Public Support, and Measurement Uncertainty",
-    "section": "BibTeX Citation",
-    "text": "BibTeX Citation\n@article{TaiHuSolt2022,\n    author = {Tai, Yuehong 'Cassandra' and Hu, Yue and Solt, Frederick},\n    year = {2022},\n    journal = {American Political Science Review},\n    title = {Democracy, Public Support, and Measurement Uncertainty},\n    volume = {FirstView},\n    doi = {doi.org/10.1017/S0003055422000429}}"
-  },
-  {
-    "objectID": "publications/published/dem_support/index.html",
-    "href": "publications/published/dem_support/index.html",
-    "title": "Democracy, Public Support, and Measurement Uncertainty",
-    "section": "",
-    "text": "Tai, Yuehong ‘Cassandra’, Yue Hu, and Frederick Solt. Forthcoming. “Democracy, Public Support, and Measurement Uncertainty.” American Political Science Review.\n\n\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n\n\n\nOther details: Presented at the joint meeting of the Asian Political Methodology group and the Australian Society for Quantitative Political Science (AsianPolmeth VIII & ASQPS IX), January 2021.\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "publications/published/dem_support/index.html#abstract",
-    "href": "publications/published/dem_support/index.html#abstract",
-    "title": "Democracy, Public Support, and Measurement Uncertainty",
-    "section": "Abstract",
-    "text": "Abstract\nDo democratic regimes depend on public support to avoid backsliding? Does public support, in turn, respond thermostatically to changes in democracy? Two prominent recent studies (Claassen 2020a, 2020b) reinvigorated the classic hypothesis on the positive relationship between public support for democracy and regime survival—and challenged its reciprocal counterpart—by using a latent variable approach to measure mass democratic support from cross-national survey data. Both studies, however, used only the point estimates of democratic support; we show that incorporating the concomitant measurement uncertainty into these analyses reveals that there is no support for either study’s conclusion. Efforts to minimize the uncertainty by incorporating additional survey data still fail to yield evidence in support of either hypothesis. These results underscore the need both for more nuanced analyses of the relationships between public support and democracy and for taking measurement uncertainty into account when working with latent variables."
-  },
-  {
-    "objectID": "publications/published/dem_support/index.html#important-figure",
-    "href": "publications/published/dem_support/index.html#important-figure",
-    "title": "Democracy, Public Support, and Measurement Uncertainty",
-    "section": "Important Figure",
-    "text": "Important Figure\n\n\n\nFigure 1: The Effect of Public Support on Democracy with Uncertainty"
-  },
-  {
-    "objectID": "publications/published/dem_support/index.html#bibtex-citation",
-    "href": "publications/published/dem_support/index.html#bibtex-citation",
-    "title": "Democracy, Public Support, and Measurement Uncertainty",
-    "section": "BibTeX Citation",
-    "text": "BibTeX Citation\n@article{TaiHuSolt2022,\n    author = {Tai, Yuehong 'Cassandra' and Hu, Yue and Solt, Frederick},\n    year = {2022},\n    journal = {American Political Science Review},\n    title = {Democracy, Public Support, and Measurement Uncertainty},\n    volume = {FirstView},\n    doi = {doi.org/10.1017/S0003055422000429}\n}"
+    "text": "New DCPO Publication!\n\n\n\n\n\n\n\n\n\n\n\nFeb 2, 2023\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications/published/pge/short.html",
@@ -385,172 +98,305 @@
     "text": "BibTeX citation\n@article{WooAllemangSolt2022,\n    author = {Woo, Byung-Deuk, and Goldberg, Lindsey A., and Solt, Frederick},\n    year = {2023},\n    title = {Public {{Gender Egalitarianism}}: {{A Dataset}} of {{Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles}} in the {{Public Sphere}}},\n    journal={British Journal of Political Science},\n    volume={53},\n    number={2},\n    pages={766–775},\n    doi = {10.1017/S0007123422000436}}"
   },
   {
-    "objectID": "publications/published/pge/index.html",
-    "href": "publications/published/pge/index.html",
-    "title": "Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere",
+    "objectID": "publications/published/dem_mood/short.html",
+    "href": "publications/published/dem_mood/short.html",
+    "title": "Revisiting the Evidence on Thermostatic Response to Democratic Change: Degrees of Democratic Support or Researcher Degrees of Freedom?",
     "section": "",
-    "text": "Woo, Byung-Deuk, Lindsey A. Goldberg, and Frederick Solt. 2023. “Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere.” British Journal of Political Science 53(2), 766-775.\n\n\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n PGE Database\n\n\n\n\n\nOther details: Presented at the annual meeting of the Midwest Political Science Association (MPSA), April 2022.\n\n\n\n\n\nNo matching items"
+    "text": "Hu, Yue, Yuehong Cassandra Tai, and Frederick Solt. Forthcoming. “Revisiting the Evidence on Thermostatic Response to Democratic Change: Degrees of Democratic Support or Researcher Degrees of Freedom?” Political Science Research and Methods.\n\n\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "publications/published/pge/index.html#abstract",
-    "href": "publications/published/pge/index.html#abstract",
-    "title": "Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere",
+    "objectID": "publications/published/dem_mood/short.html#abstract",
+    "href": "publications/published/dem_mood/short.html#abstract",
+    "title": "Revisiting the Evidence on Thermostatic Response to Democratic Change: Degrees of Democratic Support or Researcher Degrees of Freedom?",
     "section": "Abstract",
-    "text": "Abstract\nSocietal attitudes toward gender roles in the workplace and politics play a central part in theorizing on the difficulty women face in achieving political equality, but shortcomings in the available data have prevented direct examination of many implications of these theories. Drawing on recent advances in latent variable modeling of public opinion and a comprehensive collection of survey data, we present the Public Gender Egalitarianism dataset to address this need: comparable estimates of the public’s attitudes on gender equality in the public sphere across more than one hundred countries over time. These PGE scores are strongly correlated with responses to individual survey items and with women’s rates of participation in the labor force and corporate boards. We expect that the PGE data will become an invaluable source for broadly cross-national and longitudinal research on the causes and consequences of collective attitudes toward gender equality in politics and the economy."
+    "text": "Abstract\nProminent recent work argues that support for democracy behaves thermostatically—that democratic erosion boosts democratic support while deepening democracy yields public backlash—and further contends that there is no evidence for the classic argument that democracy itself increases democratic support over time. Here, we document how these conclusions depend on subtle choices in measurement coding that constitute ‘researcher degrees of freedom’: analyses employing alternative reasonable choices provide little or no support for the original conclusions. The fragility of the statistical results demonstrates that researcher degrees of freedom in measurement must be taken seriously and that the question of the relationship between democratic institutions and democratic support remains unsettled."
   },
   {
-    "objectID": "publications/published/pge/index.html#important-figures",
-    "href": "publications/published/pge/index.html#important-figures",
-    "title": "Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere",
+    "objectID": "publications/published/dem_mood/short.html#important-figures",
+    "href": "publications/published/dem_mood/short.html#important-figures",
+    "title": "Revisiting the Evidence on Thermostatic Response to Democratic Change: Degrees of Democratic Support or Researcher Degrees of Freedom?",
     "section": "Important figures",
-    "text": "Important figures\n\n\n\nFigure 3: PGE Scores Over Time Within Selected Countries\n\n\n\n\n\nFigure 6: Construct Validation: Correlations Between PGE Scores and Indicators of Workplace Gender Equality"
+    "text": "Important figures\n\n\n\nFigure 1: The Effects of Democracy on the Change in Public Support\n\n\n\n\n\nFigure 2: Simulated Effects of Democracy on Changes in Public Democratic Support"
   },
   {
-    "objectID": "publications/published/pge/index.html#bibtex-citation",
-    "href": "publications/published/pge/index.html#bibtex-citation",
-    "title": "Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere",
+    "objectID": "publications/published/dem_mood/short.html#bibtex-citation",
+    "href": "publications/published/dem_mood/short.html#bibtex-citation",
+    "title": "Revisiting the Evidence on Thermostatic Response to Democratic Change: Degrees of Democratic Support or Researcher Degrees of Freedom?",
     "section": "BibTeX citation",
-    "text": "BibTeX citation\n@misc{WooAllemangSolt2022,\n    author = {Woo, Byung-Deuk, and Goldberg, Lindsey A., and Solt, Frederick},\n    year = {2022},\n    doi = {10.31235/osf.io/37dq9},\n    month = {Feb},\n    publisher = {SocArXiv},\n    title = {Public {{Gender Egalitarianism}}: {{A Dataset}} of {{Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles}} in the {{Public Sphere}}},\n    url = {https://osf.io/preprints/socarxiv/37dq9},\n    year = {2022}}"
+    "text": "BibTeX citation\n@misc{HuTaiSolt2024,\n author={Hu, Yue and Tai, Yuehong Cassandra and Solt, Frederick},\n title={Revisiting the Evidence on Thermostatic Response to Democratic Change: Degrees of Democratic Support or Researcher Degrees of Freedom?},\n publisher={SocArXiv},\n year={2024},\n month={February}, \n url={osf.io/preprints/socarxiv/xrhwk},\n doi={10.31235/osf.io/xrhwk}\n}"
   },
   {
-    "objectID": "news/index.html",
-    "href": "news/index.html",
-    "title": "DCPO News",
+    "objectID": "publications/published/dem_support/short.html",
+    "href": "publications/published/dem_support/short.html",
+    "title": "Democracy, Public Support, and Measurement Uncertainty",
     "section": "",
-    "text": "No matching items"
+    "text": "Tai, Yuehong ‘Cassandra’, Yue Hu, and Frederick Solt. Forthcoming. “Democracy, Public Support, and Measurement Uncertainty.” American Political Science Review.\n\n\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n\n\n\nOther details: Presented at the joint meeting of the Asian Political Methodology group and the Australian Society for Quantitative Political Science (AsianPolmeth VIII & ASQPS IX), January 2021.\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "team/index.html",
-    "href": "team/index.html",
-    "title": "Team",
+    "objectID": "publications/published/dem_support/short.html#abstract",
+    "href": "publications/published/dem_support/short.html#abstract",
+    "title": "Democracy, Public Support, and Measurement Uncertainty",
+    "section": "Abstract",
+    "text": "Abstract\nDo democratic regimes depend on public support to avoid backsliding? Does public support, in turn, respond thermostatically to changes in democracy? Two prominent recent studies (Claassen 2020a, 2020b) reinvigorated the classic hypothesis on the positive relationship between public support for democracy and regime survival—and challenged its reciprocal counterpart—by using a latent variable approach to measure mass democratic support from cross-national survey data. Both studies, however, used only the point estimates of democratic support; we show that incorporating the concomitant measurement uncertainty into these analyses reveals that there is no support for either study’s conclusion. Efforts to minimize the uncertainty by incorporating additional survey data still fail to yield evidence in support of either hypothesis. These results underscore the need both for more nuanced analyses of the relationships between public support and democracy and for taking measurement uncertainty into account when working with latent variables."
+  },
+  {
+    "objectID": "publications/published/dem_support/short.html#important-figure",
+    "href": "publications/published/dem_support/short.html#important-figure",
+    "title": "Democracy, Public Support, and Measurement Uncertainty",
+    "section": "Important Figure",
+    "text": "Important Figure\n\n\n\nFigure 1: The Effect of Public Support on Democracy with Uncertainty"
+  },
+  {
+    "objectID": "publications/published/dem_support/short.html#bibtex-citation",
+    "href": "publications/published/dem_support/short.html#bibtex-citation",
+    "title": "Democracy, Public Support, and Measurement Uncertainty",
+    "section": "BibTeX Citation",
+    "text": "BibTeX Citation\n@article{TaiHuSolt2022,\n    author = {Tai, Yuehong 'Cassandra' and Hu, Yue and Solt, Frederick},\n    year = {2022},\n    journal = {American Political Science Review},\n    title = {Democracy, Public Support, and Measurement Uncertainty},\n    volume = {FirstView},\n    doi = {doi.org/10.1017/S0003055422000429}}"
+  },
+  {
+    "objectID": "publications/working-papers/macrointerest/short.html",
+    "href": "publications/working-papers/macrointerest/short.html",
+    "title": "Macrointerest Across Countries",
     "section": "",
-    "text": "Hyein Ko\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nYuehong ‘Cassandra’ Tai\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nByung-Deuk Woo\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nYue Hu\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFrederick Solt\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Hu, Yue and Solt, Frederick. 2024. “Macrointerest Across Countries.” SocArXiv.\n\n\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "team/hyein.html",
-    "href": "team/hyein.html",
-    "title": "Hyein Ko",
+    "objectID": "publications/working-papers/macrointerest/short.html#abstract",
+    "href": "publications/working-papers/macrointerest/short.html#abstract",
+    "title": "Macrointerest Across Countries",
+    "section": "Abstract",
+    "text": "Abstract\nThe extent to which the public takes an interest in politics has long been argued to be foundational to democracy, but the want of appropriate data has prevented cross- national and longitudinal analysis. This letter takes advantage of recent advances in latent-variable modeling of aggregate survey responses and a comprehensive collection of survey data to generate dynamic comparative estimates of macrointerest, that is, aggregate political interest, for over a hundred countries over the past four decades. These macrointerest scores are validated with other aggregate measures of political interest and of other types of political engagement. A cross-national and longitudinal analysis of macrointerest in advanced democracies reveals that along with election campaigns and inclusive institutions, it is good times, not bad, that spur publics to greater interest in politics."
+  },
+  {
+    "objectID": "publications/working-papers/macrointerest/short.html#important-figures",
+    "href": "publications/working-papers/macrointerest/short.html#important-figures",
+    "title": "Macrointerest Across Countries",
+    "section": "Important figures",
+    "text": "Important figures\n\n\n\nFigure 2: Internal Convergent Validation: Correlations Between Macrointerest and Individual Source-Data Survey Items\n\n\n\n\n\nFigure 3: Construct Validation: Correlations Between Macrointerest and Other Aspects of Political Engagement\n\n\n\n\n\nFigure 5: Predicting Macrointerest in OECD Democracies"
+  },
+  {
+    "objectID": "publications/working-papers/macrointerest/short.html#bibtex-citation",
+    "href": "publications/working-papers/macrointerest/short.html#bibtex-citation",
+    "title": "Macrointerest Across Countries",
+    "section": "BibTeX citation",
+    "text": "BibTeX citation\n@misc{HuSolt2024,\n author={Hu, Yue, and Solt, Frederick},\n title={Macrointerest Across Countries},\n publisher={SocArXiv},\n year={2024},\n month={February}, \n url={osf.io/preprints/socarxiv/nkgdy/},\n doi={10.31235/osf.io/nkgdy}\n}"
+  },
+  {
+    "objectID": "publications/working-papers/janitor_work/short.html",
+    "href": "publications/working-papers/janitor_work/short.html",
+    "title": "On Data ‘Janitor Work’ in Political Science: The Case of Thermostatic Support for Democracy",
     "section": "",
-    "text": "Hyein Ko is a doctoral candidate in the Department of Political Science at the University of Iowa. She received her BA in economics and political science and MA in political science from Ewha Womans University. Her current research interests include using text as data and images as data to better understand the politics of the pandemic, political protest, and the politics of media coverage."
+    "text": "Hu, Yue, Yuehong Cassandra Tai, and Frederick Solt. 2022. “On Data ‘Janitor Work’ in Political Science: The Case of Thermostatic Support for Democracy.” SocArXiv.\n\n\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "team/cassandra.html",
-    "href": "team/cassandra.html",
-    "title": "Yuehong ‘Cassandra’ Tai",
+    "objectID": "publications/working-papers/janitor_work/short.html#abstract",
+    "href": "publications/working-papers/janitor_work/short.html#abstract",
+    "title": "On Data ‘Janitor Work’ in Political Science: The Case of Thermostatic Support for Democracy",
+    "section": "Abstract",
+    "text": "Abstract\nData ‘janitor work’, the task of getting data into a format appropriate for analysis, has grown increasingly important as political science research has come to depend on data drawn from hundreds and thousands of sources. One tempting solution is to simply enter the data by hand, but this approach raises serious risks of data-entry error, a difficult-to-catch problem with the potential to fatally undermine our conclusions. Underscoring these points, we identify data-entry errors in a prominent recent article, the 2020 study by Claassen that examines the effect of changes in democracy on public support for democracy. We then show that when these errors are corrected, the work’s models provide no support for its conclusion that publics react thermostatically to changes in democracy. Researchers should refrain from hand-entering data as much as possible, and we offer additional suggestions for avoiding errors."
+  },
+  {
+    "objectID": "publications/working-papers/janitor_work/short.html#important-figures",
+    "href": "publications/working-papers/janitor_work/short.html#important-figures",
+    "title": "On Data ‘Janitor Work’ in Political Science: The Case of Thermostatic Support for Democracy",
+    "section": "Important figures",
+    "text": "Important figures\n\n\n\nFigure 1: Comparing Democracy-Supporting Responses in the Publication Data and the Corrected Data\n\n\n\n\n\nFigure 2: The Effect of Democracy on Change in Public Support\n\n\n\n\n\nFigure 3: Simulated Effects of Change in Democracy on Public Support"
+  },
+  {
+    "objectID": "publications/working-papers/janitor_work/short.html#bibtex-citation",
+    "href": "publications/working-papers/janitor_work/short.html#bibtex-citation",
+    "title": "On Data ‘Janitor Work’ in Political Science: The Case of Thermostatic Support for Democracy",
+    "section": "BibTeX citation",
+    "text": "BibTeX citation\n@misc{HuTaiSolt2022,\n author={Hu, Yue and Tai, Yuehong Cassandra and Solt, Frederick},\n title={On Data 'Janitor Work' in Political Science: The Case of Thermostatic Support for Democracy},\n publisher={SocArXiv},\n year={2022},\n month={June}, \n url={osf.io/preprints/socarxiv/kd7mu},\n doi={10.31235/osf.io/kd7mu}\n}"
+  },
+  {
+    "objectID": "publications/working-papers/tol-h/short.html",
+    "href": "publications/working-papers/tol-h/short.html",
+    "title": "Measuring Tolerance of Homosexuality in the Mass Public Across Countries and Over Time",
     "section": "",
-    "text": "Yuehong ‘Cassandra’ Tai is a postdoctoral scholar at the Center for Social Data Analytics (C-SoDA) at Pennsylvania State University. Her research attempts to understand the interaction between public opinion and policymaking, policy output, policy outcomes, and policy feedback as a process in governance in comparative perspective. She is particularly interested in the role of social and political trust on public health and economic policy. Her methodological interests include Bayesian analysis and machine learning."
+    "text": "Woo, Byung-Deuk, Hyein Ko, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. 2023. “Measuring Tolerance of Homosexuality in the Mass Public Across Countries and Over Time.” SocArXiv.\n\n\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "team/hu.html",
-    "href": "team/hu.html",
-    "title": "Yue Hu",
+    "objectID": "publications/working-papers/tol-h/short.html#abstract",
+    "href": "publications/working-papers/tol-h/short.html#abstract",
+    "title": "Measuring Tolerance of Homosexuality in the Mass Public Across Countries and Over Time",
+    "section": "Abstract",
+    "text": "Abstract\nTolerance of homosexuality has increased in many countries over recent decades, but the resulting scholarship has been hindered by the limited available data on these trends in public opinion. To overcome this problem, we present the Tolerance of Homosexuality (TOL-H) dataset, which combines a comprehensive collection of survey data with a latent-variable model to provide annual time-series estimates of public attitudes toward homosexuality across 119 countries and over as many as 49 years that are comparable across space and time. We show these data perform well in validation tests and demonstrate their potential by replicating an influential but recently questioned finding that more income inequality yields less tolerance of homosexuality. We anticipate that the TOL-H data will become a crucial source for cross-regional, cross-national, and longitudinal research that improves our understanding of the sources and consequences of tolerance of homosexuality."
+  },
+  {
+    "objectID": "publications/working-papers/tol-h/short.html#important-figures",
+    "href": "publications/working-papers/tol-h/short.html#important-figures",
+    "title": "Measuring Tolerance of Homosexuality in the Mass Public Across Countries and Over Time",
+    "section": "Important figures",
+    "text": "Important figures\n\n\n\nFigure 1: Countries and Mean Years Observed in Survey Datasets\n\n\n\n\n\nFigure 2: Countries and Mean Years Observed in Prominent Research\n\n\n\n\n\nFigure 4: TOL-H Scores, Most Recent Available Year\n\n\n\n\n\nFigure 7: Construct Validation: Correlations Between TOL-H Scores and Tolerance of Homosexuality Survey Items\n\n\n\n\n\nFigure 8: Predicting Tolerance of Homosexuality"
+  },
+  {
+    "objectID": "publications/working-papers/tol-h/short.html#bibtex-citation",
+    "href": "publications/working-papers/tol-h/short.html#bibtex-citation",
+    "title": "Measuring Tolerance of Homosexuality in the Mass Public Across Countries and Over Time",
+    "section": "BibTeX citation",
+    "text": "BibTeX citation\n@misc{WooKoTaiHuSolt2023,\n title={Measuring Tolerance of Homosexuality in the Mass Public Across Countries and Over Time},\n url={osf.io/preprints/socarxiv/74hym},\n DOI={10.31235/osf.io/74hym},\n publisher={SocArXiv},\n author={Woo, Byung-Deuk and Ko, Hyein and Tai, Yuehong Cassandra and Hu, Yue and Solt, Frederick},\n year={2023},\n month={Jun}\n}"
+  },
+  {
+    "objectID": "publications/working-papers/demsupport_data/short.html",
+    "href": "publications/working-papers/demsupport_data/short.html",
+    "title": "Support for Democracy Is Multidimensional: Why Unidimensional Latent Variable Measures of Democratic Support Are Invalid",
     "section": "",
-    "text": "Yue Hu is an associate professor in the Department of Political Science at Tsinghua University. Hu is a comparativist and methodologist in political science. His research interests include political psychology, political linguistics, socioeconomic inequality and public opinion, and identity in urban politics."
+    "text": "Hu, Yue, Yuehong Cassandra Tai, Hyein Ko, Byung-Deuk Woo, and Frederick Solt. 2023. “Support for Democracy Is Multidimensional: Why Unidimensional Latent Variable Measures of Democratic Support Are Invalid.” SocArXiv.\n\n\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "team/byung-deuk.html",
-    "href": "team/byung-deuk.html",
-    "title": "Byung-Deuk Woo",
+    "objectID": "publications/working-papers/demsupport_data/short.html#abstract",
+    "href": "publications/working-papers/demsupport_data/short.html#abstract",
+    "title": "Support for Democracy Is Multidimensional: Why Unidimensional Latent Variable Measures of Democratic Support Are Invalid",
+    "section": "Abstract",
+    "text": "Abstract\nMeasuring democratic support as a single latent variable requires assuming that it falls along a single dimension from steadfast opposition to wholehearted support. This ignores ample evidence that support for democracy is complex and multidimensional. Here we provide a series of validation tests of the sort of cross-national time-series latent variable measures employed in recent research by reference to questions on support for liberal democracy and opposition to its erosion from multiwave surveys conducted around the world. These tests show that, across countries and years, this latent variable is nearly orthogonal to measures of support for contestation and participation; civil liberties; institutional constraints on executive power; and prioritizing democracy over the economy, economic equality, or order. We conclude that support for democracy in any robust sense is simply not well captured by a unidimensional latent variable. Such measures are powerful but researchers must be mindful of their limitations."
+  },
+  {
+    "objectID": "publications/working-papers/demsupport_data/short.html#important-figures",
+    "href": "publications/working-papers/demsupport_data/short.html#important-figures",
+    "title": "Support for Democracy Is Multidimensional: Why Unidimensional Latent Variable Measures of Democratic Support Are Invalid",
+    "section": "Important figures",
+    "text": "Important figures\n\n\n\nFigure 1: Correlations Between Democratic Support as a Unidimensional Latent Variable and Polyarchy Survey Items\n\n\n\n\n\nFigure 2: Correlations Between Democratic Support as a Unidimensional Latent Variable and Civil Liberties Survey Items\n\n\n\n\n\nFigure 3: Correlations Between Democratic Support as a Unidimensional Latent Variable and Democratic Institutions Survey Items\n\n\n\n\n\nFigure 4: Correlations Between Democratic Support as a Unidimensional Latent Variable and Prioritization Survey Items"
+  },
+  {
+    "objectID": "publications/working-papers/demsupport_data/short.html#bibtex-citation",
+    "href": "publications/working-papers/demsupport_data/short.html#bibtex-citation",
+    "title": "Support for Democracy Is Multidimensional: Why Unidimensional Latent Variable Measures of Democratic Support Are Invalid",
+    "section": "BibTeX citation",
+    "text": "BibTeX citation\n@misc{HuTaiSolt2022,\n author={Hu, Yue and Tai, Yuehong Cassandra and Ko, Hyein and Woo, Byung-Deuk and Solt, Frederick},\n title={Support for Democracy Is Multidimensional: Why Unidimensional Latent Variable Measures of Democratic Support Are Invalid},\n publisher={SocArXiv},\n year={2023},\n month={February}, \n url={osf.io/preprints/socarxiv/rym8g/},\n doi={10.31235/osf.io/rym8g/}\n}"
+  },
+  {
+    "objectID": "publications/working-papers/dcpo_article/short.html",
+    "href": "publications/working-papers/dcpo_article/short.html",
+    "title": "Modeling Dynamic Comparative Public Opinion",
     "section": "",
-    "text": "Byung-Deuk Woo is a postdoctoral researcher at the Institute of Social Data Science, Pohang University of Science and Technology in South Korea. He received his PhD degree in Political Science from the University of Iowa in 2021, and BA in Political Science and International Relations from Hankuk University of Foreign Studies (HUFS) in 2017. In his dissertation, “Re-Examining the Origins of Policy related to Violence Against Women: The Role of Women’s Descriptive Representation in Achieving Substantive Representation,” Byung-Deuk examined the role of women’s descriptive representation on the adoption of criminal laws and public policies concerning violence against women with time-series cross-national data on 161 countries from 1908 to 2016 and with data on the Korean National Assembly."
+    "text": "Frederick Solt. 2020. “Modeling Dynamic Comparative Public Opinion.” SocArXiv.\n\n\n\n\n Preprint\n\n\n Code\n\n\n\n\n\nOther details: Previous versions of this project were presented at the 2014 meetings of the European Political Science Association and American Political Science Association, the 2016 meeting of the Midwest Political Science Association, the 2019 St. Louis Area Methods Meeting, the 2020 meeting of the Southern Political Science Association, and at Princeton University, Oxford University, the University of Tennessee, the University of Iowa, Central European University, and the Polish Academy of Sciences.\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "team/fsolt.html",
-    "href": "team/fsolt.html",
-    "title": "Frederick Solt",
+    "objectID": "publications/working-papers/dcpo_article/short.html#abstract",
+    "href": "publications/working-papers/dcpo_article/short.html#abstract",
+    "title": "Modeling Dynamic Comparative Public Opinion",
+    "section": "Abstract",
+    "text": "Abstract\nThe study of public opinion in comparative context has been hampered by data that is sparse, that is, unavailable for many countries and years; incomparable, i.e., ostensibly addressing the same issue but generated by different survey items; or, most often, both. Questions of representation and of policy feedback on public opinion, for example, cannot be explored fully from a cross-national perspective without comparable time-series data for many countries that span their respective times of policy adoption. Recent works (Claassen 2019; Caughey, O’Grady, and Warshaw 2019) have introduced a latent variable approach to the study of comparative public opinion that maximizes the information gleaned from available surveys to overcome issues of sparse and incomparable data and allow comparativists to examine the dynamics of public opinion. This paper advances this field of research by presenting a new model and software for estimating latent variables of public opinion from cross-national survey data that yield superior fit and more quantities of theoretical interest than previous works allow."
+  },
+  {
+    "objectID": "publications/working-papers/dcpo_article/short.html#important-figure",
+    "href": "publications/working-papers/dcpo_article/short.html#important-figure",
+    "title": "Modeling Dynamic Comparative Public Opinion",
+    "section": "Important figure",
+    "text": "Important figure\n\n\n\nFigure 1: Probability of an Affirmative Response in the 2PL IRT Model"
+  },
+  {
+    "objectID": "publications/working-papers/dcpo_article/short.html#bibtex-citation",
+    "href": "publications/working-papers/dcpo_article/short.html#bibtex-citation",
+    "title": "Modeling Dynamic Comparative Public Opinion",
+    "section": "BibTeX citation",
+    "text": "BibTeX citation\n@misc{Solt2020,\n author={Solt, Frederick},\n title={Modeling Dynamic Comparative Public Opinion},\n publisher={SocArXiv},\n year={2020},\n month={Jan}, \n url={osf.io/preprints/socarxiv/d5n9p},\n doi={10.31235/osf.io/d5n9p}\n}"
+  },
+  {
+    "objectID": "publications/index.html",
+    "href": "publications/index.html",
+    "title": "DCPO",
     "section": "",
-    "text": "Frederick Solt is an associate professor in the Department of Political Science at the University of Iowa. He is author and maintainer of the DCPOtools package and the founder of the DCPO Lab. His other interests include comparative political behavior and political economy from a cross-national perspective. Much of his work focuses on understanding how—and why—the extent of economic inequality in a country shapes the attitudes and behavior of the people who live there. He also created and maintains the Standardized World Income Inequality Database (SWIID), which provides the most-comparable data available on income inequality for broadly cross-national research."
+    "text": "Hu, Yue, Yuehong Cassandra Tai, and Frederick Solt. Forthcoming. “Revisiting the Evidence on Thermostatic Response to Democratic Change: Degrees of Democratic Support or Researcher Degrees of Freedom?” Political Science Research and Methods.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n Forthcoming Tai, Yuehong ‘Cassandra’, Yue Hu, and Frederick Solt. Forthcoming. “Democracy, Public Support, and Measurement Uncertainty.” American Political Science Review.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n\n\n\n\n\nWoo, Byung-Deuk, Lindsey A. Goldberg, and Frederick Solt. 2023. “Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere.” British Journal of Political Science 53(2), 766-775.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n PGE Database\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "software.html",
-    "href": "software.html",
-    "title": "Software",
+    "objectID": "publications/index.html#publications",
+    "href": "publications/index.html#publications",
+    "title": "DCPO",
     "section": "",
-    "text": "DCPOtools\nSolt, Frederick, Yuehong Cassandra Tai, Yue Hu, Hyein Ko, and Byung-Deuk Woo. 2019. “DCPOtools: Tools for Preparing Survey Data for DCPO.” https://github.com/fsolt/DCPOtools.\nDynamic Comparative Public Opinion (DCPO) analyses generate estimates of latent public opinion that are comparable across countries and over time from hundreds or thousands of surveys, but collecting and formatting these survey data is a formidable challenge. The DCPOtools package streamlines these initial steps, providing tools for downloading survey datasets, extracting the needed data, correctly identifying and standardizing the countries and years surveyed, applying survey weights, and arranging the resulting information into the format required to generate DCPO estimates.\nTo install:\nDCPOtools is not available on CRAN. Install its latest version with the following command:\nremotes::install_github(\"fsolt/DCPOtools\")\n\n\nDCPO\nSolt, Frederick. 2020. “DCPO: Dynamic Comparative Public Opinion.” The Comprehensive R Archive Network (CRAN).\n  \nThe study of comparative public opinion has been hampered by data that is sparse, that is, unavailable for many countries and years; incomparable, i.e., ostensibly addressing the same issue but generated by different survey items; or, most often, both. DCPO is an R package for estimating latent public opinion from cross-national survey data to maximize the information gleaned from available sources, overcome issues of missing and incomparable data, and allow comparativists to examine the dynamics of public opinion across countries.\nFor a detailed description, see the paper here.\nTo install:\n\nthe latest released version: install.packages(\"DCPO\", dependencies = TRUE)\nthe latest development version: remotes::install_github(\"fsolt/DCPO\", dependencies = TRUE)\n\nNote that DCPO depends on stan. So, please install rstan and rstantools first. See the detailed instructions here.\nWindows users may encounter some issues when installing DCPO due to the version or system settings. We recommend installing the proper version of R and Stanheaders package first.\nNote: Development of CmdStan, available on R via CmdStanR, has far outstripped that of the rstan package on which DCPO is based. DCPO estimates can now be generated much, much faster (wallclock times of &lt; 2%) by passing the DCPO Stan file to CmdStanR. See here for an example."
+    "text": "Hu, Yue, Yuehong Cassandra Tai, and Frederick Solt. Forthcoming. “Revisiting the Evidence on Thermostatic Response to Democratic Change: Degrees of Democratic Support or Researcher Degrees of Freedom?” Political Science Research and Methods.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n Forthcoming Tai, Yuehong ‘Cassandra’, Yue Hu, and Frederick Solt. Forthcoming. “Democracy, Public Support, and Measurement Uncertainty.” American Political Science Review.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n\n\n\n\n\nWoo, Byung-Deuk, Lindsey A. Goldberg, and Frederick Solt. 2023. “Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere.” British Journal of Political Science 53(2), 766-775.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n PGE Database\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "data/pge/index.html",
-    "href": "data/pge/index.html",
-    "title": "PGE: Public Gender Egalitarianism",
+    "objectID": "publications/index.html#working-papers",
+    "href": "publications/index.html#working-papers",
+    "title": "DCPO",
+    "section": "Working Papers",
+    "text": "Working Papers\n\n\n\n\n\n Revised & Resubmitted Hu, Yue and Solt, Frederick. 2024. “Macrointerest Across Countries.” SocArXiv.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n Under review Woo, Byung-Deuk, Hyein Ko, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. 2023. “Measuring Tolerance of Homosexuality in the Mass Public Across Countries and Over Time.” SocArXiv.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n Under review Hu, Yue, Yuehong Cassandra Tai, Hyein Ko, Byung-Deuk Woo, and Frederick Solt. 2023. “Support for Democracy Is Multidimensional: Why Unidimensional Latent Variable Measures of Democratic Support Are Invalid.” SocArXiv.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\nHu, Yue, Yuehong Cassandra Tai, and Frederick Solt. 2022. “On Data ‘Janitor Work’ in Political Science: The Case of Thermostatic Support for Democracy.” SocArXiv.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\nFrederick Solt. 2020. “Modeling Dynamic Comparative Public Opinion.” SocArXiv.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications/working-papers/dcpo_article/index.html",
+    "href": "publications/working-papers/dcpo_article/index.html",
+    "title": "Modeling Dynamic Comparative Public Opinion",
     "section": "",
-    "text": "The Public Gender Egalitarianism (PGE) Database\nSocietal attitudes toward gender roles in the workplace and politics play a central part in theorizing on the difficulty women face in achieving political equality, but shortcomings in the available data have prevented direct examination of many implications of these theories. Drawing on recent advances in latent variable modeling of public opinion and a comprehensive collection of survey data, we present the Public Gender Egalitarianism dataset to address this need: comparable estimates of the public’s attitudes on gender equality in the public sphere across more than one hundred countries over time. These PGE scores are strongly correlated with responses to individual survey items and with women’s rates of participation in the labor force and corporate boards. We expect that the PGE data will become an invaluable source for broadly cross-national and longitudinal research on the causes and consequences of collective attitudes toward gender equality in politics and the economy.\nA full description of the PGE dataset, the source data used to generate it, and validations of its estimates is presented here:\nWoo, Byung-Deuk, Lindsey A. Goldberg, and Frederick Solt. Forthcoming. “Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere.” British Journal of Political Science.\nThere are two ways of using the PGE data. To directly compare up to four countries in estimated levels and trends of public gender egalitarianism, use the PGE web app below. To use the PGE in statistical analyses, datasets formatted for use in Stata and R are available for download.\n\n Download the PGE  PGE FAQ\n\n\n\n\nPowered by RStudio.\nPlease cite the PGE as follows:\nWoo, Byung-Deuk, Lindsey A. Goldberg, and Frederick Solt. Forthcoming. “Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere.” British Journal of Political Science. PGE Version 1.0, April 2022."
+    "text": "Frederick Solt. 2020. “Modeling Dynamic Comparative Public Opinion.” SocArXiv.\n\n\n\n\n Preprint\n\n\n Code\n\n\n\n\n\nOther details: Previous versions of this project were presented at the 2014 meetings of the European Political Science Association and American Political Science Association, the 2016 meeting of the Midwest Political Science Association, the 2019 St. Louis Area Methods Meeting, the 2020 meeting of the Southern Political Science Association, and at Princeton University, Oxford University, the University of Tennessee, the University of Iowa, Central European University, and the Polish Academy of Sciences.\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "data/pge/pge_faq/posts/how-to/country-codes.html",
-    "href": "data/pge/pge_faq/posts/how-to/country-codes.html",
-    "title": "How can I merge my other data into the PGE using ISO or other country codes?",
+    "objectID": "publications/working-papers/dcpo_article/index.html#abstract",
+    "href": "publications/working-papers/dcpo_article/index.html#abstract",
+    "title": "Modeling Dynamic Comparative Public Opinion",
+    "section": "Abstract",
+    "text": "Abstract\nThe study of public opinion in comparative context has been hampered by data that is sparse, that is, unavailable for many countries and years; incomparable, i.e., ostensibly addressing the same issue but generated by different survey items; or, most often, both. Questions of representation and of policy feedback on public opinion, for example, cannot be explored fully from a cross-national perspective without comparable time-series data for many countries that span their respective times of policy adoption. Recent works (Claassen 2019; Caughey, O’Grady, and Warshaw 2019) have introduced a latent variable approach to the study of comparative public opinion that maximizes the information gleaned from available surveys to overcome issues of sparse and incomparable data and allow comparativists to examine the dynamics of public opinion. This paper advances this field of research by presenting a new model and software for estimating latent variables of public opinion from cross-national survey data that yield superior fit and more quantities of theoretical interest than previous works allow."
+  },
+  {
+    "objectID": "publications/working-papers/dcpo_article/index.html#important-figure",
+    "href": "publications/working-papers/dcpo_article/index.html#important-figure",
+    "title": "Modeling Dynamic Comparative Public Opinion",
+    "section": "Important figure",
+    "text": "Important figure\n\n\n\nFigure 1: Probability of an Affirmative Response in the 2PL IRT Model"
+  },
+  {
+    "objectID": "publications/working-papers/dcpo_article/index.html#bibtex-citation",
+    "href": "publications/working-papers/dcpo_article/index.html#bibtex-citation",
+    "title": "Modeling Dynamic Comparative Public Opinion",
+    "section": "BibTeX citation",
+    "text": "BibTeX citation\n@misc{Solt2020,\n author={Solt, Frederick},\n title={Modeling Dynamic Comparative Public Opinion},\n publisher={SocArXiv},\n year={2020},\n month={Jan}, \n url={osf.io/preprints/socarxiv/d5n9p},\n doi={10.31235/osf.io/d5n9p}\n}"
+  },
+  {
+    "objectID": "publications/working-papers/demsupport_data/index.html",
+    "href": "publications/working-papers/demsupport_data/index.html",
+    "title": "Support for Democracy Is Multidimensional: Why Unidimensional Latent Variable Measures of Democratic Support Are Invalid",
     "section": "",
-    "text": "First, add whatever country codes are needed to the PGE data: there are routines for both Stata (kountry; type findit kountry in Stata’s command window to install) and R (countrycode, on CRAN) to generate many commonly used country codes. Then follow the instructions for merging data into the PGE found in the “stata_pge.pdf” or “R_pge.pdf” files included in the data download."
+    "text": "Hu, Yue, Yuehong Cassandra Tai, Hyein Ko, Byung-Deuk Woo, and Frederick Solt. 2023. “Support for Democracy Is Multidimensional: Why Unidimensional Latent Variable Measures of Democratic Support Are Invalid.” SocArXiv.\n\n\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "data/pge/pge_faq/posts/how-to/csv-format.html",
-    "href": "data/pge/pge_faq/posts/how-to/csv-format.html",
-    "title": "I imported the pge_summary.csv file, and the data for some countries seem to be greater than one, when the PGE supposedly ranges only from zero to one. How can I interpret these data?",
+    "objectID": "publications/working-papers/demsupport_data/index.html#abstract",
+    "href": "publications/working-papers/demsupport_data/index.html#abstract",
+    "title": "Support for Democracy Is Multidimensional: Why Unidimensional Latent Variable Measures of Democratic Support Are Invalid",
+    "section": "Abstract",
+    "text": "Abstract\nMeasuring democratic support as a single latent variable requires assuming that it falls along a single dimension from steadfast opposition to wholehearted support. This ignores ample evidence that support for democracy is complex and multidimensional. Here we provide a series of validation tests of the sort of cross-national time-series latent variable measures employed in recent research by reference to questions on support for liberal democracy and opposition to its erosion from multiwave surveys conducted around the world. These tests show that, across countries and years, this latent variable is nearly orthogonal to measures of support for contestation and participation; civil liberties; institutional constraints on executive power; and prioritizing democracy over the economy, economic equality, or order. We conclude that support for democracy in any robust sense is simply not well captured by a unidimensional latent variable. Such measures are powerful but researchers must be mindful of their limitations."
+  },
+  {
+    "objectID": "publications/working-papers/demsupport_data/index.html#important-figures",
+    "href": "publications/working-papers/demsupport_data/index.html#important-figures",
+    "title": "Support for Democracy Is Multidimensional: Why Unidimensional Latent Variable Measures of Democratic Support Are Invalid",
+    "section": "Important figures",
+    "text": "Important figures\n\n\n\nFigure 1: Correlations Between Democratic Support as a Unidimensional Latent Variable and Polyarchy Survey Items\n\n\n\n\n\nFigure 2: Correlations Between Democratic Support as a Unidimensional Latent Variable and Civil Liberties Survey Items\n\n\n\n\n\nFigure 3: Correlations Between Democratic Support as a Unidimensional Latent Variable and Democratic Institutions Survey Items\n\n\n\n\n\nFigure 4: Correlations Between Democratic Support as a Unidimensional Latent Variable and Prioritization Survey Items"
+  },
+  {
+    "objectID": "publications/working-papers/demsupport_data/index.html#bibtex-citation",
+    "href": "publications/working-papers/demsupport_data/index.html#bibtex-citation",
+    "title": "Support for Democracy Is Multidimensional: Why Unidimensional Latent Variable Measures of Democratic Support Are Invalid",
+    "section": "BibTeX citation",
+    "text": "BibTeX citation\n@misc{HuTaiSolt2022,\n author={Hu, Yue and Tai, Yuehong Cassandra and Ko, Hyein and Woo, Byung-Deuk and Solt, Frederick},\n title={Support for Democracy Is Multidimensional: Why Unidimensional Latent Variable Measures of Democratic Support Are Invalid},\n publisher={SocArXiv},\n year={2023},\n month={February}, \n url={osf.io/preprints/socarxiv/rym8g/},\n doi={10.31235/osf.io/rym8g/}\n}"
+  },
+  {
+    "objectID": "publications/working-papers/tol-h/index.html",
+    "href": "publications/working-papers/tol-h/index.html",
+    "title": "Measuring Tolerance of Homosexuality in the Mass Public Across Countries and Over Time",
     "section": "",
-    "text": "The issue here is that the pge_summary.csv file is saved using RFC 4180 csv conventions, that is, with a dot marking the decimal and a comma separating values. If you are in a locale that observes different conventions—many countries use commas to indicate the decimal and semicolons to separate values—your software’s default settings may not read the data correctly. Be sure to specify the decimal marker and value delimiter appropriately when loading the file: all PGE values fall between zero and one."
+    "text": "Woo, Byung-Deuk, Hyein Ko, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. 2023. “Measuring Tolerance of Homosexuality in the Mass Public Across Countries and Over Time.” SocArXiv.\n\n\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "data/pge/pge_faq/posts/how-to/download-pge.html",
-    "href": "data/pge/pge_faq/posts/how-to/download-pge.html",
-    "title": "Wait, how can I download the data again?",
-    "section": "",
-    "text": "First, click on this link. Scroll down past the description until you see a list of files. The dataset is a .zip file, the latest version will be listed first. Clicking on the big downward-pointing-arrow icon on the right side of this line will show a menu; choosing “ZIP Archive” will download the file."
+    "objectID": "publications/working-papers/tol-h/index.html#abstract",
+    "href": "publications/working-papers/tol-h/index.html#abstract",
+    "title": "Measuring Tolerance of Homosexuality in the Mass Public Across Countries and Over Time",
+    "section": "Abstract",
+    "text": "Abstract\nTolerance of homosexuality has increased in many countries over recent decades, but the resulting scholarship has been hindered by the limited available data on these trends in public opinion. To overcome this problem, we present the Tolerance of Homosexuality (TOL-H) dataset, which combines a comprehensive collection of survey data with a latent-variable model to provide annual time-series estimates of public attitudes toward homosexuality across 119 countries and over as many as 49 years that are comparable across space and time. We show these data perform well in validation tests and demonstrate their potential by replicating an influential but recently questioned finding that more income inequality yields less tolerance of homosexuality. We anticipate that the TOL-H data will become a crucial source for cross-regional, cross-national, and longitudinal research that improves our understanding of the sources and consequences of tolerance of homosexuality."
   },
   {
-    "objectID": "data/pge/pge_faq/posts/how-to/not-a-stata-file.html",
-    "href": "data/pge/pge_faq/posts/how-to/not-a-stata-file.html",
-    "title": "I’m using an older version of Stata, and it won’t open the file. How can I use the PGE data?",
-    "section": "",
-    "text": "Stata 13 introduced a new file format which older versions of Stata can’t open. Fortunately, there’s an easy fix: the use13 command. In the command window, first type ssc install use13 to install it. Then you can type use13 pge1_0.dta, clear (change the version number as necessary, ofc) to load the PGE data."
+    "objectID": "publications/working-papers/tol-h/index.html#important-figures",
+    "href": "publications/working-papers/tol-h/index.html#important-figures",
+    "title": "Measuring Tolerance of Homosexuality in the Mass Public Across Countries and Over Time",
+    "section": "Important figures",
+    "text": "Important figures\n\n\n\nFigure 1: Countries and Mean Years Observed in Survey Datasets\n\n\n\n\n\nFigure 2: Countries and Mean Years Observed in Prominent Research\n\n\n\n\n\nFigure 4: TOL-H Scores, Most Recent Available Year\n\n\n\n\n\nFigure 7: Construct Validation: Correlations Between TOL-H Scores and Tolerance of Homosexuality Survey Items\n\n\n\n\n\nFigure 8: Predicting Tolerance of Homosexuality"
   },
   {
-    "objectID": "data/pge/pge_faq/posts/how-to/stata-time-series.html",
-    "href": "data/pge/pge_faq/posts/how-to/stata-time-series.html",
-    "title": "How can I use the PGE data with Stata’s time-series operators?",
-    "section": "",
-    "text": "To use Stata’s time-series operators (l. , f. , d. , etc.), you must first declare the time and panel variables using tsset, but the PGE is already mi set, so tsset won’t work. Run the following before merging the rest of your data (called my_data.dta in this example) into the SWIID:\nuse pge1_0.dta, clear\negen cc = group(country)  \nmi tsset cc year\nmerge 1:1 country year using \"my_data.dta\", keep(match master) \nNow you’ll be able to use l. and the rest of Stata’s time-series operators."
-  },
-  {
-    "objectID": "data/pge/pge_faq/posts/how-to/mean-and-std-err.html",
-    "href": "data/pge/pge_faq/posts/how-to/mean-and-std-err.html",
-    "title": "How can I use the PGE data to make my own graphs?",
-    "section": "",
-    "text": "The PGE download contains files pre-formatted for use with the tools for analyzing multiply-imputed data and other data measured with uncertainty in Stata (e.g., pge1_0.dta) or R (e.g., pge1_0.rda). This is meant to “set the default” in a way that encourages researchers to take into account the uncertainty in the PGE estimates. This uncertainty is considerable in many countries, and the tools available in both software packages can now handle pretty much any analysis one may desire (for details, read the documents R_pge.pdf and stata_pge.pdf in the PGE download). But this format does not lend itself to graphing. For this purpose, use the summary file (e.g., pge1_0_summary.csv), which presents the PGE estimates in mean-plus-standard-error summary format.\nIn Stata:\nimport delimited \"pge1_0_summary.csv\", clear\n\n// A silly example\ngen name_length = length(country)\ngen first_letter = substr(country, 1, 1)\nkeep if year==2010 & first_letter==\"S\" /*2010 for Senegal, Serbia, . . .*/\n\n// A scatterplot with 95% uncertainty intervals\ntwoway rspike p2_5 p97_5 name_length, lstyle(ci) || ///\n    scatter pge name_length, msize(small) ///\n    legend(order(2 \"PGE Public Gender Equality\")) \nIn R:\nllibrary(tidyverse)\n\n# Load the PGE\nload(\"pge1_0.rda\")\n\n# Plot PGE estimates for the United States\npge_summary %&gt;% \n    filter(country == \"United States\") %&gt;% \n    ggplot(aes(x=year, y=pge)) + \n    geom_line() +\n    geom_ribbon(aes(ymin = pge-1.96*pge_se,\n                    ymax = pge+1.96*pge_se, \n                    linetype=NA), alpha = .25) +\n    scale_x_continuous(breaks=seq(1970, 2020, 5)) +\n    theme_bw() + \n    labs(x = \"Year\", \n         y = \"PGE: Public Gender Egalitarianism\",\n         title = \"Public gender egalitarianism in the United States\")"
-  },
-  {
-    "objectID": "data/pge/pge_faq/posts/data/partition-and-successors.html",
-    "href": "data/pge/pge_faq/posts/data/partition-and-successors.html",
-    "title": "What about Russia and the rest of the former Soviet Union? Yugoslavia? Czechoslovakia? Pakistan? Sudan? Ethiopia? Why are there estimates for successor states before they actually existed?",
-    "section": "",
-    "text": "For countries that have undergone partition, the PGE estimates for a given year include all of the origin country’s then-current territories. This means that for dates before partition, all of the once united territory is included: estimates for Sudan before 2011, for example, include present-day South Sudan.\nWhere survey data are available from before the breakup for the territory of successor states, these data have been used to generate PGE estimates like anything else in the source data (the DCPO routine does not make any effort to incorporate information from the origin state into estimates for the successor state). For example, the estimates for Russia for dates before the breakup of the Soviet Union are for the territories of the USSR that would become Russia after the breakup; there are similar pre-breakup data available for several FSU states, the Czech Republic and Slovakia, and a few successor states of the former Yugoslavia. The resulting estimates are available for use when appropriate, that is, to match the conventions of the other data one may be employing."
-  },
-  {
-    "objectID": "data/pge/pge_faq/posts/data/changes-between-versions.html",
-    "href": "data/pge/pge_faq/posts/data/changes-between-versions.html",
-    "title": "The estimates for Ruritania, among others, have changed since the previous version. Why is that?",
-    "section": "",
-    "text": "There are two reasons why estimates change from one version of the PGE to the next. The first reason is that we have incorporated new source survey data for the country. Adding more source data for a country, particularly when previously available data was very scant, holds the potential that the estimates will change.\nThe second, less obvious, reason for changes is the availability of more source data for other countries. The PGE estimates of public gender egalitarianism depend on the DCPO routine’s estimates of the difficulty and dispersion of each survey item. When additional data is added for a given survey item (or, in fact, for other survey items in overlapping country-years), its difficulty and dispersion estimates may change see Woo, Goldberg, and Solt 2022, in turn influencing the PGE estimates based on responses to this survey item. This means that, given the scarcity of data on Ruritania, more data can lead to substantial changes in the PGE estimates for Ruritania."
-  },
-  {
-    "objectID": "data/pge/pge_faq/posts/data/germany.html",
-    "href": "data/pge/pge_faq/posts/data/germany.html",
-    "title": "How is Germany treated in the PGE? Where’s East Germany?",
-    "section": "",
-    "text": "Germany is West Germany only before 1991 and (united) Germany from that point forward. The PGE includes no estimates for East Germany; we just haven’t found much to include in the source data. If you know of a survey with East German Ginis, email us with the details, and we’ll be happy to get it into the next version."
-  },
-  {
-    "objectID": "data/pge/pge_faq/index.html#how-to-.-.-.",
-    "href": "data/pge/pge_faq/index.html#how-to-.-.-.",
-    "title": "PGE Frequently Asked Questions",
-    "section": "How to . . .",
-    "text": "How to . . .\n\n\n\n\n  \n\n\n\n\nWait, how can I download the data again?\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nI’m using an older version of Stata, and it won’t open the file. How can I use the PGE data?\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nI imported the pge_summary.csv file, and the data for some countries seem to be greater than one, when the PGE supposedly ranges only from zero to one. How can I interpret these data?\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nHow can I use the PGE data with Stata’s time-series operators?\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nHow can I use the PGE data to make my own graphs?\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nHow can I merge my other data into the PGE using ISO or other country codes?\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "data/pge/pge_faq/index.html#the-pge-data",
-    "href": "data/pge/pge_faq/index.html#the-pge-data",
-    "title": "PGE Frequently Asked Questions",
-    "section": "The PGE Data",
-    "text": "The PGE Data\n\n\n\n\n  \n\n\n\n\nWhat about Russia and the rest of the former Soviet Union? Yugoslavia? Czechoslovakia? Pakistan? Sudan? Ethiopia? Why are there estimates for successor states before they actually existed?\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nThe estimates for Ruritania, among others, have changed since the previous version. Why is that?\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nHow is Germany treated in the PGE? Where’s East Germany?\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\nNo matching items"
+    "objectID": "publications/working-papers/tol-h/index.html#bibtex-citation",
+    "href": "publications/working-papers/tol-h/index.html#bibtex-citation",
+    "title": "Measuring Tolerance of Homosexuality in the Mass Public Across Countries and Over Time",
+    "section": "BibTeX citation",
+    "text": "BibTeX citation\n@misc{WooKoTaiHuSolt2023,\n title={Measuring Tolerance of Homosexuality in the Mass Public Across Countries and Over Time},\n url={osf.io/preprints/socarxiv/74hym},\n DOI={10.31235/osf.io/74hym},\n publisher={SocArXiv},\n author={Woo, Byung-Deuk and Ko, Hyein and Tai, Yuehong Cassandra and Hu, Yue and Solt, Frederick},\n year={2023},\n month={Jun}\n}"
   },
   {
     "objectID": "publications/working-papers/janitor_work/index.html",
@@ -581,32 +427,60 @@
     "text": "BibTeX citation\n@misc{HuTaiSolt2022,\n author={Hu, Yue and Tai, Yuehong Cassandra and Solt, Frederick},\n title={On Data 'Janitor Work' in Political Science: The Case of Thermostatic Support for Democracy},\n publisher={SocArXiv},\n year={2022},\n month={June}, \n url={osf.io/preprints/socarxiv/kd7mu},\n doi={10.31235/osf.io/kd7mu}\n}"
   },
   {
-    "objectID": "publications/published/dem_mood/short.html",
-    "href": "publications/published/dem_mood/short.html",
-    "title": "Revisiting the Evidence on Thermostatic Response to Democratic Change: Degrees of Democratic Support or Researcher Degrees of Freedom?",
+    "objectID": "publications/working-papers/macrointerest/index.html",
+    "href": "publications/working-papers/macrointerest/index.html",
+    "title": "Macrointerest Across Countries",
     "section": "",
-    "text": "Hu, Yue, Yuehong Cassandra Tai, and Frederick Solt. Forthcoming. “Revisiting the Evidence on Thermostatic Response to Democratic Change: Degrees of Democratic Support or Researcher Degrees of Freedom?” Political Science Research and Methods.\n\n\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Hu, Yue and Solt, Frederick. 2023. “Macrointerest Across Countries.” SocArXiv.\n\n\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "publications/published/dem_mood/short.html#abstract",
-    "href": "publications/published/dem_mood/short.html#abstract",
-    "title": "Revisiting the Evidence on Thermostatic Response to Democratic Change: Degrees of Democratic Support or Researcher Degrees of Freedom?",
+    "objectID": "publications/working-papers/macrointerest/index.html#abstract",
+    "href": "publications/working-papers/macrointerest/index.html#abstract",
+    "title": "Macrointerest Across Countries",
     "section": "Abstract",
-    "text": "Abstract\nProminent recent work argues that support for democracy behaves thermostatically—that democratic erosion boosts democratic support while deepening democracy yields public backlash—and further contends that there is no evidence for the classic argument that democracy itself increases democratic support over time. Here, we document how these conclusions depend on subtle choices in measurement coding that constitute ‘researcher degrees of freedom’: analyses employing alternative reasonable choices provide little or no support for the original conclusions. The fragility of the statistical results demonstrates that researcher degrees of freedom in measurement must be taken seriously and that the question of the relationship between democratic institutions and democratic support remains unsettled."
+    "text": "Abstract\nThe extent to which the public takes an interest in politics has long been argued to be foundational to democracy, but the want of appropriate data has prevented cross- national and longitudinal analysis. This letter takes advantage of recent advances in latent-variable modeling of aggregate survey responses and a comprehensive collection of survey data to generate dynamic comparative estimates of macrointerest, that is, aggregate political interest, for over a hundred countries over the past four decades. These macrointerest scores are validated with other aggregate measures of political interest and of other types of political engagement. A cross-national and longitudinal analysis of macrointerest in advanced democracies reveals that along with election campaigns and inclusive institutions, it is good times, not bad, that spur publics to greater interest in politics."
   },
   {
-    "objectID": "publications/published/dem_mood/short.html#important-figures",
-    "href": "publications/published/dem_mood/short.html#important-figures",
-    "title": "Revisiting the Evidence on Thermostatic Response to Democratic Change: Degrees of Democratic Support or Researcher Degrees of Freedom?",
+    "objectID": "publications/working-papers/macrointerest/index.html#important-figures",
+    "href": "publications/working-papers/macrointerest/index.html#important-figures",
+    "title": "Macrointerest Across Countries",
     "section": "Important figures",
-    "text": "Important figures\n\n\n\nFigure 1: The Effects of Democracy on the Change in Public Support\n\n\n\n\n\nFigure 2: Simulated Effects of Democracy on Changes in Public Democratic Support"
+    "text": "Important figures\n\n\n\nFigure 2: Internal Convergent Validation: Correlations Between Macrointerest and Individual Source-Data Survey Items\n\n\n\n\n\nFigure 3: Construct Validation: Correlations Between Macrointerest and Other Aspects of Political Engagement\n\n\n\n\n\nFigure 5: Predicting Macrointerest in OECD Democracies"
   },
   {
-    "objectID": "publications/published/dem_mood/short.html#bibtex-citation",
-    "href": "publications/published/dem_mood/short.html#bibtex-citation",
-    "title": "Revisiting the Evidence on Thermostatic Response to Democratic Change: Degrees of Democratic Support or Researcher Degrees of Freedom?",
+    "objectID": "publications/working-papers/macrointerest/index.html#bibtex-citation",
+    "href": "publications/working-papers/macrointerest/index.html#bibtex-citation",
+    "title": "Macrointerest Across Countries",
     "section": "BibTeX citation",
-    "text": "BibTeX citation\n@misc{HuTaiSolt2024,\n author={Hu, Yue and Tai, Yuehong Cassandra and Solt, Frederick},\n title={Revisiting the Evidence on Thermostatic Response to Democratic Change: Degrees of Democratic Support or Researcher Degrees of Freedom?},\n publisher={SocArXiv},\n year={2024},\n month={February}, \n url={osf.io/preprints/socarxiv/xrhwk},\n doi={10.31235/osf.io/xrhwk}\n}"
+    "text": "BibTeX citation\n@misc{HuSolt2024,\n author={Hu, Yue, and Solt, Frederick},\n title={Macrointerest Across Countries},\n publisher={SocArXiv},\n year={2024},\n month={February}, \n url={osf.io/preprints/socarxiv/nkgdy/},\n doi={10.31235/osf.io/nkgdy}\n}"
+  },
+  {
+    "objectID": "publications/published/dem_support/index.html",
+    "href": "publications/published/dem_support/index.html",
+    "title": "Democracy, Public Support, and Measurement Uncertainty",
+    "section": "",
+    "text": "Tai, Yuehong ‘Cassandra’, Yue Hu, and Frederick Solt. Forthcoming. “Democracy, Public Support, and Measurement Uncertainty.” American Political Science Review.\n\n\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n\n\n\nOther details: Presented at the joint meeting of the Asian Political Methodology group and the Australian Society for Quantitative Political Science (AsianPolmeth VIII & ASQPS IX), January 2021.\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications/published/dem_support/index.html#abstract",
+    "href": "publications/published/dem_support/index.html#abstract",
+    "title": "Democracy, Public Support, and Measurement Uncertainty",
+    "section": "Abstract",
+    "text": "Abstract\nDo democratic regimes depend on public support to avoid backsliding? Does public support, in turn, respond thermostatically to changes in democracy? Two prominent recent studies (Claassen 2020a, 2020b) reinvigorated the classic hypothesis on the positive relationship between public support for democracy and regime survival—and challenged its reciprocal counterpart—by using a latent variable approach to measure mass democratic support from cross-national survey data. Both studies, however, used only the point estimates of democratic support; we show that incorporating the concomitant measurement uncertainty into these analyses reveals that there is no support for either study’s conclusion. Efforts to minimize the uncertainty by incorporating additional survey data still fail to yield evidence in support of either hypothesis. These results underscore the need both for more nuanced analyses of the relationships between public support and democracy and for taking measurement uncertainty into account when working with latent variables."
+  },
+  {
+    "objectID": "publications/published/dem_support/index.html#important-figure",
+    "href": "publications/published/dem_support/index.html#important-figure",
+    "title": "Democracy, Public Support, and Measurement Uncertainty",
+    "section": "Important Figure",
+    "text": "Important Figure\n\n\n\nFigure 1: The Effect of Public Support on Democracy with Uncertainty"
+  },
+  {
+    "objectID": "publications/published/dem_support/index.html#bibtex-citation",
+    "href": "publications/published/dem_support/index.html#bibtex-citation",
+    "title": "Democracy, Public Support, and Measurement Uncertainty",
+    "section": "BibTeX Citation",
+    "text": "BibTeX Citation\n@article{TaiHuSolt2022,\n    author = {Tai, Yuehong 'Cassandra' and Hu, Yue and Solt, Frederick},\n    year = {2022},\n    journal = {American Political Science Review},\n    title = {Democracy, Public Support, and Measurement Uncertainty},\n    volume = {FirstView},\n    doi = {doi.org/10.1017/S0003055422000429}\n}"
   },
   {
     "objectID": "publications/published/dem_mood/index.html",
@@ -637,31 +511,108 @@
     "text": "BibTeX citation\n@misc{HuTaiSolt2024,\nauthor={Hu, Yue and Tai, Yuehong Cassandra and Solt, Frederick},\ntitle={Revisiting the Evidence on Thermostatic Response to Democratic Change: Degrees of Democratic Support or Researcher Degrees of Freedom?},\njournal = {Political Science Research and Methods},\nyear = {Forthcoming}}"
   },
   {
-    "objectID": "publications/working-papers/janitor_work/short.html",
-    "href": "publications/working-papers/janitor_work/short.html",
-    "title": "On Data ‘Janitor Work’ in Political Science: The Case of Thermostatic Support for Democracy",
+    "objectID": "publications/published/pge/index.html",
+    "href": "publications/published/pge/index.html",
+    "title": "Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere",
     "section": "",
-    "text": "Hu, Yue, Yuehong Cassandra Tai, and Frederick Solt. 2022. “On Data ‘Janitor Work’ in Political Science: The Case of Thermostatic Support for Democracy.” SocArXiv.\n\n\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Woo, Byung-Deuk, Lindsey A. Goldberg, and Frederick Solt. 2023. “Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere.” British Journal of Political Science 53(2), 766-775.\n\n\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n PGE Database\n\n\n\n\n\nOther details: Presented at the annual meeting of the Midwest Political Science Association (MPSA), April 2022.\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "publications/working-papers/janitor_work/short.html#abstract",
-    "href": "publications/working-papers/janitor_work/short.html#abstract",
-    "title": "On Data ‘Janitor Work’ in Political Science: The Case of Thermostatic Support for Democracy",
+    "objectID": "publications/published/pge/index.html#abstract",
+    "href": "publications/published/pge/index.html#abstract",
+    "title": "Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere",
     "section": "Abstract",
-    "text": "Abstract\nData ‘janitor work’, the task of getting data into a format appropriate for analysis, has grown increasingly important as political science research has come to depend on data drawn from hundreds and thousands of sources. One tempting solution is to simply enter the data by hand, but this approach raises serious risks of data-entry error, a difficult-to-catch problem with the potential to fatally undermine our conclusions. Underscoring these points, we identify data-entry errors in a prominent recent article, the 2020 study by Claassen that examines the effect of changes in democracy on public support for democracy. We then show that when these errors are corrected, the work’s models provide no support for its conclusion that publics react thermostatically to changes in democracy. Researchers should refrain from hand-entering data as much as possible, and we offer additional suggestions for avoiding errors."
+    "text": "Abstract\nSocietal attitudes toward gender roles in the workplace and politics play a central part in theorizing on the difficulty women face in achieving political equality, but shortcomings in the available data have prevented direct examination of many implications of these theories. Drawing on recent advances in latent variable modeling of public opinion and a comprehensive collection of survey data, we present the Public Gender Egalitarianism dataset to address this need: comparable estimates of the public’s attitudes on gender equality in the public sphere across more than one hundred countries over time. These PGE scores are strongly correlated with responses to individual survey items and with women’s rates of participation in the labor force and corporate boards. We expect that the PGE data will become an invaluable source for broadly cross-national and longitudinal research on the causes and consequences of collective attitudes toward gender equality in politics and the economy."
   },
   {
-    "objectID": "publications/working-papers/janitor_work/short.html#important-figures",
-    "href": "publications/working-papers/janitor_work/short.html#important-figures",
-    "title": "On Data ‘Janitor Work’ in Political Science: The Case of Thermostatic Support for Democracy",
+    "objectID": "publications/published/pge/index.html#important-figures",
+    "href": "publications/published/pge/index.html#important-figures",
+    "title": "Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere",
     "section": "Important figures",
-    "text": "Important figures\n\n\n\nFigure 1: Comparing Democracy-Supporting Responses in the Publication Data and the Corrected Data\n\n\n\n\n\nFigure 2: The Effect of Democracy on Change in Public Support\n\n\n\n\n\nFigure 3: Simulated Effects of Change in Democracy on Public Support"
+    "text": "Important figures\n\n\n\nFigure 3: PGE Scores Over Time Within Selected Countries\n\n\n\n\n\nFigure 6: Construct Validation: Correlations Between PGE Scores and Indicators of Workplace Gender Equality"
   },
   {
-    "objectID": "publications/working-papers/janitor_work/short.html#bibtex-citation",
-    "href": "publications/working-papers/janitor_work/short.html#bibtex-citation",
-    "title": "On Data ‘Janitor Work’ in Political Science: The Case of Thermostatic Support for Democracy",
+    "objectID": "publications/published/pge/index.html#bibtex-citation",
+    "href": "publications/published/pge/index.html#bibtex-citation",
+    "title": "Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere",
     "section": "BibTeX citation",
-    "text": "BibTeX citation\n@misc{HuTaiSolt2022,\n author={Hu, Yue and Tai, Yuehong Cassandra and Solt, Frederick},\n title={On Data 'Janitor Work' in Political Science: The Case of Thermostatic Support for Democracy},\n publisher={SocArXiv},\n year={2022},\n month={June}, \n url={osf.io/preprints/socarxiv/kd7mu},\n doi={10.31235/osf.io/kd7mu}\n}"
+    "text": "BibTeX citation\n@misc{WooAllemangSolt2022,\n    author = {Woo, Byung-Deuk, and Goldberg, Lindsey A., and Solt, Frederick},\n    year = {2022},\n    doi = {10.31235/osf.io/37dq9},\n    month = {Feb},\n    publisher = {SocArXiv},\n    title = {Public {{Gender Egalitarianism}}: {{A Dataset}} of {{Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles}} in the {{Public Sphere}}},\n    url = {https://osf.io/preprints/socarxiv/37dq9},\n    year = {2022}}"
+  },
+  {
+    "objectID": "news/posts/dem-mood-accepted.html",
+    "href": "news/posts/dem-mood-accepted.html",
+    "title": "New DCPO Publication!",
+    "section": "",
+    "text": "Our paper, “Revisiting the Evidence on Thermostatic Response to Democratic Change: Degrees of Democratic Support or Researcher Degrees of Freedom?”, has been accepted for publication in Political Science Research and Methods. Great work and congratulations, Hu, Cassandra, and Fred!"
+  },
+  {
+    "objectID": "team/index.html",
+    "href": "team/index.html",
+    "title": "Team",
+    "section": "",
+    "text": "Hyein Ko\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nYuehong ‘Cassandra’ Tai\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nByung-Deuk Woo\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nYue Hu\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFrederick Solt\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "team/cassandra.html",
+    "href": "team/cassandra.html",
+    "title": "Yuehong ‘Cassandra’ Tai",
+    "section": "",
+    "text": "Yuehong ‘Cassandra’ Tai is a postdoctoral scholar at the Center for Social Data Analytics (C-SoDA) at Pennsylvania State University. Her research attempts to understand the interaction between public opinion and policymaking, policy output, policy outcomes, and policy feedback as a process in governance in comparative perspective. She is particularly interested in the role of social and political trust on public health and economic policy. Her methodological interests include Bayesian analysis and machine learning."
+  },
+  {
+    "objectID": "team/byung-deuk.html",
+    "href": "team/byung-deuk.html",
+    "title": "Byung-Deuk Woo",
+    "section": "",
+    "text": "Byung-Deuk Woo is a postdoctoral researcher at the Institute of Social Data Science, Pohang University of Science and Technology in South Korea. He received his PhD degree in Political Science from the University of Iowa in 2021, and BA in Political Science and International Relations from Hankuk University of Foreign Studies (HUFS) in 2017. In his dissertation, “Re-Examining the Origins of Policy related to Violence Against Women: The Role of Women’s Descriptive Representation in Achieving Substantive Representation,” Byung-Deuk examined the role of women’s descriptive representation on the adoption of criminal laws and public policies concerning violence against women with time-series cross-national data on 161 countries from 1908 to 2016 and with data on the Korean National Assembly."
+  },
+  {
+    "objectID": "software.html",
+    "href": "software.html",
+    "title": "Software",
+    "section": "",
+    "text": "DCPOtools\nSolt, Frederick, Yuehong Cassandra Tai, Yue Hu, Hyein Ko, and Byung-Deuk Woo. 2019. “DCPOtools: Tools for Preparing Survey Data for DCPO.” https://github.com/fsolt/DCPOtools.\nDynamic Comparative Public Opinion (DCPO) analyses generate estimates of latent public opinion that are comparable across countries and over time from hundreds or thousands of surveys, but collecting and formatting these survey data is a formidable challenge. The DCPOtools package streamlines these initial steps, providing tools for downloading survey datasets, extracting the needed data, correctly identifying and standardizing the countries and years surveyed, applying survey weights, and arranging the resulting information into the format required to generate DCPO estimates.\nTo install:\nDCPOtools is not available on CRAN. Install its latest version with the following command:\nremotes::install_github(\"fsolt/DCPOtools\")\n\n\nDCPO\nSolt, Frederick. 2020. “DCPO: Dynamic Comparative Public Opinion.” The Comprehensive R Archive Network (CRAN).\n  \nThe study of comparative public opinion has been hampered by data that is sparse, that is, unavailable for many countries and years; incomparable, i.e., ostensibly addressing the same issue but generated by different survey items; or, most often, both. DCPO is an R package for estimating latent public opinion from cross-national survey data to maximize the information gleaned from available sources, overcome issues of missing and incomparable data, and allow comparativists to examine the dynamics of public opinion across countries.\nFor a detailed description, see the paper here.\nTo install:\n\nthe latest released version: install.packages(\"DCPO\", dependencies = TRUE)\nthe latest development version: remotes::install_github(\"fsolt/DCPO\", dependencies = TRUE)\n\nNote that DCPO depends on stan. So, please install rstan and rstantools first. See the detailed instructions here.\nWindows users may encounter some issues when installing DCPO due to the version or system settings. We recommend installing the proper version of R and Stanheaders package first.\nNote: Development of CmdStan, available on R via CmdStanR, has far outstripped that of the rstan package on which DCPO is based. DCPO estimates can now be generated much, much faster (wallclock times of &lt; 2%) by passing the DCPO Stan file to CmdStanR. See here for an example."
+  },
+  {
+    "objectID": "data/pge/pge_faq/posts/how-to/csv-format.html",
+    "href": "data/pge/pge_faq/posts/how-to/csv-format.html",
+    "title": "I imported the pge_summary.csv file, and the data for some countries seem to be greater than one, when the PGE supposedly ranges only from zero to one. How can I interpret these data?",
+    "section": "",
+    "text": "The issue here is that the pge_summary.csv file is saved using RFC 4180 csv conventions, that is, with a dot marking the decimal and a comma separating values. If you are in a locale that observes different conventions—many countries use commas to indicate the decimal and semicolons to separate values—your software’s default settings may not read the data correctly. Be sure to specify the decimal marker and value delimiter appropriately when loading the file: all PGE values fall between zero and one."
+  },
+  {
+    "objectID": "data/pge/pge_faq/posts/how-to/not-a-stata-file.html",
+    "href": "data/pge/pge_faq/posts/how-to/not-a-stata-file.html",
+    "title": "I’m using an older version of Stata, and it won’t open the file. How can I use the PGE data?",
+    "section": "",
+    "text": "Stata 13 introduced a new file format which older versions of Stata can’t open. Fortunately, there’s an easy fix: the use13 command. In the command window, first type ssc install use13 to install it. Then you can type use13 pge1_0.dta, clear (change the version number as necessary, ofc) to load the PGE data."
+  },
+  {
+    "objectID": "data/pge/pge_faq/posts/how-to/mean-and-std-err.html",
+    "href": "data/pge/pge_faq/posts/how-to/mean-and-std-err.html",
+    "title": "How can I use the PGE data to make my own graphs?",
+    "section": "",
+    "text": "The PGE download contains files pre-formatted for use with the tools for analyzing multiply-imputed data and other data measured with uncertainty in Stata (e.g., pge1_0.dta) or R (e.g., pge1_0.rda). This is meant to “set the default” in a way that encourages researchers to take into account the uncertainty in the PGE estimates. This uncertainty is considerable in many countries, and the tools available in both software packages can now handle pretty much any analysis one may desire (for details, read the documents R_pge.pdf and stata_pge.pdf in the PGE download). But this format does not lend itself to graphing. For this purpose, use the summary file (e.g., pge1_0_summary.csv), which presents the PGE estimates in mean-plus-standard-error summary format.\nIn Stata:\nimport delimited \"pge1_0_summary.csv\", clear\n\n// A silly example\ngen name_length = length(country)\ngen first_letter = substr(country, 1, 1)\nkeep if year==2010 & first_letter==\"S\" /*2010 for Senegal, Serbia, . . .*/\n\n// A scatterplot with 95% uncertainty intervals\ntwoway rspike p2_5 p97_5 name_length, lstyle(ci) || ///\n    scatter pge name_length, msize(small) ///\n    legend(order(2 \"PGE Public Gender Equality\")) \nIn R:\nllibrary(tidyverse)\n\n# Load the PGE\nload(\"pge1_0.rda\")\n\n# Plot PGE estimates for the United States\npge_summary %&gt;% \n    filter(country == \"United States\") %&gt;% \n    ggplot(aes(x=year, y=pge)) + \n    geom_line() +\n    geom_ribbon(aes(ymin = pge-1.96*pge_se,\n                    ymax = pge+1.96*pge_se, \n                    linetype=NA), alpha = .25) +\n    scale_x_continuous(breaks=seq(1970, 2020, 5)) +\n    theme_bw() + \n    labs(x = \"Year\", \n         y = \"PGE: Public Gender Egalitarianism\",\n         title = \"Public gender egalitarianism in the United States\")"
+  },
+  {
+    "objectID": "data/pge/pge_faq/posts/data/changes-between-versions.html",
+    "href": "data/pge/pge_faq/posts/data/changes-between-versions.html",
+    "title": "The estimates for Ruritania, among others, have changed since the previous version. Why is that?",
+    "section": "",
+    "text": "There are two reasons why estimates change from one version of the PGE to the next. The first reason is that we have incorporated new source survey data for the country. Adding more source data for a country, particularly when previously available data was very scant, holds the potential that the estimates will change.\nThe second, less obvious, reason for changes is the availability of more source data for other countries. The PGE estimates of public gender egalitarianism depend on the DCPO routine’s estimates of the difficulty and dispersion of each survey item. When additional data is added for a given survey item (or, in fact, for other survey items in overlapping country-years), its difficulty and dispersion estimates may change see Woo, Goldberg, and Solt 2022, in turn influencing the PGE estimates based on responses to this survey item. This means that, given the scarcity of data on Ruritania, more data can lead to substantial changes in the PGE estimates for Ruritania."
+  },
+  {
+    "objectID": "data/pge/pge_faq/index.html#how-to-.-.-.",
+    "href": "data/pge/pge_faq/index.html#how-to-.-.-.",
+    "title": "PGE Frequently Asked Questions",
+    "section": "How to . . .",
+    "text": "How to . . .\n\n\n\n\n\n\n\n\n\n\nWait, how can I download the data again?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nI’m using an older version of Stata, and it won’t open the file. How can I use the PGE data?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nI imported the pge_summary.csv file, and the data for some countries seem to be greater than one, when the PGE supposedly ranges only from zero to one. How can I interpret these data?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow can I use the PGE data with Stata’s time-series operators?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow can I use the PGE data to make my own graphs?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow can I merge my other data into the PGE using ISO or other country codes?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "data/pge/pge_faq/index.html#the-pge-data",
+    "href": "data/pge/pge_faq/index.html#the-pge-data",
+    "title": "PGE Frequently Asked Questions",
+    "section": "The PGE Data",
+    "text": "The PGE Data\n\n\n\n\n\n\n\n\n\n\nWhat about Russia and the rest of the former Soviet Union? Yugoslavia? Czechoslovakia? Pakistan? Sudan? Ethiopia? Why are there estimates for successor states before they actually existed?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe estimates for Ruritania, among others, have changed since the previous version. Why is that?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow is Germany treated in the PGE? Where’s East Germany?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]

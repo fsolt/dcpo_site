@@ -6,17 +6,34 @@
       version="2.0">
 <channel>
 <title>DCPO</title>
-<link>https://dcpo.org/news/index.html</link>
+<link>https://dcpo.org/news/</link>
 <atom:link href="https://dcpo.org/news/index.xml" rel="self" type="application/rss+xml"/>
 <description>Dynamic Comparative Public Opinion</description>
 <image>
 <url>https://dcpo.org/dcpo.png</url>
 <title>DCPO</title>
-<link>https://dcpo.org/news/index.html</link>
+<link>https://dcpo.org/news/</link>
 <height>63</height>
 <width>144</width>
 </image>
-<generator>quarto-1.3.353</generator>
-<lastBuildDate>Sat, 01 Jul 2023 20:03:03 GMT</lastBuildDate>
+<generator>quarto-1.4.549</generator>
+<lastBuildDate>Thu, 02 Feb 2023 06:00:00 GMT</lastBuildDate>
+<item>
+  <title>New DCPO Publication!</title>
+  <link>https://dcpo.org/news/posts/dem-mood-accepted.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Our paper, <a href="../../publications/published/dem_mood/">“Revisiting the Evidence on Thermostatic Response to Democratic Change: Degrees of Democratic Support or Researcher Degrees of Freedom?”</a>, has been accepted for publication in <a href="https://www.cambridge.org/core/journals/political-science-research-and-methods">Political Science Research and Methods</a>. Great work and congratulations, <a href="https://sammo3182.github.io/">Hu</a>, <a href="https://cassyuehtai.netlify.app/">Cassandra</a>, and <a href="https://fsolt.org/">Fred</a>!</p>
+
+
+
+ ]]></description>
+  <guid>https://dcpo.org/news/posts/dem-mood-accepted.html</guid>
+  <pubDate>Thu, 02 Feb 2023 06:00:00 GMT</pubDate>
+</item>
 </channel>
 </rss>
