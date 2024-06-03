@@ -98,11 +98,39 @@
     "text": "BibTeX citation\n@article{WooAllemangSolt2022,\n    author = {Woo, Byung-Deuk, and Goldberg, Lindsey A., and Solt, Frederick},\n    year = {2023},\n    title = {Public {{Gender Egalitarianism}}: {{A Dataset}} of {{Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles}} in the {{Public Sphere}}},\n    journal={British Journal of Political Science},\n    volume={53},\n    number={2},\n    pages={766–775},\n    doi = {10.1017/S0007123422000436}}"
   },
   {
+    "objectID": "publications/published/macrointerest/short.html",
+    "href": "publications/published/macrointerest/short.html",
+    "title": "Macrointerest Across Countries",
+    "section": "",
+    "text": "Hu, Yue and Frederick Solt. Forthcoming. “Macrointerest Across Countries.” British Journal of Political Science.\n\n\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications/published/macrointerest/short.html#abstract",
+    "href": "publications/published/macrointerest/short.html#abstract",
+    "title": "Macrointerest Across Countries",
+    "section": "Abstract",
+    "text": "Abstract\nThe extent to which the public takes an interest in politics has long been argued to be foundational to democracy, but the want of appropriate data has prevented cross- national and longitudinal analysis. This letter takes advantage of recent advances in latent-variable modeling of aggregate survey responses and a comprehensive collection of survey data to generate dynamic comparative estimates of macrointerest, that is, aggregate political interest, for over a hundred countries over the past four decades. These macrointerest scores are validated with other aggregate measures of political interest and of other types of political engagement. A cross-national and longitudinal analysis of macrointerest in advanced democracies reveals that along with election campaigns and inclusive institutions, it is good times, not bad, that spur publics to greater interest in politics."
+  },
+  {
+    "objectID": "publications/published/macrointerest/short.html#important-figures",
+    "href": "publications/published/macrointerest/short.html#important-figures",
+    "title": "Macrointerest Across Countries",
+    "section": "Important figures",
+    "text": "Important figures\n\n\n\nFigure 2: Internal Convergent Validation: Correlations Between Macrointerest and Individual Source-Data Survey Items\n\n\n\n\n\nFigure 3: Construct Validation: Correlations Between Macrointerest and Other Aspects of Political Engagement\n\n\n\n\n\nFigure 5: Predicting Macrointerest in OECD Democracies"
+  },
+  {
+    "objectID": "publications/published/macrointerest/short.html#bibtex-citation",
+    "href": "publications/published/macrointerest/short.html#bibtex-citation",
+    "title": "Macrointerest Across Countries",
+    "section": "BibTeX citation",
+    "text": "BibTeX citation\n@article{HuSolt2024,\n author={Hu, Yue, and Solt, Frederick},\n title={Macrointerest Across Countries},\n journal={British Journal of Political Science},\n year={Forthcoming}\n}"
+  },
+  {
     "objectID": "publications/published/dem_mood/short.html",
     "href": "publications/published/dem_mood/short.html",
     "title": "Revisiting the Evidence on Thermostatic Response to Democratic Change: Degrees of Democratic Support or Researcher Degrees of Freedom?",
     "section": "",
-    "text": "Hu, Yue, Yuehong Cassandra Tai, and Frederick Solt. Forthcoming. “Revisiting the Evidence on Thermostatic Response to Democratic Change: Degrees of Democratic Support or Researcher Degrees of Freedom?” Political Science Research and Methods.\n\n\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Hu, Yue, Yuehong Cassandra Tai, and Frederick Solt. Forthcoming. “Revisiting the Evidence on Thermostatic Response to Democratic Change: Degrees of Democratic Support or Researcher Degrees of Freedom?” Political Science Research and Methods.\n\n\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications/published/dem_mood/short.html#abstract",
@@ -123,7 +151,7 @@
     "href": "publications/published/dem_mood/short.html#bibtex-citation",
     "title": "Revisiting the Evidence on Thermostatic Response to Democratic Change: Degrees of Democratic Support or Researcher Degrees of Freedom?",
     "section": "BibTeX citation",
-    "text": "BibTeX citation\n@misc{HuTaiSolt2024,\n author={Hu, Yue and Tai, Yuehong Cassandra and Solt, Frederick},\n title={Revisiting the Evidence on Thermostatic Response to Democratic Change: Degrees of Democratic Support or Researcher Degrees of Freedom?},\n publisher={SocArXiv},\n year={2024},\n month={February}, \n url={osf.io/preprints/socarxiv/xrhwk},\n doi={10.31235/osf.io/xrhwk}\n}"
+    "text": "BibTeX citation\n@article{HuTaiSolt2024,\nauthor={Hu, Yue and Tai, Yuehong Cassandra and Solt, Frederick},\ntitle={Revisiting the Evidence on Thermostatic Response to Democratic Change: Degrees of Democratic Support or Researcher Degrees of Freedom?},\njournal = {Political Science Research and Methods},\nyear = {Forthcoming},\ndoi={10.1017/psrm.2024.16}\n}"
   },
   {
     "objectID": "publications/published/dem_support/short.html",
@@ -152,34 +180,6 @@
     "title": "Democracy, Public Support, and Measurement Uncertainty",
     "section": "BibTeX Citation",
     "text": "BibTeX Citation\n@article{TaiHuSolt2024,\n    author = {Tai, Yuehong 'Cassandra' and Hu, Yue and Solt, Frederick},\n    year = {2024},\n    journal = {American Political Science Review},\n    title = {Democracy, Public Support, and Measurement Uncertainty},\n    volume = {118},\n    number = {1},\n    pages = {512-518},\n    doi = {doi.org/10.1017/S0003055422000429}}"
-  },
-  {
-    "objectID": "publications/working-papers/macrointerest/short.html",
-    "href": "publications/working-papers/macrointerest/short.html",
-    "title": "Macrointerest Across Countries",
-    "section": "",
-    "text": "Hu, Yue and Frederick Solt. 2024. “Macrointerest Across Countries.” SocArXiv.\n\n\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "publications/working-papers/macrointerest/short.html#abstract",
-    "href": "publications/working-papers/macrointerest/short.html#abstract",
-    "title": "Macrointerest Across Countries",
-    "section": "Abstract",
-    "text": "Abstract\nThe extent to which the public takes an interest in politics has long been argued to be foundational to democracy, but the want of appropriate data has prevented cross- national and longitudinal analysis. This letter takes advantage of recent advances in latent-variable modeling of aggregate survey responses and a comprehensive collection of survey data to generate dynamic comparative estimates of macrointerest, that is, aggregate political interest, for over a hundred countries over the past four decades. These macrointerest scores are validated with other aggregate measures of political interest and of other types of political engagement. A cross-national and longitudinal analysis of macrointerest in advanced democracies reveals that along with election campaigns and inclusive institutions, it is good times, not bad, that spur publics to greater interest in politics."
-  },
-  {
-    "objectID": "publications/working-papers/macrointerest/short.html#important-figures",
-    "href": "publications/working-papers/macrointerest/short.html#important-figures",
-    "title": "Macrointerest Across Countries",
-    "section": "Important figures",
-    "text": "Important figures\n\n\n\nFigure 2: Internal Convergent Validation: Correlations Between Macrointerest and Individual Source-Data Survey Items\n\n\n\n\n\nFigure 3: Construct Validation: Correlations Between Macrointerest and Other Aspects of Political Engagement\n\n\n\n\n\nFigure 5: Predicting Macrointerest in OECD Democracies"
-  },
-  {
-    "objectID": "publications/working-papers/macrointerest/short.html#bibtex-citation",
-    "href": "publications/working-papers/macrointerest/short.html#bibtex-citation",
-    "title": "Macrointerest Across Countries",
-    "section": "BibTeX citation",
-    "text": "BibTeX citation\n@misc{HuSolt2024,\n author={Hu, Yue, and Solt, Frederick},\n title={Macrointerest Across Countries},\n publisher={SocArXiv},\n year={2024},\n month={February}, \n url={osf.io/preprints/socarxiv/nkgdy/},\n doi={10.31235/osf.io/nkgdy}\n}"
   },
   {
     "objectID": "publications/working-papers/janitor_work/short.html",
@@ -298,21 +298,21 @@
     "href": "publications/index.html",
     "title": "DCPO",
     "section": "",
-    "text": "Forthcoming Hu, Yue, Yuehong Cassandra Tai, and Frederick Solt. Forthcoming. “Revisiting the Evidence on Thermostatic Response to Democratic Change: Degrees of Democratic Support or Researcher Degrees of Freedom?” Political Science Research and Methods.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\nTai, Yuehong ‘Cassandra’, Yue Hu, and Frederick Solt. 2024. “Democracy, Public Support, and Measurement Uncertainty.” American Political Science Review 118(1):512-518.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n\n\n\n\n\nWoo, Byung-Deuk, Lindsey A. Goldberg, and Frederick Solt. 2023. “Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere.” British Journal of Political Science 53(2), 766-775.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n PGE Database\n\n\n\n\n\n\nNo matching items"
+    "text": "Forthcoming Hu, Yue, Yuehong Cassandra Tai, and Frederick Solt. Forthcoming. “Revisiting the Evidence on Thermostatic Response to Democratic Change: Degrees of Democratic Support or Researcher Degrees of Freedom?” Political Science Research and Methods.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n Forthcoming Hu, Yue and Frederick Solt. Forthcoming. “Macrointerest Across Countries.” British Journal of Political Science.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\nTai, Yuehong ‘Cassandra’, Yue Hu, and Frederick Solt. 2024. “Democracy, Public Support, and Measurement Uncertainty.” American Political Science Review 118(1):512-518.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n\n\n\n\n\nWoo, Byung-Deuk, Lindsey A. Goldberg, and Frederick Solt. 2023. “Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere.” British Journal of Political Science 53(2), 766-775.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n PGE Database\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications/index.html#publications",
     "href": "publications/index.html#publications",
     "title": "DCPO",
     "section": "",
-    "text": "Forthcoming Hu, Yue, Yuehong Cassandra Tai, and Frederick Solt. Forthcoming. “Revisiting the Evidence on Thermostatic Response to Democratic Change: Degrees of Democratic Support or Researcher Degrees of Freedom?” Political Science Research and Methods.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\nTai, Yuehong ‘Cassandra’, Yue Hu, and Frederick Solt. 2024. “Democracy, Public Support, and Measurement Uncertainty.” American Political Science Review 118(1):512-518.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n\n\n\n\n\nWoo, Byung-Deuk, Lindsey A. Goldberg, and Frederick Solt. 2023. “Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere.” British Journal of Political Science 53(2), 766-775.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n PGE Database\n\n\n\n\n\n\nNo matching items"
+    "text": "Forthcoming Hu, Yue, Yuehong Cassandra Tai, and Frederick Solt. Forthcoming. “Revisiting the Evidence on Thermostatic Response to Democratic Change: Degrees of Democratic Support or Researcher Degrees of Freedom?” Political Science Research and Methods.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n Forthcoming Hu, Yue and Frederick Solt. Forthcoming. “Macrointerest Across Countries.” British Journal of Political Science.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\nTai, Yuehong ‘Cassandra’, Yue Hu, and Frederick Solt. 2024. “Democracy, Public Support, and Measurement Uncertainty.” American Political Science Review 118(1):512-518.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n\n\n\n\n\nWoo, Byung-Deuk, Lindsey A. Goldberg, and Frederick Solt. 2023. “Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere.” British Journal of Political Science 53(2), 766-775.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n PGE Database\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications/index.html#working-papers",
     "href": "publications/index.html#working-papers",
     "title": "DCPO",
     "section": "Working Papers",
-    "text": "Working Papers\n\n\n\n\n\n Revised & Resubmitted Hu, Yue and Frederick Solt. 2024. “Macrointerest Across Countries.” SocArXiv.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n Under review Woo, Byung-Deuk, Hyein Ko, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. 2023. “Measuring Tolerance of Homosexuality in the Mass Public Across Countries and Over Time.” SocArXiv.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n Under review Hu, Yue, Yuehong Cassandra Tai, Hyein Ko, Byung-Deuk Woo, and Frederick Solt. 2023. “Support for Democracy Is Multidimensional: Why Unidimensional Latent Variable Measures of Democratic Support Are Invalid.” SocArXiv.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\nHu, Yue, Yuehong Cassandra Tai, and Frederick Solt. 2022. “On Data ‘Janitor Work’ in Political Science: The Case of Thermostatic Support for Democracy.” SocArXiv.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\nFrederick Solt. 2020. “Modeling Dynamic Comparative Public Opinion.” SocArXiv.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\nNo matching items"
+    "text": "Working Papers\n\n\n\n\n\n Under review Woo, Byung-Deuk, Hyein Ko, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. 2023. “Measuring Tolerance of Homosexuality in the Mass Public Across Countries and Over Time.” SocArXiv.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n Under review Hu, Yue, Yuehong Cassandra Tai, Hyein Ko, Byung-Deuk Woo, and Frederick Solt. 2023. “Support for Democracy Is Multidimensional: Why Unidimensional Latent Variable Measures of Democratic Support Are Invalid.” SocArXiv.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\nHu, Yue, Yuehong Cassandra Tai, and Frederick Solt. 2022. “On Data ‘Janitor Work’ in Political Science: The Case of Thermostatic Support for Democracy.” SocArXiv.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\nFrederick Solt. 2020. “Modeling Dynamic Comparative Public Opinion.” SocArXiv.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications/working-papers/dcpo_article/index.html",
@@ -427,34 +427,6 @@
     "text": "BibTeX citation\n@misc{HuTaiSolt2022,\n author={Hu, Yue and Tai, Yuehong Cassandra and Solt, Frederick},\n title={On Data 'Janitor Work' in Political Science: The Case of Thermostatic Support for Democracy},\n publisher={SocArXiv},\n year={2022},\n month={June}, \n url={osf.io/preprints/socarxiv/kd7mu},\n doi={10.31235/osf.io/kd7mu}\n}"
   },
   {
-    "objectID": "publications/working-papers/macrointerest/index.html",
-    "href": "publications/working-papers/macrointerest/index.html",
-    "title": "Macrointerest Across Countries",
-    "section": "",
-    "text": "Hu, Yue and Frederick Solt. 2023. “Macrointerest Across Countries.” SocArXiv.\n\n\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "publications/working-papers/macrointerest/index.html#abstract",
-    "href": "publications/working-papers/macrointerest/index.html#abstract",
-    "title": "Macrointerest Across Countries",
-    "section": "Abstract",
-    "text": "Abstract\nThe extent to which the public takes an interest in politics has long been argued to be foundational to democracy, but the want of appropriate data has prevented cross- national and longitudinal analysis. This letter takes advantage of recent advances in latent-variable modeling of aggregate survey responses and a comprehensive collection of survey data to generate dynamic comparative estimates of macrointerest, that is, aggregate political interest, for over a hundred countries over the past four decades. These macrointerest scores are validated with other aggregate measures of political interest and of other types of political engagement. A cross-national and longitudinal analysis of macrointerest in advanced democracies reveals that along with election campaigns and inclusive institutions, it is good times, not bad, that spur publics to greater interest in politics."
-  },
-  {
-    "objectID": "publications/working-papers/macrointerest/index.html#important-figures",
-    "href": "publications/working-papers/macrointerest/index.html#important-figures",
-    "title": "Macrointerest Across Countries",
-    "section": "Important figures",
-    "text": "Important figures\n\n\n\nFigure 2: Internal Convergent Validation: Correlations Between Macrointerest and Individual Source-Data Survey Items\n\n\n\n\n\nFigure 3: Construct Validation: Correlations Between Macrointerest and Other Aspects of Political Engagement\n\n\n\n\n\nFigure 5: Predicting Macrointerest in OECD Democracies"
-  },
-  {
-    "objectID": "publications/working-papers/macrointerest/index.html#bibtex-citation",
-    "href": "publications/working-papers/macrointerest/index.html#bibtex-citation",
-    "title": "Macrointerest Across Countries",
-    "section": "BibTeX citation",
-    "text": "BibTeX citation\n@misc{HuSolt2024,\n author={Hu, Yue, and Solt, Frederick},\n title={Macrointerest Across Countries},\n publisher={SocArXiv},\n year={2024},\n month={February}, \n url={osf.io/preprints/socarxiv/nkgdy/},\n doi={10.31235/osf.io/nkgdy}\n}"
-  },
-  {
     "objectID": "publications/published/dem_support/index.html",
     "href": "publications/published/dem_support/index.html",
     "title": "Democracy, Public Support, and Measurement Uncertainty",
@@ -487,7 +459,7 @@
     "href": "publications/published/dem_mood/index.html",
     "title": "Revisiting the Evidence on Thermostatic Response to Democratic Change: Degrees of Democratic Support or Researcher Degrees of Freedom?",
     "section": "",
-    "text": "Hu, Yue, Yuehong Cassandra Tai, and Frederick Solt. Forthcoming. “Revisiting the Evidence on Thermostatic Response to Democratic Change: Degrees of Democratic Support or Researcher Degrees of Freedom?” Political Science Research and Methods.\n\n\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Hu, Yue, Yuehong Cassandra Tai, and Frederick Solt. Forthcoming. “Revisiting the Evidence on Thermostatic Response to Democratic Change: Degrees of Democratic Support or Researcher Degrees of Freedom?” Political Science Research and Methods.\n\n\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications/published/dem_mood/index.html#abstract",
@@ -508,7 +480,35 @@
     "href": "publications/published/dem_mood/index.html#bibtex-citation",
     "title": "Revisiting the Evidence on Thermostatic Response to Democratic Change: Degrees of Democratic Support or Researcher Degrees of Freedom?",
     "section": "BibTeX citation",
-    "text": "BibTeX citation\n@misc{HuTaiSolt2024,\nauthor={Hu, Yue and Tai, Yuehong Cassandra and Solt, Frederick},\ntitle={Revisiting the Evidence on Thermostatic Response to Democratic Change: Degrees of Democratic Support or Researcher Degrees of Freedom?},\njournal = {Political Science Research and Methods},\nyear = {Forthcoming}}"
+    "text": "BibTeX citation\n@article{HuTaiSolt2024,\nauthor={Hu, Yue and Tai, Yuehong Cassandra and Solt, Frederick},\ntitle={Revisiting the Evidence on Thermostatic Response to Democratic Change: Degrees of Democratic Support or Researcher Degrees of Freedom?},\njournal = {Political Science Research and Methods},\nyear = {Forthcoming},\ndoi={10.1017/psrm.2024.16}\n}"
+  },
+  {
+    "objectID": "publications/published/macrointerest/index.html",
+    "href": "publications/published/macrointerest/index.html",
+    "title": "Macrointerest Across Countries",
+    "section": "",
+    "text": "Hu, Yue and Frederick Solt. Forthcoming. “Macrointerest Across Countries.” British Journal of Political Science.\n\n\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications/published/macrointerest/index.html#abstract",
+    "href": "publications/published/macrointerest/index.html#abstract",
+    "title": "Macrointerest Across Countries",
+    "section": "Abstract",
+    "text": "Abstract\nThe extent to which the public takes an interest in politics has long been argued to be foundational to democracy, but the want of appropriate data has prevented cross- national and longitudinal analysis. This letter takes advantage of recent advances in latent-variable modeling of aggregate survey responses and a comprehensive collection of survey data to generate dynamic comparative estimates of macrointerest, that is, aggregate political interest, for over a hundred countries over the past four decades. These macrointerest scores are validated with other aggregate measures of political interest and of other types of political engagement. A cross-national and longitudinal analysis of macrointerest in advanced democracies reveals that along with election campaigns and inclusive institutions, it is good times, not bad, that spur publics to greater interest in politics."
+  },
+  {
+    "objectID": "publications/published/macrointerest/index.html#important-figures",
+    "href": "publications/published/macrointerest/index.html#important-figures",
+    "title": "Macrointerest Across Countries",
+    "section": "Important figures",
+    "text": "Important figures\n\n\n\nFigure 2: Internal Convergent Validation: Correlations Between Macrointerest and Individual Source-Data Survey Items\n\n\n\n\n\nFigure 3: Construct Validation: Correlations Between Macrointerest and Other Aspects of Political Engagement\n\n\n\n\n\nFigure 5: Predicting Macrointerest in OECD Democracies"
+  },
+  {
+    "objectID": "publications/published/macrointerest/index.html#bibtex-citation",
+    "href": "publications/published/macrointerest/index.html#bibtex-citation",
+    "title": "Macrointerest Across Countries",
+    "section": "BibTeX citation",
+    "text": "BibTeX citation\n@article{HuSolt2024,\n author={Hu, Yue, and Solt, Frederick},\n title={Macrointerest Across Countries},\n journal={British Journal of Political Science},\n year={Forthcoming}\n}"
   },
   {
     "objectID": "publications/published/pge/index.html",

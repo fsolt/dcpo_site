@@ -12,6 +12,12 @@
     ]
   },
   {
+    "listing": "/publications/published/macrointerest/short.html",
+    "items": [
+      "/publications/published/macrointerest/index.html"
+    ]
+  },
+  {
     "listing": "/publications/published/dem_mood/short.html",
     "items": [
       "/publications/published/dem_mood/index.html"
@@ -21,12 +27,6 @@
     "listing": "/publications/published/dem_support/short.html",
     "items": [
       "/publications/published/dem_support/index.html"
-    ]
-  },
-  {
-    "listing": "/publications/working-papers/macrointerest/short.html",
-    "items": [
-      "/publications/working-papers/macrointerest/index.html"
     ]
   },
   {
@@ -57,9 +57,9 @@
     "listing": "/publications/index.html",
     "items": [
       "/publications/published/dem_mood/index.html",
+      "/publications/published/macrointerest/index.html",
       "/publications/published/dem_support/index.html",
       "/publications/published/pge/index.html",
-      "/publications/working-papers/macrointerest/index.html",
       "/publications/working-papers/tol-h/index.html",
       "/publications/working-papers/demsupport_data/index.html",
       "/publications/working-papers/janitor_work/index.html",
@@ -91,12 +91,6 @@
     ]
   },
   {
-    "listing": "/publications/working-papers/macrointerest/index.html",
-    "items": [
-      "/publications/working-papers/macrointerest/short.html"
-    ]
-  },
-  {
     "listing": "/publications/published/dem_support/index.html",
     "items": [
       "/publications/published/dem_support/short.html"
@@ -106,6 +100,12 @@
     "listing": "/publications/published/dem_mood/index.html",
     "items": [
       "/publications/published/dem_mood/short.html"
+    ]
+  },
+  {
+    "listing": "/publications/published/macrointerest/index.html",
+    "items": [
+      "/publications/published/macrointerest/short.html"
     ]
   },
   {
