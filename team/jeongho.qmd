@@ -1,6 +1,6 @@
 ---
-title: "Haofeng Ma"
-image: haofeng.jpeg
+title: "Jeongho Choi"
+image: jeongho.jpg
 order: 1
 about:
   template: solana
