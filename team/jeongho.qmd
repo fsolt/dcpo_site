@@ -1,0 +1,24 @@
+---
+title: "Haofeng Ma"
+image: haofeng.jpeg
+order: 1
+about:
+  template: solana
+  image: haofeng.jpeg
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/Jeongho-Choi
+    - icon: globe
+      text: website
+      href: https://jeongho-choi.github.io
+    - icon: envelope
+      text: email
+      href: mailto:jchoi34@uiowa.edu
+    - icon: chat-left-quote
+      text: "Google Scholar"
+      href: https://scholar.google.com/citations?user=JShplMsAAAAJ&hl=en
+    
+---
+
+Jeongho is a Ph.D. candidate in the Department of Political Science at the University of Iowa. His research focuses on comparative politics, public opinion, and political behavior, particularly exploring populism, political representation, public support for democracy, and democratic backsliding. Methodologically, he uses various quantitative methods, including multilevel modeling, computational text analysis, and machine learning. His dissertation investigates how issue-congruence between the public and political parties influences public support for populism in different regions and argues that public support for populism is a response to discontent with contemporary democratic systems. Jeongho serves on the [Steering Committee of the Young Scholars Initiative on Populism (OPUS)](https://populism.byu.edu/directory/jeongho-choi), a division within the international research network in populism studies, [Team Populism](https://populism.byu.edu/). He holds both an M.A. and a B.A. (Graduated with High Distinction) in Political Science from Kyung Hee University, South Korea.

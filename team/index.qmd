@@ -9,7 +9,9 @@ listing:
   sort: order asc
   sort-ui: false
   filter-ui: false
-  contents: 
+  contents:
+    - jeongho.qmd
+    - haofeng.qmd 
     - hyein.qmd
     - cassandra.qmd
     - byung-deuk.qmd

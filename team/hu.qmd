@@ -1,7 +1,7 @@
 ---
 title: "Yue Hu"
 image: hu.png 
-order: 4
+order: 6
 about:
   template: solana
   image: hu.png

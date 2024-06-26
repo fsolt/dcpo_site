@@ -1,5 +1,17 @@
 [
   {
+    "listing": "/team/index.html",
+    "items": [
+      "/team/jeongho.html",
+      "/team/haofeng.html",
+      "/team/hyein.html",
+      "/team/cassandra.html",
+      "/team/byung-deuk.html",
+      "/team/hu.html",
+      "/team/fsolt.html"
+    ]
+  },
+  {
     "listing": "/news/index.html",
     "items": [
       "/news/posts/dem-mood-accepted.html"
@@ -112,16 +124,6 @@
     "listing": "/publications/published/pge/index.html",
     "items": [
       "/publications/published/pge/short.html"
-    ]
-  },
-  {
-    "listing": "/team/index.html",
-    "items": [
-      "/team/hyein.html",
-      "/team/cassandra.html",
-      "/team/byung-deuk.html",
-      "/team/hu.html",
-      "/team/fsolt.html"
     ]
   },
   {

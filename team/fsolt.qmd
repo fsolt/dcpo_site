@@ -1,7 +1,7 @@
 ---
 title: "Frederick Solt"
 image: fsolt.jpg
-order: 5
+order: 7
 about:
   template: solana
   image: fsolt.jpg
