@@ -24,4 +24,4 @@ about:
     
 ---
 
-Hyein Ko is a doctoral candidate in the Department of Political Science at the University of Iowa.  She received her BA in economics and political science and MA in political science from Ewha Womans University. Her current research interests include using [text as data](https://doi.org/10.1111/lsq.12367) and [images as data](http://dx.doi.org/10.2139/ssrn.3986482) to better understand the politics of the pandemic, political protest, and the politics of media coverage.
+Hyein Ko is a postdoctoral research associate in the Department of Political Science at the University of Illinois.  She received her Ph.D. BA in political science from the University of Iowa. Her current research interests include using [text as data](https://doi.org/10.1111/lsq.12367) and [images as data](http://dx.doi.org/10.2139/ssrn.3986482) to better understand the politics of the pandemic, political protest, and the politics of media coverage.
