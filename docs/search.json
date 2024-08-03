@@ -102,7 +102,7 @@
     "href": "publications/published/pge/short.html#bibtex-citation",
     "title": "Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere",
     "section": "BibTeX citation",
-    "text": "BibTeX citation\n@article{WooAllemangSolt2022,\n    author = {Woo, Byung-Deuk, and Goldberg, Lindsey A., and Solt, Frederick},\n    year = {2023},\n    title = {Public {{Gender Egalitarianism}}: {{A Dataset}} of {{Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles}} in the {{Public Sphere}}},\n    journal={British Journal of Political Science},\n    volume={53},\n    number={2},\n    pages={766–775},\n    doi = {10.1017/S0007123422000436}}"
+    "text": "BibTeX citation\n@article{WooAllemangSolt2023,\n    author = {Woo, Byung-Deuk, and Goldberg, Lindsey A., and Solt, Frederick},\n    title = {Public {{Gender Egalitarianism}}: {{A Dataset}} of {{Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles}} in the {{Public Sphere}}},\n    journal = {British Journal of Political Science},\n    year = {2023},\n    volume = {53},\n    issue = {2},\n    pages = {766-755},\n    doi = {10.1017/S0007123422000436}}"
   },
   {
     "objectID": "publications/published/macrointerest/short.html",
@@ -543,7 +543,7 @@
     "href": "publications/published/pge/index.html#bibtex-citation",
     "title": "Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere",
     "section": "BibTeX citation",
-    "text": "BibTeX citation\n@misc{WooAllemangSolt2022,\n    author = {Woo, Byung-Deuk, and Goldberg, Lindsey A., and Solt, Frederick},\n    year = {2022},\n    doi = {10.31235/osf.io/37dq9},\n    month = {Feb},\n    publisher = {SocArXiv},\n    title = {Public {{Gender Egalitarianism}}: {{A Dataset}} of {{Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles}} in the {{Public Sphere}}},\n    url = {https://osf.io/preprints/socarxiv/37dq9},\n    year = {2022}}"
+    "text": "BibTeX citation\n@article{WooAllemangSolt2023,\n    author = {Woo, Byung-Deuk, and Goldberg, Lindsey A., and Solt, Frederick},\n    title = {Public {{Gender Egalitarianism}}: {{A Dataset}} of {{Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles}} in the {{Public Sphere}}},\n    journal = {British Journal of Political Science},\n    year = {2023},\n    volume = {53},\n    issue = {2},\n    pages = {766-755},\n    doi = {10.1017/S0007123422000436}}"
   },
   {
     "objectID": "news/posts/dem-mood-accepted.html",

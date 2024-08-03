@@ -77,13 +77,13 @@ Societal attitudes toward gender roles in the workplace and politics play a cent
 ## BibTeX citation
 
 ```bibtex
-@misc{WooAllemangSolt2022,
+@article{WooAllemangSolt2023,
 	author = {Woo, Byung-Deuk, and Goldberg, Lindsey A., and Solt, Frederick},
-    year = {2022},
-	doi = {10.31235/osf.io/37dq9},
-	month = {Feb},
-	publisher = {SocArXiv},
 	title = {Public {{Gender Egalitarianism}}: {{A Dataset}} of {{Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles}} in the {{Public Sphere}}},
-	url = {https://osf.io/preprints/socarxiv/37dq9},
-	year = {2022}}
+	journal = {British Journal of Political Science},
+	year = {2023},
+	volume = {53},
+	issue = {2},
+	pages = {766-755},
+	doi = {10.1017/S0007123422000436}}
 ```
