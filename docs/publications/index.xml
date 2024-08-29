@@ -17,7 +17,109 @@
 <width>144</width>
 </image>
 <generator>quarto-1.4.549</generator>
-<lastBuildDate>Wed, 15 May 2024 05:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 28 Aug 2024 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>Macrodiscontent Across Countries</title>
+  <dc:creator>Haofeng Ma</dc:creator>
+  <dc:creator>Jeongho Choi</dc:creator>
+  <dc:creator>Yuehong Cassandra Tai</dc:creator>
+  <dc:creator>Yue Hu</dc:creator>
+  <dc:creator>Frederick Solt</dc:creator>
+  <link>https://dcpo.org/publications/working-papers/discontent/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div id="listing-cite" class="quarto-listing quarto-listing-container-custom">
+<div class="research-page">
+<li class="project">
+<div class="project-details">
+<div class="project-content">
+<p>
+<a href="https://haofengma.org/">Ma, Haofeng</a>, <a href="https://jeongho-choi.github.io/">Jeongho Choi</a>, <a href="https://cassyuehtai.netlify.app">Yuehong Cassandra Tai</a>, <a href="https://sammo3182.github.io">Yue Hu</a>, and <a href="https://fsolt.org">Frederick Solt</a>. 2024. “Macrodiscontent Across Countries.” <em>SocArXiv</em>.
+</p>
+</div>
+<ul class="project-links">
+<li class="project-link">
+<a href="../../../papers/machoitaihusolt2024_pre"><i class="far fa-file-pdf"></i> Preprint</a>
+</li>
+<li class="project-link">
+<a href="https://github.com/fsolt/dcpo_discontent"><i class="fa-brands fa-github"></i> Code</a>
+</li>
+</ul>
+</div>
+<div class="publication-extra">
+<p>
+</p>
+</div>
+</li>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<p>Public discontent with the political system has become an increasingly salient concern in recent years, with the argument that it undermines democratic stability and effective governance. Nevertheless, the understanding of the nature, trends, and drivers of political discontent remains debated, largely reflecting the constraints from available survey data and items in the construction of measurement. This article takes advantage of the state-of-the-art latent-variable modeling to aggregat survey responses and a comprehensive collection of survey data to generate dynamic comparative estimates of public political discontent (PPD) for over a hundred countries over the past four decades. These PPD scores are validated with responses to the individual source-data survey items that were used to generate them as well as the democratic evaluation survey item that was not used in our estimation. Next, a cross-national and longitudinal analysis of PPD in advanced democracies (i.e., OECD countries) highlights that public political discontent has been on a rising trend, rather than merely “trendless fluctuations” as <span class="citation" data-cites="norris2011democratic">@norris2011democratic</span> claimed. Our results reveal that these increased discontents are largely attributable to worsening economic conditions, including low average income, slow growth, and high unemployment rates.</p>
+</section>
+<section id="important-figures" class="level2">
+<h2 class="anchored" data-anchor-id="important-figures">Important figures</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://dcpo.org/publications/working-papers/discontent/discontent_fig5.png" class="img-fluid figure-img"></p>
+<figcaption>Figure 5: Political Discontent Scores Over Time Within OECD Democracies</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://dcpo.org/publications/working-papers/discontent/discontent_fig6.png" class="img-fluid figure-img"></p>
+<figcaption>Figure 6: Predicting Public Political Discontent in OECD Countries</figcaption>
+</figure>
+</div>
+</section>
+<section id="bibtex-citation" class="level2">
+<h2 class="anchored" data-anchor-id="bibtex-citation">BibTeX citation</h2>
+<div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
+background-color: null;
+font-style: inherit;">@misc</span>{<span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">MaChoiTaiHuSolt2024</span>,</span>
+<span id="cb1-2"> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">title</span>={Macrodiscontent Across Countries},</span>
+<span id="cb1-3"> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">url</span>={osf.io/preprints/socarxiv/z9a3n},</span>
+<span id="cb1-4"> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">DOI</span>={10.31235/osf.io/a9a3n},</span>
+<span id="cb1-5"> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">publisher</span>={SocArXiv},</span>
+<span id="cb1-6"> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">author</span>={Ma, Haofeng and Choi, Jeongho and Tai, Yuehong Cassandra and Hu, Yue and Solt, Frederick},</span>
+<span id="cb1-7"> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">year</span>={2024},</span>
+<span id="cb1-8"> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">month</span>={Aug}</span>
+<span id="cb1-9">}</span></code></pre></div>
+
+
+
+</section>
+
+ ]]></description>
+  <category>attitudes</category>
+  <category>democracy</category>
+  <category>measurement</category>
+  <category>dcpo</category>
+  <guid>https://dcpo.org/publications/working-papers/discontent/</guid>
+  <pubDate>Wed, 28 Aug 2024 05:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Public Support for Gay Rights Across Countries and Over Time</title>
   <dc:creator>Byung-Deuk Woo</dc:creator>

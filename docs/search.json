@@ -245,6 +245,34 @@
     "text": "BibTeX citation\n@misc{HuTaiSolt2022,\n author={Hu, Yue and Tai, Yuehong Cassandra and Solt, Frederick},\n title={On Data 'Janitor Work' in Political Science: The Case of Thermostatic Support for Democracy},\n publisher={SocArXiv},\n year={2022},\n month={June}, \n url={osf.io/preprints/socarxiv/kd7mu},\n doi={10.31235/osf.io/kd7mu}\n}"
   },
   {
+    "objectID": "publications/working-papers/discontent/short.html",
+    "href": "publications/working-papers/discontent/short.html",
+    "title": "Macrodiscontent Across Countries",
+    "section": "",
+    "text": "Ma, Haofeng, Jeongho Choi, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. 2024. “Macrodiscontent Across Countries.” SocArXiv.\n\n\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications/working-papers/discontent/short.html#abstract",
+    "href": "publications/working-papers/discontent/short.html#abstract",
+    "title": "Macrodiscontent Across Countries",
+    "section": "Abstract",
+    "text": "Abstract\nPublic discontent with the political system has become an increasingly salient concern in recent years, with the argument that it undermines democratic stability and effective governance. Nevertheless, the understanding of the nature, trends, and drivers of political discontent remains debated, largely reflecting the constraints from available survey data and items in the construction of measurement. This article takes advantage of the state-of-the-art latent-variable modeling to aggregat survey responses and a comprehensive collection of survey data to generate dynamic comparative estimates of public political discontent (PPD) for over a hundred countries over the past four decades. These PPD scores are validated with responses to the individual source-data survey items that were used to generate them as well as the democratic evaluation survey item that was not used in our estimation. Next, a cross-national and longitudinal analysis of PPD in advanced democracies (i.e., OECD countries) highlights that public political discontent has been on a rising trend, rather than merely “trendless fluctuations” as @norris2011democratic claimed. Our results reveal that these increased discontents are largely attributable to worsening economic conditions, including low average income, slow growth, and high unemployment rates."
+  },
+  {
+    "objectID": "publications/working-papers/discontent/short.html#important-figures",
+    "href": "publications/working-papers/discontent/short.html#important-figures",
+    "title": "Macrodiscontent Across Countries",
+    "section": "Important figures",
+    "text": "Important figures\n\n\n\nFigure 5: Political Discontent Scores Over Time Within OECD Democracies\n\n\n\n\n\nFigure 6: Predicting Public Political Discontent in OECD Countries"
+  },
+  {
+    "objectID": "publications/working-papers/discontent/short.html#bibtex-citation",
+    "href": "publications/working-papers/discontent/short.html#bibtex-citation",
+    "title": "Macrodiscontent Across Countries",
+    "section": "BibTeX citation",
+    "text": "BibTeX citation\n@misc{MaChoiTaiHuSolt2024,\n title={Macrodiscontent Across Countries},\n url={osf.io/preprints/socarxiv/z9a3n},\n DOI={10.31235/osf.io/a9a3n},\n publisher={SocArXiv},\n author={Ma, Haofeng and Choi, Jeongho and Tai, Yuehong Cassandra and Hu, Yue and Solt, Frederick},\n year={2024},\n month={Aug}\n}"
+  },
+  {
     "objectID": "publications/working-papers/demsupport_data/short.html",
     "href": "publications/working-papers/demsupport_data/short.html",
     "title": "Support for Democracy Is Multidimensional: Why Unidimensional Latent Variable Measures of Democratic Support Are Invalid",
@@ -319,7 +347,7 @@
     "href": "publications/index.html#working-papers",
     "title": "DCPO",
     "section": "Working Papers",
-    "text": "Working Papers\n\n\n\n\n\n Revise & Resubmit Woo, Byung-Deuk, Hyein Ko, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. 2024. “Public Support for Gay Rights Across Countries and Over Time.” SocArXiv.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n Revise & Resubmit Hu, Yue, Yuehong Cassandra Tai, Hyein Ko, Byung-Deuk Woo, and Frederick Solt. 2023. “Support for Democracy Is Multidimensional: Why Unidimensional Latent Variable Measures of Democratic Support Are Invalid.” SocArXiv.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\nHu, Yue, Yuehong Cassandra Tai, and Frederick Solt. 2022. “On Data ‘Janitor Work’ in Political Science: The Case of Thermostatic Support for Democracy.” SocArXiv.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\nFrederick Solt. 2020. “Modeling Dynamic Comparative Public Opinion.” SocArXiv.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\nNo matching items"
+    "text": "Working Papers\n\n\n\n\n\n Under review Ma, Haofeng, Jeongho Choi, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. 2024. “Macrodiscontent Across Countries.” SocArXiv.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n Revise & Resubmit Woo, Byung-Deuk, Hyein Ko, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. 2024. “Public Support for Gay Rights Across Countries and Over Time.” SocArXiv.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n Revise & Resubmit Hu, Yue, Yuehong Cassandra Tai, Hyein Ko, Byung-Deuk Woo, and Frederick Solt. 2023. “Support for Democracy Is Multidimensional: Why Unidimensional Latent Variable Measures of Democratic Support Are Invalid.” SocArXiv.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\nHu, Yue, Yuehong Cassandra Tai, and Frederick Solt. 2022. “On Data ‘Janitor Work’ in Political Science: The Case of Thermostatic Support for Democracy.” SocArXiv.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\nFrederick Solt. 2020. “Modeling Dynamic Comparative Public Opinion.” SocArXiv.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications/working-papers/dcpo_article/index.html",
@@ -376,6 +404,34 @@
     "title": "Support for Democracy Is Multidimensional: Why Unidimensional Latent Variable Measures of Democratic Support Are Invalid",
     "section": "BibTeX citation",
     "text": "BibTeX citation\n@misc{HuTaiSolt2022,\n author={Hu, Yue and Tai, Yuehong Cassandra and Ko, Hyein and Woo, Byung-Deuk and Solt, Frederick},\n title={Support for Democracy Is Multidimensional: Why Unidimensional Latent Variable Measures of Democratic Support Are Invalid},\n publisher={SocArXiv},\n year={2023},\n month={February}, \n url={osf.io/preprints/socarxiv/rym8g/},\n doi={10.31235/osf.io/rym8g/}\n}"
+  },
+  {
+    "objectID": "publications/working-papers/discontent/index.html",
+    "href": "publications/working-papers/discontent/index.html",
+    "title": "Macrodiscontent Across Countries",
+    "section": "",
+    "text": "Ma, Haofeng, Jeongho Choi, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. 2024. “Macrodiscontent Across Countries.” SocArXiv.\n\n\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications/working-papers/discontent/index.html#abstract",
+    "href": "publications/working-papers/discontent/index.html#abstract",
+    "title": "Macrodiscontent Across Countries",
+    "section": "Abstract",
+    "text": "Abstract\nPublic discontent with the political system has become an increasingly salient concern in recent years, with the argument that it undermines democratic stability and effective governance. Nevertheless, the understanding of the nature, trends, and drivers of political discontent remains debated, largely reflecting the constraints from available survey data and items in the construction of measurement. This article takes advantage of the state-of-the-art latent-variable modeling to aggregat survey responses and a comprehensive collection of survey data to generate dynamic comparative estimates of public political discontent (PPD) for over a hundred countries over the past four decades. These PPD scores are validated with responses to the individual source-data survey items that were used to generate them as well as the democratic evaluation survey item that was not used in our estimation. Next, a cross-national and longitudinal analysis of PPD in advanced democracies (i.e., OECD countries) highlights that public political discontent has been on a rising trend, rather than merely “trendless fluctuations” as @norris2011democratic claimed. Our results reveal that these increased discontents are largely attributable to worsening economic conditions, including low average income, slow growth, and high unemployment rates."
+  },
+  {
+    "objectID": "publications/working-papers/discontent/index.html#important-figures",
+    "href": "publications/working-papers/discontent/index.html#important-figures",
+    "title": "Macrodiscontent Across Countries",
+    "section": "Important figures",
+    "text": "Important figures\n\n\n\nFigure 5: Political Discontent Scores Over Time Within OECD Democracies\n\n\n\n\n\nFigure 6: Predicting Public Political Discontent in OECD Countries"
+  },
+  {
+    "objectID": "publications/working-papers/discontent/index.html#bibtex-citation",
+    "href": "publications/working-papers/discontent/index.html#bibtex-citation",
+    "title": "Macrodiscontent Across Countries",
+    "section": "BibTeX citation",
+    "text": "BibTeX citation\n@misc{MaChoiTaiHuSolt2024,\n title={Macrodiscontent Across Countries},\n url={osf.io/preprints/socarxiv/z9a3n},\n DOI={10.31235/osf.io/a9a3n},\n publisher={SocArXiv},\n author={Ma, Haofeng and Choi, Jeongho and Tai, Yuehong Cassandra and Hu, Yue and Solt, Frederick},\n year={2024},\n month={Aug}\n}"
   },
   {
     "objectID": "publications/working-papers/janitor_work/index.html",
