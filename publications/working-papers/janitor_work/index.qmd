@@ -10,7 +10,7 @@ cite: >
   _SocArXiv_.
 author:
     - name: Yue Hu
-      affiliation: Pennsylvania State University
+      affiliation: Tsinghua University
       url: https://sammo3182.github.io
       orcid: 0000-0002-2829-3971
     - name: Yuehong Cassandra Tai
