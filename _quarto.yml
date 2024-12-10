@@ -29,6 +29,8 @@ website:
         menu:
           - text: "Public Gender Egalitarianism"
             href: data/pge/index.qmd
+          - text: "Support for Gay Rights"
+            href: data/sgr/index.qmd
       - software.qmd
       - text: "Help"
         menu:
