@@ -24,6 +24,12 @@
     ]
   },
   {
+    "listing": "/publications/published/gayrights/short.html",
+    "items": [
+      "/publications/published/gayrights/index.html"
+    ]
+  },
+  {
     "listing": "/publications/published/macrointerest/short.html",
     "items": [
       "/publications/published/macrointerest/index.html"
@@ -39,12 +45,6 @@
     "listing": "/publications/published/dem_support/short.html",
     "items": [
       "/publications/published/dem_support/index.html"
-    ]
-  },
-  {
-    "listing": "/publications/working-papers/gayrights/short.html",
-    "items": [
-      "/publications/working-papers/gayrights/index.html"
     ]
   },
   {
@@ -74,12 +74,12 @@
   {
     "listing": "/publications/index.html",
     "items": [
+      "/publications/published/gayrights/index.html",
       "/publications/published/dem_mood/index.html",
       "/publications/published/macrointerest/index.html",
       "/publications/published/dem_support/index.html",
       "/publications/published/pge/index.html",
       "/publications/working-papers/discontent/index.html",
-      "/publications/working-papers/gayrights/index.html",
       "/publications/working-papers/demsupport_data/index.html",
       "/publications/working-papers/janitor_work/index.html",
       "/publications/working-papers/dcpo_article/index.html"
@@ -110,12 +110,6 @@
     ]
   },
   {
-    "listing": "/publications/working-papers/gayrights/index.html",
-    "items": [
-      "/publications/working-papers/gayrights/short.html"
-    ]
-  },
-  {
     "listing": "/publications/published/dem_support/index.html",
     "items": [
       "/publications/published/dem_support/short.html"
@@ -131,6 +125,12 @@
     "listing": "/publications/published/macrointerest/index.html",
     "items": [
       "/publications/published/macrointerest/short.html"
+    ]
+  },
+  {
+    "listing": "/publications/published/gayrights/index.html",
+    "items": [
+      "/publications/published/gayrights/short.html"
     ]
   },
   {
