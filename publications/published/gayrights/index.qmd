@@ -44,13 +44,13 @@ links:
 # - name: Dataverse
 #   url: ""
 #   icon: fas fa-table
-# - name: TOL-H Database
-#   url: https://dcpo.org/data/tol-h/
+# - name: SGR Database
+#   url: https://dcpo.org/data/sgr/
 #   icon: fa-solid fa-database
 # pub_status:
 status: Forthcoming
 status_class: warning
-status_icon: pencil-square
+status_icon: fa-regular fa-clock
 # #   status: Writing
 # #   class: warning
 # #   icon: fas fa-edit
