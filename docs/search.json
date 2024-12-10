@@ -42,6 +42,55 @@
     "text": "The Public Gender Egalitarianism (PGE) Database\nSocietal attitudes toward gender roles in the workplace and politics play a central part in theorizing on the difficulty women face in achieving political equality, but shortcomings in the available data have prevented direct examination of many implications of these theories. Drawing on recent advances in latent variable modeling of public opinion and a comprehensive collection of survey data, we present the Public Gender Egalitarianism dataset to address this need: comparable estimates of the public’s attitudes on gender equality in the public sphere across more than one hundred countries over time. These PGE scores are strongly correlated with responses to individual survey items and with women’s rates of participation in the labor force and corporate boards. We expect that the PGE data will become an invaluable source for broadly cross-national and longitudinal research on the causes and consequences of collective attitudes toward gender equality in politics and the economy.\nA full description of the PGE dataset, the source data used to generate it, and validations of its estimates is presented here:\nWoo, Byung-Deuk, Lindsey A. Goldberg, and Frederick Solt. Forthcoming. “Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere.” British Journal of Political Science.\nThere are two ways of using the PGE data. To directly compare up to four countries in estimated levels and trends of public gender egalitarianism, use the PGE web app below. To use the PGE in statistical analyses, datasets formatted for use in Stata and R are available for download.\n\n Download the PGE  PGE FAQ\n\n\n\n\nPowered by RStudio.\nPlease cite the PGE as follows:\nWoo, Byung-Deuk, Lindsey A. Goldberg, and Frederick Solt. 2023. “Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere.” British Journal of Political Science 53(2), 766-775. PGE Version 1.0, April 2022."
   },
   {
+    "objectID": "data/sgr/sgr_faq/index.html#how-to-.-.-.",
+    "href": "data/sgr/sgr_faq/index.html#how-to-.-.-.",
+    "title": "SGR Frequently Asked Questions",
+    "section": "How to . . .",
+    "text": "How to . . .\n\n\n\n\n\n\n\n\n\n\nWait, how can I download the data again?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nI’m using an older version of Stata, and it won’t open the file. How can I use the SGR data?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nI imported the sgr_summary.csv file, and the data for some countries seem to be greater than one, when the SGR supposedly ranges only from zero to one. How can I interpret these data?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow can I use the SGR data with Stata’s time-series operators?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow can I use the SGR data to make my own graphs?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow can I merge my other data into the SGR using ISO or other country codes?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "data/sgr/sgr_faq/index.html#the-sgr-data",
+    "href": "data/sgr/sgr_faq/index.html#the-sgr-data",
+    "title": "SGR Frequently Asked Questions",
+    "section": "The SGR Data",
+    "text": "The SGR Data\n\n\n\n\n\n\n\n\n\n\nWhat about Russia and the rest of the former Soviet Union? Yugoslavia? Czechoslovakia? Pakistan? Sudan? Ethiopia? Why are there estimates for successor states before they actually existed?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe estimates for Ruritania, among others, have changed since the previous version. Why is that?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow is Germany treated in the SGR? Where’s East Germany?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "data/sgr/sgr_faq/posts/data/changes-between-versions.html",
+    "href": "data/sgr/sgr_faq/posts/data/changes-between-versions.html",
+    "title": "The estimates for Ruritania, among others, have changed since the previous version. Why is that?",
+    "section": "",
+    "text": "There are two reasons why estimates change from one version of the SGR to the next. The first reason is that we have incorporated new source survey data for the country. Adding more source data for a country, particularly when previously available data was very scant, holds the potential that the estimates will change.\nThe second, less obvious, reason for changes is the availability of more source data for other countries. The SGR estimates of public gender egalitarianism depend on the DCPO routine’s estimates of the difficulty and dispersion of each survey item. When additional data is added for a given survey item (or, in fact, for other survey items in overlapping country-years), its difficulty and dispersion estimates may change see Woo, Ko, Tai, Hu, and Solt 2024, in turn influencing the SGR estimates based on responses to this survey item. This means that, given the scarcity of data on Ruritania, more data can lead to substantial changes in the SGR estimates for Ruritania."
+  },
+  {
+    "objectID": "data/sgr/sgr_faq/posts/how-to/mean-and-std-err.html",
+    "href": "data/sgr/sgr_faq/posts/how-to/mean-and-std-err.html",
+    "title": "How can I use the SGR data to make my own graphs?",
+    "section": "",
+    "text": "The SGR download contains files pre-formatted for use with the tools for analyzing multiply-imputed data and other data measured with uncertainty in Stata (e.g., sgr1_0.dta) or R (e.g., sgr1_0.rda). This is meant to “set the default” in a way that encourages researchers to take into account the uncertainty in the SGR estimates. This uncertainty is considerable in many countries, and the tools available in both software packages can now handle pretty much any analysis one may desire (for details, read the documents R_sgr.pdf and stata_sgr.pdf in the SGR download). But this format does not lend itself to graphing. For this purpose, use the summary file (e.g., sgr1_0_summary.csv), which presents the SGR estimates in mean-plus-standard-error summary format.\nIn Stata:\nimport delimited \"sgr1_0_summary.csv\", clear\n\n// A silly example\ngen name_length = length(country)\ngen first_letter = substr(country, 1, 1)\nkeep if year==2010 & first_letter==\"S\" /*2010 for Senegal, Serbia, . . .*/\n\n// A scatterplot with 95% uncertainty intervals\ntwoway rspike p2_5 p97_5 name_length, lstyle(ci) || ///\n    scatter sgr name_length, msize(small) ///\n    legend(order(2 \"SGR: Support for Gay Rights\")) \nIn R:\nllibrary(tidyverse)\n\n# Load the SGR\nload(\"sgr1_0.rda\")\n\n# Plot PGE estimates for the United States\nsgr_summary %&gt;% \n    filter(country == \"United States\") %&gt;% \n    ggplot(aes(x=year, y=sgr)) + \n    geom_line() +\n    geom_ribbon(aes(ymin = sgr-1.96*sgr_se,\n                    ymax = sgr+1.96*sgr_se, \n                    linetype=NA), alpha = .25) +\n    scale_x_continuous(breaks=seq(1970, 2020, 5)) +\n    theme_bw() + \n    labs(x = \"Year\", \n         y = \"SGR: Support for Gay Rights\",\n         title = \"Support for Gay Rights in the United States\")"
+  },
+  {
+    "objectID": "data/sgr/sgr_faq/posts/how-to/not-a-stata-file.html",
+    "href": "data/sgr/sgr_faq/posts/how-to/not-a-stata-file.html",
+    "title": "I’m using an older version of Stata, and it won’t open the file. How can I use the SGR data?",
+    "section": "",
+    "text": "Stata 13 introduced a new file format which older versions of Stata can’t open. Fortunately, there’s an easy fix: the use13 command. In the command window, first type ssc install use13 to install it. Then you can type use13 sgr1_0.dta, clear (change the version number as necessary, ofc) to load the SGR data."
+  },
+  {
+    "objectID": "data/sgr/sgr_faq/posts/how-to/country-codes.html",
+    "href": "data/sgr/sgr_faq/posts/how-to/country-codes.html",
+    "title": "How can I merge my other data into the SGR using ISO or other country codes?",
+    "section": "",
+    "text": "First, add whatever country codes are needed to the SGR data: there are routines for both Stata (kountry; type findit kountry in Stata’s command window to install) and R (countrycode, on CRAN) to generate many commonly used country codes. Then follow the instructions for merging data into the SGR found in the “stata_sgr.pdf” or “R_sgr.pdf” files included in the data download."
+  },
+  {
+    "objectID": "data/sgr/index.html",
+    "href": "data/sgr/index.html",
+    "title": "SGR: Support for Gay Rights",
+    "section": "",
+    "text": "The Support for Gay Rights (SGR) Database\nSupport for gay rights has increased in the publics of many countries over recent decades, but the scholarship on the topic has been hindered by the limited available data on these trends in public opinion. The goal of the Support for Gay Rights (SGR) dataset is to overcome this problem. The SGR dataset is constructed by combining a comprehensive collection of survey data with a latent-variable model to provide annual time-series estimates of public support for gay rights across 118 countries and over as many as 51 years that are comparable across space and time. We anticipate that the SGR data will become a crucial source for cross-national, cross-regional, and longitudinal research that improves our understanding of the sources and consequences of public support for gay rights.\nA full description of the SGR dataset, the source data used to generate it, and validations of its estimates is presented here:\nWoo, Byung-Deuk, Hyein Ko, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. Forthcoming. “Public Support for Gay Rights Across Countries and Over Time.” Social Science Quarterly.\nThere are two ways of using the SGR data. To directly compare up to four countries in estimated levels and trends of public gender egalitarianism, use the SGR web app below. To use the SGR in statistical analyses, datasets formatted for use in Stata and R are available for download.\n\n Download the SGR  SGR FAQ\n\n\n\n\nPowered by RStudio.\nPlease cite the SGR as follows:\nWoo, Byung-Deuk, Hyein Ko, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. Forthcoming. “Public Support for Gay Rights Across Countries and Over Time.” Social Science Quarterly. SGR Version 1.0, December 2024."
+  },
+  {
     "objectID": "team/fsolt.html",
     "href": "team/fsolt.html",
     "title": "Frederick Solt",
@@ -109,7 +158,7 @@
     "href": "publications/published/gayrights/short.html",
     "title": "Public Support for Gay Rights Across Countries and Over Time",
     "section": "",
-    "text": "Woo, Byung-Deuk, Hyein Ko, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. Forthcoming. “Public Support for Gay Rights Across Countries and Over Time.” Social Science Quarterly.\n\n\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Woo, Byung-Deuk, Hyein Ko, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. Forthcoming. “Public Support for Gay Rights Across Countries and Over Time.” Social Science Quarterly.\n\n\n\n\n Preprint\n\n\n Code\n\n\n SGR Database\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications/published/gayrights/short.html#abstract",
@@ -333,14 +382,14 @@
     "href": "publications/index.html",
     "title": "DCPO",
     "section": "",
-    "text": "Forthcoming Woo, Byung-Deuk, Hyein Ko, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. Forthcoming. “Public Support for Gay Rights Across Countries and Over Time.” Social Science Quarterly.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n Forthcoming Hu, Yue, Yuehong Cassandra Tai, and Frederick Solt. Forthcoming. “Revisiting the Evidence on Thermostatic Response to Democratic Change: Degrees of Democratic Support or Researcher Degrees of Freedom?” Political Science Research and Methods.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Data\n\n\n\n\n\n\n\n Forthcoming Hu, Yue and Frederick Solt. Forthcoming. “Macrointerest Across Countries.” British Journal of Political Science.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\nTai, Yuehong ‘Cassandra’, Yue Hu, and Frederick Solt. 2024. “Democracy, Public Support, and Measurement Uncertainty.” American Political Science Review 118(1):512-518.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n\n\n\n\n\nWoo, Byung-Deuk, Lindsey A. Goldberg, and Frederick Solt. 2023. “Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere.” British Journal of Political Science 53(2), 766-775.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n PGE Database\n\n\n\n\n\n\nNo matching items"
+    "text": "Forthcoming Woo, Byung-Deuk, Hyein Ko, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. Forthcoming. “Public Support for Gay Rights Across Countries and Over Time.” Social Science Quarterly.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n SGR Database\n\n\n\n\n\n\n\n Forthcoming Hu, Yue, Yuehong Cassandra Tai, and Frederick Solt. Forthcoming. “Revisiting the Evidence on Thermostatic Response to Democratic Change: Degrees of Democratic Support or Researcher Degrees of Freedom?” Political Science Research and Methods.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Data\n\n\n\n\n\n\n\n Forthcoming Hu, Yue and Frederick Solt. Forthcoming. “Macrointerest Across Countries.” British Journal of Political Science.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\nTai, Yuehong ‘Cassandra’, Yue Hu, and Frederick Solt. 2024. “Democracy, Public Support, and Measurement Uncertainty.” American Political Science Review 118(1):512-518.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n\n\n\n\n\nWoo, Byung-Deuk, Lindsey A. Goldberg, and Frederick Solt. 2023. “Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere.” British Journal of Political Science 53(2), 766-775.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n PGE Database\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications/index.html#publications",
     "href": "publications/index.html#publications",
     "title": "DCPO",
     "section": "",
-    "text": "Forthcoming Woo, Byung-Deuk, Hyein Ko, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. Forthcoming. “Public Support for Gay Rights Across Countries and Over Time.” Social Science Quarterly.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n Forthcoming Hu, Yue, Yuehong Cassandra Tai, and Frederick Solt. Forthcoming. “Revisiting the Evidence on Thermostatic Response to Democratic Change: Degrees of Democratic Support or Researcher Degrees of Freedom?” Political Science Research and Methods.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Data\n\n\n\n\n\n\n\n Forthcoming Hu, Yue and Frederick Solt. Forthcoming. “Macrointerest Across Countries.” British Journal of Political Science.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\nTai, Yuehong ‘Cassandra’, Yue Hu, and Frederick Solt. 2024. “Democracy, Public Support, and Measurement Uncertainty.” American Political Science Review 118(1):512-518.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n\n\n\n\n\nWoo, Byung-Deuk, Lindsey A. Goldberg, and Frederick Solt. 2023. “Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere.” British Journal of Political Science 53(2), 766-775.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n PGE Database\n\n\n\n\n\n\nNo matching items"
+    "text": "Forthcoming Woo, Byung-Deuk, Hyein Ko, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. Forthcoming. “Public Support for Gay Rights Across Countries and Over Time.” Social Science Quarterly.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n SGR Database\n\n\n\n\n\n\n\n Forthcoming Hu, Yue, Yuehong Cassandra Tai, and Frederick Solt. Forthcoming. “Revisiting the Evidence on Thermostatic Response to Democratic Change: Degrees of Democratic Support or Researcher Degrees of Freedom?” Political Science Research and Methods.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Data\n\n\n\n\n\n\n\n Forthcoming Hu, Yue and Frederick Solt. Forthcoming. “Macrointerest Across Countries.” British Journal of Political Science.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\nTai, Yuehong ‘Cassandra’, Yue Hu, and Frederick Solt. 2024. “Democracy, Public Support, and Measurement Uncertainty.” American Political Science Review 118(1):512-518.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n\n\n\n\n\nWoo, Byung-Deuk, Lindsey A. Goldberg, and Frederick Solt. 2023. “Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere.” British Journal of Political Science 53(2), 766-775.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n PGE Database\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications/index.html#working-papers",
@@ -550,7 +599,7 @@
     "href": "publications/published/gayrights/index.html",
     "title": "Public Support for Gay Rights Across Countries and Over Time",
     "section": "",
-    "text": "Woo, Byung-Deuk, Hyein Ko, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. Forthcoming. “Public Support for Gay Rights Across Countries and Over Time.” Social Science Quarterly.\n\n\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Woo, Byung-Deuk, Hyein Ko, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. Forthcoming. “Public Support for Gay Rights Across Countries and Over Time.” Social Science Quarterly.\n\n\n\n\n Preprint\n\n\n Code\n\n\n SGR Database\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications/published/gayrights/index.html#abstract",
@@ -642,6 +691,41 @@
     "title": "Software",
     "section": "",
     "text": "DCPOtools\nSolt, Frederick, Yuehong Cassandra Tai, Yue Hu, Hyein Ko, and Byung-Deuk Woo. 2019. “DCPOtools: Tools for Preparing Survey Data for DCPO.” https://github.com/fsolt/DCPOtools.\nDynamic Comparative Public Opinion (DCPO) analyses generate estimates of latent public opinion that are comparable across countries and over time from hundreds or thousands of surveys, but collecting and formatting these survey data is a formidable challenge. The DCPOtools package streamlines these initial steps, providing tools for downloading survey datasets, extracting the needed data, correctly identifying and standardizing the countries and years surveyed, applying survey weights, and arranging the resulting information into the format required to generate DCPO estimates.\nTo install:\nDCPOtools is not available on CRAN. Install its latest version with the following command:\nremotes::install_github(\"fsolt/DCPOtools\")\n\n\nDCPO\nSolt, Frederick. 2020. “DCPO: Dynamic Comparative Public Opinion.” The Comprehensive R Archive Network (CRAN).\n  \nThe study of comparative public opinion has been hampered by data that is sparse, that is, unavailable for many countries and years; incomparable, i.e., ostensibly addressing the same issue but generated by different survey items; or, most often, both. DCPO is an R package for estimating latent public opinion from cross-national survey data to maximize the information gleaned from available sources, overcome issues of missing and incomparable data, and allow comparativists to examine the dynamics of public opinion across countries.\nFor a detailed description, see the paper here.\nTo install:\n\nthe latest released version: install.packages(\"DCPO\", dependencies = TRUE)\nthe latest development version: remotes::install_github(\"fsolt/DCPO\", dependencies = TRUE)\n\nNote that DCPO depends on stan. So, please install rstan and rstantools first. See the detailed instructions here.\nWindows users may encounter some issues when installing DCPO due to the version or system settings. We recommend installing the proper version of R and Stanheaders package first.\nNote: Development of CmdStan, available on R via CmdStanR, has far outstripped that of the rstan package on which DCPO is based. DCPO estimates can now be generated much, much faster (wallclock times of &lt; 2%) by passing the DCPO Stan file to CmdStanR. See here for an example."
+  },
+  {
+    "objectID": "data/sgr/sgr_faq/posts/how-to/download-sgr.html",
+    "href": "data/sgr/sgr_faq/posts/how-to/download-sgr.html",
+    "title": "Wait, how can I download the data again?",
+    "section": "",
+    "text": "First, click on this link. Scroll down past the description until you see a list of files. The dataset is a .zip file, the latest version will be listed first. Clicking on the big downward-pointing-arrow icon on the right side of this line will show a menu; choosing “ZIP Archive” will download the file."
+  },
+  {
+    "objectID": "data/sgr/sgr_faq/posts/how-to/csv-format.html",
+    "href": "data/sgr/sgr_faq/posts/how-to/csv-format.html",
+    "title": "I imported the sgr_summary.csv file, and the data for some countries seem to be greater than one, when the SGR supposedly ranges only from zero to one. How can I interpret these data?",
+    "section": "",
+    "text": "The issue here is that the sgr_summary.csv file is saved using RFC 4180 csv conventions, that is, with a dot marking the decimal and a comma separating values. If you are in a locale that observes different conventions—many countries use commas to indicate the decimal and semicolons to separate values—your software’s default settings may not read the data correctly. Be sure to specify the decimal marker and value delimiter appropriately when loading the file: all SGR values fall between zero and one."
+  },
+  {
+    "objectID": "data/sgr/sgr_faq/posts/how-to/stata-time-series.html",
+    "href": "data/sgr/sgr_faq/posts/how-to/stata-time-series.html",
+    "title": "How can I use the SGR data with Stata’s time-series operators?",
+    "section": "",
+    "text": "To use Stata’s time-series operators (l. , f. , d. , etc.), you must first declare the time and panel variables using tsset, but the SGR is already mi set, so tsset won’t work. Run the following before merging the rest of your data (called my_data.dta in this example) into the SGR:\nuse sgr1_0.dta, clear\negen cc = group(country)  \nmi tsset cc year\nmerge 1:1 country year using \"my_data.dta\", keep(match master) \nNow you’ll be able to use l. and the rest of Stata’s time-series operators."
+  },
+  {
+    "objectID": "data/sgr/sgr_faq/posts/data/partition-and-successors.html",
+    "href": "data/sgr/sgr_faq/posts/data/partition-and-successors.html",
+    "title": "What about Russia and the rest of the former Soviet Union? Yugoslavia? Czechoslovakia? Pakistan? Sudan? Ethiopia? Why are there estimates for successor states before they actually existed?",
+    "section": "",
+    "text": "For countries that have undergone partition, the SGR estimates for a given year include all of the origin country’s then-current territories. This means that for dates before partition, all of the once united territory is included: estimates for Sudan before 2011, for example, include present-day South Sudan.\nWhere survey data are available from before the breakup for the territory of successor states, these data have been used to generate SGR estimates like anything else in the source data (the DCPO routine does not make any effort to incorporate information from the origin state into estimates for the successor state). For example, the estimates for Russia for dates before the breakup of the Soviet Union are for the territories of the USSR that would become Russia after the breakup; there are similar pre-breakup data available for several FSU states, the Czech Republic and Slovakia, and a few successor states of the former Yugoslavia. The resulting estimates are available for use when appropriate, that is, to match the conventions of the other data one may be employing."
+  },
+  {
+    "objectID": "data/sgr/sgr_faq/posts/data/germany.html",
+    "href": "data/sgr/sgr_faq/posts/data/germany.html",
+    "title": "How is Germany treated in the SGR? Where’s East Germany?",
+    "section": "",
+    "text": "Germany is West Germany only before 1991 and (united) Germany from that point forward. The SGR includes no estimates for East Germany; we just haven’t found much to include in the source data. If you know of a survey with East German data, email us with the details, and we’ll be happy to get it into the next version."
   },
   {
     "objectID": "data/pge/pge_faq/posts/how-to/csv-format.html",

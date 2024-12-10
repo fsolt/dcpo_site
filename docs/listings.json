@@ -1,5 +1,19 @@
 [
   {
+    "listing": "/data/sgr/sgr_faq/index.html",
+    "items": [
+      "/data/sgr/sgr_faq/posts/data/partition-and-successors.html",
+      "/data/sgr/sgr_faq/posts/data/changes-between-versions.html",
+      "/data/sgr/sgr_faq/posts/data/germany.html",
+      "/data/sgr/sgr_faq/posts/how-to/download-sgr.html",
+      "/data/sgr/sgr_faq/posts/how-to/not-a-stata-file.html",
+      "/data/sgr/sgr_faq/posts/how-to/csv-format.html",
+      "/data/sgr/sgr_faq/posts/how-to/stata-time-series.html",
+      "/data/sgr/sgr_faq/posts/how-to/mean-and-std-err.html",
+      "/data/sgr/sgr_faq/posts/how-to/country-codes.html"
+    ]
+  },
+  {
     "listing": "/team/index.html",
     "items": [
       "/team/jeongho.html",

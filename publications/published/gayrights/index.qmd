@@ -44,9 +44,9 @@ links:
 # - name: Dataverse
 #   url: ""
 #   icon: fas fa-table
-# - name: SGR Database
-#   url: https://dcpo.org/data/sgr/
-#   icon: fa-solid fa-database
+- name: SGR Database
+  url: https://dcpo.org/data/sgr/
+  icon: fa-solid fa-database
 # pub_status:
 status: Forthcoming
 status_class: warning
