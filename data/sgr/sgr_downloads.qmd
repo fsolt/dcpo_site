@@ -1,5 +1,5 @@
 ---
 title: "SGR: Support for Gay Rights"
 header-includes: |
-  <meta http-equiv="Refresh" content="0; URL=https://doi.org/10.7910/DVN/WF3USY">
+  <meta http-equiv="Refresh" content="0; URL=https://doi.org/10.7910/DVN/2LHNGJ">
 ---

@@ -15,7 +15,7 @@ There are two ways of using the SGR data. To directly compare up to four countri
 <!-- [<i class="fa-regular fa-compass"></i> Explore the Source Data](pge_faq.html){.btn-custom .btn role="button"} -->
 
 
-[<i class="fa-solid fa-cloud-arrow-down"></i> Download the SGR](https://doi.org/10.7910/DVN/WF3USY){.btn-custom .btn .btn-lg role="button"} [<i class="fa-solid fa-circle-question"></i> SGR FAQ](sgr_faq/){.btn-custom .btn .btn-lg role="button"}
+[<i class="fa-solid fa-cloud-arrow-down"></i> Download the SGR](https://doi.org/10.7910/DVN/2LHNGJ){.btn-custom .btn .btn-lg role="button"} [<i class="fa-solid fa-circle-question"></i> SGR FAQ](sgr_faq/){.btn-custom .btn .btn-lg role="button"}
 
 
 ::: column-page

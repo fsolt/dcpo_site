@@ -1,4 +1,5 @@
 ---
+title: "DCPO Publications"
 listing:
   - id: published
     contents: "published/*/index.qmd"

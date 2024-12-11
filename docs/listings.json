@@ -28,61 +28,62 @@
   {
     "listing": "/news/index.html",
     "items": [
+      "/news/posts/sgr-data-now-available.html",
       "/news/posts/dem-mood-accepted.html"
     ]
   },
   {
-    "listing": "/publications/published/pge/short.html",
+    "listing": "/publications/published/pge/index.html",
     "items": [
-      "/publications/published/pge/index.html"
+      "/publications/published/pge/short.html"
     ]
   },
   {
-    "listing": "/publications/published/gayrights/short.html",
+    "listing": "/publications/published/gayrights/index.html",
     "items": [
-      "/publications/published/gayrights/index.html"
+      "/publications/published/gayrights/short.html"
     ]
   },
   {
-    "listing": "/publications/published/macrointerest/short.html",
+    "listing": "/publications/published/macrointerest/index.html",
     "items": [
-      "/publications/published/macrointerest/index.html"
+      "/publications/published/macrointerest/short.html"
     ]
   },
   {
-    "listing": "/publications/published/dem_mood/short.html",
+    "listing": "/publications/published/dem_mood/index.html",
     "items": [
-      "/publications/published/dem_mood/index.html"
+      "/publications/published/dem_mood/short.html"
     ]
   },
   {
-    "listing": "/publications/published/dem_support/short.html",
+    "listing": "/publications/published/dem_support/index.html",
     "items": [
-      "/publications/published/dem_support/index.html"
+      "/publications/published/dem_support/short.html"
     ]
   },
   {
-    "listing": "/publications/working-papers/janitor_work/short.html",
+    "listing": "/publications/working-papers/janitor_work/index.html",
     "items": [
-      "/publications/working-papers/janitor_work/index.html"
+      "/publications/working-papers/janitor_work/short.html"
     ]
   },
   {
-    "listing": "/publications/working-papers/discontent/short.html",
+    "listing": "/publications/working-papers/discontent/index.html",
     "items": [
-      "/publications/working-papers/discontent/index.html"
+      "/publications/working-papers/discontent/short.html"
     ]
   },
   {
-    "listing": "/publications/working-papers/demsupport_data/short.html",
+    "listing": "/publications/working-papers/demsupport_data/index.html",
     "items": [
-      "/publications/working-papers/demsupport_data/index.html"
+      "/publications/working-papers/demsupport_data/short.html"
     ]
   },
   {
-    "listing": "/publications/working-papers/dcpo_article/short.html",
+    "listing": "/publications/working-papers/dcpo_article/index.html",
     "items": [
-      "/publications/working-papers/dcpo_article/index.html"
+      "/publications/working-papers/dcpo_article/short.html"
     ]
   },
   {
@@ -100,57 +101,57 @@
     ]
   },
   {
-    "listing": "/publications/working-papers/dcpo_article/index.html",
+    "listing": "/publications/working-papers/dcpo_article/short.html",
     "items": [
-      "/publications/working-papers/dcpo_article/short.html"
+      "/publications/working-papers/dcpo_article/index.html"
     ]
   },
   {
-    "listing": "/publications/working-papers/demsupport_data/index.html",
+    "listing": "/publications/working-papers/demsupport_data/short.html",
     "items": [
-      "/publications/working-papers/demsupport_data/short.html"
+      "/publications/working-papers/demsupport_data/index.html"
     ]
   },
   {
-    "listing": "/publications/working-papers/discontent/index.html",
+    "listing": "/publications/working-papers/discontent/short.html",
     "items": [
-      "/publications/working-papers/discontent/short.html"
+      "/publications/working-papers/discontent/index.html"
     ]
   },
   {
-    "listing": "/publications/working-papers/janitor_work/index.html",
+    "listing": "/publications/working-papers/janitor_work/short.html",
     "items": [
-      "/publications/working-papers/janitor_work/short.html"
+      "/publications/working-papers/janitor_work/index.html"
     ]
   },
   {
-    "listing": "/publications/published/dem_support/index.html",
+    "listing": "/publications/published/dem_support/short.html",
     "items": [
-      "/publications/published/dem_support/short.html"
+      "/publications/published/dem_support/index.html"
     ]
   },
   {
-    "listing": "/publications/published/dem_mood/index.html",
+    "listing": "/publications/published/dem_mood/short.html",
     "items": [
-      "/publications/published/dem_mood/short.html"
+      "/publications/published/dem_mood/index.html"
     ]
   },
   {
-    "listing": "/publications/published/macrointerest/index.html",
+    "listing": "/publications/published/macrointerest/short.html",
     "items": [
-      "/publications/published/macrointerest/short.html"
+      "/publications/published/macrointerest/index.html"
     ]
   },
   {
-    "listing": "/publications/published/gayrights/index.html",
+    "listing": "/publications/published/gayrights/short.html",
     "items": [
-      "/publications/published/gayrights/short.html"
+      "/publications/published/gayrights/index.html"
     ]
   },
   {
-    "listing": "/publications/published/pge/index.html",
+    "listing": "/publications/published/pge/short.html",
     "items": [
-      "/publications/published/pge/short.html"
+      "/publications/published/pge/index.html"
     ]
   },
   {

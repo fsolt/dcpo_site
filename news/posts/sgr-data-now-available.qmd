@@ -1,0 +1,8 @@
+---
+title: "SGR Data Now Available!"
+date: "12/11/2024"
+---
+
+Version 1.0 of the [Support for Gay Rights database](/data/sge/), presented in our paper, ["Public Support for Gay Rights Across Countries and Over Time"](/publications/published/gayrights/), is now available online.  Congratulations to the DCPO teammates who made it happen, [Byung-Deuk](https://sites.google.com/view/byungdeukwoo), [Hyein](https://www.heyikon.com/), [Cassandra](https://cassyuehtai.netlify.app/), [Hu](https://sammo3182.github.io/), and [Fred](https://fsolt.org/)!
+
+[![SGR Dataset](sgr.png)](/data/sgr/)

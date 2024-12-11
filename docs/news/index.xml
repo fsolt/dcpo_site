@@ -17,7 +17,30 @@
 <width>144</width>
 </image>
 <generator>quarto-1.4.549</generator>
-<lastBuildDate>Thu, 02 Feb 2023 06:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 11 Dec 2024 06:00:00 GMT</lastBuildDate>
+<item>
+  <title>SGR Data Now Available!</title>
+  <link>https://dcpo.org/news/posts/sgr-data-now-available.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Version 1.0 of the <a href="../../data/sge/">Support for Gay Rights database</a>, presented in our paper, <a href="../../publications/published/gayrights/">“Public Support for Gay Rights Across Countries and Over Time”</a>, is now available online. Congratulations to the DCPO teammates who made it happen, <a href="https://sites.google.com/view/byungdeukwoo">Byung-Deuk</a>, <a href="https://www.heyikon.com/">Hyein</a>, <a href="https://cassyuehtai.netlify.app/">Cassandra</a>, <a href="https://sammo3182.github.io/">Hu</a>, and <a href="https://fsolt.org/">Fred</a>!</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="../../data/sgr/"><img src="https://dcpo.org/news/posts/sgr.png" class="img-fluid figure-img" alt="SGR Dataset"></a></p>
+<figcaption>SGR Dataset</figcaption>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <guid>https://dcpo.org/news/posts/sgr-data-now-available.html</guid>
+  <pubDate>Wed, 11 Dec 2024 06:00:00 GMT</pubDate>
+</item>
 <item>
   <title>New DCPO Publication!</title>
   <link>https://dcpo.org/news/posts/dem-mood-accepted.html</link>
