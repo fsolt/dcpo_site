@@ -1,0 +1,8 @@
+---
+title: "Cross-National Macrointerest Data Now Available!"
+date: "12/12/2024"
+---
+
+Version 1.0 of the [Cross-National Macrointerest database](/data/cnm/), presented in the paper, ["Macrointerest Across Countries"](/publications/published/macrointerest/), is now available online.  Congratulations to the authors and creators of this new DCPO resource, [Hu](https://sammo3182.github.io/) and [Fred](https://fsolt.org/)!
+
+[![CNM Dataset](cnm.png)](/data/cnm/)

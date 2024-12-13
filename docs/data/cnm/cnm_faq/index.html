@@ -6,11 +6,8 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Yue Hu">
-<meta name="author" content="Frederick Solt">
-<meta name="dcterms.date" content="2024-02-06">
 
-<title>DCPO - Macrointerest Across Countries</title>
+<title>DCPO - SGR Frequently Asked Questions</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -22,40 +19,6 @@ ul.task-list li input[type="checkbox"] {
   width: 0.8em;
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
-}
-/* CSS for syntax highlighting */
-pre > code.sourceCode { white-space: pre; position: relative; }
-pre > code.sourceCode > span { line-height: 1.25; }
-pre > code.sourceCode > span:empty { height: 1.2em; }
-.sourceCode { overflow: visible; }
-code.sourceCode > span { color: inherit; text-decoration: inherit; }
-div.sourceCode { margin: 1em 0; }
-pre.sourceCode { margin: 0; }
-@media screen {
-div.sourceCode { overflow: auto; }
-}
-@media print {
-pre > code.sourceCode { white-space: pre-wrap; }
-pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
-}
-pre.numberSource code
-  { counter-reset: source-line 0; }
-pre.numberSource code > span
-  { position: relative; left: -4em; counter-increment: source-line; }
-pre.numberSource code > span > a:first-child::before
-  { content: counter(source-line);
-    position: relative; left: -1em; text-align: right; vertical-align: baseline;
-    border: none; display: inline-block;
-    -webkit-touch-callout: none; -webkit-user-select: none;
-    -khtml-user-select: none; -moz-user-select: none;
-    -ms-user-select: none; user-select: none;
-    padding: 0 4px; width: 4em;
-  }
-pre.numberSource { margin-left: 3em;  padding-left: 4px; }
-div.sourceCode
-  {   }
-@media screen {
-pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
 </style>
 
@@ -109,20 +72,48 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-cite .list');
+    const listingTargetEl = window.document.querySelector('#listing-data .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
     }
 
     const options = {
-      valueNames: ['listing-project','listing-website','listing-format','listing-freeze','listing-language','listing-title','listing-date','listing-cite','listing-author','listing-links','listing-status','listing-status_class','listing-status_icon','listing-listing','listing-path','listing-outputHref','listing-date-modified','listing-description','listing-filename','listing-file-modified','listing-reading-time','listing-word-count',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-date-modified-sort'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] },{ data: ['listing-word-count-sort'] }],
+      valueNames: ['listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-project","listing-website","listing-format","listing-freeze","listing-language","listing-title","listing-date","listing-cite","listing-author","listing-links","listing-status","listing-status_class","listing-status_icon","listing-listing","listing-path","listing-outputHref","listing-date-modified","listing-description","listing-filename","listing-file-modified","listing-reading-time","listing-word-count"],
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-cite'] = new List('listing-cite', options);
+    window['quarto-listings']['listing-data'] = new List('listing-data', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-how-to .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-how-to'] = new List('listing-how-to', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -177,18 +168,16 @@ window.Quarto = {
 </script>
 
 <link rel="stylesheet" href="../../../templates/styles.css">
-<meta property="og:title" content="DCPO - Macrointerest Across Countries">
-<meta property="og:description" content="Dynamic Comparative Public Opinion">
-<meta property="og:image" content="https://dcpo.org/publications/published/macrointerest/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg==">
+<meta property="og:title" content="DCPO - SGR Frequently Asked Questions">
+<meta property="og:image" content="https://dcpo.org/data/cnm/cnm_faq/dcpo.png">
 <meta property="og:site_name" content="DCPO">
-<meta name="twitter:title" content="DCPO - Macrointerest Across Countries">
-<meta name="twitter:description" content="Dynamic Comparative Public Opinion">
-<meta name="twitter:image" content="https://dcpo.org/publications/published/macrointerest/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg==">
+<meta name="twitter:title" content="DCPO - SGR Frequently Asked Questions">
+<meta name="twitter:image" content="https://dcpo.org/data/cnm/cnm_faq/dcpo.png">
 <meta name="twitter:site" content="@dcpo_lab">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -268,56 +257,23 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content column-page" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Macrointerest Across Countries</h1>
-  <div class="quarto-categories">
-    <div class="quarto-category">attitudes</div>
-    <div class="quarto-category">democracy</div>
-    <div class="quarto-category">measurement</div>
-    <div class="quarto-category">dcpo</div>
-  </div>
-  </div>
+<h1 class="title">SGR Frequently Asked Questions</h1>
+</div>
 
 
-<div class="quarto-title-meta-author">
-  <div class="quarto-title-meta-heading">Authors</div>
-  <div class="quarto-title-meta-heading">Affiliations</div>
-  
-    <div class="quarto-title-meta-contents">
-    <p class="author"><a href="https://sammo3182.github.io">Yue Hu</a> <a href="https://orcid.org/0000-0002-2829-3971" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a></p>
-  </div>
-  <div class="quarto-title-meta-contents">
-        <p class="affiliation">
-            Tsinghua University
-          </p>
-      </div>
-    <div class="quarto-title-meta-contents">
-    <p class="author"><a href="https://fsolt.org">Frederick Solt</a> <a href="https://orcid.org/0000-0002-3154-6132" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a></p>
-  </div>
-  <div class="quarto-title-meta-contents">
-        <p class="affiliation">
-            University of Iowa
-          </p>
-      </div>
-  </div>
 
-<div class="quarto-title-meta">
+<div class="quarto-title-meta column-page">
 
-      
-    <div>
-    <div class="quarto-title-meta-heading">Published</div>
-    <div class="quarto-title-meta-contents">
-      <p class="date">February 6, 2024</p>
-    </div>
-  </div>
+    
   
     
   </div>
@@ -327,73 +283,226 @@ window.Quarto = {
 </header>
 
 
-<div id="listing-cite" class="quarto-listing quarto-listing-container-custom">
-<div class="research-page">
-<li class="project">
-<div class="project-details">
-<div class="project-content">
-<p>
-<a href="https://sammo3182.github.io">Hu, Yue</a> and <a href="https://fsolt.org">Frederick Solt</a>. Forthcoming. “Macrointerest Across Countries.” <em>British Journal of Political Science</em>.
-</p>
+<section id="click-on-the-topic-headings-to-learn-more" class="level4">
+<h4 class="anchored" data-anchor-id="click-on-the-topic-headings-to-learn-more">Click on the topic headings to learn more</h4>
+</section>
+<section id="how-to-.-.-." class="level2">
+<h2 class="anchored" data-anchor-id="how-to-.-.-.">How to . . .</h2>
+<div id="listing-how-to" class="quarto-listing quarto-listing-container-default">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="howto" data-listing-file-modified-sort="1734048453003" data-listing-reading-time-sort="1" data-listing-word-count-sort="54">
+<div class="thumbnail">
+<p><a href="../../../data/cnm/cnm_faq/posts/how-to/download-cnm.html" class="no-external"></a></p><a href="../../../data/cnm/cnm_faq/posts/how-to/download-cnm.html" class="no-external">
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+</a><p><a href="../../../data/cnm/cnm_faq/posts/how-to/download-cnm.html" class="no-external"></a></p>
 </div>
-<ul class="project-links">
-<li class="project-link">
-<a href="../../../papers/solt2023_pre"><i class="far fa-file-pdf"></i> Preprint</a>
-</li>
-<li class="project-link">
-<a href="https://github.com/fsolt/dcpo_macrointerest"><i class="fa-brands fa-github"></i> Code</a>
-</li>
-<li class="project-link">
-<a href="https://doi.org/10.7910/DVN/TWPM9X"><i class="fas fa-table"></i> Dataverse</a>
-</li>
-<li class="project-link">
-<a href="https://dcpo.org/data/cnm/"><i class="fa-solid fa-database"></i> CNM Database</a>
-</li>
-</ul>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../../../data/cnm/cnm_faq/posts/how-to/download-cnm.html" class="no-external">Wait, how can I download the data again?</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../../../data/cnm/cnm_faq/posts/how-to/download-cnm.html" class="no-external"></a>
 </div>
-<div class="publication-extra">
-<p>
-</p>
+<div class="listing-description">
+<a href="../../../data/cnm/cnm_faq/posts/how-to/download-cnm.html" class="no-external">First, click on this link. Scroll down past the description until you see a list of files. The dataset is a .zip file, the latest version will be…</a>
 </div>
-</li>
+</div>
+<div class="metadata">
+<p><a href="../../../data/cnm/cnm_faq/posts/how-to/download-cnm.html" class="no-external"></a></p><a href="../../../data/cnm/cnm_faq/posts/how-to/download-cnm.html" class="no-external">
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="howto" data-listing-file-modified-sort="1734054780539" data-listing-reading-time-sort="1" data-listing-word-count-sort="53">
+<div class="thumbnail">
+<p><a href="../../../data/cnm/cnm_faq/posts/how-to/not-a-stata-file.html" class="no-external"></a></p><a href="../../../data/cnm/cnm_faq/posts/how-to/not-a-stata-file.html" class="no-external">
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+</a><p><a href="../../../data/cnm/cnm_faq/posts/how-to/not-a-stata-file.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../../../data/cnm/cnm_faq/posts/how-to/not-a-stata-file.html" class="no-external">I’m using an older version of Stata, and it won’t open the file. How can I use the CNM data?</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../../../data/cnm/cnm_faq/posts/how-to/not-a-stata-file.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="../../../data/cnm/cnm_faq/posts/how-to/not-a-stata-file.html" class="no-external">Stata 13 introduced a new file format which older versions of Stata can’t open. Fortunately, there’s an easy fix: the <code>use13</code> command. In the command…<code></code><code></code></a>
+</div>
+</div>
+<div class="metadata">
+<p><a href="../../../data/cnm/cnm_faq/posts/how-to/not-a-stata-file.html" class="no-external"></a></p><a href="../../../data/cnm/cnm_faq/posts/how-to/not-a-stata-file.html" class="no-external">
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="2" data-categories="howto" data-listing-file-modified-sort="1734048281081" data-listing-reading-time-sort="1" data-listing-word-count-sort="85">
+<div class="thumbnail">
+<p><a href="../../../data/cnm/cnm_faq/posts/how-to/csv-format.html" class="no-external"></a></p><a href="../../../data/cnm/cnm_faq/posts/how-to/csv-format.html" class="no-external">
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+</a><p><a href="../../../data/cnm/cnm_faq/posts/how-to/csv-format.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../../../data/cnm/cnm_faq/posts/how-to/csv-format.html" class="no-external">I imported the cnm_summary.csv file, and the data for some countries seem to be greater than one, when the CNM supposedly ranges only from zero to one. How can I interpret these data?</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../../../data/cnm/cnm_faq/posts/how-to/csv-format.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="../../../data/cnm/cnm_faq/posts/how-to/csv-format.html" class="no-external">The issue here is that the cnm_summary.csv file is saved using RFC 4180 csv conventions, that is, with a dot marking the decimal and a comma…</a>
+</div>
+</div>
+<div class="metadata">
+<p><a href="../../../data/cnm/cnm_faq/posts/how-to/csv-format.html" class="no-external"></a></p><a href="../../../data/cnm/cnm_faq/posts/how-to/csv-format.html" class="no-external">
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="3" data-categories="howto" data-listing-file-modified-sort="1734054819337" data-listing-reading-time-sort="1" data-listing-word-count-sort="99">
+<div class="thumbnail">
+<p><a href="../../../data/cnm/cnm_faq/posts/how-to/stata-time-series.html" class="no-external"></a></p><a href="../../../data/cnm/cnm_faq/posts/how-to/stata-time-series.html" class="no-external">
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+</a><p><a href="../../../data/cnm/cnm_faq/posts/how-to/stata-time-series.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../../../data/cnm/cnm_faq/posts/how-to/stata-time-series.html" class="no-external">How can I use the CNM data with Stata’s time-series operators?</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../../../data/cnm/cnm_faq/posts/how-to/stata-time-series.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="../../../data/cnm/cnm_faq/posts/how-to/stata-time-series.html" class="no-external">To use Stata’s time-series operators (<code>l.</code> , <code>f.</code> , <code>d.</code> , etc.), you must first declare the time and panel variables using <code>tsset</code>, but the CNM is already <code>m…</code><code></code><code></code></a>
+</div>
+</div>
+<div class="metadata">
+<p><a href="../../../data/cnm/cnm_faq/posts/how-to/stata-time-series.html" class="no-external"></a></p><a href="../../../data/cnm/cnm_faq/posts/how-to/stata-time-series.html" class="no-external">
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="4" data-categories="howto" data-listing-file-modified-sort="1734048551105" data-listing-reading-time-sort="2" data-listing-word-count-sort="312">
+<div class="thumbnail">
+<p><a href="../../../data/cnm/cnm_faq/posts/how-to/mean-and-std-err.html" class="no-external"></a></p><a href="../../../data/cnm/cnm_faq/posts/how-to/mean-and-std-err.html" class="no-external">
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+</a><p><a href="../../../data/cnm/cnm_faq/posts/how-to/mean-and-std-err.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../../../data/cnm/cnm_faq/posts/how-to/mean-and-std-err.html" class="no-external">How can I use the CNM data to make my own graphs?</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../../../data/cnm/cnm_faq/posts/how-to/mean-and-std-err.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="../../../data/cnm/cnm_faq/posts/how-to/mean-and-std-err.html" class="no-external">The CNM download contains files pre-formatted for use with the tools for analyzing multiply-imputed data and other data measured with uncertainty in…<code></code><code></code><code></code><code></code><code></code></a>
+</div>
+</div>
+<div class="metadata">
+<p><a href="../../../data/cnm/cnm_faq/posts/how-to/mean-and-std-err.html" class="no-external"></a></p><a href="../../../data/cnm/cnm_faq/posts/how-to/mean-and-std-err.html" class="no-external">
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="5" data-categories="howto" data-listing-file-modified-sort="1734048253995" data-listing-reading-time-sort="1" data-listing-word-count-sort="61">
+<div class="thumbnail">
+<p><a href="../../../data/cnm/cnm_faq/posts/how-to/country-codes.html" class="no-external"></a></p><a href="../../../data/cnm/cnm_faq/posts/how-to/country-codes.html" class="no-external">
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+</a><p><a href="../../../data/cnm/cnm_faq/posts/how-to/country-codes.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../../../data/cnm/cnm_faq/posts/how-to/country-codes.html" class="no-external">How can I merge my other data into the CNM using ISO or other country codes?</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../../../data/cnm/cnm_faq/posts/how-to/country-codes.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="../../../data/cnm/cnm_faq/posts/how-to/country-codes.html" class="no-external">First, add whatever country codes are needed to the CNM data: there are routines for both Stata (kountry; type <code>findit kountry</code> in Stata’s command…</a>
+</div>
+</div>
+<div class="metadata">
+<p><a href="../../../data/cnm/cnm_faq/posts/how-to/country-codes.html" class="no-external"></a></p><a href="../../../data/cnm/cnm_faq/posts/how-to/country-codes.html" class="no-external">
+</a>
+</div>
+</div>
 </div>
 <div class="listing-no-matching d-none">
 No matching items
 </div>
 </div>
-<section id="abstract" class="level2">
-<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
-<p>The extent to which the public takes an interest in politics has long been argued to be foundational to democracy, but the want of appropriate data has prevented cross- national and longitudinal analysis. This letter takes advantage of recent advances in latent-variable modeling of aggregate survey responses and a comprehensive collection of survey data to generate dynamic comparative estimates of macrointerest, that is, aggregate political interest, for over a hundred countries over the past four decades. These macrointerest scores are validated with other aggregate measures of political interest and of other types of political engagement. A cross-national and longitudinal analysis of macrointerest in advanced democracies reveals that along with election campaigns and inclusive institutions, it is good times, not bad, that spur publics to greater interest in politics.</p>
 </section>
-<section id="important-figures" class="level2">
-<h2 class="anchored" data-anchor-id="important-figures">Important figures</h2>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="macrointerest_fig2.png" class="img-fluid figure-img"></p>
-<figcaption>Figure 2: Internal Convergent Validation: Correlations Between Macrointerest and Individual Source-Data Survey Items</figcaption>
-</figure>
+<section id="the-cnm-data" class="level2">
+<h2 class="anchored" data-anchor-id="the-cnm-data">The CNM Data</h2>
+<div id="listing-data" class="quarto-listing quarto-listing-container-default">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="data" data-listing-file-modified-sort="1734048201343" data-listing-reading-time-sort="1" data-listing-word-count-sort="177">
+<div class="thumbnail">
+<p><a href="../../../data/cnm/cnm_faq/posts/data/partition-and-successors.html" class="no-external"></a></p><a href="../../../data/cnm/cnm_faq/posts/data/partition-and-successors.html" class="no-external">
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+</a><p><a href="../../../data/cnm/cnm_faq/posts/data/partition-and-successors.html" class="no-external"></a></p>
 </div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="macrointerest_fig3.png" class="img-fluid figure-img"></p>
-<figcaption>Figure 3: Construct Validation: Correlations Between Macrointerest and Other Aspects of Political Engagement</figcaption>
-</figure>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../../../data/cnm/cnm_faq/posts/data/partition-and-successors.html" class="no-external">What about Russia and the rest of the former Soviet Union? Yugoslavia? Czechoslovakia? Pakistan? Sudan? Ethiopia? Why are there estimates for successor states before they actually existed?</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../../../data/cnm/cnm_faq/posts/data/partition-and-successors.html" class="no-external"></a>
 </div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="macrointerest_fig5.png" class="img-fluid figure-img"></p>
-<figcaption>Figure 5: Predicting Macrointerest in OECD Democracies</figcaption>
-</figure>
+<div class="listing-description">
+<a href="../../../data/cnm/cnm_faq/posts/data/partition-and-successors.html" class="no-external">For countries that have undergone partition, the CNM estimates for a given year include all of the origin country’s then-current territories. This…</a>
 </div>
-</section>
-<section id="bibtex-citation" class="level2">
-<h2 class="anchored" data-anchor-id="bibtex-citation">BibTeX citation</h2>
-<div class="sourceCode" id="cb1"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="va">@article</span>{<span class="ot">HuSolt2024</span>,</span>
-<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a> <span class="dt">author</span>={Hu, Yue, and Solt, Frederick},</span>
-<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a> <span class="dt">title</span>={Macrointerest Across Countries},</span>
-<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a> <span class="dt">journal</span>={British Journal of Political Science},</span>
-<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a> <span class="dt">year</span>={Forthcoming}</span>
-<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a>}</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<div class="metadata">
+<p><a href="../../../data/cnm/cnm_faq/posts/data/partition-and-successors.html" class="no-external"></a></p><a href="../../../data/cnm/cnm_faq/posts/data/partition-and-successors.html" class="no-external">
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="data" data-listing-file-modified-sort="1734048134519" data-listing-reading-time-sort="1" data-listing-word-count-sort="159">
+<div class="thumbnail">
+<p><a href="../../../data/cnm/cnm_faq/posts/data/changes-between-versions.html" class="no-external"></a></p><a href="../../../data/cnm/cnm_faq/posts/data/changes-between-versions.html" class="no-external">
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+</a><p><a href="../../../data/cnm/cnm_faq/posts/data/changes-between-versions.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../../../data/cnm/cnm_faq/posts/data/changes-between-versions.html" class="no-external">The estimates for Ruritania, among others, have changed since the previous version. Why is that?</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../../../data/cnm/cnm_faq/posts/data/changes-between-versions.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="../../../data/cnm/cnm_faq/posts/data/changes-between-versions.html" class="no-external">There are two reasons why estimates change from one version of the CNM to the next. The first reason is that we have incorporated new source survey…</a>
+</div>
+</div>
+<div class="metadata">
+<p><a href="../../../data/cnm/cnm_faq/posts/data/changes-between-versions.html" class="no-external"></a></p><a href="../../../data/cnm/cnm_faq/posts/data/changes-between-versions.html" class="no-external">
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="2" data-categories="data" data-listing-file-modified-sort="1734048152432" data-listing-reading-time-sort="1" data-listing-word-count-sort="59">
+<div class="thumbnail">
+<p><a href="../../../data/cnm/cnm_faq/posts/data/germany.html" class="no-external"></a></p><a href="../../../data/cnm/cnm_faq/posts/data/germany.html" class="no-external">
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+</a><p><a href="../../../data/cnm/cnm_faq/posts/data/germany.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../../../data/cnm/cnm_faq/posts/data/germany.html" class="no-external">How is Germany treated in the SGR? Where’s East Germany?</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../../../data/cnm/cnm_faq/posts/data/germany.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="../../../data/cnm/cnm_faq/posts/data/germany.html" class="no-external">Germany is West Germany only before 1991 and (united) Germany from that point forward. The CNM includes no estimates for East Germany; we just…</a>
+</div>
+</div>
+<div class="metadata">
+<p><a href="../../../data/cnm/cnm_faq/posts/data/germany.html" class="no-external"></a></p><a href="../../../data/cnm/cnm_faq/posts/data/germany.html" class="no-external">
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
 
 
 
@@ -792,4 +901,4 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 
 
 
-<footer class="footer"><div class="nav-footer"><div class="nav-footer-center"><div class="toc-actions"><ul><li><a href="https://github.com/fsolt/dcpo_site/edit/main/publications/published/macrointerest/index.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/fsolt/dcpo_site/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div></div></footer></body></html>
+<footer class="footer"><div class="nav-footer"><div class="nav-footer-center"><div class="toc-actions"><ul><li><a href="https://github.com/fsolt/dcpo_site/edit/main/data/cnm/cnm_faq/index.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/fsolt/dcpo_site/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div></div></footer></body></html>

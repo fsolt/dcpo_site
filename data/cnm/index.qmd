@@ -1,0 +1,31 @@
+---
+title: "CNM: Cross-National Macrointerest"
+---
+
+### The Cross-National Macrointerest (CNM) Database
+
+The extent to which the public takes an interest in politics has long been argued to be foundational to democracy, but the want of appropriate data has prevented cross- national and longitudinal analysis. This letter takes advantage of recent advances in latent-variable modeling of aggregate survey responses and a comprehensive collection of survey data to generate dynamic comparative estimates of macrointerest, that is, aggregate political interest, for over a hundred countries over the past four decades.
+
+A full description of the CNM dataset, the source data used to generate it, and validations of its estimates is presented here:
+
+[Hu, Yue](http://www.drhuyue.site), and [Frederick Solt](https://fsolt.org). Forthcoming. ["Macrointerest Across Countries."](../../publications/published/macrointerest) _British Journal of Political Science_.
+
+There are two ways of using the CNM data. To directly compare up to four countries in estimated levels and trends of public gender egalitarianism, use the CNM web app below. To use the CNM in statistical analyses, datasets formatted for use in Stata and R are available for download.
+
+<!-- [<i class="fa-regular fa-compass"></i> Explore the Source Data](pge_faq.html){.btn-custom .btn role="button"} -->
+
+
+[<i class="fa-solid fa-cloud-arrow-down"></i> Download the CNM](https://doi.org/10.7910/DVN/YYQ8VN){.btn-custom .btn .btn-lg role="button"} [<i class="fa-solid fa-circle-question"></i> CNM FAQ](cnm_faq/){.btn-custom .btn .btn-lg role="button"}
+
+
+::: column-page
+<iframe src="https://fsolt.shinyapps.io/cnmweb">
+
+</iframe>
+:::
+
+Powered by [RStudio](http://shiny.rstudio.com).
+
+Please cite the CNM as follows:
+
+Hu, Yue, and Frederick Solt. Forthcoming. "Macrointerest Across Countries." _British Journal of Political Science_. CNM Version 1.0, December 2024.

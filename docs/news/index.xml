@@ -17,7 +17,30 @@
 <width>144</width>
 </image>
 <generator>quarto-1.4.549</generator>
-<lastBuildDate>Wed, 11 Dec 2024 06:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 12 Dec 2024 06:00:00 GMT</lastBuildDate>
+<item>
+  <title>Cross-National Macrointerest Data Now Available!</title>
+  <link>https://dcpo.org/news/posts/macrointerest-data-now-available.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Version 1.0 of the <a href="../../data/cnm/">Cross-National Macrointerest database</a>, presented in the paper, <a href="../../publications/published/macrointerest/">“Macrointerest Across Countries”</a>, is now available online. Congratulations to the authors and creators of this new DCPO resource, <a href="https://sammo3182.github.io/">Hu</a> and <a href="https://fsolt.org/">Fred</a>!</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="../../data/cnm/"><img src="https://dcpo.org/news/posts/cnm.png" class="img-fluid figure-img" alt="CNM Dataset"></a></p>
+<figcaption>CNM Dataset</figcaption>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <guid>https://dcpo.org/news/posts/macrointerest-data-now-available.html</guid>
+  <pubDate>Thu, 12 Dec 2024 06:00:00 GMT</pubDate>
+</item>
 <item>
   <title>SGR Data Now Available!</title>
   <link>https://dcpo.org/news/posts/sgr-data-now-available.html</link>
