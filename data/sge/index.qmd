@@ -1,0 +1,5 @@
+---
+title: SGR Redirect
+header-includes: |
+  <meta http-equiv="Refresh" content="0; URL=https://dcpo.org/data/sgr">
+---
