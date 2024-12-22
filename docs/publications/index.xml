@@ -13,8 +13,6 @@
 <url>https://dcpo.org/dcpo.png</url>
 <title>DCPO</title>
 <link>https://dcpo.org/publications/</link>
-<height>63</height>
-<width>144</width>
 </image>
 <generator>quarto-1.4.549</generator>
 <lastBuildDate>Wed, 28 Aug 2024 05:00:00 GMT</lastBuildDate>
@@ -654,7 +652,7 @@ font-style: inherit;">doi</span> = {10.1017/S0007123422000436}}</span></code></p
   <pubDate>Sun, 28 May 2023 05:00:00 GMT</pubDate>
 </item>
 <item>
-  <title>Support for Democracy Is Multidimensional: Why Unidimensional Latent Variable Measures of Democratic Support Are Invalid</title>
+  <title>An Incomplete Recipe: One-Dimensional Latent Variables Do Not Capture the Full Flavor of Democratic Support</title>
   <dc:creator>Yue Hu</dc:creator>
   <dc:creator>Yuehong Cassandra Tai</dc:creator>
   <dc:creator>Hyein Ko</dc:creator>
@@ -672,7 +670,7 @@ font-style: inherit;">doi</span> = {10.1017/S0007123422000436}}</span></code></p
 <div class="project-details">
 <div class="project-content">
 <p>
-<a href="https://sammo3182.github.io">Hu, Yue</a>, <a href="https://cassyuehtai.netlify.app">Yuehong Cassandra Tai</a>, <a href="https://www.heyikon.com">Hyein Ko</a>, <a href="https://www.byung-deuk-woo.org">Byung-Deuk Woo</a>, and <a href="https://fsolt.org">Frederick Solt</a>. 2023. “Support for Democracy Is Multidimensional: Why Unidimensional Latent Variable Measures of Democratic Support Are Invalid.” <em>SocArXiv</em>.
+<a href="https://sammo3182.github.io">Hu, Yue</a>, <a href="https://cassyuehtai.netlify.app">Yuehong Cassandra Tai</a>, <a href="https://www.heyikon.com">Hyein Ko</a>, <a href="https://www.byung-deuk-woo.org">Byung-Deuk Woo</a>, and <a href="https://fsolt.org">Frederick Solt</a>. 2023. “An Incomplete Recipe: One-Dimensional Latent Variables Do Not Capture the Full Flavor of Democratic Support.” <em>SocArXiv</em>.
 </p>
 </div>
 <ul class="project-links">
@@ -696,7 +694,7 @@ No matching items
 </div>
 <section id="abstract" class="level2">
 <h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
-<p>Measuring democratic support as a single latent variable requires assuming that it falls along a single dimension from steadfast opposition to wholehearted support. This ignores ample evidence that support for democracy is complex and multidimensional. Here we provide a series of validation tests of the sort of cross-national time-series latent variable measures employed in recent research by reference to questions on support for liberal democracy and opposition to its erosion from multiwave surveys conducted around the world. These tests show that, across countries and years, this latent variable is nearly orthogonal to measures of support for contestation and participation; civil liberties; institutional constraints on executive power; and prioritizing democracy over the economy, economic equality, or order. We conclude that support for democracy in any robust sense is simply not well captured by a unidimensional latent variable. Such measures are powerful but researchers must be mindful of their limitations.</p>
+<p>Prominent recent works have measured democratic support using a single latent variable that purports to span a single dimension from steadfast opposition to whole-hearted support. This ignores ample evidence that support for democracy is complex and multidimensional. Here we provide a series of validation tests of the sort of cross-national time-series latent variable measures employed in recent research by reference to questions on support for liberal democracy and opposition to its erosion from multiwave surveys conducted around the world. These tests show that, across countries and years, this latent variable is nearly orthogonal to measures of support for contestation and participation; civil liberties; institutional constraints on executive power; and prioritizing democracy over the economy, economic equality, or order. We conclude that support for democracy in any robust sense is simply not well captured by one-dimensional latent variable. Such measures are powerful but researchers must be mindful of their limitations.</p>
 </section>
 <section id="important-figures" class="level2">
 <h2 class="anchored" data-anchor-id="important-figures">Important figures</h2>
@@ -737,7 +735,7 @@ background-color: null;
 font-style: inherit;">author</span>={Hu, Yue and Tai, Yuehong Cassandra and Ko, Hyein and Woo, Byung-Deuk and Solt, Frederick},</span>
 <span id="cb1-3"> <span class="dt" style="color: #AD0000;
 background-color: null;
-font-style: inherit;">title</span>={Support for Democracy Is Multidimensional: Why Unidimensional Latent Variable Measures of Democratic Support Are Invalid},</span>
+font-style: inherit;">title</span>={An Incomplete Recipe: One-Dimensional Latent Variables Do Not Capture the Full Flavor of Democratic Support},</span>
 <span id="cb1-4"> <span class="dt" style="color: #AD0000;
 background-color: null;
 font-style: inherit;">publisher</span>={SocArXiv},</span>
