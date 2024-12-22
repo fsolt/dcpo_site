@@ -200,7 +200,7 @@
     "href": "publications/published/gayrights/index.html",
     "title": "Public Support for Gay Rights Across Countries and Over Time",
     "section": "",
-    "text": "Woo, Byung-Deuk, Hyein Ko, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. Forthcoming. “Public Support for Gay Rights Across Countries and Over Time.” Social Science Quarterly.\n\n\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n SGR Database\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Woo, Byung-Deuk, Hyein Ko, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. Forthcoming. “Public Support for Gay Rights Across Countries and Over Time.” Social Science Quarterly.\n\n\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n SGR Database\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications/published/gayrights/index.html#abstract",
@@ -221,7 +221,7 @@
     "href": "publications/published/gayrights/index.html#bibtex-citation",
     "title": "Public Support for Gay Rights Across Countries and Over Time",
     "section": "BibTeX citation",
-    "text": "BibTeX citation\n@misc{WooKoTaiHuSolt2024,\n title={Public Support for Gay Rights Across Countries and Over Time},\n url={osf.io/preprints/socarxiv/74hym},\n DOI={10.31235/osf.io/74hym},\n publisher={SocArXiv},\n author={Woo, Byung-Deuk and Ko, Hyein and Tai, Yuehong Cassandra and Hu, Yue and Solt, Frederick},\n year={2024},\n month={Apr}\n}"
+    "text": "BibTeX citation\n@article{WooKoTaiHuSolt2024,\n author = {Woo, Byung-Deuk and Ko, Hyein and Tai, Yuehong Cassandra and Hu, Yue and Solt, Frederick},\n title = {Public Support for Gay Rights Across Countries and Over Time},\n journal = {Social Science Quarterly},\n volume = {Early View},\n number = {},\n pages = {},\n doi = {https://doi.org/10.1111/ssqu.13478},\n url = {https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.13478}\n}"
   },
   {
     "objectID": "publications/published/macrointerest/index.html",
@@ -424,14 +424,14 @@
     "href": "publications/index.html",
     "title": "DCPO Publications",
     "section": "",
-    "text": "Forthcoming Woo, Byung-Deuk, Hyein Ko, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. Forthcoming. “Public Support for Gay Rights Across Countries and Over Time.” Social Science Quarterly.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n SGR Database\n\n\n\n\n\n\n\n Forthcoming Hu, Yue, Yuehong Cassandra Tai, and Frederick Solt. Forthcoming. “Revisiting the Evidence on Thermostatic Response to Democratic Change: Degrees of Democratic Support or Researcher Degrees of Freedom?” Political Science Research and Methods.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n\n\n\n\n\n Forthcoming Hu, Yue and Frederick Solt. Forthcoming. “Macrointerest Across Countries.” British Journal of Political Science.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n CNM Database\n\n\n\n\n\n\n\nTai, Yuehong ‘Cassandra’, Yue Hu, and Frederick Solt. 2024. “Democracy, Public Support, and Measurement Uncertainty.” American Political Science Review 118(1):512-518.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n\n\n\n\n\nWoo, Byung-Deuk, Lindsey A. Goldberg, and Frederick Solt. 2023. “Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere.” British Journal of Political Science 53(2), 766-775.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n PGE Database\n\n\n\n\n\n\nNo matching items"
+    "text": "Forthcoming Woo, Byung-Deuk, Hyein Ko, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. Forthcoming. “Public Support for Gay Rights Across Countries and Over Time.” Social Science Quarterly.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n SGR Database\n\n\n\n\n\n\n\n Forthcoming Hu, Yue, Yuehong Cassandra Tai, and Frederick Solt. Forthcoming. “Revisiting the Evidence on Thermostatic Response to Democratic Change: Degrees of Democratic Support or Researcher Degrees of Freedom?” Political Science Research and Methods.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n\n\n\n\n\n Forthcoming Hu, Yue and Frederick Solt. Forthcoming. “Macrointerest Across Countries.” British Journal of Political Science.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n CNM Database\n\n\n\n\n\n\n\nTai, Yuehong ‘Cassandra’, Yue Hu, and Frederick Solt. 2024. “Democracy, Public Support, and Measurement Uncertainty.” American Political Science Review 118(1):512-518.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n\n\n\n\n\nWoo, Byung-Deuk, Lindsey A. Goldberg, and Frederick Solt. 2023. “Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere.” British Journal of Political Science 53(2), 766-775.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n PGE Database\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications/index.html#publications",
     "href": "publications/index.html#publications",
     "title": "DCPO Publications",
     "section": "",
-    "text": "Forthcoming Woo, Byung-Deuk, Hyein Ko, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. Forthcoming. “Public Support for Gay Rights Across Countries and Over Time.” Social Science Quarterly.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n SGR Database\n\n\n\n\n\n\n\n Forthcoming Hu, Yue, Yuehong Cassandra Tai, and Frederick Solt. Forthcoming. “Revisiting the Evidence on Thermostatic Response to Democratic Change: Degrees of Democratic Support or Researcher Degrees of Freedom?” Political Science Research and Methods.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n\n\n\n\n\n Forthcoming Hu, Yue and Frederick Solt. Forthcoming. “Macrointerest Across Countries.” British Journal of Political Science.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n CNM Database\n\n\n\n\n\n\n\nTai, Yuehong ‘Cassandra’, Yue Hu, and Frederick Solt. 2024. “Democracy, Public Support, and Measurement Uncertainty.” American Political Science Review 118(1):512-518.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n\n\n\n\n\nWoo, Byung-Deuk, Lindsey A. Goldberg, and Frederick Solt. 2023. “Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere.” British Journal of Political Science 53(2), 766-775.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n PGE Database\n\n\n\n\n\n\nNo matching items"
+    "text": "Forthcoming Woo, Byung-Deuk, Hyein Ko, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. Forthcoming. “Public Support for Gay Rights Across Countries and Over Time.” Social Science Quarterly.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n SGR Database\n\n\n\n\n\n\n\n Forthcoming Hu, Yue, Yuehong Cassandra Tai, and Frederick Solt. Forthcoming. “Revisiting the Evidence on Thermostatic Response to Democratic Change: Degrees of Democratic Support or Researcher Degrees of Freedom?” Political Science Research and Methods.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n\n\n\n\n\n Forthcoming Hu, Yue and Frederick Solt. Forthcoming. “Macrointerest Across Countries.” British Journal of Political Science.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n CNM Database\n\n\n\n\n\n\n\nTai, Yuehong ‘Cassandra’, Yue Hu, and Frederick Solt. 2024. “Democracy, Public Support, and Measurement Uncertainty.” American Political Science Review 118(1):512-518.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n\n\n\n\n\nWoo, Byung-Deuk, Lindsey A. Goldberg, and Frederick Solt. 2023. “Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere.” British Journal of Political Science 53(2), 766-775.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n PGE Database\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications/index.html#working-papers",
@@ -641,7 +641,7 @@
     "href": "publications/published/gayrights/short.html",
     "title": "Public Support for Gay Rights Across Countries and Over Time",
     "section": "",
-    "text": "Woo, Byung-Deuk, Hyein Ko, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. Forthcoming. “Public Support for Gay Rights Across Countries and Over Time.” Social Science Quarterly.\n\n\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n SGR Database\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Woo, Byung-Deuk, Hyein Ko, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. Forthcoming. “Public Support for Gay Rights Across Countries and Over Time.” Social Science Quarterly.\n\n\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n SGR Database\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications/published/gayrights/short.html#abstract",
@@ -662,7 +662,7 @@
     "href": "publications/published/gayrights/short.html#bibtex-citation",
     "title": "Public Support for Gay Rights Across Countries and Over Time",
     "section": "BibTeX citation",
-    "text": "BibTeX citation\n@misc{WooKoTaiHuSolt2024,\n title={Public Support for Gay Rights Across Countries and Over Time},\n url={osf.io/preprints/socarxiv/74hym},\n DOI={10.31235/osf.io/74hym},\n publisher={SocArXiv},\n author={Woo, Byung-Deuk and Ko, Hyein and Tai, Yuehong Cassandra and Hu, Yue and Solt, Frederick},\n year={2024},\n month={Apr}\n}"
+    "text": "BibTeX citation\n@article{WooKoTaiHuSolt2024,\n author = {Woo, Byung-Deuk and Ko, Hyein and Tai, Yuehong Cassandra and Hu, Yue and Solt, Frederick},\n title = {Public Support for Gay Rights Across Countries and Over Time},\n journal = {Social Science Quarterly},\n volume = {Early View},\n number = {},\n pages = {},\n doi = {https://doi.org/10.1111/ssqu.13478},\n url = {https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.13478}\n}"
   },
   {
     "objectID": "publications/published/pge/short.html",
