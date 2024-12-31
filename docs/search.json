@@ -336,6 +336,34 @@
     "text": "BibTeX citation\n@misc{HuTaiSolt2022,\n author={Hu, Yue and Tai, Yuehong Cassandra and Solt, Frederick},\n title={On Data 'Janitor Work' in Political Science: The Case of Thermostatic Support for Democracy},\n publisher={SocArXiv},\n year={2022},\n month={June}, \n url={osf.io/preprints/socarxiv/kd7mu},\n doi={10.31235/osf.io/kd7mu}\n}"
   },
   {
+    "objectID": "publications/working-papers/trust_bureaucracy/index.html",
+    "href": "publications/working-papers/trust_bureaucracy/index.html",
+    "title": "Trust in Civil Servants: A Cross-National Dataset for Public Policy Research, 1986–2022",
+    "section": "",
+    "text": "Yuehong Cassandra Tai, and Frederick Solt. 2024. “Trust in Civil Servants: A Cross-National Dataset for Public Policy Research, 1986–2022.” SocArXiv.\n\n\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications/working-papers/trust_bureaucracy/index.html#abstract",
+    "href": "publications/working-papers/trust_bureaucracy/index.html#abstract",
+    "title": "Trust in Civil Servants: A Cross-National Dataset for Public Policy Research, 1986–2022",
+    "section": "Abstract",
+    "text": "Abstract\nTrust in civil servants is essential for effective governance, enabling policy implementation, public service delivery, and compliance. However, the lack of comparable cross-national data on trust in bureaucracy has limited our ability to systematically examine these relationships. To address this gap, we develop the Trust in Civil Servants (TCS) dataset using an advanced latent-variable modeling technique, using 132 national and cross-national surveys from 98 countries (1986-2022). Our measures reveal variations in trust both within and between countries. We find that economic performance and public security enhance trust in the short term, whereas government quality and effectiveness have more enduring, long-term impacts on trust in civil service. The TCS dataset opens new avenues for examining connections between trust, governance quality, and complex policy challenges across different contexts."
+  },
+  {
+    "objectID": "publications/working-papers/trust_bureaucracy/index.html#important-figures",
+    "href": "publications/working-papers/trust_bureaucracy/index.html#important-figures",
+    "title": "Trust in Civil Servants: A Cross-National Dataset for Public Policy Research, 1986–2022",
+    "section": "Important figures",
+    "text": "Important figures\n\n\n\nFigure 2: TCS Scores, Most Recent Available Year\n\n\n\n\n\nFigure 3: TCS Scores Over Time Within Selected Countries\n\n\n\n\n\nFigure 6: Construct Validation: Correlations Between TCS Scores and Corruption of Public Servants Survey Items\n\n\n\n\n\nFigure 7: Predicting Trust in Civil Servants Across Countries Over Time"
+  },
+  {
+    "objectID": "publications/working-papers/trust_bureaucracy/index.html#bibtex-citation",
+    "href": "publications/working-papers/trust_bureaucracy/index.html#bibtex-citation",
+    "title": "Trust in Civil Servants: A Cross-National Dataset for Public Policy Research, 1986–2022",
+    "section": "BibTeX citation",
+    "text": "BibTeX citation\n@misc{TaiSolt2024,\n author={Tai, Yuehong Cassandra and Solt, Frederick},\n title={Trust in Civil Servants: A Cross-National Dataset for Public Policy Research, 1986–2022},\n publisher={SocArXiv},\n year={2024},\n month={December}, \n url={https://osf.io/preprints/socarxiv/vjuah},\n doi={10.31235/osf.io/vjuah}\n}"
+  },
+  {
     "objectID": "publications/working-papers/discontent/index.html",
     "href": "publications/working-papers/discontent/index.html",
     "title": "Macrodiscontent Across Countries",
@@ -438,7 +466,7 @@
     "href": "publications/index.html#working-papers",
     "title": "DCPO Publications",
     "section": "Working Papers",
-    "text": "Working Papers\n\n\n\n\n\n Under review Ma, Haofeng, Jeongho Choi, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. 2024. “Macrodiscontent Across Countries.” SocArXiv.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n Revise & Resubmit Hu, Yue, Yuehong Cassandra Tai, Hyein Ko, Byung-Deuk Woo, and Frederick Solt. 2023. “An Incomplete Recipe: One-Dimensional Latent Variables Do Not Capture the Full Flavor of Democratic Support.” SocArXiv.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\nHu, Yue, Yuehong Cassandra Tai, and Frederick Solt. 2022. “On Data ‘Janitor Work’ in Political Science: The Case of Thermostatic Support for Democracy.” SocArXiv.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\nFrederick Solt. 2020. “Modeling Dynamic Comparative Public Opinion.” SocArXiv.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\nNo matching items"
+    "text": "Working Papers\n\n\n\n\n\n Under Review Yuehong Cassandra Tai, and Frederick Solt. 2024. “Trust in Civil Servants: A Cross-National Dataset for Public Policy Research, 1986–2022.” SocArXiv.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n Under review Ma, Haofeng, Jeongho Choi, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. 2024. “Macrodiscontent Across Countries.” SocArXiv.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n Revise & Resubmit Hu, Yue, Yuehong Cassandra Tai, Hyein Ko, Byung-Deuk Woo, and Frederick Solt. 2023. “An Incomplete Recipe: One-Dimensional Latent Variables Do Not Capture the Full Flavor of Democratic Support.” SocArXiv.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\nHu, Yue, Yuehong Cassandra Tai, and Frederick Solt. 2022. “On Data ‘Janitor Work’ in Political Science: The Case of Thermostatic Support for Democracy.” SocArXiv.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\nFrederick Solt. 2020. “Modeling Dynamic Comparative Public Opinion.” SocArXiv.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications/working-papers/dcpo_article/short.html",
@@ -523,6 +551,34 @@
     "title": "Macrodiscontent Across Countries",
     "section": "BibTeX citation",
     "text": "BibTeX citation\n@misc{MaChoiTaiHuSolt2024,\n title={Macrodiscontent Across Countries},\n url={osf.io/preprints/socarxiv/z9a3n},\n DOI={10.31235/osf.io/a9a3n},\n publisher={SocArXiv},\n author={Ma, Haofeng and Choi, Jeongho and Tai, Yuehong Cassandra and Hu, Yue and Solt, Frederick},\n year={2024},\n month={Aug}\n}"
+  },
+  {
+    "objectID": "publications/working-papers/trust_bureaucracy/short.html",
+    "href": "publications/working-papers/trust_bureaucracy/short.html",
+    "title": "Trust in Civil Servants: A Cross-National Dataset for Public Policy Research, 1986–2022",
+    "section": "",
+    "text": "Yuehong Cassandra Tai, and Frederick Solt. 2024. “Trust in Civil Servants: A Cross-National Dataset for Public Policy Research, 1986–2022.” SocArXiv.\n\n\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications/working-papers/trust_bureaucracy/short.html#abstract",
+    "href": "publications/working-papers/trust_bureaucracy/short.html#abstract",
+    "title": "Trust in Civil Servants: A Cross-National Dataset for Public Policy Research, 1986–2022",
+    "section": "Abstract",
+    "text": "Abstract\nTrust in civil servants is essential for effective governance, enabling policy implementation, public service delivery, and compliance. However, the lack of comparable cross-national data on trust in bureaucracy has limited our ability to systematically examine these relationships. To address this gap, we develop the Trust in Civil Servants (TCS) dataset using an advanced latent-variable modeling technique, using 132 national and cross-national surveys from 98 countries (1986-2022). Our measures reveal variations in trust both within and between countries. We find that economic performance and public security enhance trust in the short term, whereas government quality and effectiveness have more enduring, long-term impacts on trust in civil service. The TCS dataset opens new avenues for examining connections between trust, governance quality, and complex policy challenges across different contexts."
+  },
+  {
+    "objectID": "publications/working-papers/trust_bureaucracy/short.html#important-figures",
+    "href": "publications/working-papers/trust_bureaucracy/short.html#important-figures",
+    "title": "Trust in Civil Servants: A Cross-National Dataset for Public Policy Research, 1986–2022",
+    "section": "Important figures",
+    "text": "Important figures\n\n\n\nFigure 2: TCS Scores, Most Recent Available Year\n\n\n\n\n\nFigure 3: TCS Scores Over Time Within Selected Countries\n\n\n\n\n\nFigure 6: Construct Validation: Correlations Between TCS Scores and Corruption of Public Servants Survey Items\n\n\n\n\n\nFigure 7: Predicting Trust in Civil Servants Across Countries Over Time"
+  },
+  {
+    "objectID": "publications/working-papers/trust_bureaucracy/short.html#bibtex-citation",
+    "href": "publications/working-papers/trust_bureaucracy/short.html#bibtex-citation",
+    "title": "Trust in Civil Servants: A Cross-National Dataset for Public Policy Research, 1986–2022",
+    "section": "BibTeX citation",
+    "text": "BibTeX citation\n@misc{TaiSolt2024,\n author={Tai, Yuehong Cassandra and Solt, Frederick},\n title={Trust in Civil Servants: A Cross-National Dataset for Public Policy Research, 1986–2022},\n publisher={SocArXiv},\n year={2024},\n month={December}, \n url={https://osf.io/preprints/socarxiv/vjuah},\n doi={10.31235/osf.io/vjuah}\n}"
   },
   {
     "objectID": "publications/working-papers/janitor_work/short.html",

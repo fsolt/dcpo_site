@@ -36,6 +36,12 @@
     ]
   },
   {
+    "listing": "/publications/working-papers/trust_bureaucracy/index.html",
+    "items": [
+      "/publications/working-papers/trust_bureaucracy/short.html"
+    ]
+  },
+  {
     "listing": "/publications/working-papers/discontent/index.html",
     "items": [
       "/publications/working-papers/discontent/short.html"
@@ -61,6 +67,7 @@
       "/publications/published/macrointerest/index.html",
       "/publications/published/dem_support/index.html",
       "/publications/published/pge/index.html",
+      "/publications/working-papers/trust_bureaucracy/index.html",
       "/publications/working-papers/discontent/index.html",
       "/publications/working-papers/demsupport_data/index.html",
       "/publications/working-papers/janitor_work/index.html",
@@ -83,6 +90,12 @@
     "listing": "/publications/working-papers/discontent/short.html",
     "items": [
       "/publications/working-papers/discontent/index.html"
+    ]
+  },
+  {
+    "listing": "/publications/working-papers/trust_bureaucracy/short.html",
+    "items": [
+      "/publications/working-papers/trust_bureaucracy/index.html"
     ]
   },
   {
