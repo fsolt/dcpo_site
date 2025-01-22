@@ -12,7 +12,7 @@ cite: >
   _SocArXiv_.
 author:
     - name: Haofeng Ma
-      affiliation: University of Iowa
+      affiliation: Chinese University of Hong Kong, Shenzhen
       url: https://haofengma.org/
       orcid: 0000-0003-4379-8449
     - name: Jeongho Choi
