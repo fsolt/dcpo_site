@@ -21,4 +21,4 @@ about:
     
 ---
 
-Haofeng Ma is a Ph.D. candidate in the Department of Political Science at the University of Iowa. A comparativist, his substantive research interests include public opinion, political linguistics, ethnicity, and political economy. Methodologically, he employs spatial and temporal statistics, Bayesian statistics, natural language processing, and GIS methods in his studies.  Haofeng is currently completing his Ph.D. dissertation, "Native Tongues, Language Policy, and Political Attitudes," a pioneering study systematically theorizing and examining the role of language in shaping individual political attitudes.
+Haofeng Ma is a Postdoctoral Fellow in the Institute of Computational Social Science at The Chinese University of Hong Kong, Shenzhen. He received his PhD in Political Science from The University of Iowa in 2024. His research focuses on comparative public opinion, political behavior, political linguistics, ethnicity and migration, and political and economic development. Methodologically, He employs Bayesian latent modeling, natural language processing, and spatial analysis to collect and analyze data.
