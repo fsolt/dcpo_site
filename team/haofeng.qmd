@@ -14,7 +14,7 @@ about:
       href: https://haofengma.org
     - icon: envelope
       text: email
-      href: mailto:haofeng-ma@uiowa.edu
+      href: mailto:mahaofeng@cuhk.edu.cn
     - icon: chat-left-quote
       text: "Google Scholar"
       href: https://scholar.google.com/citations?user=9qgR0BwAAAAJ&hl
