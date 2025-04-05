@@ -24,4 +24,4 @@ about:
     
 ---
 
-Yuehong 'Cassandra' Tai is a postdoctoral scholar at the [Center for Social Data Analytics](https://soda.la.psu.edu/the-center/) (C-SoDA) at Pennsylvania State University. Her research examines public opinion and elite behavior in comparative contexts and within the United States, using thousands of national survey datasets, millions of social media posts, Bayesian and text analysis, and machine learning methods.
+Yuehong 'Cassandra' Tai is an Assistant Research Professor and Assistant Director of the [Center for Social Data Analytics](https://soda.la.psu.edu/the-center/) (C-SoDA) at Pennsylvania State University. Her research focuses on measuring complex latent variables in political and social contexts, applying computational and statistical approaches to capture public opinion and elite online behavior patterns. By leveraging large language models and Bayesian analysis to analyze large-scale textual and survey data, she examines how citizens and state actors interact across various policy domains, including climate politics, both in the United States and in comparative contexts.
