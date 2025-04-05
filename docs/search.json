@@ -144,7 +144,7 @@
     "href": "team/haofeng.html",
     "title": "Haofeng Ma",
     "section": "",
-    "text": "Haofeng Ma is a Ph.D. candidate in the Department of Political Science at the University of Iowa. A comparativist, his substantive research interests include public opinion, political linguistics, ethnicity, and political economy. Methodologically, he employs spatial and temporal statistics, Bayesian statistics, natural language processing, and GIS methods in his studies. Haofeng is currently completing his Ph.D. dissertation, “Native Tongues, Language Policy, and Political Attitudes,” a pioneering study systematically theorizing and examining the role of language in shaping individual political attitudes."
+    "text": "Haofeng Ma is a Postdoctoral Fellow in the Institute of Computational Social Science at The Chinese University of Hong Kong, Shenzhen. He received his PhD in Political Science from The University of Iowa in 2024. His research focuses on comparative public opinion, political behavior, political linguistics, ethnicity and migration, and political and economic development. Methodologically, He employs Bayesian latent modeling, natural language processing, and spatial analysis to collect and analyze data."
   },
   {
     "objectID": "team/jeongho.html",
@@ -466,7 +466,7 @@
     "href": "publications/index.html#working-papers",
     "title": "DCPO Publications",
     "section": "Working Papers",
-    "text": "Working Papers\n\n\n\n\n\n Under Review Yuehong Cassandra Tai, and Frederick Solt. 2024. “Trust in Civil Servants: A Cross-National Dataset for Public Policy Research, 1986–2022.” SocArXiv.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n Under review Ma, Haofeng, Jeongho Choi, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. 2024. “Macrodiscontent Across Countries.” SocArXiv.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n Revise & Resubmit Hu, Yue, Yuehong Cassandra Tai, Hyein Ko, Byung-Deuk Woo, and Frederick Solt. 2023. “An Incomplete Recipe: One-Dimensional Latent Variables Do Not Capture the Full Flavor of Democratic Support.” SocArXiv.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\nHu, Yue, Yuehong Cassandra Tai, and Frederick Solt. 2022. “On Data ‘Janitor Work’ in Political Science: The Case of Thermostatic Support for Democracy.” SocArXiv.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\nFrederick Solt. 2020. “Modeling Dynamic Comparative Public Opinion.” SocArXiv.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\nNo matching items"
+    "text": "Working Papers\n\n\n\n\n\n Under Review Yuehong Cassandra Tai 2025. “Comparative Estimates of Public Trust in Government Across 116 Countries, 1973–2020.” SocArXiv.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n Under Review Yuehong Cassandra Tai, and Frederick Solt. 2024. “Trust in Civil Servants: A Cross-National Dataset for Public Policy Research, 1986–2022.” SocArXiv.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n Under review Ma, Haofeng, Jeongho Choi, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. 2024. “Macrodiscontent Across Countries.” SocArXiv.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n Revise & Resubmit Hu, Yue, Yuehong Cassandra Tai, Hyein Ko, Byung-Deuk Woo, and Frederick Solt. 2023. “An Incomplete Recipe: One-Dimensional Latent Variables Do Not Capture the Full Flavor of Democratic Support.” SocArXiv.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\nHu, Yue, Yuehong Cassandra Tai, and Frederick Solt. 2022. “On Data ‘Janitor Work’ in Political Science: The Case of Thermostatic Support for Democracy.” SocArXiv.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\nFrederick Solt. 2020. “Modeling Dynamic Comparative Public Opinion.” SocArXiv.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications/working-papers/dcpo_article/short.html",
@@ -922,5 +922,61 @@
     "title": "PGE Frequently Asked Questions",
     "section": "The PGE Data",
     "text": "The PGE Data\n\n\n\n\n\n\n\n\n\n\nWhat about Russia and the rest of the former Soviet Union? Yugoslavia? Czechoslovakia? Pakistan? Sudan? Ethiopia? Why are there estimates for successor states before they actually existed?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe estimates for Ruritania, among others, have changed since the previous version. Why is that?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow is Germany treated in the PGE? Where’s East Germany?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications/working-papers/trust_gov/index.html",
+    "href": "publications/working-papers/trust_gov/index.html",
+    "title": "Comparative Estimates of Public Trust in Government Across 116 Countries, 1973–2020",
+    "section": "",
+    "text": "Yuehong Cassandra Tai. 2025. “Comparative Estimates of Public Trust in Government Across 116 Countries, 1973–2020.” SocArXiv.\n\n\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications/working-papers/trust_gov/index.html#abstract",
+    "href": "publications/working-papers/trust_gov/index.html#abstract",
+    "title": "Comparative Estimates of Public Trust in Government Across 116 Countries, 1973–2020",
+    "section": "Abstract",
+    "text": "Abstract\nPolitical trust plays a critical role in understanding key political questions, including regime support, democratic legitimacy, policy preferences, and political behavior. However, the lack of comparable, cross-national data has limited scholars’ ability to analyze the relationship of political trust with quantities of interest and to generalize findings across different countries and time periods. To address this gap, this paper introduces the Trust in Government (TGOV) Dataset, a time-series cross-sectional resource covering 116 countries from 1973 to 2020. Built using a Bayesian latent variable model, TGOV harmonizes 1,555 country-year observations from 189 national and cross-national surveys, providing mean estimates of trust in government alongside full posterior distributions to account for measurement uncertainty. The TGOV dataset demonstrates robustness in a series of internal and external validations, as well as in the construct validation test, confirming that the TGOV scores are a valid measure of public trust in national government. The TGOV dataset enables scholars to analyze trust’s dynamic relationships with institutional performance, policy outcomes, and crisis resilience across political systems. More broadly, it supports interdisciplinary research on governance, inequality, state-society relations, public health compliance, climate policy acceptance, and digital governance innovations."
+  },
+  {
+    "objectID": "publications/working-papers/trust_gov/index.html#important-figures",
+    "href": "publications/working-papers/trust_gov/index.html#important-figures",
+    "title": "Comparative Estimates of Public Trust in Government Across 116 Countries, 1973–2020",
+    "section": "Important figures",
+    "text": "Important figures\n\n\n\nFigure 2: TGOV Scores, Most Recent Available Year\n\n\n\n\n\nFigure 3: TGOV Scores Over Time Within Selected Countries\n\n\n\n\n\nFigure 6: Construct Validation: Correlations Between TGOV Scores, Satisfaction with System Performance, Corruption, and Executive Approval Estimates"
+  },
+  {
+    "objectID": "publications/working-papers/trust_gov/index.html#bibtex-citation",
+    "href": "publications/working-papers/trust_gov/index.html#bibtex-citation",
+    "title": "Comparative Estimates of Public Trust in Government Across 116 Countries, 1973–2020",
+    "section": "BibTeX citation",
+    "text": "BibTeX citation\n@misc{Tai2025,\n author={Tai, Yuehong Cassandra},\n title={Comparative Estimates of Public Trust in Government Across 116 Countries, 1973–2020},\n publisher={SocArXiv},\n year={2025},\n month={April}\n}"
+  },
+  {
+    "objectID": "publications/working-papers/trust_gov/short.html",
+    "href": "publications/working-papers/trust_gov/short.html",
+    "title": "Comparative Estimates of Public Trust in Government Across 116 Countries, 1973–2020",
+    "section": "",
+    "text": "Yuehong Cassandra Tai 2025. “Comparative Estimates of Public Trust in Government Across 116 Countries, 1973–2020.” SocArXiv.\n\n\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications/working-papers/trust_gov/short.html#abstract",
+    "href": "publications/working-papers/trust_gov/short.html#abstract",
+    "title": "Comparative Estimates of Public Trust in Government Across 116 Countries, 1973–2020",
+    "section": "Abstract",
+    "text": "Abstract\nPolitical trust plays a critical role in understanding key political questions, including regime support, democratic legitimacy, policy preferences, and political behavior. However, the lack of comparable, cross-national data has limited scholars’ ability to analyze the relationship of political trust with quantities of interest and to generalize findings across different countries and time periods. To address this gap, this paper introduces the Trust in Government (TGOV) Dataset, a time-series cross-sectional resource covering 116 countries from 1973 to 2020. Built using a Bayesian latent variable model, TGOV harmonizes 1,555 country-year observations from 189 national and cross-national surveys, providing mean estimates of trust in government alongside full posterior distributions to account for measurement uncertainty. The TGOV dataset demonstrates robustness in a series of internal and external validations, as well as in the construct validation test, confirming that the TGOV scores are a valid measure of public trust in national government. The TGOV dataset enables scholars to analyze trust’s dynamic relationships with institutional performance, policy outcomes, and crisis resilience across political systems. More broadly, it supports interdisciplinary research on governance, inequality, state-society relations, public health compliance, climate policy acceptance, and digital governance innovations."
+  },
+  {
+    "objectID": "publications/working-papers/trust_gov/short.html#important-figures",
+    "href": "publications/working-papers/trust_gov/short.html#important-figures",
+    "title": "Comparative Estimates of Public Trust in Government Across 116 Countries, 1973–2020",
+    "section": "Important figures",
+    "text": "Important figures\n\n\n\nFigure 2: TGOV Scores, Most Recent Available Year\n\n\n\n\n\nFigure 3: TGOV Scores Over Time Within Selected Countries\n\n\n\n\n\nFigure 6: Construct Validation: Correlations Between TGOV Scores, Satisfaction with System Performance, Corruption, and Executive Approval Estimates"
+  },
+  {
+    "objectID": "publications/working-papers/trust_gov/short.html#bibtex-citation",
+    "href": "publications/working-papers/trust_gov/short.html#bibtex-citation",
+    "title": "Comparative Estimates of Public Trust in Government Across 116 Countries, 1973–2020",
+    "section": "BibTeX citation",
+    "text": "BibTeX citation\n@misc{Tai2025,\n author={Tai, Yuehong Cassandra},\n title={Comparative Estimates of Public Trust in Government Across 116 Countries, 1973–2020},\n publisher={SocArXiv},\n year={2025},\n month={April}\n}"
   }
 ]

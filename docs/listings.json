@@ -67,6 +67,7 @@
       "/publications/published/macrointerest/index.html",
       "/publications/published/dem_support/index.html",
       "/publications/published/pge/index.html",
+      "/publications/working-papers/trust_gov/index.html",
       "/publications/working-papers/trust_bureaucracy/index.html",
       "/publications/working-papers/discontent/index.html",
       "/publications/working-papers/demsupport_data/index.html",
@@ -194,6 +195,18 @@
       "/data/pge/pge_faq/posts/how-to/stata-time-series.html",
       "/data/pge/pge_faq/posts/how-to/mean-and-std-err.html",
       "/data/pge/pge_faq/posts/how-to/country-codes.html"
+    ]
+  },
+  {
+    "listing": "/publications/working-papers/trust_gov/index.html",
+    "items": [
+      "/publications/working-papers/trust_gov/short.html"
+    ]
+  },
+  {
+    "listing": "/publications/working-papers/trust_gov/short.html",
+    "items": [
+      "/publications/working-papers/trust_gov/index.html"
     ]
   }
 ]
