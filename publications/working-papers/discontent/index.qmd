@@ -57,9 +57,9 @@ links:
 # status: Revise & Resubmit
 # status_class: info
 # status_icon: fas fa-sync
-status: Under review
-status_class: success
-status_icon: fa-solid fa-glasses
+status: Revise & Resubmit
+status_class: info
+status_icon: fa-solid fa-arrows-rotate
 listing:
   - id: cite
     contents: "short.qmd"
