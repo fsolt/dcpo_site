@@ -221,7 +221,7 @@
     "href": "publications/published/gayrights/index.html#bibtex-citation",
     "title": "Public Support for Gay Rights Across Countries and Over Time",
     "section": "BibTeX citation",
-    "text": "BibTeX citation\n@article{WooKoTaiHuSolt2024,\n author = {Woo, Byung-Deuk and Ko, Hyein and Tai, Yuehong Cassandra and Hu, Yue and Solt, Frederick},\n title = {Public Support for Gay Rights Across Countries and Over Time},\n journal = {Social Science Quarterly},\n volume = {106},\n number = {},\n pages = {e13478},\n year={2024},\n doi = {https://doi.org/10.1111/ssqu.13478},\n url = {https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.13478}\n}"
+    "text": "BibTeX citation\n@article{WooKoTaiHuSolt2024,\n author = {Woo, Byung-Deuk and Ko, Hyein and Tai, Yuehong Cassandra and Hu, Yue and Solt, Frederick},\n title = {Public Support for Gay Rights Across Countries and Over Time},\n journal = {Social Science Quarterly},\n volume = {106},\n number = {},\n pages = {e13478},\n year={2024},\n doi = {10.1111/ssqu.13478},\n url = {https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.13478}\n}"
   },
   {
     "objectID": "publications/published/macrointerest/index.html",
@@ -250,6 +250,62 @@
     "title": "Macrointerest Across Countries",
     "section": "BibTeX citation",
     "text": "BibTeX citation\n@article{HuSolt2025,\n author={Hu, Yue, and Solt, Frederick},\n title={Macrointerest Across Countries},\n journal={British Journal of Political Science},\n doi = {https://doi.org/10.1017/S0007123424001042},\n year={2025},\n volume = {},\n number = {},\n pages = {e71}\n}"
+  },
+  {
+    "objectID": "publications/published/trust_gov/index.html",
+    "href": "publications/published/trust_gov/index.html",
+    "title": "Introducing the Trust in Government (TrustGov) Dataset: A New Resource for Cross-National Time-Series Trust Research",
+    "section": "",
+    "text": "Yuehong Cassandra Tai 2025. “Introducing the Trust in Government (TrustGov) Dataset: A New Resource for Cross-National Time-Series Trust Research.” Research & Politics 13(1).\n\n\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications/published/trust_gov/index.html#abstract",
+    "href": "publications/published/trust_gov/index.html#abstract",
+    "title": "Introducing the Trust in Government (TrustGov) Dataset: A New Resource for Cross-National Time-Series Trust Research",
+    "section": "Abstract",
+    "text": "Abstract\nAlthough political trust is a long-standing interdisciplinary topic, the lack of com parable cross-national time-series data has limited scholars’ ability to analyze its determinants and consequences and to generalize findings across countries and over time. To address this gap, this paper introduces the Trust in National Government (TrustGov) Dataset—a cross-national time-series resource covering 115 countries and territories from 1973 to 2020, harmonizing 1,545 country-year observations from 189 national and cross-national surveys using a Bayesian latent variable model. The dataset is validated through a series of convergent and construct validity tests. TrustGov supports qualitative and mixed-method research by guiding case selection and helping scholars probe mechanisms behind shifts in trust. It also enables quantitative analyses of trust’s dynamic relationships with determinants such as inequality, election integrity, and institutional performance, as well as outcomes such as policy preferences and crisis resilience. The project will be updated regularly through periodic releases as new data become publicly available, supporting ongoing research on political trust."
+  },
+  {
+    "objectID": "publications/published/trust_gov/index.html#important-figures",
+    "href": "publications/published/trust_gov/index.html#important-figures",
+    "title": "Introducing the Trust in Government (TrustGov) Dataset: A New Resource for Cross-National Time-Series Trust Research",
+    "section": "Important figures",
+    "text": "Important figures\n\n\n\nFigure 2: TGOV Scores, Most Recent Available Year\n\n\n\n\n\nFigure 3: TGOV Scores Over Time Within Selected Countries\n\n\n\n\n\nFigure 6: Construct Validation: Correlations Between TGOV Scores, Satisfaction with System Performance, Corruption, and Executive Approval Estimates"
+  },
+  {
+    "objectID": "publications/published/trust_gov/index.html#bibtex-citation",
+    "href": "publications/published/trust_gov/index.html#bibtex-citation",
+    "title": "Introducing the Trust in Government (TrustGov) Dataset: A New Resource for Cross-National Time-Series Trust Research",
+    "section": "BibTeX citation",
+    "text": "BibTeX citation\n@misc{Tai2026,\n author={Tai, Yuehong Cassandra},\n title={Comparative Estimates of Public Trust in Government Across 116 Countries, 1973–2020},\n publisher={Research & Politics},\n volume = {13},\n number = {1},\n pages = {},\n year={2026},\n doi = {10.1177/20531680261432469},\n url = {https://doi.org/10.1177/20531680261432469}\n}"
+  },
+  {
+    "objectID": "publications/published/trust_bureaucracy/index.html",
+    "href": "publications/published/trust_bureaucracy/index.html",
+    "title": "Trust in Civil Servants: A Cross-National Dataset for Public Policy Research, 1986–2022",
+    "section": "",
+    "text": "Yuehong Cassandra Tai, and Frederick Solt. 2026. “Trust in Civil Servants: A Cross-National Dataset for Public Policy Research, 1986–2022.” Political Studies.\n\n\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications/published/trust_bureaucracy/index.html#abstract",
+    "href": "publications/published/trust_bureaucracy/index.html#abstract",
+    "title": "Trust in Civil Servants: A Cross-National Dataset for Public Policy Research, 1986–2022",
+    "section": "Abstract",
+    "text": "Abstract\nTrust in civil servants is essential for effective governance, enabling policy implementation, public service delivery, and compliance. However, the lack of comparable cross-national data on trust in bureaucracy has limited our ability to systematically examine these relationships. To address this gap, we develop the Trust in Civil Servants (TCS) dataset with an advanced latent-variable modeling technique, using 123 national and cross-national surveys from 98 countries and territories (1986–2022). Our measures reveal variations in trust both within and between countries and territories. We find that economic performance and public security enhance trust in the short term, whereas government quality and effectiveness have more enduring, long-term impacts on trust in civil service. The TCS dataset opens new avenues for examining connections between trust, governance quality, and complex policy challenges across different contexts."
+  },
+  {
+    "objectID": "publications/published/trust_bureaucracy/index.html#important-figures",
+    "href": "publications/published/trust_bureaucracy/index.html#important-figures",
+    "title": "Trust in Civil Servants: A Cross-National Dataset for Public Policy Research, 1986–2022",
+    "section": "Important figures",
+    "text": "Important figures\n\n\n\nFigure 2: TCS Scores, Most Recent Available Year\n\n\n\n\n\nFigure 3: TCS Scores Over Time Within Selected Countries\n\n\n\n\n\nFigure 6: Construct Validation: Correlations Between TCS Scores and Corruption of Public Servants Survey Items\n\n\n\n\n\nFigure 7: Predicting Trust in Civil Servants Across Countries Over Time"
+  },
+  {
+    "objectID": "publications/published/trust_bureaucracy/index.html#bibtex-citation",
+    "href": "publications/published/trust_bureaucracy/index.html#bibtex-citation",
+    "title": "Trust in Civil Servants: A Cross-National Dataset for Public Policy Research, 1986–2022",
+    "section": "BibTeX citation",
+    "text": "BibTeX citation\n@misc{TaiSolt2026,\n author={Tai, Yuehong Cassandra and Solt, Frederick},\n title={Trust in Civil Servants: A Cross-National Dataset for Public Policy Research, 1986–2022},\n publisher={Political Studies},\n year={2026},\n month={June}, \n url={https://doi.org/10.1177/00323217261450953},\n doi={10.1177/00323217261450953}\n}"
   },
   {
     "objectID": "publications/published/dem_mood/index.html",
@@ -392,62 +448,6 @@
     "text": "BibTeX citation\n@misc{HuTaiSolt2022,\n author={Hu, Yue and Tai, Yuehong Cassandra and Solt, Frederick},\n title={On Data 'Janitor Work' in Political Science: The Case of Thermostatic Support for Democracy},\n publisher={SocArXiv},\n year={2022},\n month={June}, \n url={osf.io/preprints/socarxiv/kd7mu},\n doi={10.31235/osf.io/kd7mu}\n}"
   },
   {
-    "objectID": "publications/working-papers/trust_gov/index.html",
-    "href": "publications/working-papers/trust_gov/index.html",
-    "title": "Comparative Estimates of Public Trust in Government Across 116 Countries, 1973–2020",
-    "section": "",
-    "text": "Yuehong Cassandra Tai. 2025. “Comparative Estimates of Public Trust in Government Across 116 Countries, 1973–2020.” SocArXiv.\n\n\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "publications/working-papers/trust_gov/index.html#abstract",
-    "href": "publications/working-papers/trust_gov/index.html#abstract",
-    "title": "Comparative Estimates of Public Trust in Government Across 116 Countries, 1973–2020",
-    "section": "Abstract",
-    "text": "Abstract\nPolitical trust plays a critical role in understanding key political questions, including regime support, democratic legitimacy, policy preferences, and political behavior. However, the lack of comparable, cross-national data has limited scholars’ ability to analyze the relationship of political trust with quantities of interest and to generalize findings across different countries and time periods. To address this gap, this paper introduces the Trust in Government (TGOV) Dataset, a time-series cross-sectional resource covering 116 countries from 1973 to 2020. Built using a Bayesian latent variable model, TGOV harmonizes 1,555 country-year observations from 189 national and cross-national surveys, providing mean estimates of trust in government alongside full posterior distributions to account for measurement uncertainty. The TGOV dataset demonstrates robustness in a series of internal and external validations, as well as in the construct validation test, confirming that the TGOV scores are a valid measure of public trust in national government. The TGOV dataset enables scholars to analyze trust’s dynamic relationships with institutional performance, policy outcomes, and crisis resilience across political systems. More broadly, it supports interdisciplinary research on governance, inequality, state-society relations, public health compliance, climate policy acceptance, and digital governance innovations."
-  },
-  {
-    "objectID": "publications/working-papers/trust_gov/index.html#important-figures",
-    "href": "publications/working-papers/trust_gov/index.html#important-figures",
-    "title": "Comparative Estimates of Public Trust in Government Across 116 Countries, 1973–2020",
-    "section": "Important figures",
-    "text": "Important figures\n\n\n\nFigure 2: TGOV Scores, Most Recent Available Year\n\n\n\n\n\nFigure 3: TGOV Scores Over Time Within Selected Countries\n\n\n\n\n\nFigure 6: Construct Validation: Correlations Between TGOV Scores, Satisfaction with System Performance, Corruption, and Executive Approval Estimates"
-  },
-  {
-    "objectID": "publications/working-papers/trust_gov/index.html#bibtex-citation",
-    "href": "publications/working-papers/trust_gov/index.html#bibtex-citation",
-    "title": "Comparative Estimates of Public Trust in Government Across 116 Countries, 1973–2020",
-    "section": "BibTeX citation",
-    "text": "BibTeX citation\n@misc{Tai2025,\n author={Tai, Yuehong Cassandra},\n title={Comparative Estimates of Public Trust in Government Across 116 Countries, 1973–2020},\n publisher={SocArXiv},\n year={2025},\n month={April}\n}"
-  },
-  {
-    "objectID": "publications/working-papers/trust_bureaucracy/index.html",
-    "href": "publications/working-papers/trust_bureaucracy/index.html",
-    "title": "Trust in Civil Servants: A Cross-National Dataset for Public Policy Research, 1986–2022",
-    "section": "",
-    "text": "Yuehong Cassandra Tai, and Frederick Solt. 2024. “Trust in Civil Servants: A Cross-National Dataset for Public Policy Research, 1986–2022.” SocArXiv.\n\n\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "publications/working-papers/trust_bureaucracy/index.html#abstract",
-    "href": "publications/working-papers/trust_bureaucracy/index.html#abstract",
-    "title": "Trust in Civil Servants: A Cross-National Dataset for Public Policy Research, 1986–2022",
-    "section": "Abstract",
-    "text": "Abstract\nTrust in civil servants is essential for effective governance, enabling policy implementation, public service delivery, and compliance. However, the lack of comparable cross-national data on trust in bureaucracy has limited our ability to systematically examine these relationships. To address this gap, we develop the Trust in Civil Servants (TCS) dataset using an advanced latent-variable modeling technique, using 132 national and cross-national surveys from 98 countries (1986-2022). Our measures reveal variations in trust both within and between countries. We find that economic performance and public security enhance trust in the short term, whereas government quality and effectiveness have more enduring, long-term impacts on trust in civil service. The TCS dataset opens new avenues for examining connections between trust, governance quality, and complex policy challenges across different contexts."
-  },
-  {
-    "objectID": "publications/working-papers/trust_bureaucracy/index.html#important-figures",
-    "href": "publications/working-papers/trust_bureaucracy/index.html#important-figures",
-    "title": "Trust in Civil Servants: A Cross-National Dataset for Public Policy Research, 1986–2022",
-    "section": "Important figures",
-    "text": "Important figures\n\n\n\nFigure 2: TCS Scores, Most Recent Available Year\n\n\n\n\n\nFigure 3: TCS Scores Over Time Within Selected Countries\n\n\n\n\n\nFigure 6: Construct Validation: Correlations Between TCS Scores and Corruption of Public Servants Survey Items\n\n\n\n\n\nFigure 7: Predicting Trust in Civil Servants Across Countries Over Time"
-  },
-  {
-    "objectID": "publications/working-papers/trust_bureaucracy/index.html#bibtex-citation",
-    "href": "publications/working-papers/trust_bureaucracy/index.html#bibtex-citation",
-    "title": "Trust in Civil Servants: A Cross-National Dataset for Public Policy Research, 1986–2022",
-    "section": "BibTeX citation",
-    "text": "BibTeX citation\n@misc{TaiSolt2024,\n author={Tai, Yuehong Cassandra and Solt, Frederick},\n title={Trust in Civil Servants: A Cross-National Dataset for Public Policy Research, 1986–2022},\n publisher={SocArXiv},\n year={2024},\n month={December}, \n url={https://osf.io/preprints/socarxiv/vjuah},\n doi={10.31235/osf.io/vjuah}\n}"
-  },
-  {
     "objectID": "publications/working-papers/dcpo_article/index.html",
     "href": "publications/working-papers/dcpo_article/index.html",
     "title": "Modeling Dynamic Comparative Public Opinion",
@@ -480,21 +480,21 @@
     "href": "publications/index.html",
     "title": "DCPO Publications",
     "section": "",
-    "text": "Ma, Haofeng, Jeongho Choi, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. 2026. “Macrodiscontent Across Countries.” European Political Science Review, 1-17.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n\n\n\n\n\nHu, Yue, Yuehong Cassandra Tai, Hyein Ko, Byung-Deuk Woo, and Frederick Solt. 2025. “An Incomplete Recipe: One-Dimensional Latent Variables Do Not Capture the Full Flavor of Democratic Support.” Research & Politics 12(2).\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\nHu, Yue and Frederick Solt. 2025. “Macrointerest Across Countries.” British Journal of Political Science 55, e71.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n CNM Database\n\n\n\n\n\n\n\nWoo, Byung-Deuk, Hyein Ko, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. Forthcoming. “Public Support for Gay Rights Across Countries and Over Time.” Social Science Quarterly 106, e13478.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n SGR Database\n\n\n\n\n\n\n\nHu, Yue, Yuehong Cassandra Tai, and Frederick Solt. 2024. “Revisiting the Evidence on Thermostatic Response to Democratic Change: Degrees of Democratic Support or Researcher Degrees of Freedom?” Political Science Research and Methods 13(1), 237-243.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n\n\n\n\n\nTai, Yuehong ‘Cassandra’, Yue Hu, and Frederick Solt. 2024. “Democracy, Public Support, and Measurement Uncertainty.” American Political Science Review 118(1), 512-518.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n\n\n\n\n\nWoo, Byung-Deuk, Lindsey A. Goldberg, and Frederick Solt. 2023. “Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere.” British Journal of Political Science 53(2), 766-775.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n PGE Database\n\n\n\n\n\nNo matching items"
+    "text": "Ma, Haofeng, Jeongho Choi, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. 2026. “Macrodiscontent Across Countries.” European Political Science Review, 1-17.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n\n\n\n\n\nYuehong Cassandra Tai, and Frederick Solt. 2026. “Trust in Civil Servants: A Cross-National Dataset for Public Policy Research, 1986–2022.” Political Studies.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\nYuehong Cassandra Tai 2025. “Introducing the Trust in Government (TrustGov) Dataset: A New Resource for Cross-National Time-Series Trust Research.” Research & Politics 13(1).\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\nHu, Yue, Yuehong Cassandra Tai, Hyein Ko, Byung-Deuk Woo, and Frederick Solt. 2025. “An Incomplete Recipe: One-Dimensional Latent Variables Do Not Capture the Full Flavor of Democratic Support.” Research & Politics 12(2).\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\nHu, Yue and Frederick Solt. 2025. “Macrointerest Across Countries.” British Journal of Political Science 55, e71.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n CNM Database\n\n\n\n\n\n\n\nWoo, Byung-Deuk, Hyein Ko, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. Forthcoming. “Public Support for Gay Rights Across Countries and Over Time.” Social Science Quarterly 106, e13478.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n SGR Database\n\n\n\n\n\n\n\nHu, Yue, Yuehong Cassandra Tai, and Frederick Solt. 2024. “Revisiting the Evidence on Thermostatic Response to Democratic Change: Degrees of Democratic Support or Researcher Degrees of Freedom?” Political Science Research and Methods 13(1), 237-243.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n\n\n\n\n\nTai, Yuehong ‘Cassandra’, Yue Hu, and Frederick Solt. 2024. “Democracy, Public Support, and Measurement Uncertainty.” American Political Science Review 118(1), 512-518.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n\n\n\n\n\nWoo, Byung-Deuk, Lindsey A. Goldberg, and Frederick Solt. 2023. “Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere.” British Journal of Political Science 53(2), 766-775.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n PGE Database\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications/index.html#publications",
     "href": "publications/index.html#publications",
     "title": "DCPO Publications",
     "section": "",
-    "text": "Ma, Haofeng, Jeongho Choi, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. 2026. “Macrodiscontent Across Countries.” European Political Science Review, 1-17.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n\n\n\n\n\nHu, Yue, Yuehong Cassandra Tai, Hyein Ko, Byung-Deuk Woo, and Frederick Solt. 2025. “An Incomplete Recipe: One-Dimensional Latent Variables Do Not Capture the Full Flavor of Democratic Support.” Research & Politics 12(2).\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\nHu, Yue and Frederick Solt. 2025. “Macrointerest Across Countries.” British Journal of Political Science 55, e71.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n CNM Database\n\n\n\n\n\n\n\nWoo, Byung-Deuk, Hyein Ko, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. Forthcoming. “Public Support for Gay Rights Across Countries and Over Time.” Social Science Quarterly 106, e13478.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n SGR Database\n\n\n\n\n\n\n\nHu, Yue, Yuehong Cassandra Tai, and Frederick Solt. 2024. “Revisiting the Evidence on Thermostatic Response to Democratic Change: Degrees of Democratic Support or Researcher Degrees of Freedom?” Political Science Research and Methods 13(1), 237-243.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n\n\n\n\n\nTai, Yuehong ‘Cassandra’, Yue Hu, and Frederick Solt. 2024. “Democracy, Public Support, and Measurement Uncertainty.” American Political Science Review 118(1), 512-518.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n\n\n\n\n\nWoo, Byung-Deuk, Lindsey A. Goldberg, and Frederick Solt. 2023. “Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere.” British Journal of Political Science 53(2), 766-775.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n PGE Database\n\n\n\n\n\nNo matching items"
+    "text": "Ma, Haofeng, Jeongho Choi, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. 2026. “Macrodiscontent Across Countries.” European Political Science Review, 1-17.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n\n\n\n\n\nYuehong Cassandra Tai, and Frederick Solt. 2026. “Trust in Civil Servants: A Cross-National Dataset for Public Policy Research, 1986–2022.” Political Studies.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\nYuehong Cassandra Tai 2025. “Introducing the Trust in Government (TrustGov) Dataset: A New Resource for Cross-National Time-Series Trust Research.” Research & Politics 13(1).\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\nHu, Yue, Yuehong Cassandra Tai, Hyein Ko, Byung-Deuk Woo, and Frederick Solt. 2025. “An Incomplete Recipe: One-Dimensional Latent Variables Do Not Capture the Full Flavor of Democratic Support.” Research & Politics 12(2).\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\nHu, Yue and Frederick Solt. 2025. “Macrointerest Across Countries.” British Journal of Political Science 55, e71.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n CNM Database\n\n\n\n\n\n\n\nWoo, Byung-Deuk, Hyein Ko, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. Forthcoming. “Public Support for Gay Rights Across Countries and Over Time.” Social Science Quarterly 106, e13478.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n SGR Database\n\n\n\n\n\n\n\nHu, Yue, Yuehong Cassandra Tai, and Frederick Solt. 2024. “Revisiting the Evidence on Thermostatic Response to Democratic Change: Degrees of Democratic Support or Researcher Degrees of Freedom?” Political Science Research and Methods 13(1), 237-243.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n\n\n\n\n\nTai, Yuehong ‘Cassandra’, Yue Hu, and Frederick Solt. 2024. “Democracy, Public Support, and Measurement Uncertainty.” American Political Science Review 118(1), 512-518.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n\n\n\n\n\nWoo, Byung-Deuk, Lindsey A. Goldberg, and Frederick Solt. 2023. “Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere.” British Journal of Political Science 53(2), 766-775.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n PGE Database\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications/index.html#working-papers",
     "href": "publications/index.html#working-papers",
     "title": "DCPO Publications",
     "section": "Working Papers",
-    "text": "Working Papers\n\n\n\n\n\n Under Review Yuehong Cassandra Tai 2025. “Comparative Estimates of Public Trust in Government Across 116 Countries, 1973–2020.” SocArXiv.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n Under Review Yuehong Cassandra Tai, and Frederick Solt. 2024. “Trust in Civil Servants: A Cross-National Dataset for Public Policy Research, 1986–2022.” SocArXiv.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\nHu, Yue, Yuehong Cassandra Tai, and Frederick Solt. 2022. “On Data ‘Janitor Work’ in Political Science: The Case of Thermostatic Support for Democracy.” SocArXiv.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\nFrederick Solt. 2020. “Modeling Dynamic Comparative Public Opinion.” SocArXiv.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\nNo matching items"
+    "text": "Working Papers\n\n\n\n\n\nHu, Yue, Yuehong Cassandra Tai, and Frederick Solt. 2022. “On Data ‘Janitor Work’ in Political Science: The Case of Thermostatic Support for Democracy.” SocArXiv.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\nFrederick Solt. 2020. “Modeling Dynamic Comparative Public Opinion.” SocArXiv.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications/working-papers/dcpo_article/short.html",
@@ -523,62 +523,6 @@
     "title": "Modeling Dynamic Comparative Public Opinion",
     "section": "BibTeX citation",
     "text": "BibTeX citation\n@misc{Solt2020,\n author={Solt, Frederick},\n title={Modeling Dynamic Comparative Public Opinion},\n publisher={SocArXiv},\n year={2020},\n month={Jan}, \n url={osf.io/preprints/socarxiv/d5n9p},\n doi={10.31235/osf.io/d5n9p}\n}"
-  },
-  {
-    "objectID": "publications/working-papers/trust_bureaucracy/short.html",
-    "href": "publications/working-papers/trust_bureaucracy/short.html",
-    "title": "Trust in Civil Servants: A Cross-National Dataset for Public Policy Research, 1986–2022",
-    "section": "",
-    "text": "Yuehong Cassandra Tai, and Frederick Solt. 2024. “Trust in Civil Servants: A Cross-National Dataset for Public Policy Research, 1986–2022.” SocArXiv.\n\n\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "publications/working-papers/trust_bureaucracy/short.html#abstract",
-    "href": "publications/working-papers/trust_bureaucracy/short.html#abstract",
-    "title": "Trust in Civil Servants: A Cross-National Dataset for Public Policy Research, 1986–2022",
-    "section": "Abstract",
-    "text": "Abstract\nTrust in civil servants is essential for effective governance, enabling policy implementation, public service delivery, and compliance. However, the lack of comparable cross-national data on trust in bureaucracy has limited our ability to systematically examine these relationships. To address this gap, we develop the Trust in Civil Servants (TCS) dataset using an advanced latent-variable modeling technique, using 132 national and cross-national surveys from 98 countries (1986-2022). Our measures reveal variations in trust both within and between countries. We find that economic performance and public security enhance trust in the short term, whereas government quality and effectiveness have more enduring, long-term impacts on trust in civil service. The TCS dataset opens new avenues for examining connections between trust, governance quality, and complex policy challenges across different contexts."
-  },
-  {
-    "objectID": "publications/working-papers/trust_bureaucracy/short.html#important-figures",
-    "href": "publications/working-papers/trust_bureaucracy/short.html#important-figures",
-    "title": "Trust in Civil Servants: A Cross-National Dataset for Public Policy Research, 1986–2022",
-    "section": "Important figures",
-    "text": "Important figures\n\n\n\nFigure 2: TCS Scores, Most Recent Available Year\n\n\n\n\n\nFigure 3: TCS Scores Over Time Within Selected Countries\n\n\n\n\n\nFigure 6: Construct Validation: Correlations Between TCS Scores and Corruption of Public Servants Survey Items\n\n\n\n\n\nFigure 7: Predicting Trust in Civil Servants Across Countries Over Time"
-  },
-  {
-    "objectID": "publications/working-papers/trust_bureaucracy/short.html#bibtex-citation",
-    "href": "publications/working-papers/trust_bureaucracy/short.html#bibtex-citation",
-    "title": "Trust in Civil Servants: A Cross-National Dataset for Public Policy Research, 1986–2022",
-    "section": "BibTeX citation",
-    "text": "BibTeX citation\n@misc{TaiSolt2024,\n author={Tai, Yuehong Cassandra and Solt, Frederick},\n title={Trust in Civil Servants: A Cross-National Dataset for Public Policy Research, 1986–2022},\n publisher={SocArXiv},\n year={2024},\n month={December}, \n url={https://osf.io/preprints/socarxiv/vjuah},\n doi={10.31235/osf.io/vjuah}\n}"
-  },
-  {
-    "objectID": "publications/working-papers/trust_gov/short.html",
-    "href": "publications/working-papers/trust_gov/short.html",
-    "title": "Comparative Estimates of Public Trust in Government Across 116 Countries, 1973–2020",
-    "section": "",
-    "text": "Yuehong Cassandra Tai 2025. “Comparative Estimates of Public Trust in Government Across 116 Countries, 1973–2020.” SocArXiv.\n\n\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "publications/working-papers/trust_gov/short.html#abstract",
-    "href": "publications/working-papers/trust_gov/short.html#abstract",
-    "title": "Comparative Estimates of Public Trust in Government Across 116 Countries, 1973–2020",
-    "section": "Abstract",
-    "text": "Abstract\nPolitical trust plays a critical role in understanding key political questions, including regime support, democratic legitimacy, policy preferences, and political behavior. However, the lack of comparable, cross-national data has limited scholars’ ability to analyze the relationship of political trust with quantities of interest and to generalize findings across different countries and time periods. To address this gap, this paper introduces the Trust in Government (TGOV) Dataset, a time-series cross-sectional resource covering 116 countries from 1973 to 2020. Built using a Bayesian latent variable model, TGOV harmonizes 1,555 country-year observations from 189 national and cross-national surveys, providing mean estimates of trust in government alongside full posterior distributions to account for measurement uncertainty. The TGOV dataset demonstrates robustness in a series of internal and external validations, as well as in the construct validation test, confirming that the TGOV scores are a valid measure of public trust in national government. The TGOV dataset enables scholars to analyze trust’s dynamic relationships with institutional performance, policy outcomes, and crisis resilience across political systems. More broadly, it supports interdisciplinary research on governance, inequality, state-society relations, public health compliance, climate policy acceptance, and digital governance innovations."
-  },
-  {
-    "objectID": "publications/working-papers/trust_gov/short.html#important-figures",
-    "href": "publications/working-papers/trust_gov/short.html#important-figures",
-    "title": "Comparative Estimates of Public Trust in Government Across 116 Countries, 1973–2020",
-    "section": "Important figures",
-    "text": "Important figures\n\n\n\nFigure 2: TGOV Scores, Most Recent Available Year\n\n\n\n\n\nFigure 3: TGOV Scores Over Time Within Selected Countries\n\n\n\n\n\nFigure 6: Construct Validation: Correlations Between TGOV Scores, Satisfaction with System Performance, Corruption, and Executive Approval Estimates"
-  },
-  {
-    "objectID": "publications/working-papers/trust_gov/short.html#bibtex-citation",
-    "href": "publications/working-papers/trust_gov/short.html#bibtex-citation",
-    "title": "Comparative Estimates of Public Trust in Government Across 116 Countries, 1973–2020",
-    "section": "BibTeX citation",
-    "text": "BibTeX citation\n@misc{Tai2025,\n author={Tai, Yuehong Cassandra},\n title={Comparative Estimates of Public Trust in Government Across 116 Countries, 1973–2020},\n publisher={SocArXiv},\n year={2025},\n month={April}\n}"
   },
   {
     "objectID": "publications/working-papers/janitor_work/short.html",
@@ -721,6 +665,62 @@
     "text": "BibTeX citation\n@article{HuTaiSolt2024,\nauthor={Hu, Yue and Tai, Yuehong Cassandra and Solt, Frederick},\ntitle={Revisiting the Evidence on Thermostatic Response to Democratic Change: Degrees of Democratic Support or Researcher Degrees of Freedom?},\njournal = {Political Science Research and Methods},\nyear = {2024},\nvolume = {13},\nnumber = {1},\npages = {237-243},\ndoi={10.1017/psrm.2024.16}\n}"
   },
   {
+    "objectID": "publications/published/trust_bureaucracy/short.html",
+    "href": "publications/published/trust_bureaucracy/short.html",
+    "title": "Trust in Civil Servants: A Cross-National Dataset for Public Policy Research, 1986–2022",
+    "section": "",
+    "text": "Yuehong Cassandra Tai, and Frederick Solt. 2026. “Trust in Civil Servants: A Cross-National Dataset for Public Policy Research, 1986–2022.” Political Studies.\n\n\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications/published/trust_bureaucracy/short.html#abstract",
+    "href": "publications/published/trust_bureaucracy/short.html#abstract",
+    "title": "Trust in Civil Servants: A Cross-National Dataset for Public Policy Research, 1986–2022",
+    "section": "Abstract",
+    "text": "Abstract\nTrust in civil servants is essential for effective governance, enabling policy implementation, public service delivery, and compliance. However, the lack of comparable cross-national data on trust in bureaucracy has limited our ability to systematically examine these relationships. To address this gap, we develop the Trust in Civil Servants (TCS) dataset with an advanced latent-variable modeling technique, using 123 national and cross-national surveys from 98 countries and territories (1986–2022). Our measures reveal variations in trust both within and between countries and territories. We find that economic performance and public security enhance trust in the short term, whereas government quality and effectiveness have more enduring, long-term impacts on trust in civil service. The TCS dataset opens new avenues for examining connections between trust, governance quality, and complex policy challenges across different contexts."
+  },
+  {
+    "objectID": "publications/published/trust_bureaucracy/short.html#important-figures",
+    "href": "publications/published/trust_bureaucracy/short.html#important-figures",
+    "title": "Trust in Civil Servants: A Cross-National Dataset for Public Policy Research, 1986–2022",
+    "section": "Important figures",
+    "text": "Important figures\n\n\n\nFigure 2: TCS Scores, Most Recent Available Year\n\n\n\n\n\nFigure 3: TCS Scores Over Time Within Selected Countries\n\n\n\n\n\nFigure 6: Construct Validation: Correlations Between TCS Scores and Corruption of Public Servants Survey Items\n\n\n\n\n\nFigure 7: Predicting Trust in Civil Servants Across Countries Over Time"
+  },
+  {
+    "objectID": "publications/published/trust_bureaucracy/short.html#bibtex-citation",
+    "href": "publications/published/trust_bureaucracy/short.html#bibtex-citation",
+    "title": "Trust in Civil Servants: A Cross-National Dataset for Public Policy Research, 1986–2022",
+    "section": "BibTeX citation",
+    "text": "BibTeX citation\n@misc{TaiSolt2026,\n author={Tai, Yuehong Cassandra and Solt, Frederick},\n title={Trust in Civil Servants: A Cross-National Dataset for Public Policy Research, 1986–2022},\n publisher={Political Studies},\n year={2026},\n month={June}, \n url={https://doi.org/10.1177/00323217261450953},\n doi={10.1177/00323217261450953}\n}"
+  },
+  {
+    "objectID": "publications/published/trust_gov/short.html",
+    "href": "publications/published/trust_gov/short.html",
+    "title": "Introducing the Trust in Government (TrustGov) Dataset: A New Resource for Cross-National Time-Series Trust Research",
+    "section": "",
+    "text": "Yuehong Cassandra Tai 2025. “Introducing the Trust in Government (TrustGov) Dataset: A New Resource for Cross-National Time-Series Trust Research.” Research & Politics 13(1).\n\n\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications/published/trust_gov/short.html#abstract",
+    "href": "publications/published/trust_gov/short.html#abstract",
+    "title": "Introducing the Trust in Government (TrustGov) Dataset: A New Resource for Cross-National Time-Series Trust Research",
+    "section": "Abstract",
+    "text": "Abstract\nAlthough political trust is a long-standing interdisciplinary topic, the lack of com parable cross-national time-series data has limited scholars’ ability to analyze its determinants and consequences and to generalize findings across countries and over time. To address this gap, this paper introduces the Trust in National Government (TrustGov) Dataset—a cross-national time-series resource covering 115 countries and territories from 1973 to 2020, harmonizing 1,545 country-year observations from 189 national and cross-national surveys using a Bayesian latent variable model. The dataset is validated through a series of convergent and construct validity tests. TrustGov supports qualitative and mixed-method research by guiding case selection and helping scholars probe mechanisms behind shifts in trust. It also enables quantitative analyses of trust’s dynamic relationships with determinants such as inequality, election integrity, and institutional performance, as well as outcomes such as policy preferences and crisis resilience. The project will be updated regularly through periodic releases as new data become publicly available, supporting ongoing research on political trust."
+  },
+  {
+    "objectID": "publications/published/trust_gov/short.html#important-figures",
+    "href": "publications/published/trust_gov/short.html#important-figures",
+    "title": "Introducing the Trust in Government (TrustGov) Dataset: A New Resource for Cross-National Time-Series Trust Research",
+    "section": "Important figures",
+    "text": "Important figures\n\n\n\nFigure 2: TGOV Scores, Most Recent Available Year\n\n\n\n\n\nFigure 3: TGOV Scores Over Time Within Selected Countries\n\n\n\n\n\nFigure 6: Construct Validation: Correlations Between TGOV Scores, Satisfaction with System Performance, Corruption, and Executive Approval Estimates"
+  },
+  {
+    "objectID": "publications/published/trust_gov/short.html#bibtex-citation",
+    "href": "publications/published/trust_gov/short.html#bibtex-citation",
+    "title": "Introducing the Trust in Government (TrustGov) Dataset: A New Resource for Cross-National Time-Series Trust Research",
+    "section": "BibTeX citation",
+    "text": "BibTeX citation\n@misc{Tai2026,\n author={Tai, Yuehong Cassandra},\n title={Comparative Estimates of Public Trust in Government Across 116 Countries, 1973–2020},\n publisher={Research & Politics},\n volume = {13},\n number = {1},\n pages = {},\n year={2026},\n doi = {10.1177/20531680261432469},\n url = {https://doi.org/10.1177/20531680261432469}\n}"
+  },
+  {
     "objectID": "publications/published/macrointerest/short.html",
     "href": "publications/published/macrointerest/short.html",
     "title": "Macrointerest Across Countries",
@@ -774,7 +774,7 @@
     "href": "publications/published/gayrights/short.html#bibtex-citation",
     "title": "Public Support for Gay Rights Across Countries and Over Time",
     "section": "BibTeX citation",
-    "text": "BibTeX citation\n@article{WooKoTaiHuSolt2024,\n author = {Woo, Byung-Deuk and Ko, Hyein and Tai, Yuehong Cassandra and Hu, Yue and Solt, Frederick},\n title = {Public Support for Gay Rights Across Countries and Over Time},\n journal = {Social Science Quarterly},\n volume = {106},\n number = {},\n pages = {e13478},\n year={2024},\n doi = {https://doi.org/10.1111/ssqu.13478},\n url = {https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.13478}\n}"
+    "text": "BibTeX citation\n@article{WooKoTaiHuSolt2024,\n author = {Woo, Byung-Deuk and Ko, Hyein and Tai, Yuehong Cassandra and Hu, Yue and Solt, Frederick},\n title = {Public Support for Gay Rights Across Countries and Over Time},\n journal = {Social Science Quarterly},\n volume = {106},\n number = {},\n pages = {e13478},\n year={2024},\n doi = {10.1111/ssqu.13478},\n url = {https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.13478}\n}"
   },
   {
     "objectID": "publications/published/pge/short.html",

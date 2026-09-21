@@ -1,0 +1,80 @@
+---
+title: "Introducing the Trust in Government (TrustGov) Dataset: A New Resource for Cross-National Time-Series Trust Research"
+date: 2026-03-01
+cite: >
+  [Yuehong Cassandra Tai](https://cassyuehtai.netlify.app)
+  2025.
+  "Introducing the Trust in Government (TrustGov) Dataset: A New Resource for Cross-National Time-Series Trust Research."
+  _Research & Politics_ 13(1).
+author:
+    - name: Yuehong Cassandra Tai
+      affiliation: Pennsylvania State University
+      url: https://cassyuehtai.netlify.app/
+      orcid: 0000-0001-7303-7443
+links:
+- name: Final version
+  url: /papers/tai2026
+  icon: fas fa-scroll
+- name: Preprint
+  url: /papers/tai2025_pre
+  icon: far fa-file-pdf
+- name: Code
+  url: "https://github.com/Tyhcass/TGOV"
+  icon: fa-brands fa-github
+# - name: Data
+#   url: ""
+#   icon: fas fa-table
+# pub_status:
+#   status: Forthcoming
+#   class: warning
+#   icon: pencil-square
+# #   status: Writing
+# #   class: warning
+# #   icon: fas fa-edit
+# status: Revised & Resubmitted
+# status_class: info
+# status_icon: fa-solid fa-arrows-rotate
+# status: Under Review
+# status_class: success
+# status_icon: fa-solid fa-glasses
+listing:
+  - id: cite
+    contents: "*.qmd"
+    template: "../../../templates/single-cite.ejs"
+categories:
+  - attitudes
+  - measurement
+  - dcpo
+---
+
+:::{#cite}
+:::
+
+
+## Abstract
+Although political trust is a long-standing interdisciplinary topic, the lack of com parable cross-national time-series data has limited scholars’ ability to analyze its determinants and consequences and to generalize findings across countries and over time. To address this gap, this paper introduces the Trust in National Government (TrustGov) Dataset—a cross-national time-series resource covering 115 countries and territories from 1973 to 2020, harmonizing 1,545 country-year observations from 189 national and cross-national surveys using a Bayesian latent variable model. The dataset is validated through a series of convergent and construct validity tests. TrustGov supports qualitative and mixed-method research by guiding case selection and helping scholars probe mechanisms behind shifts in trust. It also enables quantitative analyses of trust’s dynamic relationships with determinants such as inequality, election integrity, and institutional performance, as well as outcomes such as policy preferences and crisis resilience. The project will be updated regularly through periodic releases as new data become publicly available, supporting ongoing research on political trust.
+
+## Important figures
+
+![Figure 2: TGOV Scores, Most Recent Available Year](tgov_cs_fig2.png)
+
+![Figure 3: TGOV Scores Over Time Within Selected Countries](tgov_ts_fig3.png)
+
+![Figure 6: Construct Validation: Correlations Between TGOV Scores, Satisfaction with System Performance, Corruption, and Executive Approval Estimates ](tgovextval2-1.png)
+
+
+## BibTeX citation
+
+```bibtex
+@misc{Tai2026,
+ author={Tai, Yuehong Cassandra},
+ title={Comparative Estimates of Public Trust in Government Across 116 Countries, 1973–2020},
+ publisher={Research & Politics},
+ volume = {13},
+ number = {1},
+ pages = {},
+ year={2026},
+ doi = {10.1177/20531680261432469},
+ url = {https://doi.org/10.1177/20531680261432469}
+}
+```

@@ -1,0 +1,5 @@
+---
+title: tai2026
+header-includes: |
+  <meta http-equiv="Refresh" content="0; URL=https://doi.org/10.1177/20531680261432469">
+---
