@@ -41,6 +41,9 @@ links:
 - name: Code
   url: "https://github.com/fsolt/dcpo_discontent"
   icon: fa-brands fa-github
+- name: Dataverse
+  url: "https://doi.org/10.7910/DVN/0II26W"
+  icon: fas fa-table
 # - name: Dataverse
 #   url: ""
 #   icon: fas fa-table
@@ -94,6 +97,9 @@ Public discontent with the political system has become an increasingly salient c
  publisher={European Political Science Review},
  author={Ma, Haofeng and Choi, Jeongho and Tai, Yuehong Cassandra and Hu, Yue and Solt, Frederick},
  year={2026},
- month={Aug}
+ month={Aug},
+ volume={},
+ number={},
+ pages={1--17}
 }
 ```

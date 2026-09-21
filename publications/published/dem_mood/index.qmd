@@ -1,13 +1,13 @@
 ---
 title: "Revisiting the Evidence on Thermostatic Response to Democratic Change: Degrees of Democratic Support or Researcher Degrees of Freedom?"
-date: 2024-02-06
+date: 2024-05-02
 cite: >
   [Hu, Yue](https://sammo3182.github.io),
   [Yuehong Cassandra Tai](https://cassyuehtai.netlify.app), and
   [Frederick Solt](https://fsolt.org). 
-  Forthcoming.
+  2024.
   "Revisiting the Evidence on Thermostatic Response to Democratic Change: Degrees of Democratic Support or Researcher Degrees of Freedom?"
-  _Political Science Research and Methods_.
+  _Political Science Research and Methods_ 13(1), 237-243.
 author:
   - name: Yue Hu
     affiliation: Tsinghua University
@@ -35,9 +35,9 @@ links:
   url: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/JHE1YF"
   icon: fas fa-table
 # pub_status:
-status: Forthcoming
-status_class: warning
-status_icon: fa-regular fa-clock
+# status: Forthcoming
+# status_class: warning
+# status_icon: fa-regular fa-clock
 # #   status: Writing
 # #   class: warning
 # #   icon: fas fa-edit
@@ -79,7 +79,10 @@ Prominent recent work argues that support for democracy behaves thermostatically
 author={Hu, Yue and Tai, Yuehong Cassandra and Solt, Frederick},
 title={Revisiting the Evidence on Thermostatic Response to Democratic Change: Degrees of Democratic Support or Researcher Degrees of Freedom?},
 journal = {Political Science Research and Methods},
-year = {Forthcoming},
+year = {2024},
+volume = {13},
+number = {1},
+pages = {237-243},
 doi={10.1017/psrm.2024.16}
 }
 ```

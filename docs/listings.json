@@ -30,6 +30,12 @@
     ]
   },
   {
+    "listing": "/publications/published/demsupport_data/index.html",
+    "items": [
+      "/publications/published/demsupport_data/short.html"
+    ]
+  },
+  {
     "listing": "/publications/published/dem_support/index.html",
     "items": [
       "/publications/published/dem_support/short.html"
@@ -54,12 +60,6 @@
     ]
   },
   {
-    "listing": "/publications/working-papers/demsupport_data/index.html",
-    "items": [
-      "/publications/working-papers/demsupport_data/short.html"
-    ]
-  },
-  {
     "listing": "/publications/working-papers/dcpo_article/index.html",
     "items": [
       "/publications/working-papers/dcpo_article/short.html"
@@ -69,6 +69,7 @@
     "listing": "/publications/index.html",
     "items": [
       "/publications/published/discontent/index.html",
+      "/publications/published/demsupport_data/index.html",
       "/publications/published/macrointerest/index.html",
       "/publications/published/gayrights/index.html",
       "/publications/published/dem_mood/index.html",
@@ -76,7 +77,6 @@
       "/publications/published/pge/index.html",
       "/publications/working-papers/trust_gov/index.html",
       "/publications/working-papers/trust_bureaucracy/index.html",
-      "/publications/working-papers/demsupport_data/index.html",
       "/publications/working-papers/janitor_work/index.html",
       "/publications/working-papers/dcpo_article/index.html"
     ]
@@ -85,12 +85,6 @@
     "listing": "/publications/working-papers/dcpo_article/short.html",
     "items": [
       "/publications/working-papers/dcpo_article/index.html"
-    ]
-  },
-  {
-    "listing": "/publications/working-papers/demsupport_data/short.html",
-    "items": [
-      "/publications/working-papers/demsupport_data/index.html"
     ]
   },
   {
@@ -115,6 +109,12 @@
     "listing": "/publications/published/dem_support/short.html",
     "items": [
       "/publications/published/dem_support/index.html"
+    ]
+  },
+  {
+    "listing": "/publications/published/demsupport_data/short.html",
+    "items": [
+      "/publications/published/demsupport_data/index.html"
     ]
   },
   {

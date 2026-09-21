@@ -1,6 +1,6 @@
 ---
 title: "Public Support for Gay Rights Across Countries and Over Time"
-date: 2024-05-15
+date: 2024-12-20
 cite: >
   [Woo, Byung-Deuk](https://www.byung-deuk-woo.org),
   [Hyein Ko](https://www.heyikon.com),
@@ -9,14 +9,14 @@ cite: >
   [Frederick Solt](https://fsolt.org). 
   Forthcoming.
   "Public Support for Gay Rights Across Countries and Over Time."
-  _Social Science Quarterly_.
+  _Social Science Quarterly_ 106, e13478.
 author:
     - name: Byung-Deuk Woo
-      affiliation: Pohang University of Science and Technology
+      affiliation: Incheon National University
       url: https://www.byung-deuk-woo.org
       orcid: 0000-0001-6902-7576 
     - name: Hyein Ko
-      affiliation: University of Iowa
+      affiliation: University of Illinois at Urbana-Champaign
       url: https://heyikon.com
       orcid: 0000-0002-9497-9656      
     - name: Yuehong Cassandra Tai
@@ -48,9 +48,9 @@ links:
   url: https://dcpo.org/data/sgr/
   icon: fa-solid fa-database
 # pub_status:
-status: Forthcoming
-status_class: warning
-status_icon: fa-regular fa-clock
+# status: Forthcoming
+# status_class: warning
+# status_icon: fa-regular fa-clock
 # #   status: Writing
 # #   class: warning
 # #   icon: fas fa-edit
@@ -96,9 +96,10 @@ _Objective_. Support for gay rights has increased in the publics of many countri
  author = {Woo, Byung-Deuk and Ko, Hyein and Tai, Yuehong Cassandra and Hu, Yue and Solt, Frederick},
  title = {Public Support for Gay Rights Across Countries and Over Time},
  journal = {Social Science Quarterly},
- volume = {Early View},
+ volume = {106},
  number = {},
- pages = {},
+ pages = {e13478},
+ year={2024},
  doi = {https://doi.org/10.1111/ssqu.13478},
  url = {https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.13478}
 }

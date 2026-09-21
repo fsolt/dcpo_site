@@ -110,23 +110,27 @@
   </url>
   <url>
     <loc>https://dcpo.org/publications/published/gayrights/index.html</loc>
-    <lastmod>2026-09-21T00:34:45.891Z</lastmod>
+    <lastmod>2026-09-21T01:30:17.917Z</lastmod>
   </url>
   <url>
     <loc>https://dcpo.org/publications/published/macrointerest/index.html</loc>
-    <lastmod>2026-09-21T01:07:52.842Z</lastmod>
+    <lastmod>2026-09-21T01:48:39.272Z</lastmod>
   </url>
   <url>
     <loc>https://dcpo.org/publications/published/dem_mood/index.html</loc>
-    <lastmod>2026-09-21T00:34:45.879Z</lastmod>
+    <lastmod>2026-09-21T01:31:14.766Z</lastmod>
   </url>
   <url>
     <loc>https://dcpo.org/publications/published/discontent/index.html</loc>
-    <lastmod>2026-09-21T01:05:54.560Z</lastmod>
+    <lastmod>2026-09-21T01:49:49.951Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dcpo.org/publications/published/demsupport_data/index.html</loc>
+    <lastmod>2026-09-21T01:44:06.512Z</lastmod>
   </url>
   <url>
     <loc>https://dcpo.org/publications/published/dem_support/index.html</loc>
-    <lastmod>2026-09-21T00:41:06.154Z</lastmod>
+    <lastmod>2026-09-21T01:30:51.468Z</lastmod>
   </url>
   <url>
     <loc>https://dcpo.org/publications/working-papers/janitor_work/index.html</loc>
@@ -139,10 +143,6 @@
   <url>
     <loc>https://dcpo.org/publications/working-papers/trust_bureaucracy/index.html</loc>
     <lastmod>2026-09-21T00:34:45.914Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dcpo.org/publications/working-papers/demsupport_data/index.html</loc>
-    <lastmod>2026-09-21T00:34:45.908Z</lastmod>
   </url>
   <url>
     <loc>https://dcpo.org/publications/working-papers/dcpo_article/index.html</loc>
@@ -177,11 +177,11 @@
     <lastmod>2026-09-21T00:34:45.875Z</lastmod>
   </url>
   <url>
-    <loc>https://dcpo.org/papers/tai2025_pre/index.html</loc>
-    <lastmod>2026-09-21T00:34:45.875Z</lastmod>
+    <loc>https://dcpo.org/papers/solt2023_pre/index.html</loc>
+    <lastmod>2026-09-21T00:34:45.874Z</lastmod>
   </url>
   <url>
-    <loc>https://dcpo.org/papers/taihusolt2022_pre/index.html</loc>
+    <loc>https://dcpo.org/papers/taihusolt2022/index.html</loc>
     <lastmod>2026-09-21T00:34:45.875Z</lastmod>
   </url>
   <url>
@@ -189,12 +189,16 @@
     <lastmod>2026-09-21T00:34:45.875Z</lastmod>
   </url>
   <url>
-    <loc>https://dcpo.org/papers/taihusolt2022/index.html</loc>
+    <loc>https://dcpo.org/papers/taihusolt2022_pre/index.html</loc>
     <lastmod>2026-09-21T00:34:45.875Z</lastmod>
   </url>
   <url>
-    <loc>https://dcpo.org/papers/solt2023_pre/index.html</loc>
-    <lastmod>2026-09-21T00:34:45.874Z</lastmod>
+    <loc>https://dcpo.org/papers/tai2025_pre/index.html</loc>
+    <lastmod>2026-09-21T00:34:45.875Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dcpo.org/papers/hutaisolt2025/index.html</loc>
+    <lastmod>2026-09-21T01:37:32.076Z</lastmod>
   </url>
   <url>
     <loc>https://dcpo.org/papers/husolt2025/index.html</loc>
@@ -221,10 +225,6 @@
     <lastmod>2026-09-21T00:34:45.899Z</lastmod>
   </url>
   <url>
-    <loc>https://dcpo.org/publications/working-papers/demsupport_data/short.html</loc>
-    <lastmod>2026-09-21T00:34:45.908Z</lastmod>
-  </url>
-  <url>
     <loc>https://dcpo.org/publications/working-papers/trust_bureaucracy/short.html</loc>
     <lastmod>2026-09-21T00:34:45.914Z</lastmod>
   </url>
@@ -241,20 +241,24 @@
     <lastmod>2026-09-21T00:34:45.881Z</lastmod>
   </url>
   <url>
+    <loc>https://dcpo.org/publications/published/demsupport_data/short.html</loc>
+    <lastmod>2026-09-21T01:44:02.044Z</lastmod>
+  </url>
+  <url>
     <loc>https://dcpo.org/publications/published/discontent/short.html</loc>
-    <lastmod>2026-09-21T00:34:45.910Z</lastmod>
+    <lastmod>2026-09-21T01:49:59.919Z</lastmod>
   </url>
   <url>
     <loc>https://dcpo.org/publications/published/dem_mood/short.html</loc>
-    <lastmod>2026-09-21T00:34:45.880Z</lastmod>
+    <lastmod>2026-09-21T01:31:26.501Z</lastmod>
   </url>
   <url>
     <loc>https://dcpo.org/publications/published/macrointerest/short.html</loc>
-    <lastmod>2026-09-21T00:34:45.896Z</lastmod>
+    <lastmod>2026-09-21T01:53:35.696Z</lastmod>
   </url>
   <url>
     <loc>https://dcpo.org/publications/published/gayrights/short.html</loc>
-    <lastmod>2026-09-21T00:34:45.892Z</lastmod>
+    <lastmod>2026-09-21T01:25:08.394Z</lastmod>
   </url>
   <url>
     <loc>https://dcpo.org/publications/published/pge/short.html</loc>
