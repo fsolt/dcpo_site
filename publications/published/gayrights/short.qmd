@@ -7,7 +7,7 @@ cite: >
   [Yuehong Cassandra Tai](https://cassyuehtai.netlify.app), 
   [Yue Hu](https://sammo3182.github.io), and
   [Frederick Solt](https://fsolt.org). 
-  Forthcoming.
+  2024
   "Public Support for Gay Rights Across Countries and Over Time."
   _Social Science Quarterly_ 106, e13478.
 author:

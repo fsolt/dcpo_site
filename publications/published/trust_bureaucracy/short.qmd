@@ -2,7 +2,7 @@
 title: "Trust in Civil Servants: A Cross-National Dataset for Public Policy Research, 1986–2022"
 date: 2026-06-30
 cite: >
-  [Yuehong Cassandra Tai](https://cassyuehtai.netlify.app), and
+  [Tai, Yuehong Cassandra](https://cassyuehtai.netlify.app), and
   [Frederick Solt](https://fsolt.org). 
   2026.
   "Trust in Civil Servants: A Cross-National Dataset for Public Policy Research, 1986–2022."

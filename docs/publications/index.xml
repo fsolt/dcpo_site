@@ -16,7 +16,7 @@
 <height>63</height>
 <width>144</width>
 </image>
-<generator>quarto-1.7.31</generator>
+<generator>quarto-1.9.37</generator>
 <lastBuildDate>Tue, 11 Aug 2026 16:00:00 GMT</lastBuildDate>
 <item>
   <title>Macrodiscontent Across Countries</title>
@@ -84,7 +84,7 @@
 </section>
 <section id="bibtex-citation" class="level2">
 <h2 class="anchored" data-anchor-id="bibtex-citation">BibTeX citation</h2>
-<div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
 background-color: null;
 font-style: inherit;">@misc</span>{<span class="ot" style="color: #003B4F;
 background-color: null;
@@ -116,7 +116,7 @@ font-style: inherit;">number</span>={},</span>
 <span id="cb1-10"> <span class="dt" style="color: #AD0000;
 background-color: null;
 font-style: inherit;">pages</span>={1--17}</span>
-<span id="cb1-11">}</span></code></pre></div>
+<span id="cb1-11">}</span></code></pre></div></div>
 
 
 
@@ -146,7 +146,7 @@ font-style: inherit;">pages</span>={1--17}</span>
 <div class="project-details">
 <div class="project-content">
 <p>
-<a href="https://cassyuehtai.netlify.app">Yuehong Cassandra Tai</a>, and <a href="https://fsolt.org">Frederick Solt</a>. 2026. “Trust in Civil Servants: A Cross-National Dataset for Public Policy Research, 1986–2022.” <em>Political Studies</em>.
+<a href="https://cassyuehtai.netlify.app">Tai, Yuehong Cassandra</a>, and <a href="https://fsolt.org">Frederick Solt</a>. 2026. “Trust in Civil Servants: A Cross-National Dataset for Public Policy Research, 1986–2022.” <em>Political Studies</em>.
 </p>
 </div>
 <ul class="project-links">
@@ -202,7 +202,7 @@ font-style: inherit;">pages</span>={1--17}</span>
 </section>
 <section id="bibtex-citation" class="level2">
 <h2 class="anchored" data-anchor-id="bibtex-citation">BibTeX citation</h2>
-<div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
 background-color: null;
 font-style: inherit;">@misc</span>{<span class="ot" style="color: #003B4F;
 background-color: null;
@@ -228,7 +228,7 @@ font-style: inherit;">url</span>={https://doi.org/10.1177/00323217261450953},</s
 <span id="cb1-8"> <span class="dt" style="color: #AD0000;
 background-color: null;
 font-style: inherit;">doi</span>={10.1177/00323217261450953}</span>
-<span id="cb1-9">}</span></code></pre></div>
+<span id="cb1-9">}</span></code></pre></div></div>
 
 
 
@@ -256,7 +256,7 @@ font-style: inherit;">doi</span>={10.1177/00323217261450953}</span>
 <div class="project-details">
 <div class="project-content">
 <p>
-<a href="https://cassyuehtai.netlify.app">Yuehong Cassandra Tai</a> 2025. “Introducing the Trust in Government (TrustGov) Dataset: A New Resource for Cross-National Time-Series Trust Research.” <em>Research &amp; Politics</em> 13(1).
+<a href="https://cassyuehtai.netlify.app">Tai, Yuehong Cassandra</a>. 2025. “Introducing the Trust in Government (TrustGov) Dataset: A New Resource for Cross-National Time-Series Trust Research.” <em>Research &amp; Politics</em> 13(1).
 </p>
 </div>
 <ul class="project-links">
@@ -306,7 +306,7 @@ font-style: inherit;">doi</span>={10.1177/00323217261450953}</span>
 </section>
 <section id="bibtex-citation" class="level2">
 <h2 class="anchored" data-anchor-id="bibtex-citation">BibTeX citation</h2>
-<div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
 background-color: null;
 font-style: inherit;">@misc</span>{<span class="ot" style="color: #003B4F;
 background-color: null;
@@ -338,7 +338,7 @@ font-style: inherit;">doi</span> = {10.1177/20531680261432469},</span>
 <span id="cb1-10"> <span class="dt" style="color: #AD0000;
 background-color: null;
 font-style: inherit;">url</span> = {https://doi.org/10.1177/20531680261432469}</span>
-<span id="cb1-11">}</span></code></pre></div>
+<span id="cb1-11">}</span></code></pre></div></div>
 
 
 
@@ -426,7 +426,7 @@ font-style: inherit;">url</span> = {https://doi.org/10.1177/20531680261432469}</
 </section>
 <section id="bibtex-citation" class="level2">
 <h2 class="anchored" data-anchor-id="bibtex-citation">BibTeX citation</h2>
-<div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
 background-color: null;
 font-style: inherit;">@misc</span>{<span class="ot" style="color: #003B4F;
 background-color: null;
@@ -456,7 +456,7 @@ font-style: inherit;">url</span>={doi.org/10.1177/20531680251341857},</span>
 background-color: null;
 font-style: inherit;">doi</span>={10.1177/20531680251341857</span>
 <span id="cb1-10">}</span>
-<span id="cb1-11">}</span></code></pre></div>
+<span id="cb1-11">}</span></code></pre></div></div>
 
 
 
@@ -542,7 +542,7 @@ font-style: inherit;">doi</span>={10.1177/20531680251341857</span>
 </section>
 <section id="bibtex-citation" class="level2">
 <h2 class="anchored" data-anchor-id="bibtex-citation">BibTeX citation</h2>
-<div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
 background-color: null;
 font-style: inherit;">@article</span>{<span class="ot" style="color: #003B4F;
 background-color: null;
@@ -571,7 +571,7 @@ font-style: inherit;">number</span> = {},</span>
 <span id="cb1-9"> <span class="dt" style="color: #AD0000;
 background-color: null;
 font-style: inherit;">pages</span> = {e71}</span>
-<span id="cb1-10">}</span></code></pre></div>
+<span id="cb1-10">}</span></code></pre></div></div>
 
 
 
@@ -604,7 +604,7 @@ font-style: inherit;">pages</span> = {e71}</span>
 <div class="project-details">
 <div class="project-content">
 <p>
-<a href="https://www.byung-deuk-woo.org">Woo, Byung-Deuk</a>, <a href="https://www.heyikon.com">Hyein Ko</a>, <a href="https://cassyuehtai.netlify.app">Yuehong Cassandra Tai</a>, <a href="https://sammo3182.github.io">Yue Hu</a>, and <a href="https://fsolt.org">Frederick Solt</a>. Forthcoming. “Public Support for Gay Rights Across Countries and Over Time.” <em>Social Science Quarterly</em> 106, e13478.
+<a href="https://www.byung-deuk-woo.org">Woo, Byung-Deuk</a>, <a href="https://www.heyikon.com">Hyein Ko</a>, <a href="https://cassyuehtai.netlify.app">Yuehong Cassandra Tai</a>, <a href="https://sammo3182.github.io">Yue Hu</a>, and <a href="https://fsolt.org">Frederick Solt</a>. 2024 “Public Support for Gay Rights Across Countries and Over Time.” <em>Social Science Quarterly</em> 106, e13478.
 </p>
 </div>
 <ul class="project-links">
@@ -666,7 +666,7 @@ font-style: inherit;">pages</span> = {e71}</span>
 </section>
 <section id="bibtex-citation" class="level2">
 <h2 class="anchored" data-anchor-id="bibtex-citation">BibTeX citation</h2>
-<div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
 background-color: null;
 font-style: inherit;">@article</span>{<span class="ot" style="color: #003B4F;
 background-color: null;
@@ -698,7 +698,7 @@ font-style: inherit;">doi</span> = {10.1111/ssqu.13478},</span>
 <span id="cb1-10"> <span class="dt" style="color: #AD0000;
 background-color: null;
 font-style: inherit;">url</span> = {https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.13478}</span>
-<span id="cb1-11">}</span></code></pre></div>
+<span id="cb1-11">}</span></code></pre></div></div>
 
 
 
@@ -776,7 +776,7 @@ font-style: inherit;">url</span> = {https://onlinelibrary.wiley.com/doi/abs/10.1
 </section>
 <section id="bibtex-citation" class="level2">
 <h2 class="anchored" data-anchor-id="bibtex-citation">BibTeX citation</h2>
-<div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
 background-color: null;
 font-style: inherit;">@article</span>{<span class="ot" style="color: #003B4F;
 background-color: null;
@@ -805,7 +805,7 @@ font-style: inherit;">pages</span> = {237-243},</span>
 <span id="cb1-9"><span class="dt" style="color: #AD0000;
 background-color: null;
 font-style: inherit;">doi</span>={10.1017/psrm.2024.16}</span>
-<span id="cb1-10">}</span></code></pre></div>
+<span id="cb1-10">}</span></code></pre></div></div>
 
 
 
@@ -878,7 +878,7 @@ font-style: inherit;">doi</span>={10.1017/psrm.2024.16}</span>
 </section>
 <section id="bibtex-citation" class="level2">
 <h2 class="anchored" data-anchor-id="bibtex-citation">BibTeX Citation</h2>
-<div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
 background-color: null;
 font-style: inherit;">@article</span>{<span class="ot" style="color: #003B4F;
 background-color: null;
@@ -906,7 +906,7 @@ background-color: null;
 font-style: inherit;">pages</span> = {512-518},</span>
 <span id="cb1-9">    <span class="dt" style="color: #AD0000;
 background-color: null;
-font-style: inherit;">doi</span> = {doi.org/10.1017/S0003055422000429}}</span></code></pre></div>
+font-style: inherit;">doi</span> = {doi.org/10.1017/S0003055422000429}}</span></code></pre></div></div>
 
 
 
@@ -988,7 +988,7 @@ font-style: inherit;">doi</span> = {doi.org/10.1017/S0003055422000429}}</span></
 </section>
 <section id="bibtex-citation" class="level2">
 <h2 class="anchored" data-anchor-id="bibtex-citation">BibTeX citation</h2>
-<div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
 background-color: null;
 font-style: inherit;">@article</span>{<span class="ot" style="color: #003B4F;
 background-color: null;
@@ -1016,7 +1016,7 @@ background-color: null;
 font-style: inherit;">pages</span> = {766-755},</span>
 <span id="cb1-9">    <span class="dt" style="color: #AD0000;
 background-color: null;
-font-style: inherit;">doi</span> = {10.1017/S0007123422000436}}</span></code></pre></div>
+font-style: inherit;">doi</span> = {10.1017/S0007123422000436}}</span></code></pre></div></div>
 
 
 
@@ -1090,7 +1090,7 @@ font-style: inherit;">doi</span> = {10.1017/S0007123422000436}}</span></code></p
 </section>
 <section id="bibtex-citation" class="level2">
 <h2 class="anchored" data-anchor-id="bibtex-citation">BibTeX citation</h2>
-<div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
 background-color: null;
 font-style: inherit;">@misc</span>{<span class="ot" style="color: #003B4F;
 background-color: null;
@@ -1116,7 +1116,7 @@ font-style: inherit;">url</span>={osf.io/preprints/socarxiv/kd7mu},</span>
 <span id="cb1-8"> <span class="dt" style="color: #AD0000;
 background-color: null;
 font-style: inherit;">doi</span>={10.31235/osf.io/kd7mu}</span>
-<span id="cb1-9">}</span></code></pre></div>
+<span id="cb1-9">}</span></code></pre></div></div>
 
 
 
@@ -1145,7 +1145,7 @@ font-style: inherit;">doi</span>={10.31235/osf.io/kd7mu}</span>
 <div class="project-details">
 <div class="project-content">
 <p>
-<strong>Frederick Solt</strong>. 2020. “Modeling Dynamic Comparative Public Opinion.” <em>SocArXiv</em>.
+<strong>Solt, Frederick</strong>. 2020. “Modeling Dynamic Comparative Public Opinion.” <em>SocArXiv</em>.
 </p>
 </div>
 <ul class="project-links">
@@ -1181,7 +1181,7 @@ font-style: inherit;">doi</span>={10.31235/osf.io/kd7mu}</span>
 </section>
 <section id="bibtex-citation" class="level2">
 <h2 class="anchored" data-anchor-id="bibtex-citation">BibTeX citation</h2>
-<div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
 background-color: null;
 font-style: inherit;">@misc</span>{<span class="ot" style="color: #003B4F;
 background-color: null;
@@ -1207,7 +1207,7 @@ font-style: inherit;">url</span>={osf.io/preprints/socarxiv/d5n9p},</span>
 <span id="cb1-8"> <span class="dt" style="color: #AD0000;
 background-color: null;
 font-style: inherit;">doi</span>={10.31235/osf.io/d5n9p}</span>
-<span id="cb1-9">}</span></code></pre></div>
+<span id="cb1-9">}</span></code></pre></div></div>
 
 
 

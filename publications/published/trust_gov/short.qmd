@@ -2,7 +2,7 @@
 title: "Introducing the Trust in Government (TrustGov) Dataset: A New Resource for Cross-National Time-Series Trust Research"
 date: 2026-03-01
 cite: >
-  [Yuehong Cassandra Tai](https://cassyuehtai.netlify.app)
+  [Tai, Yuehong Cassandra](https://cassyuehtai.netlify.app).
   2025.
   "Introducing the Trust in Government (TrustGov) Dataset: A New Resource for Cross-National Time-Series Trust Research."
   _Research & Politics_ 13(1).

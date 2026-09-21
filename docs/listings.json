@@ -1,20 +1,14 @@
 [
   {
-    "listing": "/publications/published/pge/index.html",
+    "listing": "/publications/working-papers/janitor_work/index.html",
     "items": [
-      "/publications/published/pge/short.html"
+      "/publications/working-papers/janitor_work/short.html"
     ]
   },
   {
-    "listing": "/publications/published/gayrights/index.html",
+    "listing": "/publications/working-papers/dcpo_article/index.html",
     "items": [
-      "/publications/published/gayrights/short.html"
-    ]
-  },
-  {
-    "listing": "/publications/published/macrointerest/index.html",
-    "items": [
-      "/publications/published/macrointerest/short.html"
+      "/publications/working-papers/dcpo_article/short.html"
     ]
   },
   {
@@ -30,9 +24,21 @@
     ]
   },
   {
-    "listing": "/publications/published/dem_mood/index.html",
+    "listing": "/publications/published/pge/index.html",
     "items": [
-      "/publications/published/dem_mood/short.html"
+      "/publications/published/pge/short.html"
+    ]
+  },
+  {
+    "listing": "/publications/published/macrointerest/index.html",
+    "items": [
+      "/publications/published/macrointerest/short.html"
+    ]
+  },
+  {
+    "listing": "/publications/published/gayrights/index.html",
+    "items": [
+      "/publications/published/gayrights/short.html"
     ]
   },
   {
@@ -42,109 +48,21 @@
     ]
   },
   {
-    "listing": "/publications/published/demsupport_data/index.html",
-    "items": [
-      "/publications/published/demsupport_data/short.html"
-    ]
-  },
-  {
     "listing": "/publications/published/dem_support/index.html",
     "items": [
       "/publications/published/dem_support/short.html"
     ]
   },
   {
-    "listing": "/publications/working-papers/janitor_work/index.html",
+    "listing": "/publications/published/dem_mood/index.html",
     "items": [
-      "/publications/working-papers/janitor_work/short.html"
+      "/publications/published/dem_mood/short.html"
     ]
   },
   {
-    "listing": "/publications/working-papers/dcpo_article/index.html",
+    "listing": "/publications/published/demsupport_data/index.html",
     "items": [
-      "/publications/working-papers/dcpo_article/short.html"
-    ]
-  },
-  {
-    "listing": "/publications/index.html",
-    "items": [
-      "/publications/published/discontent/index.html",
-      "/publications/published/trust_bureaucracy/index.html",
-      "/publications/published/trust_gov/index.html",
-      "/publications/published/demsupport_data/index.html",
-      "/publications/published/macrointerest/index.html",
-      "/publications/published/gayrights/index.html",
-      "/publications/published/dem_mood/index.html",
-      "/publications/published/dem_support/index.html",
-      "/publications/published/pge/index.html",
-      "/publications/working-papers/janitor_work/index.html",
-      "/publications/working-papers/dcpo_article/index.html"
-    ]
-  },
-  {
-    "listing": "/publications/working-papers/dcpo_article/short.html",
-    "items": [
-      "/publications/working-papers/dcpo_article/index.html"
-    ]
-  },
-  {
-    "listing": "/publications/working-papers/janitor_work/short.html",
-    "items": [
-      "/publications/working-papers/janitor_work/index.html"
-    ]
-  },
-  {
-    "listing": "/publications/published/dem_support/short.html",
-    "items": [
-      "/publications/published/dem_support/index.html"
-    ]
-  },
-  {
-    "listing": "/publications/published/demsupport_data/short.html",
-    "items": [
-      "/publications/published/demsupport_data/index.html"
-    ]
-  },
-  {
-    "listing": "/publications/published/discontent/short.html",
-    "items": [
-      "/publications/published/discontent/index.html"
-    ]
-  },
-  {
-    "listing": "/publications/published/dem_mood/short.html",
-    "items": [
-      "/publications/published/dem_mood/index.html"
-    ]
-  },
-  {
-    "listing": "/publications/published/trust_bureaucracy/short.html",
-    "items": [
-      "/publications/published/trust_bureaucracy/index.html"
-    ]
-  },
-  {
-    "listing": "/publications/published/trust_gov/short.html",
-    "items": [
-      "/publications/published/trust_gov/index.html"
-    ]
-  },
-  {
-    "listing": "/publications/published/macrointerest/short.html",
-    "items": [
-      "/publications/published/macrointerest/index.html"
-    ]
-  },
-  {
-    "listing": "/publications/published/gayrights/short.html",
-    "items": [
-      "/publications/published/gayrights/index.html"
-    ]
-  },
-  {
-    "listing": "/publications/published/pge/short.html",
-    "items": [
-      "/publications/published/pge/index.html"
+      "/publications/published/demsupport_data/short.html"
     ]
   },
   {
@@ -156,15 +74,17 @@
     ]
   },
   {
-    "listing": "/team/index.html",
+    "listing": "/data/pge/pge_faq/index.html",
     "items": [
-      "/team/jeongho.html",
-      "/team/haofeng.html",
-      "/team/hyein.html",
-      "/team/cassandra.html",
-      "/team/byung-deuk.html",
-      "/team/hu.html",
-      "/team/fsolt.html"
+      "/data/pge/pge_faq/posts/data/partition-and-successors.html",
+      "/data/pge/pge_faq/posts/data/changes-between-versions.html",
+      "/data/pge/pge_faq/posts/data/germany.html",
+      "/data/pge/pge_faq/posts/how-to/download-pge.html",
+      "/data/pge/pge_faq/posts/how-to/not-a-stata-file.html",
+      "/data/pge/pge_faq/posts/how-to/csv-format.html",
+      "/data/pge/pge_faq/posts/how-to/stata-time-series.html",
+      "/data/pge/pge_faq/posts/how-to/mean-and-std-err.html",
+      "/data/pge/pge_faq/posts/how-to/country-codes.html"
     ]
   },
   {
@@ -196,17 +116,97 @@
     ]
   },
   {
-    "listing": "/data/pge/pge_faq/index.html",
+    "listing": "/publications/index.html",
     "items": [
-      "/data/pge/pge_faq/posts/data/partition-and-successors.html",
-      "/data/pge/pge_faq/posts/data/changes-between-versions.html",
-      "/data/pge/pge_faq/posts/data/germany.html",
-      "/data/pge/pge_faq/posts/how-to/download-pge.html",
-      "/data/pge/pge_faq/posts/how-to/not-a-stata-file.html",
-      "/data/pge/pge_faq/posts/how-to/csv-format.html",
-      "/data/pge/pge_faq/posts/how-to/stata-time-series.html",
-      "/data/pge/pge_faq/posts/how-to/mean-and-std-err.html",
-      "/data/pge/pge_faq/posts/how-to/country-codes.html"
+      "/publications/published/discontent/index.html",
+      "/publications/published/trust_bureaucracy/index.html",
+      "/publications/published/trust_gov/index.html",
+      "/publications/published/demsupport_data/index.html",
+      "/publications/published/macrointerest/index.html",
+      "/publications/published/gayrights/index.html",
+      "/publications/published/dem_mood/index.html",
+      "/publications/published/dem_support/index.html",
+      "/publications/published/pge/index.html",
+      "/publications/working-papers/janitor_work/index.html",
+      "/publications/working-papers/dcpo_article/index.html"
+    ]
+  },
+  {
+    "listing": "/publications/published/demsupport_data/short.html",
+    "items": [
+      "/publications/published/demsupport_data/index.html"
+    ]
+  },
+  {
+    "listing": "/publications/published/dem_mood/short.html",
+    "items": [
+      "/publications/published/dem_mood/index.html"
+    ]
+  },
+  {
+    "listing": "/publications/published/dem_support/short.html",
+    "items": [
+      "/publications/published/dem_support/index.html"
+    ]
+  },
+  {
+    "listing": "/publications/published/discontent/short.html",
+    "items": [
+      "/publications/published/discontent/index.html"
+    ]
+  },
+  {
+    "listing": "/publications/published/gayrights/short.html",
+    "items": [
+      "/publications/published/gayrights/index.html"
+    ]
+  },
+  {
+    "listing": "/publications/published/macrointerest/short.html",
+    "items": [
+      "/publications/published/macrointerest/index.html"
+    ]
+  },
+  {
+    "listing": "/publications/published/pge/short.html",
+    "items": [
+      "/publications/published/pge/index.html"
+    ]
+  },
+  {
+    "listing": "/publications/published/trust_bureaucracy/short.html",
+    "items": [
+      "/publications/published/trust_bureaucracy/index.html"
+    ]
+  },
+  {
+    "listing": "/publications/published/trust_gov/short.html",
+    "items": [
+      "/publications/published/trust_gov/index.html"
+    ]
+  },
+  {
+    "listing": "/publications/working-papers/dcpo_article/short.html",
+    "items": [
+      "/publications/working-papers/dcpo_article/index.html"
+    ]
+  },
+  {
+    "listing": "/publications/working-papers/janitor_work/short.html",
+    "items": [
+      "/publications/working-papers/janitor_work/index.html"
+    ]
+  },
+  {
+    "listing": "/team/index.html",
+    "items": [
+      "/team/jeongho.html",
+      "/team/haofeng.html",
+      "/team/hyein.html",
+      "/team/cassandra.html",
+      "/team/byung-deuk.html",
+      "/team/hu.html",
+      "/team/fsolt.html"
     ]
   }
 ]
