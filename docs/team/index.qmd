@@ -1,0 +1,23 @@
+---
+title: "Team"
+subtitle: "Meet the people working on Dynamic Comparative Public Opinion"
+toc: true
+page-layout: full
+listing: 
+  type: grid
+  id: team
+  sort: order asc
+  sort-ui: false
+  filter-ui: false
+  contents:
+    - jeongho.qmd
+    - haofeng.qmd 
+    - hyein.qmd
+    - cassandra.qmd
+    - byung-deuk.qmd
+    - hu.qmd
+    - fsolt.qmd
+---
+
+
+

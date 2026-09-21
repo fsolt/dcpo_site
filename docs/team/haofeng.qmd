@@ -1,0 +1,24 @@
+---
+title: "Haofeng Ma"
+image: haofeng.jpeg
+order: 2
+about:
+  template: solana
+  image: haofeng.jpeg
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/haofengma
+    - icon: globe
+      text: website
+      href: https://haofengma.org
+    - icon: envelope
+      text: email
+      href: mailto:mahaofeng@cuhk.edu.cn
+    - icon: chat-left-quote
+      text: "Google Scholar"
+      href: https://scholar.google.com/citations?user=9qgR0BwAAAAJ&hl
+    
+---
+
+Haofeng Ma is a Postdoctoral Fellow in the Institute of Computational Social Science at The Chinese University of Hong Kong, Shenzhen. He received his PhD in Political Science from The University of Iowa in 2024. His research focuses on comparative public opinion, political behavior, political linguistics, ethnicity and migration, and political and economic development. Methodologically, He employs Bayesian latent modeling, natural language processing, and spatial analysis to collect and analyze data.
