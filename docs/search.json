@@ -137,7 +137,7 @@
     "href": "team/cassandra.html",
     "title": "Yuehong Cassandra Tai",
     "section": "",
-    "text": "Yuehong ‘Cassandra’ Tai is a postdoctoral scholar at the Center for Social Data Analytics (C-SoDA) at Pennsylvania State University. Her research examines public opinion and elite behavior in comparative contexts and within the United States, using thousands of national survey datasets, millions of social media posts, Bayesian and text analysis, and machine learning methods."
+    "text": "Yuehong ‘Cassandra’ Tai is an Assistant Research Professor and Assistant Director of the Center for Social Data Analytics (C-SoDA) at Pennsylvania State University. Her research focuses on measuring complex latent variables in political and social contexts, applying computational and statistical approaches to capture public opinion and elite online behavior patterns. By leveraging large language models and Bayesian analysis to analyze large-scale textual and survey data, she examines how citizens and state actors interact across various policy domains, including climate politics, both in the United States and in comparative contexts."
   },
   {
     "objectID": "team/haofeng.html",
@@ -151,7 +151,7 @@
     "href": "team/jeongho.html",
     "title": "Jeongho Choi",
     "section": "",
-    "text": "Jeongho is a Ph.D. candidate in the Department of Political Science at the University of Iowa. His research focuses on comparative politics, public opinion, and political behavior, particularly exploring populism, political representation, public support for democracy, and democratic backsliding. Methodologically, he uses various quantitative methods, including multilevel modeling, computational text analysis, and machine learning. His dissertation investigates how issue-congruence between the public and political parties influences public support for populism in different regions and argues that public support for populism is a response to discontent with contemporary democratic systems. Jeongho serves on the Steering Committee of the Young Scholars Initiative on Populism (OPUS), a division within the international research network in populism studies, Team Populism. He holds both an M.A. and a B.A. (Graduated with High Distinction) in Political Science from Kyung Hee University, South Korea."
+    "text": "Jeongho is an assistant professor in the deparment of Political Science at Kyung Hee University. His research focuses on comparative politics, public opinion, and political behavior, particularly exploring populism, political representation, public support for democracy, and democratic backsliding. Methodologically, he uses various quantitative methods, including multilevel modeling, computational text analysis, and machine learning. His dissertation investigates how issue-congruence between the public and political parties influences public support for populism in different regions and argues that public support for populism is a response to discontent with contemporary democratic systems."
   },
   {
     "objectID": "news/posts/macrointerest-data-now-available.html",
@@ -172,7 +172,7 @@
     "href": "publications/published/pge/index.html",
     "title": "Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere",
     "section": "",
-    "text": "Woo, Byung-Deuk, Lindsey A. Goldberg, and Frederick Solt. 2023. “Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere.” British Journal of Political Science 53(2), 766-775.\n\n\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n PGE Database\n\n\n\n\n\nOther details: Presented at the annual meeting of the Midwest Political Science Association (MPSA), April 2022.\n\n\n\n\n\nNo matching items"
+    "text": "Woo, Byung-Deuk, Lindsey A. Goldberg, and Frederick Solt. 2023. “Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere.” British Journal of Political Science 53(2), 766-775.\n\n\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n PGE Database\n\n\n\n\n\nOther details: Presented at the annual meeting of the Midwest Political Science Association (MPSA), April 2022.\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications/published/pge/index.html#abstract",
@@ -200,7 +200,7 @@
     "href": "publications/published/gayrights/index.html",
     "title": "Public Support for Gay Rights Across Countries and Over Time",
     "section": "",
-    "text": "Woo, Byung-Deuk, Hyein Ko, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. Forthcoming. “Public Support for Gay Rights Across Countries and Over Time.” Social Science Quarterly.\n\n\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n SGR Database\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Woo, Byung-Deuk, Hyein Ko, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. Forthcoming. “Public Support for Gay Rights Across Countries and Over Time.” Social Science Quarterly.\n\n\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n SGR Database\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications/published/gayrights/index.html#abstract",
@@ -228,7 +228,7 @@
     "href": "publications/published/macrointerest/index.html",
     "title": "Macrointerest Across Countries",
     "section": "",
-    "text": "Hu, Yue and Frederick Solt. Forthcoming. “Macrointerest Across Countries.” British Journal of Political Science.\n\n\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n CNM Database\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Hu, Yue and Frederick Solt. Forthcoming. “Macrointerest Across Countries.” British Journal of Political Science.\n\n\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n CNM Database\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications/published/macrointerest/index.html#abstract",
@@ -249,14 +249,14 @@
     "href": "publications/published/macrointerest/index.html#bibtex-citation",
     "title": "Macrointerest Across Countries",
     "section": "BibTeX citation",
-    "text": "BibTeX citation\n@article{HuSolt2024,\n author={Hu, Yue, and Solt, Frederick},\n title={Macrointerest Across Countries},\n journal={British Journal of Political Science},\n year={Forthcoming}\n}"
+    "text": "BibTeX citation\n@article{HuSolt2025,\n author={Hu, Yue, and Solt, Frederick},\n title={Macrointerest Across Countries},\n journal={British Journal of Political Science},\n doi = {https://doi.org/10.1017/S0007123424001042},\n year={2025}\n}"
   },
   {
     "objectID": "publications/published/dem_mood/index.html",
     "href": "publications/published/dem_mood/index.html",
     "title": "Revisiting the Evidence on Thermostatic Response to Democratic Change: Degrees of Democratic Support or Researcher Degrees of Freedom?",
     "section": "",
-    "text": "Hu, Yue, Yuehong Cassandra Tai, and Frederick Solt. Forthcoming. “Revisiting the Evidence on Thermostatic Response to Democratic Change: Degrees of Democratic Support or Researcher Degrees of Freedom?” Political Science Research and Methods.\n\n\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Hu, Yue, Yuehong Cassandra Tai, and Frederick Solt. Forthcoming. “Revisiting the Evidence on Thermostatic Response to Democratic Change: Degrees of Democratic Support or Researcher Degrees of Freedom?” Political Science Research and Methods.\n\n\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications/published/dem_mood/index.html#abstract",
@@ -280,11 +280,39 @@
     "text": "BibTeX citation\n@article{HuTaiSolt2024,\nauthor={Hu, Yue and Tai, Yuehong Cassandra and Solt, Frederick},\ntitle={Revisiting the Evidence on Thermostatic Response to Democratic Change: Degrees of Democratic Support or Researcher Degrees of Freedom?},\njournal = {Political Science Research and Methods},\nyear = {Forthcoming},\ndoi={10.1017/psrm.2024.16}\n}"
   },
   {
+    "objectID": "publications/published/discontent/index.html",
+    "href": "publications/published/discontent/index.html",
+    "title": "Macrodiscontent Across Countries",
+    "section": "",
+    "text": "Ma, Haofeng, Jeongho Choi, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. 2024. “Macrodiscontent Across Countries.” SocArXiv.\n\n\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications/published/discontent/index.html#abstract",
+    "href": "publications/published/discontent/index.html#abstract",
+    "title": "Macrodiscontent Across Countries",
+    "section": "Abstract",
+    "text": "Abstract\nPublic discontent with the political system has become an increasingly salient concern in recent years, with the argument that it undermines democratic stability and effective governance. Nevertheless, the understanding of the nature, trends, and drivers of political discontent remain debated, largely reflecting the constraints from available survey data and items in the construction of measurement. This article takes advantage of state-of-the-art latent-variable modeling to aggregate survey responses and a comprehensive collection of survey data to generate dynamic comparative estimates of public political discontent (PPD) for 136 countries and regions over 56 years (1968–2023). These PPD scores are validated with responses to the individual source-data survey items that were used to generate them as well as the democratic evaluation survey item that was not used in our estimation. Next, a cross-national and longitudinal analysis of PPD in advanced democracies (i.e., OECD countries) highlights that PPD has been on a rising trend, rather than merely trendless fluctuations. Our results reveal that these increased discontents are largely attributable to worsening economic conditions, including low average income, slow growth, and high unemployment rates."
+  },
+  {
+    "objectID": "publications/published/discontent/index.html#important-figures",
+    "href": "publications/published/discontent/index.html#important-figures",
+    "title": "Macrodiscontent Across Countries",
+    "section": "Important figures",
+    "text": "Important figures\n\n\n\nFigure 5: Political Discontent Scores Over Time Within OECD Democracies\n\n\n\n\n\nFigure 6: Predicting Public Political Discontent in OECD Countries"
+  },
+  {
+    "objectID": "publications/published/discontent/index.html#bibtex-citation",
+    "href": "publications/published/discontent/index.html#bibtex-citation",
+    "title": "Macrodiscontent Across Countries",
+    "section": "BibTeX citation",
+    "text": "BibTeX citation\n@misc{MaChoiTaiHuSolt2026,\n title={Macrodiscontent Across Countries},\n DOI={doi.org/10.1017/S1755773926100599},\n publisher={European Political Science Review},\n author={Ma, Haofeng and Choi, Jeongho and Tai, Yuehong Cassandra and Hu, Yue and Solt, Frederick},\n year={2026},\n month={Aug}\n}"
+  },
+  {
     "objectID": "publications/published/dem_support/index.html",
     "href": "publications/published/dem_support/index.html",
     "title": "Democracy, Public Support, and Measurement Uncertainty",
     "section": "",
-    "text": "Tai, Yuehong ‘Cassandra’, Yue Hu, and Frederick Solt. 2024. “Democracy, Public Support, and Measurement Uncertainty.” American Political Science Review 118(1):512-518.\n\n\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n\n\n\nOther details: Presented at the annual meeting of the Midwest Political Science Association (MPSA), April 2022.\n\n\n\n\n\nNo matching items"
+    "text": "Tai, Yuehong ‘Cassandra’, Yue Hu, and Frederick Solt. 2024. “Democracy, Public Support, and Measurement Uncertainty.” American Political Science Review 118(1):512-518.\n\n\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n\n\n\nOther details: Presented at the annual meeting of the Midwest Political Science Association (MPSA), April 2022.\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications/published/dem_support/index.html#abstract",
@@ -312,7 +340,7 @@
     "href": "publications/working-papers/janitor_work/index.html",
     "title": "On Data ‘Janitor Work’ in Political Science: The Case of Thermostatic Support for Democracy",
     "section": "",
-    "text": "Hu, Yue, Yuehong Cassandra Tai, and Frederick Solt. 2022. “On Data ‘Janitor Work’ in Political Science: The Case of Thermostatic Support for Democracy.” SocArXiv.\n\n\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Hu, Yue, Yuehong Cassandra Tai, and Frederick Solt. 2022. “On Data ‘Janitor Work’ in Political Science: The Case of Thermostatic Support for Democracy.” SocArXiv.\n\n\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications/working-papers/janitor_work/index.html#abstract",
@@ -336,11 +364,39 @@
     "text": "BibTeX citation\n@misc{HuTaiSolt2022,\n author={Hu, Yue and Tai, Yuehong Cassandra and Solt, Frederick},\n title={On Data 'Janitor Work' in Political Science: The Case of Thermostatic Support for Democracy},\n publisher={SocArXiv},\n year={2022},\n month={June}, \n url={osf.io/preprints/socarxiv/kd7mu},\n doi={10.31235/osf.io/kd7mu}\n}"
   },
   {
+    "objectID": "publications/working-papers/trust_gov/index.html",
+    "href": "publications/working-papers/trust_gov/index.html",
+    "title": "Comparative Estimates of Public Trust in Government Across 116 Countries, 1973–2020",
+    "section": "",
+    "text": "Yuehong Cassandra Tai. 2025. “Comparative Estimates of Public Trust in Government Across 116 Countries, 1973–2020.” SocArXiv.\n\n\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications/working-papers/trust_gov/index.html#abstract",
+    "href": "publications/working-papers/trust_gov/index.html#abstract",
+    "title": "Comparative Estimates of Public Trust in Government Across 116 Countries, 1973–2020",
+    "section": "Abstract",
+    "text": "Abstract\nPolitical trust plays a critical role in understanding key political questions, including regime support, democratic legitimacy, policy preferences, and political behavior. However, the lack of comparable, cross-national data has limited scholars’ ability to analyze the relationship of political trust with quantities of interest and to generalize findings across different countries and time periods. To address this gap, this paper introduces the Trust in Government (TGOV) Dataset, a time-series cross-sectional resource covering 116 countries from 1973 to 2020. Built using a Bayesian latent variable model, TGOV harmonizes 1,555 country-year observations from 189 national and cross-national surveys, providing mean estimates of trust in government alongside full posterior distributions to account for measurement uncertainty. The TGOV dataset demonstrates robustness in a series of internal and external validations, as well as in the construct validation test, confirming that the TGOV scores are a valid measure of public trust in national government. The TGOV dataset enables scholars to analyze trust’s dynamic relationships with institutional performance, policy outcomes, and crisis resilience across political systems. More broadly, it supports interdisciplinary research on governance, inequality, state-society relations, public health compliance, climate policy acceptance, and digital governance innovations."
+  },
+  {
+    "objectID": "publications/working-papers/trust_gov/index.html#important-figures",
+    "href": "publications/working-papers/trust_gov/index.html#important-figures",
+    "title": "Comparative Estimates of Public Trust in Government Across 116 Countries, 1973–2020",
+    "section": "Important figures",
+    "text": "Important figures\n\n\n\nFigure 2: TGOV Scores, Most Recent Available Year\n\n\n\n\n\nFigure 3: TGOV Scores Over Time Within Selected Countries\n\n\n\n\n\nFigure 6: Construct Validation: Correlations Between TGOV Scores, Satisfaction with System Performance, Corruption, and Executive Approval Estimates"
+  },
+  {
+    "objectID": "publications/working-papers/trust_gov/index.html#bibtex-citation",
+    "href": "publications/working-papers/trust_gov/index.html#bibtex-citation",
+    "title": "Comparative Estimates of Public Trust in Government Across 116 Countries, 1973–2020",
+    "section": "BibTeX citation",
+    "text": "BibTeX citation\n@misc{Tai2025,\n author={Tai, Yuehong Cassandra},\n title={Comparative Estimates of Public Trust in Government Across 116 Countries, 1973–2020},\n publisher={SocArXiv},\n year={2025},\n month={April}\n}"
+  },
+  {
     "objectID": "publications/working-papers/trust_bureaucracy/index.html",
     "href": "publications/working-papers/trust_bureaucracy/index.html",
     "title": "Trust in Civil Servants: A Cross-National Dataset for Public Policy Research, 1986–2022",
     "section": "",
-    "text": "Yuehong Cassandra Tai, and Frederick Solt. 2024. “Trust in Civil Servants: A Cross-National Dataset for Public Policy Research, 1986–2022.” SocArXiv.\n\n\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Yuehong Cassandra Tai, and Frederick Solt. 2024. “Trust in Civil Servants: A Cross-National Dataset for Public Policy Research, 1986–2022.” SocArXiv.\n\n\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications/working-papers/trust_bureaucracy/index.html#abstract",
@@ -364,39 +420,11 @@
     "text": "BibTeX citation\n@misc{TaiSolt2024,\n author={Tai, Yuehong Cassandra and Solt, Frederick},\n title={Trust in Civil Servants: A Cross-National Dataset for Public Policy Research, 1986–2022},\n publisher={SocArXiv},\n year={2024},\n month={December}, \n url={https://osf.io/preprints/socarxiv/vjuah},\n doi={10.31235/osf.io/vjuah}\n}"
   },
   {
-    "objectID": "publications/working-papers/discontent/index.html",
-    "href": "publications/working-papers/discontent/index.html",
-    "title": "Macrodiscontent Across Countries",
-    "section": "",
-    "text": "Ma, Haofeng, Jeongho Choi, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. 2024. “Macrodiscontent Across Countries.” SocArXiv.\n\n\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "publications/working-papers/discontent/index.html#abstract",
-    "href": "publications/working-papers/discontent/index.html#abstract",
-    "title": "Macrodiscontent Across Countries",
-    "section": "Abstract",
-    "text": "Abstract\nPublic discontent with the political system has become an increasingly salient concern in recent years, with the argument that it undermines democratic stability and effective governance. Nevertheless, the understanding of the nature, trends, and drivers of political discontent remains debated, largely reflecting the constraints from available survey data and items in the construction of measurement. This article takes advantage of the state-of-the-art latent-variable modeling to aggregat survey responses and a comprehensive collection of survey data to generate dynamic comparative estimates of public political discontent (PPD) for over a hundred countries over the past four decades. These PPD scores are validated with responses to the individual source-data survey items that were used to generate them as well as the democratic evaluation survey item that was not used in our estimation. Next, a cross-national and longitudinal analysis of PPD in advanced democracies (i.e., OECD countries) highlights that public political discontent has been on a rising trend, rather than merely “trendless fluctuations” as @norris2011democratic claimed. Our results reveal that these increased discontents are largely attributable to worsening economic conditions, including low average income, slow growth, and high unemployment rates."
-  },
-  {
-    "objectID": "publications/working-papers/discontent/index.html#important-figures",
-    "href": "publications/working-papers/discontent/index.html#important-figures",
-    "title": "Macrodiscontent Across Countries",
-    "section": "Important figures",
-    "text": "Important figures\n\n\n\nFigure 5: Political Discontent Scores Over Time Within OECD Democracies\n\n\n\n\n\nFigure 6: Predicting Public Political Discontent in OECD Countries"
-  },
-  {
-    "objectID": "publications/working-papers/discontent/index.html#bibtex-citation",
-    "href": "publications/working-papers/discontent/index.html#bibtex-citation",
-    "title": "Macrodiscontent Across Countries",
-    "section": "BibTeX citation",
-    "text": "BibTeX citation\n@misc{MaChoiTaiHuSolt2024,\n title={Macrodiscontent Across Countries},\n url={osf.io/preprints/socarxiv/z9a3n},\n DOI={10.31235/osf.io/a9a3n},\n publisher={SocArXiv},\n author={Ma, Haofeng and Choi, Jeongho and Tai, Yuehong Cassandra and Hu, Yue and Solt, Frederick},\n year={2024},\n month={Aug}\n}"
-  },
-  {
     "objectID": "publications/working-papers/demsupport_data/index.html",
     "href": "publications/working-papers/demsupport_data/index.html",
     "title": "An Incomplete Recipe: One-Dimensional Latent Variables Do Not Capture the Full Flavor of Democratic Support",
     "section": "",
-    "text": "Hu, Yue, Yuehong Cassandra Tai, Hyein Ko, Byung-Deuk Woo, and Frederick Solt. 2023. “An Incomplete Recipe: One-Dimensional Latent Variables Do Not Capture the Full Flavor of Democratic Support.” SocArXiv.\n\n\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Hu, Yue, Yuehong Cassandra Tai, Hyein Ko, Byung-Deuk Woo, and Frederick Solt. 2023. “An Incomplete Recipe: One-Dimensional Latent Variables Do Not Capture the Full Flavor of Democratic Support.” SocArXiv.\n\n\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications/working-papers/demsupport_data/index.html#abstract",
@@ -424,7 +452,7 @@
     "href": "publications/working-papers/dcpo_article/index.html",
     "title": "Modeling Dynamic Comparative Public Opinion",
     "section": "",
-    "text": "Frederick Solt. 2020. “Modeling Dynamic Comparative Public Opinion.” SocArXiv.\n\n\n\n\n Preprint\n\n\n Code\n\n\n\n\n\nOther details: Previous versions of this project were presented at the 2014 meetings of the European Political Science Association and American Political Science Association, the 2016 meeting of the Midwest Political Science Association, the 2019 St. Louis Area Methods Meeting, the 2020 meeting of the Southern Political Science Association, and at Princeton University, Oxford University, the University of Tennessee, the University of Iowa, Central European University, and the Polish Academy of Sciences.\n\n\n\n\n\nNo matching items"
+    "text": "Frederick Solt. 2020. “Modeling Dynamic Comparative Public Opinion.” SocArXiv.\n\n\n\n\n Preprint\n\n\n Code\n\n\n\n\n\nOther details: Previous versions of this project were presented at the 2014 meetings of the European Political Science Association and American Political Science Association, the 2016 meeting of the Midwest Political Science Association, the 2019 St. Louis Area Methods Meeting, the 2020 meeting of the Southern Political Science Association, and at Princeton University, Oxford University, the University of Tennessee, the University of Iowa, Central European University, and the Polish Academy of Sciences.\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications/working-papers/dcpo_article/index.html#abstract",
@@ -452,28 +480,28 @@
     "href": "publications/index.html",
     "title": "DCPO Publications",
     "section": "",
-    "text": "Forthcoming Woo, Byung-Deuk, Hyein Ko, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. Forthcoming. “Public Support for Gay Rights Across Countries and Over Time.” Social Science Quarterly.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n SGR Database\n\n\n\n\n\n\n\n Forthcoming Hu, Yue, Yuehong Cassandra Tai, and Frederick Solt. Forthcoming. “Revisiting the Evidence on Thermostatic Response to Democratic Change: Degrees of Democratic Support or Researcher Degrees of Freedom?” Political Science Research and Methods.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n\n\n\n\n\n Forthcoming Hu, Yue and Frederick Solt. Forthcoming. “Macrointerest Across Countries.” British Journal of Political Science.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n CNM Database\n\n\n\n\n\n\n\nTai, Yuehong ‘Cassandra’, Yue Hu, and Frederick Solt. 2024. “Democracy, Public Support, and Measurement Uncertainty.” American Political Science Review 118(1):512-518.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n\n\n\n\n\nWoo, Byung-Deuk, Lindsey A. Goldberg, and Frederick Solt. 2023. “Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere.” British Journal of Political Science 53(2), 766-775.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n PGE Database\n\n\n\n\n\n\nNo matching items"
+    "text": "Ma, Haofeng, Jeongho Choi, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. 2026. “Macrodiscontent Across Countries.” European Political Science Review, 1-17.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\nHu, Yue and Frederick Solt. 2025. “Macrointerest Across Countries.” British Journal of Political Science 55, e71.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n CNM Database\n\n\n\n\n\n\n\n Forthcoming Woo, Byung-Deuk, Hyein Ko, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. Forthcoming. “Public Support for Gay Rights Across Countries and Over Time.” Social Science Quarterly.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n SGR Database\n\n\n\n\n\n\n\n Forthcoming Hu, Yue, Yuehong Cassandra Tai, and Frederick Solt. Forthcoming. “Revisiting the Evidence on Thermostatic Response to Democratic Change: Degrees of Democratic Support or Researcher Degrees of Freedom?” Political Science Research and Methods.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n\n\n\n\n\nTai, Yuehong ‘Cassandra’, Yue Hu, and Frederick Solt. 2024. “Democracy, Public Support, and Measurement Uncertainty.” American Political Science Review 118(1):512-518.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n\n\n\n\n\nWoo, Byung-Deuk, Lindsey A. Goldberg, and Frederick Solt. 2023. “Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere.” British Journal of Political Science 53(2), 766-775.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n PGE Database\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications/index.html#publications",
     "href": "publications/index.html#publications",
     "title": "DCPO Publications",
     "section": "",
-    "text": "Forthcoming Woo, Byung-Deuk, Hyein Ko, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. Forthcoming. “Public Support for Gay Rights Across Countries and Over Time.” Social Science Quarterly.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n SGR Database\n\n\n\n\n\n\n\n Forthcoming Hu, Yue, Yuehong Cassandra Tai, and Frederick Solt. Forthcoming. “Revisiting the Evidence on Thermostatic Response to Democratic Change: Degrees of Democratic Support or Researcher Degrees of Freedom?” Political Science Research and Methods.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n\n\n\n\n\n Forthcoming Hu, Yue and Frederick Solt. Forthcoming. “Macrointerest Across Countries.” British Journal of Political Science.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n CNM Database\n\n\n\n\n\n\n\nTai, Yuehong ‘Cassandra’, Yue Hu, and Frederick Solt. 2024. “Democracy, Public Support, and Measurement Uncertainty.” American Political Science Review 118(1):512-518.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n\n\n\n\n\nWoo, Byung-Deuk, Lindsey A. Goldberg, and Frederick Solt. 2023. “Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere.” British Journal of Political Science 53(2), 766-775.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n PGE Database\n\n\n\n\n\n\nNo matching items"
+    "text": "Ma, Haofeng, Jeongho Choi, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. 2026. “Macrodiscontent Across Countries.” European Political Science Review, 1-17.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\nHu, Yue and Frederick Solt. 2025. “Macrointerest Across Countries.” British Journal of Political Science 55, e71.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n CNM Database\n\n\n\n\n\n\n\n Forthcoming Woo, Byung-Deuk, Hyein Ko, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. Forthcoming. “Public Support for Gay Rights Across Countries and Over Time.” Social Science Quarterly.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n SGR Database\n\n\n\n\n\n\n\n Forthcoming Hu, Yue, Yuehong Cassandra Tai, and Frederick Solt. Forthcoming. “Revisiting the Evidence on Thermostatic Response to Democratic Change: Degrees of Democratic Support or Researcher Degrees of Freedom?” Political Science Research and Methods.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n\n\n\n\n\nTai, Yuehong ‘Cassandra’, Yue Hu, and Frederick Solt. 2024. “Democracy, Public Support, and Measurement Uncertainty.” American Political Science Review 118(1):512-518.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n\n\n\n\n\nWoo, Byung-Deuk, Lindsey A. Goldberg, and Frederick Solt. 2023. “Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere.” British Journal of Political Science 53(2), 766-775.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n PGE Database\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications/index.html#working-papers",
     "href": "publications/index.html#working-papers",
     "title": "DCPO Publications",
     "section": "Working Papers",
-    "text": "Working Papers\n\n\n\n\n\n Under Review Yuehong Cassandra Tai 2025. “Comparative Estimates of Public Trust in Government Across 116 Countries, 1973–2020.” SocArXiv.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n Under Review Yuehong Cassandra Tai, and Frederick Solt. 2024. “Trust in Civil Servants: A Cross-National Dataset for Public Policy Research, 1986–2022.” SocArXiv.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n Under review Ma, Haofeng, Jeongho Choi, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. 2024. “Macrodiscontent Across Countries.” SocArXiv.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n Revise & Resubmit Hu, Yue, Yuehong Cassandra Tai, Hyein Ko, Byung-Deuk Woo, and Frederick Solt. 2023. “An Incomplete Recipe: One-Dimensional Latent Variables Do Not Capture the Full Flavor of Democratic Support.” SocArXiv.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\nHu, Yue, Yuehong Cassandra Tai, and Frederick Solt. 2022. “On Data ‘Janitor Work’ in Political Science: The Case of Thermostatic Support for Democracy.” SocArXiv.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\nFrederick Solt. 2020. “Modeling Dynamic Comparative Public Opinion.” SocArXiv.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\nNo matching items"
+    "text": "Working Papers\n\n\n\n\n\n Under Review Yuehong Cassandra Tai 2025. “Comparative Estimates of Public Trust in Government Across 116 Countries, 1973–2020.” SocArXiv.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n Under Review Yuehong Cassandra Tai, and Frederick Solt. 2024. “Trust in Civil Servants: A Cross-National Dataset for Public Policy Research, 1986–2022.” SocArXiv.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n Revise & Resubmit Hu, Yue, Yuehong Cassandra Tai, Hyein Ko, Byung-Deuk Woo, and Frederick Solt. 2023. “An Incomplete Recipe: One-Dimensional Latent Variables Do Not Capture the Full Flavor of Democratic Support.” SocArXiv.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\nHu, Yue, Yuehong Cassandra Tai, and Frederick Solt. 2022. “On Data ‘Janitor Work’ in Political Science: The Case of Thermostatic Support for Democracy.” SocArXiv.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\nFrederick Solt. 2020. “Modeling Dynamic Comparative Public Opinion.” SocArXiv.\n\n\n\n\n\n Full details »\n\n\n Preprint\n\n\n Code\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications/working-papers/dcpo_article/short.html",
     "href": "publications/working-papers/dcpo_article/short.html",
     "title": "Modeling Dynamic Comparative Public Opinion",
     "section": "",
-    "text": "Frederick Solt. 2020. “Modeling Dynamic Comparative Public Opinion.” SocArXiv.\n\n\n\n\n Preprint\n\n\n Code\n\n\n\n\n\nOther details: Previous versions of this project were presented at the 2014 meetings of the European Political Science Association and American Political Science Association, the 2016 meeting of the Midwest Political Science Association, the 2019 St. Louis Area Methods Meeting, the 2020 meeting of the Southern Political Science Association, and at Princeton University, Oxford University, the University of Tennessee, the University of Iowa, Central European University, and the Polish Academy of Sciences.\n\n\n\n\n\nNo matching items"
+    "text": "Frederick Solt. 2020. “Modeling Dynamic Comparative Public Opinion.” SocArXiv.\n\n\n\n\n Preprint\n\n\n Code\n\n\n\n\n\nOther details: Previous versions of this project were presented at the 2014 meetings of the European Political Science Association and American Political Science Association, the 2016 meeting of the Midwest Political Science Association, the 2019 St. Louis Area Methods Meeting, the 2020 meeting of the Southern Political Science Association, and at Princeton University, Oxford University, the University of Tennessee, the University of Iowa, Central European University, and the Polish Academy of Sciences.\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications/working-papers/dcpo_article/short.html#abstract",
@@ -501,7 +529,7 @@
     "href": "publications/working-papers/demsupport_data/short.html",
     "title": "An Incomplete Recipe: One-Dimensional Latent Variables Do Not Capture the Full Flavor of Democratic Support",
     "section": "",
-    "text": "Hu, Yue, Yuehong Cassandra Tai, Hyein Ko, Byung-Deuk Woo, and Frederick Solt. 2023. “An Incomplete Recipe: One-Dimensional Latent Variables Do Not Capture the Full Flavor of Democratic Support.” SocArXiv.\n\n\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Hu, Yue, Yuehong Cassandra Tai, Hyein Ko, Byung-Deuk Woo, and Frederick Solt. 2023. “An Incomplete Recipe: One-Dimensional Latent Variables Do Not Capture the Full Flavor of Democratic Support.” SocArXiv.\n\n\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications/working-papers/demsupport_data/short.html#abstract",
@@ -525,39 +553,11 @@
     "text": "BibTeX citation\n@misc{HuTaiSolt2022,\n author={Hu, Yue and Tai, Yuehong Cassandra and Ko, Hyein and Woo, Byung-Deuk and Solt, Frederick},\n title={An Incomplete Recipe: One-Dimensional Latent Variables Do Not Capture the Full Flavor of Democratic Support},\n publisher={SocArXiv},\n year={2023},\n month={February}, \n url={osf.io/preprints/socarxiv/rym8g/},\n doi={10.31235/osf.io/rym8g/}\n}"
   },
   {
-    "objectID": "publications/working-papers/discontent/short.html",
-    "href": "publications/working-papers/discontent/short.html",
-    "title": "Macrodiscontent Across Countries",
-    "section": "",
-    "text": "Ma, Haofeng, Jeongho Choi, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. 2024. “Macrodiscontent Across Countries.” SocArXiv.\n\n\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "publications/working-papers/discontent/short.html#abstract",
-    "href": "publications/working-papers/discontent/short.html#abstract",
-    "title": "Macrodiscontent Across Countries",
-    "section": "Abstract",
-    "text": "Abstract\nPublic discontent with the political system has become an increasingly salient concern in recent years, with the argument that it undermines democratic stability and effective governance. Nevertheless, the understanding of the nature, trends, and drivers of political discontent remains debated, largely reflecting the constraints from available survey data and items in the construction of measurement. This article takes advantage of the state-of-the-art latent-variable modeling to aggregat survey responses and a comprehensive collection of survey data to generate dynamic comparative estimates of public political discontent (PPD) for over a hundred countries over the past four decades. These PPD scores are validated with responses to the individual source-data survey items that were used to generate them as well as the democratic evaluation survey item that was not used in our estimation. Next, a cross-national and longitudinal analysis of PPD in advanced democracies (i.e., OECD countries) highlights that public political discontent has been on a rising trend, rather than merely “trendless fluctuations” as @norris2011democratic claimed. Our results reveal that these increased discontents are largely attributable to worsening economic conditions, including low average income, slow growth, and high unemployment rates."
-  },
-  {
-    "objectID": "publications/working-papers/discontent/short.html#important-figures",
-    "href": "publications/working-papers/discontent/short.html#important-figures",
-    "title": "Macrodiscontent Across Countries",
-    "section": "Important figures",
-    "text": "Important figures\n\n\n\nFigure 5: Political Discontent Scores Over Time Within OECD Democracies\n\n\n\n\n\nFigure 6: Predicting Public Political Discontent in OECD Countries"
-  },
-  {
-    "objectID": "publications/working-papers/discontent/short.html#bibtex-citation",
-    "href": "publications/working-papers/discontent/short.html#bibtex-citation",
-    "title": "Macrodiscontent Across Countries",
-    "section": "BibTeX citation",
-    "text": "BibTeX citation\n@misc{MaChoiTaiHuSolt2024,\n title={Macrodiscontent Across Countries},\n url={osf.io/preprints/socarxiv/z9a3n},\n DOI={10.31235/osf.io/a9a3n},\n publisher={SocArXiv},\n author={Ma, Haofeng and Choi, Jeongho and Tai, Yuehong Cassandra and Hu, Yue and Solt, Frederick},\n year={2024},\n month={Aug}\n}"
-  },
-  {
     "objectID": "publications/working-papers/trust_bureaucracy/short.html",
     "href": "publications/working-papers/trust_bureaucracy/short.html",
     "title": "Trust in Civil Servants: A Cross-National Dataset for Public Policy Research, 1986–2022",
     "section": "",
-    "text": "Yuehong Cassandra Tai, and Frederick Solt. 2024. “Trust in Civil Servants: A Cross-National Dataset for Public Policy Research, 1986–2022.” SocArXiv.\n\n\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Yuehong Cassandra Tai, and Frederick Solt. 2024. “Trust in Civil Servants: A Cross-National Dataset for Public Policy Research, 1986–2022.” SocArXiv.\n\n\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications/working-papers/trust_bureaucracy/short.html#abstract",
@@ -581,11 +581,39 @@
     "text": "BibTeX citation\n@misc{TaiSolt2024,\n author={Tai, Yuehong Cassandra and Solt, Frederick},\n title={Trust in Civil Servants: A Cross-National Dataset for Public Policy Research, 1986–2022},\n publisher={SocArXiv},\n year={2024},\n month={December}, \n url={https://osf.io/preprints/socarxiv/vjuah},\n doi={10.31235/osf.io/vjuah}\n}"
   },
   {
+    "objectID": "publications/working-papers/trust_gov/short.html",
+    "href": "publications/working-papers/trust_gov/short.html",
+    "title": "Comparative Estimates of Public Trust in Government Across 116 Countries, 1973–2020",
+    "section": "",
+    "text": "Yuehong Cassandra Tai 2025. “Comparative Estimates of Public Trust in Government Across 116 Countries, 1973–2020.” SocArXiv.\n\n\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications/working-papers/trust_gov/short.html#abstract",
+    "href": "publications/working-papers/trust_gov/short.html#abstract",
+    "title": "Comparative Estimates of Public Trust in Government Across 116 Countries, 1973–2020",
+    "section": "Abstract",
+    "text": "Abstract\nPolitical trust plays a critical role in understanding key political questions, including regime support, democratic legitimacy, policy preferences, and political behavior. However, the lack of comparable, cross-national data has limited scholars’ ability to analyze the relationship of political trust with quantities of interest and to generalize findings across different countries and time periods. To address this gap, this paper introduces the Trust in Government (TGOV) Dataset, a time-series cross-sectional resource covering 116 countries from 1973 to 2020. Built using a Bayesian latent variable model, TGOV harmonizes 1,555 country-year observations from 189 national and cross-national surveys, providing mean estimates of trust in government alongside full posterior distributions to account for measurement uncertainty. The TGOV dataset demonstrates robustness in a series of internal and external validations, as well as in the construct validation test, confirming that the TGOV scores are a valid measure of public trust in national government. The TGOV dataset enables scholars to analyze trust’s dynamic relationships with institutional performance, policy outcomes, and crisis resilience across political systems. More broadly, it supports interdisciplinary research on governance, inequality, state-society relations, public health compliance, climate policy acceptance, and digital governance innovations."
+  },
+  {
+    "objectID": "publications/working-papers/trust_gov/short.html#important-figures",
+    "href": "publications/working-papers/trust_gov/short.html#important-figures",
+    "title": "Comparative Estimates of Public Trust in Government Across 116 Countries, 1973–2020",
+    "section": "Important figures",
+    "text": "Important figures\n\n\n\nFigure 2: TGOV Scores, Most Recent Available Year\n\n\n\n\n\nFigure 3: TGOV Scores Over Time Within Selected Countries\n\n\n\n\n\nFigure 6: Construct Validation: Correlations Between TGOV Scores, Satisfaction with System Performance, Corruption, and Executive Approval Estimates"
+  },
+  {
+    "objectID": "publications/working-papers/trust_gov/short.html#bibtex-citation",
+    "href": "publications/working-papers/trust_gov/short.html#bibtex-citation",
+    "title": "Comparative Estimates of Public Trust in Government Across 116 Countries, 1973–2020",
+    "section": "BibTeX citation",
+    "text": "BibTeX citation\n@misc{Tai2025,\n author={Tai, Yuehong Cassandra},\n title={Comparative Estimates of Public Trust in Government Across 116 Countries, 1973–2020},\n publisher={SocArXiv},\n year={2025},\n month={April}\n}"
+  },
+  {
     "objectID": "publications/working-papers/janitor_work/short.html",
     "href": "publications/working-papers/janitor_work/short.html",
     "title": "On Data ‘Janitor Work’ in Political Science: The Case of Thermostatic Support for Democracy",
     "section": "",
-    "text": "Hu, Yue, Yuehong Cassandra Tai, and Frederick Solt. 2022. “On Data ‘Janitor Work’ in Political Science: The Case of Thermostatic Support for Democracy.” SocArXiv.\n\n\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Hu, Yue, Yuehong Cassandra Tai, and Frederick Solt. 2022. “On Data ‘Janitor Work’ in Political Science: The Case of Thermostatic Support for Democracy.” SocArXiv.\n\n\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications/working-papers/janitor_work/short.html#abstract",
@@ -613,7 +641,7 @@
     "href": "publications/published/dem_support/short.html",
     "title": "Democracy, Public Support, and Measurement Uncertainty",
     "section": "",
-    "text": "Tai, Yuehong ‘Cassandra’, Yue Hu, and Frederick Solt. 2024. “Democracy, Public Support, and Measurement Uncertainty.” American Political Science Review 118(1):512-518.\n\n\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n\n\n\nOther details: Presented at the annual meeting of the Midwest Political Science Association (MPSA), April 2022.\n\n\n\n\n\nNo matching items"
+    "text": "Tai, Yuehong ‘Cassandra’, Yue Hu, and Frederick Solt. 2024. “Democracy, Public Support, and Measurement Uncertainty.” American Political Science Review 118(1):512-518.\n\n\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n\n\n\nOther details: Presented at the annual meeting of the Midwest Political Science Association (MPSA), April 2022.\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications/published/dem_support/short.html#abstract",
@@ -637,11 +665,39 @@
     "text": "BibTeX Citation\n@article{TaiHuSolt2024,\n    author = {Tai, Yuehong 'Cassandra' and Hu, Yue and Solt, Frederick},\n    year = {2024},\n    journal = {American Political Science Review},\n    title = {Democracy, Public Support, and Measurement Uncertainty},\n    volume = {118},\n    number = {1},\n    pages = {512-518},\n    doi = {doi.org/10.1017/S0003055422000429}}"
   },
   {
+    "objectID": "publications/published/discontent/short.html",
+    "href": "publications/published/discontent/short.html",
+    "title": "Macrodiscontent Across Countries",
+    "section": "",
+    "text": "Ma, Haofeng, Jeongho Choi, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. 2026. “Macrodiscontent Across Countries.” European Political Science Review, 1-17.\n\n\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications/published/discontent/short.html#abstract",
+    "href": "publications/published/discontent/short.html#abstract",
+    "title": "Macrodiscontent Across Countries",
+    "section": "Abstract",
+    "text": "Abstract\nPublic discontent with the political system has become an increasingly salient concern in recent years, with the argument that it undermines democratic stability and effective governance. Nevertheless, the understanding of the nature, trends, and drivers of political discontent remains debated, largely reflecting the constraints from available survey data and items in the construction of measurement. This article takes advantage of the state-of-the-art latent-variable modeling to aggregat survey responses and a comprehensive collection of survey data to generate dynamic comparative estimates of public political discontent (PPD) for over a hundred countries over the past four decades. These PPD scores are validated with responses to the individual source-data survey items that were used to generate them as well as the democratic evaluation survey item that was not used in our estimation. Next, a cross-national and longitudinal analysis of PPD in advanced democracies (i.e., OECD countries) highlights that public political discontent has been on a rising trend, rather than merely “trendless fluctuations” as @norris2011democratic claimed. Our results reveal that these increased discontents are largely attributable to worsening economic conditions, including low average income, slow growth, and high unemployment rates."
+  },
+  {
+    "objectID": "publications/published/discontent/short.html#important-figures",
+    "href": "publications/published/discontent/short.html#important-figures",
+    "title": "Macrodiscontent Across Countries",
+    "section": "Important figures",
+    "text": "Important figures\n\n\n\nFigure 5: Political Discontent Scores Over Time Within OECD Democracies\n\n\n\n\n\nFigure 6: Predicting Public Political Discontent in OECD Countries"
+  },
+  {
+    "objectID": "publications/published/discontent/short.html#bibtex-citation",
+    "href": "publications/published/discontent/short.html#bibtex-citation",
+    "title": "Macrodiscontent Across Countries",
+    "section": "BibTeX citation",
+    "text": "BibTeX citation\n@misc{MaChoiTaiHuSolt2024,\n title={Macrodiscontent Across Countries},\n url={osf.io/preprints/socarxiv/z9a3n},\n DOI={10.31235/osf.io/a9a3n},\n publisher={SocArXiv},\n author={Ma, Haofeng and Choi, Jeongho and Tai, Yuehong Cassandra and Hu, Yue and Solt, Frederick},\n year={2024},\n month={Aug}\n}"
+  },
+  {
     "objectID": "publications/published/dem_mood/short.html",
     "href": "publications/published/dem_mood/short.html",
     "title": "Revisiting the Evidence on Thermostatic Response to Democratic Change: Degrees of Democratic Support or Researcher Degrees of Freedom?",
     "section": "",
-    "text": "Hu, Yue, Yuehong Cassandra Tai, and Frederick Solt. Forthcoming. “Revisiting the Evidence on Thermostatic Response to Democratic Change: Degrees of Democratic Support or Researcher Degrees of Freedom?” Political Science Research and Methods.\n\n\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Hu, Yue, Yuehong Cassandra Tai, and Frederick Solt. Forthcoming. “Revisiting the Evidence on Thermostatic Response to Democratic Change: Degrees of Democratic Support or Researcher Degrees of Freedom?” Political Science Research and Methods.\n\n\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications/published/dem_mood/short.html#abstract",
@@ -669,7 +725,7 @@
     "href": "publications/published/macrointerest/short.html",
     "title": "Macrointerest Across Countries",
     "section": "",
-    "text": "Hu, Yue and Frederick Solt. Forthcoming. “Macrointerest Across Countries.” British Journal of Political Science.\n\n\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n CNM Database\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Hu, Yue and Frederick Solt. 2025. “Macrointerest Across Countries.” British Journal of Political Science 55, e71.\n\n\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n CNM Database\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications/published/macrointerest/short.html#abstract",
@@ -697,7 +753,7 @@
     "href": "publications/published/gayrights/short.html",
     "title": "Public Support for Gay Rights Across Countries and Over Time",
     "section": "",
-    "text": "Woo, Byung-Deuk, Hyein Ko, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. Forthcoming. “Public Support for Gay Rights Across Countries and Over Time.” Social Science Quarterly.\n\n\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n SGR Database\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Woo, Byung-Deuk, Hyein Ko, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. Forthcoming. “Public Support for Gay Rights Across Countries and Over Time.” Social Science Quarterly.\n\n\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n SGR Database\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications/published/gayrights/short.html#abstract",
@@ -725,7 +781,7 @@
     "href": "publications/published/pge/short.html",
     "title": "Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere",
     "section": "",
-    "text": "Woo, Byung-Deuk, Lindsey A. Goldberg, and Frederick Solt. 2023. “Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere.” British Journal of Political Science 53(2), 766-775.\n\n\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n PGE Database\n\n\n\n\n\nOther details: Presented at the annual meeting of the Midwest Political Science Association (MPSA), April 2022.\n\n\n\n\n\nNo matching items"
+    "text": "Woo, Byung-Deuk, Lindsey A. Goldberg, and Frederick Solt. 2023. “Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere.” British Journal of Political Science 53(2), 766-775.\n\n\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n PGE Database\n\n\n\n\n\nOther details: Presented at the annual meeting of the Midwest Political Science Association (MPSA), April 2022.\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications/published/pge/short.html#abstract",
@@ -760,14 +816,14 @@
     "href": "news/index.html",
     "title": "DCPO News",
     "section": "",
-    "text": "Cross-National Macrointerest Data Now Available!\n\n\n\n\n\n\n\n\n\n\n\nDec 12, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nSGR Data Now Available!\n\n\n\n\n\n\n\n\n\n\n\nDec 11, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nNew DCPO Publication!\n\n\n\n\n\n\n\n\n\n\n\nFeb 2, 2023\n\n\n\n\n\n\nNo matching items"
+    "text": "Cross-National Macrointerest Data Now Available!\n\n\n\n\n\n\n\n\nDec 12, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nSGR Data Now Available!\n\n\n\n\n\n\n\n\nDec 11, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nNew DCPO Publication!\n\n\n\n\n\n\n\n\nFeb 2, 2023\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "team/index.html",
     "href": "team/index.html",
     "title": "Team",
     "section": "",
-    "text": "Jeongho Choi\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHaofeng Ma\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHyein Ko\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nYuehong Cassandra Tai\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nByung-Deuk Woo\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nYue Hu\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFrederick Solt\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Jeongho Choi\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHaofeng Ma\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHyein Ko\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nYuehong Cassandra Tai\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nByung-Deuk Woo\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nYue Hu\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFrederick Solt\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "team/hyein.html",
@@ -823,14 +879,14 @@
     "href": "data/cnm/cnm_faq/index.html#how-to-.-.-.",
     "title": "SGR Frequently Asked Questions",
     "section": "How to . . .",
-    "text": "How to . . .\n\n\n\n\n\n\n\n\n\n\nWait, how can I download the data again?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nI’m using an older version of Stata, and it won’t open the file. How can I use the CNM data?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nI imported the cnm_summary.csv file, and the data for some countries seem to be greater than one, when the CNM supposedly ranges only from zero to one. How can I interpret these data?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow can I use the CNM data with Stata’s time-series operators?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow can I use the CNM data to make my own graphs?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow can I merge my other data into the CNM using ISO or other country codes?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "How to . . .\n\n\n\n\n\n\n\n\n\n\nWait, how can I download the data again?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nI’m using an older version of Stata, and it won’t open the file. How can I use the CNM data?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nI imported the cnm_summary.csv file, and the data for some countries seem to be greater than one, when the CNM supposedly ranges only from zero to one. How can I interpret these data?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow can I use the CNM data with Stata’s time-series operators?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow can I use the CNM data to make my own graphs?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow can I merge my other data into the CNM using ISO or other country codes?\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "data/cnm/cnm_faq/index.html#the-cnm-data",
     "href": "data/cnm/cnm_faq/index.html#the-cnm-data",
     "title": "SGR Frequently Asked Questions",
     "section": "The CNM Data",
-    "text": "The CNM Data\n\n\n\n\n\n\n\n\n\n\nWhat about Russia and the rest of the former Soviet Union? Yugoslavia? Czechoslovakia? Pakistan? Sudan? Ethiopia? Why are there estimates for successor states before they actually existed?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe estimates for Ruritania, among others, have changed since the previous version. Why is that?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow is Germany treated in the SGR? Where’s East Germany?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "The CNM Data\n\n\n\n\n\n\n\n\n\n\nWhat about Russia and the rest of the former Soviet Union? Yugoslavia? Czechoslovakia? Pakistan? Sudan? Ethiopia? Why are there estimates for successor states before they actually existed?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe estimates for Ruritania, among others, have changed since the previous version. Why is that?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow is Germany treated in the SGR? Where’s East Germany?\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "data/sgr/index.html",
@@ -872,14 +928,14 @@
     "href": "data/sgr/sgr_faq/index.html#how-to-.-.-.",
     "title": "SGR Frequently Asked Questions",
     "section": "How to . . .",
-    "text": "How to . . .\n\n\n\n\n\n\n\n\n\n\nWait, how can I download the data again?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nI’m using an older version of Stata, and it won’t open the file. How can I use the SGR data?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nI imported the sgr_summary.csv file, and the data for some countries seem to be greater than one, when the SGR supposedly ranges only from zero to one. How can I interpret these data?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow can I use the SGR data with Stata’s time-series operators?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow can I use the SGR data to make my own graphs?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow can I merge my other data into the SGR using ISO or other country codes?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "How to . . .\n\n\n\n\n\n\n\n\n\n\nWait, how can I download the data again?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nI’m using an older version of Stata, and it won’t open the file. How can I use the SGR data?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nI imported the sgr_summary.csv file, and the data for some countries seem to be greater than one, when the SGR supposedly ranges only from zero to one. How can I interpret these data?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow can I use the SGR data with Stata’s time-series operators?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow can I use the SGR data to make my own graphs?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow can I merge my other data into the SGR using ISO or other country codes?\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "data/sgr/sgr_faq/index.html#the-sgr-data",
     "href": "data/sgr/sgr_faq/index.html#the-sgr-data",
     "title": "SGR Frequently Asked Questions",
     "section": "The SGR Data",
-    "text": "The SGR Data\n\n\n\n\n\n\n\n\n\n\nWhat about Russia and the rest of the former Soviet Union? Yugoslavia? Czechoslovakia? Pakistan? Sudan? Ethiopia? Why are there estimates for successor states before they actually existed?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe estimates for Ruritania, among others, have changed since the previous version. Why is that?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow is Germany treated in the SGR? Where’s East Germany?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "The SGR Data\n\n\n\n\n\n\n\n\n\n\nWhat about Russia and the rest of the former Soviet Union? Yugoslavia? Czechoslovakia? Pakistan? Sudan? Ethiopia? Why are there estimates for successor states before they actually existed?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe estimates for Ruritania, among others, have changed since the previous version. Why is that?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow is Germany treated in the SGR? Where’s East Germany?\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "data/pge/pge_faq/posts/how-to/csv-format.html",
@@ -914,69 +970,13 @@
     "href": "data/pge/pge_faq/index.html#how-to-.-.-.",
     "title": "PGE Frequently Asked Questions",
     "section": "How to . . .",
-    "text": "How to . . .\n\n\n\n\n\n\n\n\n\n\nWait, how can I download the data again?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nI’m using an older version of Stata, and it won’t open the file. How can I use the PGE data?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nI imported the pge_summary.csv file, and the data for some countries seem to be greater than one, when the PGE supposedly ranges only from zero to one. How can I interpret these data?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow can I use the PGE data with Stata’s time-series operators?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow can I use the PGE data to make my own graphs?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow can I merge my other data into the PGE using ISO or other country codes?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "How to . . .\n\n\n\n\n\n\n\n\n\n\nWait, how can I download the data again?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nI’m using an older version of Stata, and it won’t open the file. How can I use the PGE data?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nI imported the pge_summary.csv file, and the data for some countries seem to be greater than one, when the PGE supposedly ranges only from zero to one. How can I interpret these data?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow can I use the PGE data with Stata’s time-series operators?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow can I use the PGE data to make my own graphs?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow can I merge my other data into the PGE using ISO or other country codes?\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "data/pge/pge_faq/index.html#the-pge-data",
     "href": "data/pge/pge_faq/index.html#the-pge-data",
     "title": "PGE Frequently Asked Questions",
     "section": "The PGE Data",
-    "text": "The PGE Data\n\n\n\n\n\n\n\n\n\n\nWhat about Russia and the rest of the former Soviet Union? Yugoslavia? Czechoslovakia? Pakistan? Sudan? Ethiopia? Why are there estimates for successor states before they actually existed?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe estimates for Ruritania, among others, have changed since the previous version. Why is that?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow is Germany treated in the PGE? Where’s East Germany?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "publications/working-papers/trust_gov/index.html",
-    "href": "publications/working-papers/trust_gov/index.html",
-    "title": "Comparative Estimates of Public Trust in Government Across 116 Countries, 1973–2020",
-    "section": "",
-    "text": "Yuehong Cassandra Tai. 2025. “Comparative Estimates of Public Trust in Government Across 116 Countries, 1973–2020.” SocArXiv.\n\n\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "publications/working-papers/trust_gov/index.html#abstract",
-    "href": "publications/working-papers/trust_gov/index.html#abstract",
-    "title": "Comparative Estimates of Public Trust in Government Across 116 Countries, 1973–2020",
-    "section": "Abstract",
-    "text": "Abstract\nPolitical trust plays a critical role in understanding key political questions, including regime support, democratic legitimacy, policy preferences, and political behavior. However, the lack of comparable, cross-national data has limited scholars’ ability to analyze the relationship of political trust with quantities of interest and to generalize findings across different countries and time periods. To address this gap, this paper introduces the Trust in Government (TGOV) Dataset, a time-series cross-sectional resource covering 116 countries from 1973 to 2020. Built using a Bayesian latent variable model, TGOV harmonizes 1,555 country-year observations from 189 national and cross-national surveys, providing mean estimates of trust in government alongside full posterior distributions to account for measurement uncertainty. The TGOV dataset demonstrates robustness in a series of internal and external validations, as well as in the construct validation test, confirming that the TGOV scores are a valid measure of public trust in national government. The TGOV dataset enables scholars to analyze trust’s dynamic relationships with institutional performance, policy outcomes, and crisis resilience across political systems. More broadly, it supports interdisciplinary research on governance, inequality, state-society relations, public health compliance, climate policy acceptance, and digital governance innovations."
-  },
-  {
-    "objectID": "publications/working-papers/trust_gov/index.html#important-figures",
-    "href": "publications/working-papers/trust_gov/index.html#important-figures",
-    "title": "Comparative Estimates of Public Trust in Government Across 116 Countries, 1973–2020",
-    "section": "Important figures",
-    "text": "Important figures\n\n\n\nFigure 2: TGOV Scores, Most Recent Available Year\n\n\n\n\n\nFigure 3: TGOV Scores Over Time Within Selected Countries\n\n\n\n\n\nFigure 6: Construct Validation: Correlations Between TGOV Scores, Satisfaction with System Performance, Corruption, and Executive Approval Estimates"
-  },
-  {
-    "objectID": "publications/working-papers/trust_gov/index.html#bibtex-citation",
-    "href": "publications/working-papers/trust_gov/index.html#bibtex-citation",
-    "title": "Comparative Estimates of Public Trust in Government Across 116 Countries, 1973–2020",
-    "section": "BibTeX citation",
-    "text": "BibTeX citation\n@misc{Tai2025,\n author={Tai, Yuehong Cassandra},\n title={Comparative Estimates of Public Trust in Government Across 116 Countries, 1973–2020},\n publisher={SocArXiv},\n year={2025},\n month={April}\n}"
-  },
-  {
-    "objectID": "publications/working-papers/trust_gov/short.html",
-    "href": "publications/working-papers/trust_gov/short.html",
-    "title": "Comparative Estimates of Public Trust in Government Across 116 Countries, 1973–2020",
-    "section": "",
-    "text": "Yuehong Cassandra Tai 2025. “Comparative Estimates of Public Trust in Government Across 116 Countries, 1973–2020.” SocArXiv.\n\n\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "publications/working-papers/trust_gov/short.html#abstract",
-    "href": "publications/working-papers/trust_gov/short.html#abstract",
-    "title": "Comparative Estimates of Public Trust in Government Across 116 Countries, 1973–2020",
-    "section": "Abstract",
-    "text": "Abstract\nPolitical trust plays a critical role in understanding key political questions, including regime support, democratic legitimacy, policy preferences, and political behavior. However, the lack of comparable, cross-national data has limited scholars’ ability to analyze the relationship of political trust with quantities of interest and to generalize findings across different countries and time periods. To address this gap, this paper introduces the Trust in Government (TGOV) Dataset, a time-series cross-sectional resource covering 116 countries from 1973 to 2020. Built using a Bayesian latent variable model, TGOV harmonizes 1,555 country-year observations from 189 national and cross-national surveys, providing mean estimates of trust in government alongside full posterior distributions to account for measurement uncertainty. The TGOV dataset demonstrates robustness in a series of internal and external validations, as well as in the construct validation test, confirming that the TGOV scores are a valid measure of public trust in national government. The TGOV dataset enables scholars to analyze trust’s dynamic relationships with institutional performance, policy outcomes, and crisis resilience across political systems. More broadly, it supports interdisciplinary research on governance, inequality, state-society relations, public health compliance, climate policy acceptance, and digital governance innovations."
-  },
-  {
-    "objectID": "publications/working-papers/trust_gov/short.html#important-figures",
-    "href": "publications/working-papers/trust_gov/short.html#important-figures",
-    "title": "Comparative Estimates of Public Trust in Government Across 116 Countries, 1973–2020",
-    "section": "Important figures",
-    "text": "Important figures\n\n\n\nFigure 2: TGOV Scores, Most Recent Available Year\n\n\n\n\n\nFigure 3: TGOV Scores Over Time Within Selected Countries\n\n\n\n\n\nFigure 6: Construct Validation: Correlations Between TGOV Scores, Satisfaction with System Performance, Corruption, and Executive Approval Estimates"
-  },
-  {
-    "objectID": "publications/working-papers/trust_gov/short.html#bibtex-citation",
-    "href": "publications/working-papers/trust_gov/short.html#bibtex-citation",
-    "title": "Comparative Estimates of Public Trust in Government Across 116 Countries, 1973–2020",
-    "section": "BibTeX citation",
-    "text": "BibTeX citation\n@misc{Tai2025,\n author={Tai, Yuehong Cassandra},\n title={Comparative Estimates of Public Trust in Government Across 116 Countries, 1973–2020},\n publisher={SocArXiv},\n year={2025},\n month={April}\n}"
+    "text": "The PGE Data\n\n\n\n\n\n\n\n\n\n\nWhat about Russia and the rest of the former Soviet Union? Yugoslavia? Czechoslovakia? Pakistan? Sudan? Ethiopia? Why are there estimates for successor states before they actually existed?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe estimates for Ruritania, among others, have changed since the previous version. Why is that?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow is Germany treated in the PGE? Where’s East Germany?\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]

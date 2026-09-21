@@ -24,6 +24,12 @@
     ]
   },
   {
+    "listing": "/publications/published/discontent/index.html",
+    "items": [
+      "/publications/published/discontent/short.html"
+    ]
+  },
+  {
     "listing": "/publications/published/dem_support/index.html",
     "items": [
       "/publications/published/dem_support/short.html"
@@ -36,15 +42,15 @@
     ]
   },
   {
-    "listing": "/publications/working-papers/trust_bureaucracy/index.html",
+    "listing": "/publications/working-papers/trust_gov/index.html",
     "items": [
-      "/publications/working-papers/trust_bureaucracy/short.html"
+      "/publications/working-papers/trust_gov/short.html"
     ]
   },
   {
-    "listing": "/publications/working-papers/discontent/index.html",
+    "listing": "/publications/working-papers/trust_bureaucracy/index.html",
     "items": [
-      "/publications/working-papers/discontent/short.html"
+      "/publications/working-papers/trust_bureaucracy/short.html"
     ]
   },
   {
@@ -62,14 +68,14 @@
   {
     "listing": "/publications/index.html",
     "items": [
+      "/publications/published/discontent/index.html",
+      "/publications/published/macrointerest/index.html",
       "/publications/published/gayrights/index.html",
       "/publications/published/dem_mood/index.html",
-      "/publications/published/macrointerest/index.html",
       "/publications/published/dem_support/index.html",
       "/publications/published/pge/index.html",
       "/publications/working-papers/trust_gov/index.html",
       "/publications/working-papers/trust_bureaucracy/index.html",
-      "/publications/working-papers/discontent/index.html",
       "/publications/working-papers/demsupport_data/index.html",
       "/publications/working-papers/janitor_work/index.html",
       "/publications/working-papers/dcpo_article/index.html"
@@ -88,15 +94,15 @@
     ]
   },
   {
-    "listing": "/publications/working-papers/discontent/short.html",
-    "items": [
-      "/publications/working-papers/discontent/index.html"
-    ]
-  },
-  {
     "listing": "/publications/working-papers/trust_bureaucracy/short.html",
     "items": [
       "/publications/working-papers/trust_bureaucracy/index.html"
+    ]
+  },
+  {
+    "listing": "/publications/working-papers/trust_gov/short.html",
+    "items": [
+      "/publications/working-papers/trust_gov/index.html"
     ]
   },
   {
@@ -109,6 +115,12 @@
     "listing": "/publications/published/dem_support/short.html",
     "items": [
       "/publications/published/dem_support/index.html"
+    ]
+  },
+  {
+    "listing": "/publications/published/discontent/short.html",
+    "items": [
+      "/publications/published/discontent/index.html"
     ]
   },
   {
@@ -195,18 +207,6 @@
       "/data/pge/pge_faq/posts/how-to/stata-time-series.html",
       "/data/pge/pge_faq/posts/how-to/mean-and-std-err.html",
       "/data/pge/pge_faq/posts/how-to/country-codes.html"
-    ]
-  },
-  {
-    "listing": "/publications/working-papers/trust_gov/index.html",
-    "items": [
-      "/publications/working-papers/trust_gov/short.html"
-    ]
-  },
-  {
-    "listing": "/publications/working-papers/trust_gov/short.html",
-    "items": [
-      "/publications/working-papers/trust_gov/index.html"
     ]
   }
 ]

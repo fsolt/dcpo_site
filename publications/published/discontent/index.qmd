@@ -7,9 +7,9 @@ cite: >
   [Yuehong Cassandra Tai](https://cassyuehtai.netlify.app), 
   [Yue Hu](https://sammo3182.github.io), and
   [Frederick Solt](https://fsolt.org). 
-  2024.
+  2026.
   "Macrodiscontent Across Countries."
-  _SocArXiv_.
+  _European Political Science Review_, 1-17.
 author:
     - name: Haofeng Ma
       affiliation: Chinese University of Hong Kong, Shenzhen
@@ -32,9 +32,9 @@ author:
       url: https://fsolt.org
       orcid: 0000-0002-3154-6132
 links:
-# - name: Final version
-#   url: ""
-#   icon: fas fa-scroll
+- name: Final version
+  url: /papers/machoitaihusolt2026
+  icon: fas fa-scroll
 - name: Preprint
   url: /papers/machoitaihusolt2024_pre
   icon: far fa-file-pdf

@@ -1,12 +1,12 @@
 ---
 title: "Macrointerest Across Countries"
-date: 2024-02-06
+date: 2025-04-28
 cite: >
   [Hu, Yue](https://sammo3182.github.io) and
   [Frederick Solt](https://fsolt.org). 
-  Forthcoming.
+  2025.
   "Macrointerest Across Countries."
-  _British Journal of Political Science_.
+  _British Journal of Political Science_ 55, e71.
 author:
     - name: Yue Hu
       affiliation: Tsinghua University
@@ -17,9 +17,9 @@ author:
       url: https://fsolt.org
       orcid: 0000-0002-3154-6132
 links:
-# - name: Final version
-#   url: ""
-#   icon: fas fa-scroll
+- name: Final version
+  url: /papers/husolt2025
+  icon: fas fa-scroll
 - name: Preprint
   url: /papers/solt2023_pre
   icon: far fa-file-pdf
@@ -33,9 +33,9 @@ links:
   url: https://dcpo.org/data/cnm/
   icon: fa-solid fa-database
 # pub_status:
-status: Forthcoming
-status_class: warning
-status_icon: fa-regular fa-clock
+# #status: Forthcoming
+# #status_class: warning
+# #status_icon: fa-regular fa-clock
 # #   status: Writing
 # #   class: warning
 # #   icon: fas fa-edit
@@ -75,10 +75,11 @@ The extent to which the public takes an interest in politics has long been argue
 ## BibTeX citation
 
 ```bibtex
-@article{HuSolt2024,
+@article{HuSolt2025,
  author={Hu, Yue, and Solt, Frederick},
  title={Macrointerest Across Countries},
  journal={British Journal of Political Science},
- year={Forthcoming}
+ doi = {https://doi.org/10.1017/S0007123424001042},
+ year={2025}
 }
 ```
