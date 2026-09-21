@@ -1,6 +1,6 @@
 ---
 title: "Macrodiscontent Across Countries"
-date: 2024-08-28
+date: 2026-08-12
 cite: >
   [Ma, Haofeng](https://haofengma.org/),
   [Jeongho Choi](https://jeongho-choi.github.io/),
@@ -16,7 +16,7 @@ author:
       url: https://haofengma.org/
       orcid: 0000-0003-4379-8449
     - name: Jeongho Choi
-      affiliation: University of Iowa
+      affiliation: Kyung Hee University
       url: https://jeongho-choi.github.io/
       orcid: 0000-0002-8060-7907
     - name: Yuehong Cassandra Tai
@@ -57,9 +57,9 @@ links:
 # status: Revise & Resubmit
 # status_class: info
 # status_icon: fas fa-sync
-status: Revise & Resubmit
-status_class: info
-status_icon: fa-solid fa-arrows-rotate
+# status: Revise & Resubmit
+# status_class: info
+# status_icon: fa-solid fa-arrows-rotate
 listing:
   - id: cite
     contents: "short.qmd"
@@ -77,7 +77,7 @@ categories:
 
 ## Abstract
 
-Public discontent with the political system has become an increasingly salient concern in recent years, with the argument that it undermines democratic stability and effective governance. Nevertheless, the understanding of the nature, trends, and drivers of political discontent remains debated, largely reflecting the constraints from available survey data and items in the construction of measurement. This article takes advantage of the state-of-the-art latent-variable modeling to aggregat survey responses and a comprehensive collection of survey data to generate dynamic comparative estimates of public political discontent (PPD) for over a hundred countries over the past four decades. These PPD scores are validated with responses to the individual source-data survey items that were used to generate them as well as the democratic evaluation survey item that was not used in our estimation. Next, a cross-national and longitudinal analysis of PPD in advanced democracies (i.e., OECD countries) highlights that public political discontent has been on a rising trend, rather than merely “trendless fluctuations” as @norris2011democratic claimed. Our results reveal that these increased discontents are largely attributable to worsening economic conditions, including low average income, slow growth, and high unemployment rates.
+Public discontent with the political system has become an increasingly salient concern in recent years, with the argument that it undermines democratic stability and effective governance. Nevertheless, the understanding of the nature, trends, and drivers of political discontent remain debated, largely reflecting the constraints from available survey data and items in the construction of measurement. This article takes advantage of state-of-the-art latent-variable modeling to aggregate survey responses and a comprehensive collection of survey data to generate dynamic comparative estimates of public political discontent (PPD) for 136 countries and regions over 56 years (1968–2023). These PPD scores are validated with responses to the individual source-data survey items that were used to generate them as well as the democratic evaluation survey item that was not used in our estimation. Next, a cross-national and longitudinal analysis of PPD in advanced democracies (i.e., OECD countries) highlights that PPD has been on a rising trend, rather than merely trendless fluctuations. Our results reveal that these increased discontents are largely attributable to worsening economic conditions, including low average income, slow growth, and high unemployment rates.
 
 ## Important figures
 
@@ -88,13 +88,12 @@ Public discontent with the political system has become an increasingly salient c
 ## BibTeX citation
 
 ```bibtex
-@misc{MaChoiTaiHuSolt2024,
+@misc{MaChoiTaiHuSolt2026,
  title={Macrodiscontent Across Countries},
- url={osf.io/preprints/socarxiv/z9a3n},
- DOI={10.31235/osf.io/a9a3n},
- publisher={SocArXiv},
+ DOI={doi.org/10.1017/S1755773926100599},
+ publisher={European Political Science Review},
  author={Ma, Haofeng and Choi, Jeongho and Tai, Yuehong Cassandra and Hu, Yue and Solt, Frederick},
- year={2024},
+ year={2026},
  month={Aug}
 }
 ```
