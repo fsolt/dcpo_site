@@ -2,13 +2,16 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.32">
+<meta name="generator" content="quarto-1.9.37">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
 <title>PPD: Public Political Discontent – DCPO</title>
 <style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
 div.columns{display: flex; gap: min(4vw, 1.5em);}
@@ -37,10 +40,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap-86cac9e7e77bb48e752e3efcaf4b13b1.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-b664a21e67b34c36faccbe72628beea7.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -70,14 +73,24 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 <script src="https://kit.fontawesome.com/b9466c47ef.js" crossorigin="anonymous"></script>
 
+
+
 <!-- Default Statcounter code -->
+
 <script type="text/javascript">
+
 var sc_project=1915099;
+
 var sc_invisible=1;
+
 var sc_security="da58688a";
+
 </script>
+
 <script type="text/javascript" src="https://www.statcounter.com/counter/counter.js" async=""></script>
+
 <!-- End of Statcounter Code -->
+
 
 
 <link rel="stylesheet" href="../../templates/styles.css">
@@ -100,7 +113,8 @@ var sc_security="da58688a";
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a href="../../index.html" class="navbar-brand navbar-brand-logo">
-    <img src="../../dcpo.png" alt="" class="navbar-logo">
+    <img src="../../dcpo.png" alt="" class="navbar-logo light-content">
+    <img src="../../dcpo.png" alt="" class="navbar-logo dark-content">
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -204,10 +218,12 @@ var sc_security="da58688a";
 
 <section id="the-public-political-discontent-ppd-database" class="level3 page-columns page-full">
 <h3 class="anchored" data-anchor-id="the-public-political-discontent-ppd-database">The Public Political Discontent (PPD) Database</h3>
-<p>Public discontent with the political system has become an increasingly salient concern in recent years, with the argument that it undermines democratic stability and effective governance. Nevertheless, the understanding of the nature, trends, and drivers of political discontent remain debated, largely reflecting the constraints from available survey data and items in the construction of measurement. This article takes advantage of state-of-the-art latent-variable modeling to aggregate survey responses and a comprehensive collection of survey data to generate dynamic comparative estimates of public political discontent (PPD) for 136 countries and regions over 56 years (1968–2023). These PPD scores are validated with responses to the individual source-data survey items that were used to generate them as well as the democratic evaluation survey item that was not used in our estimation. Next, a cross-national and longitudinal analysis of PPD in advanced democracies (i.e., OECD countries) highlights that PPD has been on a rising trend, rather than merely trendless fluctuations. Our results reveal that these increased discontents are largely attributable to worsening economic conditions, including low average income, slow growth, and high unemployment rates.</p>
+<p>Public discontent with the political system is a fundamental political phenomenon, long seen as shaping the stability of regimes of every kind and as a threat to democratic governance in particular. Yet the most basic facts about it remain unsettled: how deep it runs, whether it is rising or merely fluctuating, where it is most and least pronounced, and what causes it and follows from it. The reason is data: no single survey question on political discontent has been asked consistently and comparably across all countries and years, so researchers relying on different items have reached conflicting conclusions.</p>
+<p>The goal of the Public Political Discontent (PPD) dataset is to overcome this problem. The PPD dataset combines a comprehensive collection of survey data—388 survey datasets and 111 distinct survey items—with a state-of-the-art latent-variable model to provide annual time-series estimates of political discontent that are comparable across space and time for 136 countries and regions over as many as 56 years (1968–2023). It is the largest and most temporally and spatially comprehensive dataset on the topic to date.</p>
+<p>The PPD’s coverage extends to non-democracies and thinly surveyed countries, and even among the most data-rich countries it offers more than twice as many country-years as the best single survey item. Every estimate comes with quantified measurement uncertainty that can be carried directly into statistical analyses. We anticipate that the PPD data will become a crucial source for cross-national and longitudinal research on political trust, populism, democratic backsliding, and regime stability across regime types.</p>
 <p>A full description of the PPD dataset, the source data used to generate it, and validations of its estimates is presented here:</p>
-<p><a href="https://haofengma.org/">Ma, Haofeng</a>, <a href="https://jeongho-choi.github.io">Jeongho Choi</a>, <a href="https://cassyuehtai.netlify.app">Yuehong Cassandra Tai</a>, <a href="http://www.drhuyue.site">Yue Hu</a>, and <a href="https://fsolt.org">Frederick Solt</a>. Forthcoming. <a href="../../publications/published/discontent/">“Macrodiscontent Across Countries.”</a> <em>European Political Science Review</em>.</p>
-<p>There are two ways of using the PPD data. To directly compare up to four countries in estimated levels and trends of public gender egalitarianism, use the PPD web app below. To use the PPD data in statistical analyses, datasets formatted for use in Stata and R are available for download.</p>
+<p><a href="https://haofengma.org/">Ma, Haofeng</a>, <a href="https://jeongho-choi.github.io/">Jeongho Choi</a>, <a href="https://cassyuehtai.netlify.app">Yuehong Cassandra Tai</a>, <a href="https://sammo3182.github.io">Yue Hu</a>, and <a href="https://fsolt.org">Frederick Solt</a>. 2026. <a href="../../publications/published/discontent">“Macrodiscontent Across Countries.”</a> <em>European Political Science Review</em> 1-17.</p>
+<p>To use PPD scores in full descriptive and statistical analyses, the complete dataset, formatted for use in R, is available for download through the button below. For a first look, the web app on this page lets you explore the estimates: choose up to four countries and compare their estimated levels and trends of public political discontent, with their uncertainty, over time.</p>
 <!-- [<i class="fa-regular fa-compass"></i> Explore the Source Data](ppd_faq.html){.btn-custom .btn role="button"} -->
 <p><a href="https://doi.org/10.7910/DVN/0II26W" class="btn-custom btn btn-lg" role="button"><i class="fa-solid fa-cloud-arrow-down"></i> Download the PPD</a> <a href="ppd_faq/" class="btn-custom btn btn-lg" role="button"><i class="fa-solid fa-circle-question"></i> PPD FAQ</a></p>
 <div class="column-page">
@@ -216,7 +232,7 @@ var sc_security="da58688a";
 </div>
 <p>Powered by <a href="http://shiny.rstudio.com">RStudio</a>.</p>
 <p>Please cite the PPD as follows:</p>
-<p>Ma, Haofeng, Jeongho Choi, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. Forthcoming. Macrodiscontent Across Countries. <em>European Political Science Review</em> Published online 2026:1-17. doi:10.1017/S1755773926100599 PPD Version 1.0, August 2026.</p>
+<p>Ma, Haofeng, Jeongho Choi, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. 2026. Macrodiscontent Across Countries. <em>European Political Science Review</em>, 1-17. doi:10.1017/S1755773926100599.</p>
 
 
 </section>
@@ -273,13 +289,14 @@ var sc_security="da58688a";
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy

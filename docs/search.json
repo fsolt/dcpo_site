@@ -235,7 +235,7 @@
     "href": "publications/published/discontent/index.html",
     "title": "Macrodiscontent Across Countries",
     "section": "",
-    "text": "Ma, Haofeng, Jeongho Choi, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. 2026. “Macrodiscontent Across Countries.” European Political Science Review, 1-17.\n\n\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Ma, Haofeng, Jeongho Choi, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. 2026. “Macrodiscontent Across Countries.” European Political Science Review, 1-17.\n\n\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n PPD Database\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications/published/discontent/index.html#abstract",
@@ -392,88 +392,95 @@
     "text": "There are two reasons why estimates change from one version of the SGR to the next. The first reason is that we have incorporated new source survey data for the country. Adding more source data for a country, particularly when previously available data was very scant, holds the potential that the estimates will change.\nThe second, less obvious, reason for changes is the availability of more source data for other countries. The SGR estimates of public gender egalitarianism depend on the DCPO routine’s estimates of the difficulty and dispersion of each survey item. When additional data is added for a given survey item (or, in fact, for other survey items in overlapping country-years), its difficulty and dispersion estimates may change see Woo, Ko, Tai, Hu, and Solt 2024, in turn influencing the SGR estimates based on responses to this survey item. This means that, given the scarcity of data on Ruritania, more data can lead to substantial changes in the SGR estimates for Ruritania."
   },
   {
-    "objectID": "data/pge/pge_faq/posts/how-to/not-a-stata-file.html",
-    "href": "data/pge/pge_faq/posts/how-to/not-a-stata-file.html",
-    "title": "I’m using an older version of Stata, and it won’t open the file. How can I use the PGE data?",
+    "objectID": "data/ppd/ppd_faq/posts/how-to/csv-format.html",
+    "href": "data/ppd/ppd_faq/posts/how-to/csv-format.html",
+    "title": "I imported the ppd_summary.csv file, but the data seem wrong. How can I interpret these data?",
     "section": "",
-    "text": "Stata 13 introduced a new file format which older versions of Stata can’t open. Fortunately, there’s an easy fix: the use13 command. In the command window, first type ssc install use13 to install it. Then you can type use13 pge1_0.dta, clear (change the version number as necessary, ofc) to load the PGE data."
+    "text": "The issue here is that the ppd_summary.csv file is saved using RFC 4180 csv conventions, that is, with a dot marking the decimal and a comma separating values. If you are in a locale that observes different conventions—many countries use commas to indicate the decimal and semicolons to separate values—your software’s default settings may not read the data correctly. Be sure to specify the decimal marker and value delimiter appropriately when loading the file: all PPD values fall between zero and one hundred."
   },
   {
-    "objectID": "data/pge/pge_faq/posts/how-to/download-pge.html",
-    "href": "data/pge/pge_faq/posts/how-to/download-pge.html",
-    "title": "Wait, how can I download the data again?",
+    "objectID": "data/ppd/ppd_faq/posts/data/partition-and-successors.html",
+    "href": "data/ppd/ppd_faq/posts/data/partition-and-successors.html",
+    "title": "What about Russia and the rest of the former Soviet Union? Yugoslavia? Czechoslovakia? Pakistan? Sudan? Ethiopia? Why are there estimates for successor states before they actually existed?",
     "section": "",
-    "text": "First, click on this link. Scroll down past the description until you see a list of files. The dataset is a .zip file, the latest version will be listed first. Clicking on the big downward-pointing-arrow icon on the right side of this line will show a menu; choosing “ZIP Archive” will download the file."
+    "text": "For countries that have undergone partition, the PPD estimates for a given year include all of the origin country’s then-current territories. This means that for dates before partition, all of the once united territory is included: estimates for Sudan before 2011, for example, include present-day South Sudan.\nWhere survey data are available from before the breakup for the territory of successor states, these data have been used to generate PPD estimates like anything else in the source data (the DCPO routine does not make any effort to incorporate information from the origin state into estimates for the successor state)."
   },
   {
-    "objectID": "data/pge/pge_faq/posts/how-to/country-codes.html",
-    "href": "data/pge/pge_faq/posts/how-to/country-codes.html",
-    "title": "How can I merge my other data into the PGE using ISO or other country codes?",
+    "objectID": "data/ppd/ppd_faq/posts/data/changes-between-versions.html",
+    "href": "data/ppd/ppd_faq/posts/data/changes-between-versions.html",
+    "title": "The estimates for Ruritania, among others, have changed since the previous version. Why is that?",
     "section": "",
-    "text": "First, add whatever country codes are needed to the PGE data: there are routines for both Stata (kountry; type findit kountry in Stata’s command window to install) and R (countrycode, on CRAN) to generate many commonly used country codes. Then follow the instructions for merging data into the PGE found in the “stata_pge.pdf” or “R_pge.pdf” files included in the data download."
+    "text": "There are two reasons why estimates change from one version of the PPD to the next. The first reason is that we have incorporated new source survey data for the country. Adding more source data for a country, particularly when previously available data was very scant, holds the potential that the estimates will change.\nThe second, less obvious, reason for changes is the availability of more source data for other countries. The PPD estimates of public political discontent depend on the DCPO routine’s estimates of the difficulty and dispersion of each survey item. When additional data is added for a given survey item (or, in fact, for other survey items in overlapping country-years), its difficulty and dispersion estimates may change see Ma et al. 2026, in turn influencing the PPD estimates based on responses to this survey item. This means that, given the scarcity of data on Ruritania, more data can lead to substantial changes in the PGE estimates for Ruritania."
   },
   {
-    "objectID": "data/pge/pge_faq/posts/data/germany.html",
-    "href": "data/pge/pge_faq/posts/data/germany.html",
-    "title": "How is Germany treated in the PGE? Where’s East Germany?",
+    "objectID": "data/pge/pge_faq/posts/how-to/stata-time-series.html",
+    "href": "data/pge/pge_faq/posts/how-to/stata-time-series.html",
+    "title": "How can I use the PGE data with Stata’s time-series operators?",
     "section": "",
-    "text": "Germany is West Germany only before 1991 and (united) Germany from that point forward. The PGE includes no estimates for East Germany; we just haven’t found much to include in the source data. If you know of a survey with East German Ginis, email us with the details, and we’ll be happy to get it into the next version."
+    "text": "To use Stata’s time-series operators (l. , f. , d. , etc.), you must first declare the time and panel variables using tsset, but the PGE is already mi set, so tsset won’t work. Run the following before merging the rest of your data (called my_data.dta in this example) into the SWIID:\nuse pge1_0.dta, clear\negen cc = group(country)  \nmi tsset cc year\nmerge 1:1 country year using \"my_data.dta\", keep(match master) \nNow you’ll be able to use l. and the rest of Stata’s time-series operators."
   },
   {
-    "objectID": "data/pge/pge_faq/index.html#how-to-.-.-.",
-    "href": "data/pge/pge_faq/index.html#how-to-.-.-.",
-    "title": "PGE Frequently Asked Questions",
-    "section": "How to . . .",
-    "text": "How to . . .\n\n\n\n\n\n\n\n\n\n\nWait, how can I download the data again?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nI’m using an older version of Stata, and it won’t open the file. How can I use the PGE data?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nI imported the pge_summary.csv file, and the data for some countries seem to be greater than one, when the PGE supposedly ranges only from zero to one. How can I interpret these data?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow can I use the PGE data with Stata’s time-series operators?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow can I use the PGE data to make my own graphs?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow can I merge my other data into the PGE using ISO or other country codes?\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "data/pge/pge_faq/index.html#the-pge-data",
-    "href": "data/pge/pge_faq/index.html#the-pge-data",
-    "title": "PGE Frequently Asked Questions",
-    "section": "The PGE Data",
-    "text": "The PGE Data\n\n\n\n\n\n\n\n\n\n\nWhat about Russia and the rest of the former Soviet Union? Yugoslavia? Czechoslovakia? Pakistan? Sudan? Ethiopia? Why are there estimates for successor states before they actually existed?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe estimates for Ruritania, among others, have changed since the previous version. Why is that?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow is Germany treated in the PGE? Where’s East Germany?\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "data/pge/index.html",
-    "href": "data/pge/index.html",
-    "title": "PGE: Public Gender Egalitarianism",
+    "objectID": "data/pge/pge_faq/posts/how-to/mean-and-std-err.html",
+    "href": "data/pge/pge_faq/posts/how-to/mean-and-std-err.html",
+    "title": "How can I use the PGE data to make my own graphs?",
     "section": "",
-    "text": "The Public Gender Egalitarianism (PGE) Database\nSocietal attitudes toward gender roles in the workplace and politics play a central part in theorizing on the difficulty women face in achieving political equality, but shortcomings in the available data have prevented direct examination of many implications of these theories. Drawing on recent advances in latent variable modeling of public opinion and a comprehensive collection of survey data, we present the Public Gender Egalitarianism dataset to address this need: comparable estimates of the public’s attitudes on gender equality in the public sphere across more than one hundred countries over time. These PGE scores are strongly correlated with responses to individual survey items and with women’s rates of participation in the labor force and corporate boards. We expect that the PGE data will become an invaluable source for broadly cross-national and longitudinal research on the causes and consequences of collective attitudes toward gender equality in politics and the economy.\nA full description of the PGE dataset, the source data used to generate it, and validations of its estimates is presented here:\nWoo, Byung-Deuk, Lindsey A. Goldberg, and Frederick Solt. Forthcoming. “Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere.” British Journal of Political Science.\nThere are two ways of using the PGE data. To directly compare up to four countries in estimated levels and trends of public gender egalitarianism, use the PGE web app below. To use the PGE in statistical analyses, datasets formatted for use in Stata and R are available for download.\n\n Download the PGE  PGE FAQ\n\n\n\n\nPowered by RStudio.\nPlease cite the PGE as follows:\nWoo, Byung-Deuk, Lindsey A. Goldberg, and Frederick Solt. 2023. “Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere.” British Journal of Political Science 53(2), 766-775. PGE Version 1.0, April 2022."
+    "text": "The PGE download contains files pre-formatted for use with the tools for analyzing multiply-imputed data and other data measured with uncertainty in Stata (e.g., pge1_0.dta) or R (e.g., pge1_0.rda). This is meant to “set the default” in a way that encourages researchers to take into account the uncertainty in the PGE estimates. This uncertainty is considerable in many countries, and the tools available in both software packages can now handle pretty much any analysis one may desire (for details, read the documents R_pge.pdf and stata_pge.pdf in the PGE download). But this format does not lend itself to graphing. For this purpose, use the summary file (e.g., pge1_0_summary.csv), which presents the PGE estimates in mean-plus-standard-error summary format.\nIn Stata:\nimport delimited \"pge1_0_summary.csv\", clear\n\n// A silly example\ngen name_length = length(country)\ngen first_letter = substr(country, 1, 1)\nkeep if year==2010 & first_letter==\"S\" /*2010 for Senegal, Serbia, . . .*/\n\n// A scatterplot with 95% uncertainty intervals\ntwoway rspike p2_5 p97_5 name_length, lstyle(ci) || ///\n    scatter pge name_length, msize(small) ///\n    legend(order(2 \"PGE Public Gender Equality\")) \nIn R:\nllibrary(tidyverse)\n\n# Load the PGE\nload(\"pge1_0.rda\")\n\n# Plot PGE estimates for the United States\npge_summary %&gt;% \n    filter(country == \"United States\") %&gt;% \n    ggplot(aes(x=year, y=pge)) + \n    geom_line() +\n    geom_ribbon(aes(ymin = pge-1.96*pge_se,\n                    ymax = pge+1.96*pge_se, \n                    linetype=NA), alpha = .25) +\n    scale_x_continuous(breaks=seq(1970, 2020, 5)) +\n    theme_bw() + \n    labs(x = \"Year\", \n         y = \"PGE: Public Gender Egalitarianism\",\n         title = \"Public gender egalitarianism in the United States\")"
   },
   {
-    "objectID": "data/cnm/index.html",
-    "href": "data/cnm/index.html",
-    "title": "CNM: Cross-National Macrointerest",
+    "objectID": "data/pge/pge_faq/posts/how-to/csv-format.html",
+    "href": "data/pge/pge_faq/posts/how-to/csv-format.html",
+    "title": "I imported the pge_summary.csv file, and the data for some countries seem to be greater than one, when the PGE supposedly ranges only from zero to one. How can I interpret these data?",
     "section": "",
-    "text": "The Cross-National Macrointerest (CNM) Database\nThe extent to which the public takes an interest in politics has long been argued to be foundational to democracy, but the want of appropriate data has prevented cross- national and longitudinal analysis. This letter takes advantage of recent advances in latent-variable modeling of aggregate survey responses and a comprehensive collection of survey data to generate dynamic comparative estimates of macrointerest, that is, aggregate political interest, for over a hundred countries over the past four decades.\nA full description of the CNM dataset, the source data used to generate it, and validations of its estimates is presented here:\nHu, Yue, and Frederick Solt. Forthcoming. “Macrointerest Across Countries.” British Journal of Political Science.\nThere are two ways of using the CNM data. To directly compare up to four countries in estimated levels and trends of public gender egalitarianism, use the CNM web app below. To use the CNM in statistical analyses, datasets formatted for use in Stata and R are available for download.\n\n Download the CNM  CNM FAQ\n\n\n\n\nPowered by RStudio.\nPlease cite the CNM as follows:\nHu, Yue, and Frederick Solt. Forthcoming. “Macrointerest Across Countries.” British Journal of Political Science. CNM Version 1.0, December 2024."
+    "text": "The issue here is that the pge_summary.csv file is saved using RFC 4180 csv conventions, that is, with a dot marking the decimal and a comma separating values. If you are in a locale that observes different conventions—many countries use commas to indicate the decimal and semicolons to separate values—your software’s default settings may not read the data correctly. Be sure to specify the decimal marker and value delimiter appropriately when loading the file: all PGE values fall between zero and one."
   },
   {
-    "objectID": "data/cnm/cnm_faq/posts/how-to/not-a-stata-file.html",
-    "href": "data/cnm/cnm_faq/posts/how-to/not-a-stata-file.html",
-    "title": "I’m using an older version of Stata, and it won’t open the file. How can I use the CNM data?",
+    "objectID": "data/pge/pge_faq/posts/data/partition-and-successors.html",
+    "href": "data/pge/pge_faq/posts/data/partition-and-successors.html",
+    "title": "What about Russia and the rest of the former Soviet Union? Yugoslavia? Czechoslovakia? Pakistan? Sudan? Ethiopia? Why are there estimates for successor states before they actually existed?",
     "section": "",
-    "text": "Stata 13 introduced a new file format which older versions of Stata can’t open. Fortunately, there’s an easy fix: the use13 command. In the command window, first type ssc install use13 to install it. Then you can type use13 sgr1_0.dta, clear (change the version number as necessary, ofc) to load the CNM data."
+    "text": "For countries that have undergone partition, the PGE estimates for a given year include all of the origin country’s then-current territories. This means that for dates before partition, all of the once united territory is included: estimates for Sudan before 2011, for example, include present-day South Sudan.\nWhere survey data are available from before the breakup for the territory of successor states, these data have been used to generate PGE estimates like anything else in the source data (the DCPO routine does not make any effort to incorporate information from the origin state into estimates for the successor state). For example, the estimates for Russia for dates before the breakup of the Soviet Union are for the territories of the USSR that would become Russia after the breakup; there are similar pre-breakup data available for several FSU states, the Czech Republic and Slovakia, and a few successor states of the former Yugoslavia. The resulting estimates are available for use when appropriate, that is, to match the conventions of the other data one may be employing."
   },
   {
-    "objectID": "data/cnm/cnm_faq/posts/how-to/download-cnm.html",
-    "href": "data/cnm/cnm_faq/posts/how-to/download-cnm.html",
-    "title": "Wait, how can I download the data again?",
+    "objectID": "data/pge/pge_faq/posts/data/changes-between-versions.html",
+    "href": "data/pge/pge_faq/posts/data/changes-between-versions.html",
+    "title": "The estimates for Ruritania, among others, have changed since the previous version. Why is that?",
     "section": "",
-    "text": "First, click on this link. Scroll down past the description until you see a list of files. The dataset is a .zip file, the latest version will be listed first. Clicking on the big downward-pointing-arrow icon on the right side of this line will show a menu; choosing “ZIP Archive” will download the file."
+    "text": "There are two reasons why estimates change from one version of the PGE to the next. The first reason is that we have incorporated new source survey data for the country. Adding more source data for a country, particularly when previously available data was very scant, holds the potential that the estimates will change.\nThe second, less obvious, reason for changes is the availability of more source data for other countries. The PGE estimates of public gender egalitarianism depend on the DCPO routine’s estimates of the difficulty and dispersion of each survey item. When additional data is added for a given survey item (or, in fact, for other survey items in overlapping country-years), its difficulty and dispersion estimates may change see Woo, Goldberg, and Solt 2022, in turn influencing the PGE estimates based on responses to this survey item. This means that, given the scarcity of data on Ruritania, more data can lead to substantial changes in the PGE estimates for Ruritania."
   },
   {
-    "objectID": "data/cnm/cnm_faq/posts/how-to/country-codes.html",
-    "href": "data/cnm/cnm_faq/posts/how-to/country-codes.html",
-    "title": "How can I merge my other data into the CNM using ISO or other country codes?",
+    "objectID": "data/cnm/cnm_faq/posts/how-to/stata-time-series.html",
+    "href": "data/cnm/cnm_faq/posts/how-to/stata-time-series.html",
+    "title": "How can I use the CNM data with Stata’s time-series operators?",
     "section": "",
-    "text": "First, add whatever country codes are needed to the CNM data: there are routines for both Stata (kountry; type findit kountry in Stata’s command window to install) and R (countrycode, on CRAN) to generate many commonly used country codes. Then follow the instructions for merging data into the CNM found in the “stata_cnm.pdf” or “R_cnm.pdf” files included in the data download."
+    "text": "To use Stata’s time-series operators (l. , f. , d. , etc.), you must first declare the time and panel variables using tsset, but the CNM is already mi set, so tsset won’t work. Run the following before merging the rest of your data (called my_data.dta in this example) into the CNM:\nuse cnm1_0.dta, clear\negen cc = group(country)  \nmi tsset cc year\nmerge 1:1 country year using \"my_data.dta\", keep(match master) \nNow you’ll be able to use l. and the rest of Stata’s time-series operators."
   },
   {
-    "objectID": "data/cnm/cnm_faq/posts/data/germany.html",
-    "href": "data/cnm/cnm_faq/posts/data/germany.html",
-    "title": "How is Germany treated in the SGR? Where’s East Germany?",
+    "objectID": "data/cnm/cnm_faq/posts/how-to/mean-and-std-err.html",
+    "href": "data/cnm/cnm_faq/posts/how-to/mean-and-std-err.html",
+    "title": "How can I use the CNM data to make my own graphs?",
     "section": "",
-    "text": "Germany is West Germany only before 1991 and (united) Germany from that point forward. The CNM includes no estimates for East Germany; we just haven’t found much to include in the source data. If you know of a survey with East German data, email us with the details, and we’ll be happy to get it into the next version."
+    "text": "The CNM download contains files pre-formatted for use with the tools for analyzing multiply-imputed data and other data measured with uncertainty in Stata (e.g., cnm1_0.dta) or R (e.g., cnm1_0.rda). This is meant to “set the default” in a way that encourages researchers to take into account the uncertainty in the CNM estimates. This uncertainty is considerable in many countries, and the tools available in both software packages can now handle pretty much any analysis one may desire (for details, read the documents R_cnm.pdf and stata_cnm.pdf in the CNM download). But this format does not lend itself to graphing. For this purpose, use the summary file (e.g., cnm1_0_summary.csv), which presents the CNM estimates in mean-plus-standard-error summary format.\nIn Stata:\nimport delimited \"cnm1_0_summary.csv\", clear\n\n// A silly example\ngen name_length = length(country)\ngen first_letter = substr(country, 1, 1)\nkeep if year==2010 & first_letter==\"S\" /*2010 for Senegal, Serbia, . . .*/\n\n// A scatterplot with 95% uncertainty intervals\ntwoway rspike p2_5 p97_5 name_length, lstyle(ci) || ///\n    scatter cnm name_length, msize(small) ///\n    legend(order(2 \"CNM: Support for Gay Rights\")) \nIn R:\nllibrary(tidyverse)\n\n# Load the CNM\nload(\"cnm1_0.rda\")\n\n# Plot CNM estimates for the United States\ncnm_summary %&gt;% \n    filter(country == \"United States\") %&gt;% \n    ggplot(aes(x=year, y=cnm)) + \n    geom_line() +\n    geom_ribbon(aes(ymin = cnm-1.96*cnm_se,\n                    ymax = cnm+1.96*cnm_se, \n                    linetype=NA), alpha = .25) +\n    scale_x_continuous(breaks=seq(1970, 2020, 5)) +\n    theme_bw() + \n    labs(x = \"Year\", \n         y = \"Macrointerest\",\n         title = \"Macrointerest in the United States\")"
+  },
+  {
+    "objectID": "data/cnm/cnm_faq/posts/how-to/csv-format.html",
+    "href": "data/cnm/cnm_faq/posts/how-to/csv-format.html",
+    "title": "I imported the cnm_summary.csv file, and the data for some countries seem to be greater than one, when the CNM supposedly ranges only from zero to one. How can I interpret these data?",
+    "section": "",
+    "text": "The issue here is that the cnm_summary.csv file is saved using RFC 4180 csv conventions, that is, with a dot marking the decimal and a comma separating values. If you are in a locale that observes different conventions—many countries use commas to indicate the decimal and semicolons to separate values—your software’s default settings may not read the data correctly. Be sure to specify the decimal marker and value delimiter appropriately when loading the file: all CNM values fall between zero and one."
+  },
+  {
+    "objectID": "data/cnm/cnm_faq/posts/data/partition-and-successors.html",
+    "href": "data/cnm/cnm_faq/posts/data/partition-and-successors.html",
+    "title": "What about Russia and the rest of the former Soviet Union? Yugoslavia? Czechoslovakia? Pakistan? Sudan? Ethiopia? Why are there estimates for successor states before they actually existed?",
+    "section": "",
+    "text": "For countries that have undergone partition, the CNM estimates for a given year include all of the origin country’s then-current territories. This means that for dates before partition, all of the once united territory is included: estimates for Sudan before 2011, for example, include present-day South Sudan.\nWhere survey data are available from before the breakup for the territory of successor states, these data have been used to generate CNM estimates like anything else in the source data (the DCPO routine does not make any effort to incorporate information from the origin state into estimates for the successor state). For example, the estimates for Russia for dates before the breakup of the Soviet Union are for the territories of the USSR that would become Russia after the breakup; there are similar pre-breakup data available for several FSU states, the Czech Republic and Slovakia, and a few successor states of the former Yugoslavia. The resulting estimates are available for use when appropriate, that is, to match the conventions of the other data one may be employing."
+  },
+  {
+    "objectID": "data/cnm/cnm_faq/posts/data/changes-between-versions.html",
+    "href": "data/cnm/cnm_faq/posts/data/changes-between-versions.html",
+    "title": "The estimates for Ruritania, among others, have changed since the previous version. Why is that?",
+    "section": "",
+    "text": "There are two reasons why estimates change from one version of the CNM to the next. The first reason is that we have incorporated new source survey data for the country. Adding more source data for a country, particularly when previously available data was very scant, holds the potential that the estimates will change.\nThe second, less obvious, reason for changes is the availability of more source data for other countries. The CNM estimates of macrointerest depend on the DCPO routine’s estimates of the difficulty and dispersion of each survey item. When additional data is added for a given survey item (or, in fact, for other survey items in overlapping country-years), its difficulty and dispersion estimates may change see Hu and Solt 2024, in turn influencing the CNM estimates based on responses to this survey item. This means that, given the scarcity of data on Ruritania, more data can lead to substantial changes in the CNM estimates for Ruritania."
   },
   {
     "objectID": "data/cnm/cnm_faq/index.html#how-to-.-.-.",
@@ -490,74 +497,130 @@
     "text": "The CNM Data\n\n\n\n\n\n\n\n\n\n\nWhat about Russia and the rest of the former Soviet Union? Yugoslavia? Czechoslovakia? Pakistan? Sudan? Ethiopia? Why are there estimates for successor states before they actually existed?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe estimates for Ruritania, among others, have changed since the previous version. Why is that?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow is Germany treated in the SGR? Where’s East Germany?\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "data/cnm/cnm_faq/posts/data/changes-between-versions.html",
-    "href": "data/cnm/cnm_faq/posts/data/changes-between-versions.html",
-    "title": "The estimates for Ruritania, among others, have changed since the previous version. Why is that?",
+    "objectID": "data/cnm/cnm_faq/posts/data/germany.html",
+    "href": "data/cnm/cnm_faq/posts/data/germany.html",
+    "title": "How is Germany treated in the SGR? Where’s East Germany?",
     "section": "",
-    "text": "There are two reasons why estimates change from one version of the CNM to the next. The first reason is that we have incorporated new source survey data for the country. Adding more source data for a country, particularly when previously available data was very scant, holds the potential that the estimates will change.\nThe second, less obvious, reason for changes is the availability of more source data for other countries. The CNM estimates of macrointerest depend on the DCPO routine’s estimates of the difficulty and dispersion of each survey item. When additional data is added for a given survey item (or, in fact, for other survey items in overlapping country-years), its difficulty and dispersion estimates may change see Hu and Solt 2024, in turn influencing the CNM estimates based on responses to this survey item. This means that, given the scarcity of data on Ruritania, more data can lead to substantial changes in the CNM estimates for Ruritania."
+    "text": "Germany is West Germany only before 1991 and (united) Germany from that point forward. The CNM includes no estimates for East Germany; we just haven’t found much to include in the source data. If you know of a survey with East German data, email us with the details, and we’ll be happy to get it into the next version."
   },
   {
-    "objectID": "data/cnm/cnm_faq/posts/data/partition-and-successors.html",
-    "href": "data/cnm/cnm_faq/posts/data/partition-and-successors.html",
-    "title": "What about Russia and the rest of the former Soviet Union? Yugoslavia? Czechoslovakia? Pakistan? Sudan? Ethiopia? Why are there estimates for successor states before they actually existed?",
+    "objectID": "data/cnm/cnm_faq/posts/how-to/country-codes.html",
+    "href": "data/cnm/cnm_faq/posts/how-to/country-codes.html",
+    "title": "How can I merge my other data into the CNM using ISO or other country codes?",
     "section": "",
-    "text": "For countries that have undergone partition, the CNM estimates for a given year include all of the origin country’s then-current territories. This means that for dates before partition, all of the once united territory is included: estimates for Sudan before 2011, for example, include present-day South Sudan.\nWhere survey data are available from before the breakup for the territory of successor states, these data have been used to generate CNM estimates like anything else in the source data (the DCPO routine does not make any effort to incorporate information from the origin state into estimates for the successor state). For example, the estimates for Russia for dates before the breakup of the Soviet Union are for the territories of the USSR that would become Russia after the breakup; there are similar pre-breakup data available for several FSU states, the Czech Republic and Slovakia, and a few successor states of the former Yugoslavia. The resulting estimates are available for use when appropriate, that is, to match the conventions of the other data one may be employing."
+    "text": "First, add whatever country codes are needed to the CNM data: there are routines for both Stata (kountry; type findit kountry in Stata’s command window to install) and R (countrycode, on CRAN) to generate many commonly used country codes. Then follow the instructions for merging data into the CNM found in the “stata_cnm.pdf” or “R_cnm.pdf” files included in the data download."
   },
   {
-    "objectID": "data/cnm/cnm_faq/posts/how-to/csv-format.html",
-    "href": "data/cnm/cnm_faq/posts/how-to/csv-format.html",
-    "title": "I imported the cnm_summary.csv file, and the data for some countries seem to be greater than one, when the CNM supposedly ranges only from zero to one. How can I interpret these data?",
+    "objectID": "data/cnm/cnm_faq/posts/how-to/download-cnm.html",
+    "href": "data/cnm/cnm_faq/posts/how-to/download-cnm.html",
+    "title": "Wait, how can I download the data again?",
     "section": "",
-    "text": "The issue here is that the cnm_summary.csv file is saved using RFC 4180 csv conventions, that is, with a dot marking the decimal and a comma separating values. If you are in a locale that observes different conventions—many countries use commas to indicate the decimal and semicolons to separate values—your software’s default settings may not read the data correctly. Be sure to specify the decimal marker and value delimiter appropriately when loading the file: all CNM values fall between zero and one."
+    "text": "First, click on this link. Scroll down past the description until you see a list of files. The dataset is a .zip file, the latest version will be listed first. Clicking on the big downward-pointing-arrow icon on the right side of this line will show a menu; choosing “ZIP Archive” will download the file."
   },
   {
-    "objectID": "data/cnm/cnm_faq/posts/how-to/mean-and-std-err.html",
-    "href": "data/cnm/cnm_faq/posts/how-to/mean-and-std-err.html",
-    "title": "How can I use the CNM data to make my own graphs?",
+    "objectID": "data/cnm/cnm_faq/posts/how-to/not-a-stata-file.html",
+    "href": "data/cnm/cnm_faq/posts/how-to/not-a-stata-file.html",
+    "title": "I’m using an older version of Stata, and it won’t open the file. How can I use the CNM data?",
     "section": "",
-    "text": "The CNM download contains files pre-formatted for use with the tools for analyzing multiply-imputed data and other data measured with uncertainty in Stata (e.g., cnm1_0.dta) or R (e.g., cnm1_0.rda). This is meant to “set the default” in a way that encourages researchers to take into account the uncertainty in the CNM estimates. This uncertainty is considerable in many countries, and the tools available in both software packages can now handle pretty much any analysis one may desire (for details, read the documents R_cnm.pdf and stata_cnm.pdf in the CNM download). But this format does not lend itself to graphing. For this purpose, use the summary file (e.g., cnm1_0_summary.csv), which presents the CNM estimates in mean-plus-standard-error summary format.\nIn Stata:\nimport delimited \"cnm1_0_summary.csv\", clear\n\n// A silly example\ngen name_length = length(country)\ngen first_letter = substr(country, 1, 1)\nkeep if year==2010 & first_letter==\"S\" /*2010 for Senegal, Serbia, . . .*/\n\n// A scatterplot with 95% uncertainty intervals\ntwoway rspike p2_5 p97_5 name_length, lstyle(ci) || ///\n    scatter cnm name_length, msize(small) ///\n    legend(order(2 \"CNM: Support for Gay Rights\")) \nIn R:\nllibrary(tidyverse)\n\n# Load the CNM\nload(\"cnm1_0.rda\")\n\n# Plot CNM estimates for the United States\ncnm_summary %&gt;% \n    filter(country == \"United States\") %&gt;% \n    ggplot(aes(x=year, y=cnm)) + \n    geom_line() +\n    geom_ribbon(aes(ymin = cnm-1.96*cnm_se,\n                    ymax = cnm+1.96*cnm_se, \n                    linetype=NA), alpha = .25) +\n    scale_x_continuous(breaks=seq(1970, 2020, 5)) +\n    theme_bw() + \n    labs(x = \"Year\", \n         y = \"Macrointerest\",\n         title = \"Macrointerest in the United States\")"
+    "text": "Stata 13 introduced a new file format which older versions of Stata can’t open. Fortunately, there’s an easy fix: the use13 command. In the command window, first type ssc install use13 to install it. Then you can type use13 sgr1_0.dta, clear (change the version number as necessary, ofc) to load the CNM data."
   },
   {
-    "objectID": "data/cnm/cnm_faq/posts/how-to/stata-time-series.html",
-    "href": "data/cnm/cnm_faq/posts/how-to/stata-time-series.html",
-    "title": "How can I use the CNM data with Stata’s time-series operators?",
+    "objectID": "data/cnm/index.html",
+    "href": "data/cnm/index.html",
+    "title": "CNM: Cross-National Macrointerest",
     "section": "",
-    "text": "To use Stata’s time-series operators (l. , f. , d. , etc.), you must first declare the time and panel variables using tsset, but the CNM is already mi set, so tsset won’t work. Run the following before merging the rest of your data (called my_data.dta in this example) into the CNM:\nuse cnm1_0.dta, clear\negen cc = group(country)  \nmi tsset cc year\nmerge 1:1 country year using \"my_data.dta\", keep(match master) \nNow you’ll be able to use l. and the rest of Stata’s time-series operators."
+    "text": "The Cross-National Macrointerest (CNM) Database\nThe extent to which the public takes an interest in politics has long been argued to be foundational to democracy, but the want of appropriate data has prevented cross- national and longitudinal analysis. This letter takes advantage of recent advances in latent-variable modeling of aggregate survey responses and a comprehensive collection of survey data to generate dynamic comparative estimates of macrointerest, that is, aggregate political interest, for over a hundred countries over the past four decades.\nA full description of the CNM dataset, the source data used to generate it, and validations of its estimates is presented here:\nHu, Yue, and Frederick Solt. Forthcoming. “Macrointerest Across Countries.” British Journal of Political Science.\nThere are two ways of using the CNM data. To directly compare up to four countries in estimated levels and trends of public gender egalitarianism, use the CNM web app below. To use the CNM in statistical analyses, datasets formatted for use in Stata and R are available for download.\n\n Download the CNM  CNM FAQ\n\n\n\n\nPowered by RStudio.\nPlease cite the CNM as follows:\nHu, Yue, and Frederick Solt. Forthcoming. “Macrointerest Across Countries.” British Journal of Political Science. CNM Version 1.0, December 2024."
   },
   {
-    "objectID": "data/pge/pge_faq/posts/data/changes-between-versions.html",
-    "href": "data/pge/pge_faq/posts/data/changes-between-versions.html",
-    "title": "The estimates for Ruritania, among others, have changed since the previous version. Why is that?",
+    "objectID": "data/pge/index.html",
+    "href": "data/pge/index.html",
+    "title": "PGE: Public Gender Egalitarianism",
     "section": "",
-    "text": "There are two reasons why estimates change from one version of the PGE to the next. The first reason is that we have incorporated new source survey data for the country. Adding more source data for a country, particularly when previously available data was very scant, holds the potential that the estimates will change.\nThe second, less obvious, reason for changes is the availability of more source data for other countries. The PGE estimates of public gender egalitarianism depend on the DCPO routine’s estimates of the difficulty and dispersion of each survey item. When additional data is added for a given survey item (or, in fact, for other survey items in overlapping country-years), its difficulty and dispersion estimates may change see Woo, Goldberg, and Solt 2022, in turn influencing the PGE estimates based on responses to this survey item. This means that, given the scarcity of data on Ruritania, more data can lead to substantial changes in the PGE estimates for Ruritania."
+    "text": "The Public Gender Egalitarianism (PGE) Database\nSocietal attitudes toward gender roles in the workplace and politics play a central part in theorizing on the difficulty women face in achieving political equality, but shortcomings in the available data have prevented direct examination of many implications of these theories. Drawing on recent advances in latent variable modeling of public opinion and a comprehensive collection of survey data, we present the Public Gender Egalitarianism dataset to address this need: comparable estimates of the public’s attitudes on gender equality in the public sphere across more than one hundred countries over time. These PGE scores are strongly correlated with responses to individual survey items and with women’s rates of participation in the labor force and corporate boards. We expect that the PGE data will become an invaluable source for broadly cross-national and longitudinal research on the causes and consequences of collective attitudes toward gender equality in politics and the economy.\nA full description of the PGE dataset, the source data used to generate it, and validations of its estimates is presented here:\nWoo, Byung-Deuk, Lindsey A. Goldberg, and Frederick Solt. Forthcoming. “Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere.” British Journal of Political Science.\nThere are two ways of using the PGE data. To directly compare up to four countries in estimated levels and trends of public gender egalitarianism, use the PGE web app below. To use the PGE in statistical analyses, datasets formatted for use in Stata and R are available for download.\n\n Download the PGE  PGE FAQ\n\n\n\n\nPowered by RStudio.\nPlease cite the PGE as follows:\nWoo, Byung-Deuk, Lindsey A. Goldberg, and Frederick Solt. 2023. “Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere.” British Journal of Political Science 53(2), 766-775. PGE Version 1.0, April 2022."
   },
   {
-    "objectID": "data/pge/pge_faq/posts/data/partition-and-successors.html",
-    "href": "data/pge/pge_faq/posts/data/partition-and-successors.html",
-    "title": "What about Russia and the rest of the former Soviet Union? Yugoslavia? Czechoslovakia? Pakistan? Sudan? Ethiopia? Why are there estimates for successor states before they actually existed?",
-    "section": "",
-    "text": "For countries that have undergone partition, the PGE estimates for a given year include all of the origin country’s then-current territories. This means that for dates before partition, all of the once united territory is included: estimates for Sudan before 2011, for example, include present-day South Sudan.\nWhere survey data are available from before the breakup for the territory of successor states, these data have been used to generate PGE estimates like anything else in the source data (the DCPO routine does not make any effort to incorporate information from the origin state into estimates for the successor state). For example, the estimates for Russia for dates before the breakup of the Soviet Union are for the territories of the USSR that would become Russia after the breakup; there are similar pre-breakup data available for several FSU states, the Czech Republic and Slovakia, and a few successor states of the former Yugoslavia. The resulting estimates are available for use when appropriate, that is, to match the conventions of the other data one may be employing."
+    "objectID": "data/pge/pge_faq/index.html#how-to-.-.-.",
+    "href": "data/pge/pge_faq/index.html#how-to-.-.-.",
+    "title": "PGE Frequently Asked Questions",
+    "section": "How to . . .",
+    "text": "How to . . .\n\n\n\n\n\n\n\n\n\n\nWait, how can I download the data again?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nI’m using an older version of Stata, and it won’t open the file. How can I use the PGE data?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nI imported the pge_summary.csv file, and the data for some countries seem to be greater than one, when the PGE supposedly ranges only from zero to one. How can I interpret these data?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow can I use the PGE data with Stata’s time-series operators?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow can I use the PGE data to make my own graphs?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow can I merge my other data into the PGE using ISO or other country codes?\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "data/pge/pge_faq/posts/how-to/csv-format.html",
-    "href": "data/pge/pge_faq/posts/how-to/csv-format.html",
-    "title": "I imported the pge_summary.csv file, and the data for some countries seem to be greater than one, when the PGE supposedly ranges only from zero to one. How can I interpret these data?",
-    "section": "",
-    "text": "The issue here is that the pge_summary.csv file is saved using RFC 4180 csv conventions, that is, with a dot marking the decimal and a comma separating values. If you are in a locale that observes different conventions—many countries use commas to indicate the decimal and semicolons to separate values—your software’s default settings may not read the data correctly. Be sure to specify the decimal marker and value delimiter appropriately when loading the file: all PGE values fall between zero and one."
+    "objectID": "data/pge/pge_faq/index.html#the-pge-data",
+    "href": "data/pge/pge_faq/index.html#the-pge-data",
+    "title": "PGE Frequently Asked Questions",
+    "section": "The PGE Data",
+    "text": "The PGE Data\n\n\n\n\n\n\n\n\n\n\nWhat about Russia and the rest of the former Soviet Union? Yugoslavia? Czechoslovakia? Pakistan? Sudan? Ethiopia? Why are there estimates for successor states before they actually existed?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe estimates for Ruritania, among others, have changed since the previous version. Why is that?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow is Germany treated in the PGE? Where’s East Germany?\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "data/pge/pge_faq/posts/how-to/mean-and-std-err.html",
-    "href": "data/pge/pge_faq/posts/how-to/mean-and-std-err.html",
-    "title": "How can I use the PGE data to make my own graphs?",
+    "objectID": "data/pge/pge_faq/posts/data/germany.html",
+    "href": "data/pge/pge_faq/posts/data/germany.html",
+    "title": "How is Germany treated in the PGE? Where’s East Germany?",
     "section": "",
-    "text": "The PGE download contains files pre-formatted for use with the tools for analyzing multiply-imputed data and other data measured with uncertainty in Stata (e.g., pge1_0.dta) or R (e.g., pge1_0.rda). This is meant to “set the default” in a way that encourages researchers to take into account the uncertainty in the PGE estimates. This uncertainty is considerable in many countries, and the tools available in both software packages can now handle pretty much any analysis one may desire (for details, read the documents R_pge.pdf and stata_pge.pdf in the PGE download). But this format does not lend itself to graphing. For this purpose, use the summary file (e.g., pge1_0_summary.csv), which presents the PGE estimates in mean-plus-standard-error summary format.\nIn Stata:\nimport delimited \"pge1_0_summary.csv\", clear\n\n// A silly example\ngen name_length = length(country)\ngen first_letter = substr(country, 1, 1)\nkeep if year==2010 & first_letter==\"S\" /*2010 for Senegal, Serbia, . . .*/\n\n// A scatterplot with 95% uncertainty intervals\ntwoway rspike p2_5 p97_5 name_length, lstyle(ci) || ///\n    scatter pge name_length, msize(small) ///\n    legend(order(2 \"PGE Public Gender Equality\")) \nIn R:\nllibrary(tidyverse)\n\n# Load the PGE\nload(\"pge1_0.rda\")\n\n# Plot PGE estimates for the United States\npge_summary %&gt;% \n    filter(country == \"United States\") %&gt;% \n    ggplot(aes(x=year, y=pge)) + \n    geom_line() +\n    geom_ribbon(aes(ymin = pge-1.96*pge_se,\n                    ymax = pge+1.96*pge_se, \n                    linetype=NA), alpha = .25) +\n    scale_x_continuous(breaks=seq(1970, 2020, 5)) +\n    theme_bw() + \n    labs(x = \"Year\", \n         y = \"PGE: Public Gender Egalitarianism\",\n         title = \"Public gender egalitarianism in the United States\")"
+    "text": "Germany is West Germany only before 1991 and (united) Germany from that point forward. The PGE includes no estimates for East Germany; we just haven’t found much to include in the source data. If you know of a survey with East German Ginis, email us with the details, and we’ll be happy to get it into the next version."
   },
   {
-    "objectID": "data/pge/pge_faq/posts/how-to/stata-time-series.html",
-    "href": "data/pge/pge_faq/posts/how-to/stata-time-series.html",
-    "title": "How can I use the PGE data with Stata’s time-series operators?",
+    "objectID": "data/pge/pge_faq/posts/how-to/country-codes.html",
+    "href": "data/pge/pge_faq/posts/how-to/country-codes.html",
+    "title": "How can I merge my other data into the PGE using ISO or other country codes?",
     "section": "",
-    "text": "To use Stata’s time-series operators (l. , f. , d. , etc.), you must first declare the time and panel variables using tsset, but the PGE is already mi set, so tsset won’t work. Run the following before merging the rest of your data (called my_data.dta in this example) into the SWIID:\nuse pge1_0.dta, clear\negen cc = group(country)  \nmi tsset cc year\nmerge 1:1 country year using \"my_data.dta\", keep(match master) \nNow you’ll be able to use l. and the rest of Stata’s time-series operators."
+    "text": "First, add whatever country codes are needed to the PGE data: there are routines for both Stata (kountry; type findit kountry in Stata’s command window to install) and R (countrycode, on CRAN) to generate many commonly used country codes. Then follow the instructions for merging data into the PGE found in the “stata_pge.pdf” or “R_pge.pdf” files included in the data download."
+  },
+  {
+    "objectID": "data/pge/pge_faq/posts/how-to/download-pge.html",
+    "href": "data/pge/pge_faq/posts/how-to/download-pge.html",
+    "title": "Wait, how can I download the data again?",
+    "section": "",
+    "text": "First, click on this link. Scroll down past the description until you see a list of files. The dataset is a .zip file, the latest version will be listed first. Clicking on the big downward-pointing-arrow icon on the right side of this line will show a menu; choosing “ZIP Archive” will download the file."
+  },
+  {
+    "objectID": "data/pge/pge_faq/posts/how-to/not-a-stata-file.html",
+    "href": "data/pge/pge_faq/posts/how-to/not-a-stata-file.html",
+    "title": "I’m using an older version of Stata, and it won’t open the file. How can I use the PGE data?",
+    "section": "",
+    "text": "Stata 13 introduced a new file format which older versions of Stata can’t open. Fortunately, there’s an easy fix: the use13 command. In the command window, first type ssc install use13 to install it. Then you can type use13 pge1_0.dta, clear (change the version number as necessary, ofc) to load the PGE data."
+  },
+  {
+    "objectID": "data/ppd/index.html",
+    "href": "data/ppd/index.html",
+    "title": "PPD: Public Political Discontent",
+    "section": "",
+    "text": "The Public Political Discontent (PPD) Database\nPublic discontent with the political system is a fundamental political phenomenon, long seen as shaping the stability of regimes of every kind and as a threat to democratic governance in particular. Yet the most basic facts about it remain unsettled: how deep it runs, whether it is rising or merely fluctuating, where it is most and least pronounced, and what causes it and follows from it. The reason is data: no single survey question on political discontent has been asked consistently and comparably across all countries and years, so researchers relying on different items have reached conflicting conclusions.\nThe goal of the Public Political Discontent (PPD) dataset is to overcome this problem. The PPD dataset combines a comprehensive collection of survey data—388 survey datasets and 111 distinct survey items—with a state-of-the-art latent-variable model to provide annual time-series estimates of political discontent that are comparable across space and time for 136 countries and regions over as many as 56 years (1968–2023). It is the largest and most temporally and spatially comprehensive dataset on the topic to date.\nThe PPD’s coverage extends to non-democracies and thinly surveyed countries, and even among the most data-rich countries it offers more than twice as many country-years as the best single survey item. Every estimate comes with quantified measurement uncertainty that can be carried directly into statistical analyses. We anticipate that the PPD data will become a crucial source for cross-national and longitudinal research on political trust, populism, democratic backsliding, and regime stability across regime types.\nA full description of the PPD dataset, the source data used to generate it, and validations of its estimates is presented here:\nMa, Haofeng, Jeongho Choi, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. 2026. “Macrodiscontent Across Countries.” European Political Science Review 1-17.\nTo use PPD scores in full descriptive and statistical analyses, the complete dataset, formatted for use in R, is available for download through the button below. For a first look, the web app on this page lets you explore the estimates: choose up to four countries and compare their estimated levels and trends of public political discontent, with their uncertainty, over time.\n\n Download the PPD  PPD FAQ\n\n\n\n\nPowered by RStudio.\nPlease cite the PPD as follows:\nMa, Haofeng, Jeongho Choi, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. 2026. Macrodiscontent Across Countries. European Political Science Review, 1-17. doi:10.1017/S1755773926100599."
+  },
+  {
+    "objectID": "data/ppd/ppd_faq/index.html#how-to-.-.-.",
+    "href": "data/ppd/ppd_faq/index.html#how-to-.-.-.",
+    "title": "PPD Frequently Asked Questions",
+    "section": "How to . . .",
+    "text": "How to . . .\n\n\n\n\n\n\n\n\n\n\nWait, how can I download the data again?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nI imported the ppd_summary.csv file, but the data seem wrong. How can I interpret these data?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow can I merge my other data into the PPD using ISO or other country codes?\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "data/ppd/ppd_faq/index.html#the-ppd-data",
+    "href": "data/ppd/ppd_faq/index.html#the-ppd-data",
+    "title": "PPD Frequently Asked Questions",
+    "section": "The PPD Data",
+    "text": "The PPD Data\n\n\n\n\n\n\n\n\n\n\nWhat about Russia and the rest of the former Soviet Union? Yugoslavia? Czechoslovakia? Pakistan? Sudan? Ethiopia? Why are there estimates for successor states before they actually existed?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe estimates for Ruritania, among others, have changed since the previous version. Why is that?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow is Germany treated in the PPD? Where’s East Germany?\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "data/ppd/ppd_faq/posts/data/germany.html",
+    "href": "data/ppd/ppd_faq/posts/data/germany.html",
+    "title": "How is Germany treated in the PPD? Where’s East Germany?",
+    "section": "",
+    "text": "Germany is West Germany only before 1991 and (united) Germany from that point forward. The PPD includes no estimates for East Germany; we just haven’t found much to include in the source data. If you know of a survey with East German data, email us with the details, and we’ll be happy to get it into the next version."
+  },
+  {
+    "objectID": "data/ppd/ppd_faq/posts/how-to/country-codes.html",
+    "href": "data/ppd/ppd_faq/posts/how-to/country-codes.html",
+    "title": "How can I merge my other data into the PPD using ISO or other country codes?",
+    "section": "",
+    "text": "First, add whatever country codes are needed to the PPD data: there are routines for both Stata (kountry; type findit kountry in Stata’s command window to install) and R (countrycode, on CRAN) to generate many commonly used country codes. Then follow the instructions for merging data into the PPD found in the “stata_ppd.pdf” or “R_ppd.pdf” files included in the data download."
+  },
+  {
+    "objectID": "data/ppd/ppd_faq/posts/how-to/download-ppd.html",
+    "href": "data/ppd/ppd_faq/posts/how-to/download-ppd.html",
+    "title": "Wait, how can I download the data again?",
+    "section": "",
+    "text": "First, click on this link. Scroll down past the description until you see a list of files. The dataset is a .zip file, the latest version will be listed first. Clicking on the big downward-pointing-arrow icon on the right side of this line will show a menu; choosing “ZIP Archive” will download the file."
   },
   {
     "objectID": "data/sgr/index.html",
@@ -627,14 +690,14 @@
     "href": "publications/index.html",
     "title": "DCPO Publications",
     "section": "",
-    "text": "Ma, Haofeng, Jeongho Choi, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. 2026. “Macrodiscontent Across Countries.” European Political Science Review, 1-17.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n\n\n\n\n\nTai, Yuehong Cassandra, and Frederick Solt. 2026. “Trust in Civil Servants: A Cross-National Dataset for Public Policy Research, 1986–2022.” Political Studies.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\nTai, Yuehong Cassandra. 2025. “Introducing the Trust in Government (TrustGov) Dataset: A New Resource for Cross-National Time-Series Trust Research.” Research & Politics 13(1).\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\nHu, Yue, Yuehong Cassandra Tai, Hyein Ko, Byung-Deuk Woo, and Frederick Solt. 2025. “An Incomplete Recipe: One-Dimensional Latent Variables Do Not Capture the Full Flavor of Democratic Support.” Research & Politics 12(2).\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\nHu, Yue and Frederick Solt. 2025. “Macrointerest Across Countries.” British Journal of Political Science 55, e71.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n CNM Database\n\n\n\n\n\n\n\nWoo, Byung-Deuk, Hyein Ko, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. 2024 “Public Support for Gay Rights Across Countries and Over Time.” Social Science Quarterly 106, e13478.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n SGR Database\n\n\n\n\n\n\n\nHu, Yue, Yuehong Cassandra Tai, and Frederick Solt. 2024. “Revisiting the Evidence on Thermostatic Response to Democratic Change: Degrees of Democratic Support or Researcher Degrees of Freedom?” Political Science Research and Methods 13(1), 237-243.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n\n\n\n\n\nTai, Yuehong ‘Cassandra’, Yue Hu, and Frederick Solt. 2024. “Democracy, Public Support, and Measurement Uncertainty.” American Political Science Review 118(1), 512-518.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n\n\n\n\n\nWoo, Byung-Deuk, Lindsey A. Goldberg, and Frederick Solt. 2023. “Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere.” British Journal of Political Science 53(2), 766-775.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n PGE Database\n\n\n\n\n\nNo matching items"
+    "text": "Ma, Haofeng, Jeongho Choi, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. 2026. “Macrodiscontent Across Countries.” European Political Science Review, 1-17.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n PPD Database\n\n\n\n\n\n\n\nTai, Yuehong Cassandra, and Frederick Solt. 2026. “Trust in Civil Servants: A Cross-National Dataset for Public Policy Research, 1986–2022.” Political Studies.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\nTai, Yuehong Cassandra. 2025. “Introducing the Trust in Government (TrustGov) Dataset: A New Resource for Cross-National Time-Series Trust Research.” Research & Politics 13(1).\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\nHu, Yue, Yuehong Cassandra Tai, Hyein Ko, Byung-Deuk Woo, and Frederick Solt. 2025. “An Incomplete Recipe: One-Dimensional Latent Variables Do Not Capture the Full Flavor of Democratic Support.” Research & Politics 12(2).\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\nHu, Yue and Frederick Solt. 2025. “Macrointerest Across Countries.” British Journal of Political Science 55, e71.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n CNM Database\n\n\n\n\n\n\n\nWoo, Byung-Deuk, Hyein Ko, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. 2024 “Public Support for Gay Rights Across Countries and Over Time.” Social Science Quarterly 106, e13478.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n SGR Database\n\n\n\n\n\n\n\nHu, Yue, Yuehong Cassandra Tai, and Frederick Solt. 2024. “Revisiting the Evidence on Thermostatic Response to Democratic Change: Degrees of Democratic Support or Researcher Degrees of Freedom?” Political Science Research and Methods 13(1), 237-243.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n\n\n\n\n\nTai, Yuehong ‘Cassandra’, Yue Hu, and Frederick Solt. 2024. “Democracy, Public Support, and Measurement Uncertainty.” American Political Science Review 118(1), 512-518.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n\n\n\n\n\nWoo, Byung-Deuk, Lindsey A. Goldberg, and Frederick Solt. 2023. “Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere.” British Journal of Political Science 53(2), 766-775.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n PGE Database\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications/index.html#publications",
     "href": "publications/index.html#publications",
     "title": "DCPO Publications",
     "section": "",
-    "text": "Ma, Haofeng, Jeongho Choi, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. 2026. “Macrodiscontent Across Countries.” European Political Science Review, 1-17.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n\n\n\n\n\nTai, Yuehong Cassandra, and Frederick Solt. 2026. “Trust in Civil Servants: A Cross-National Dataset for Public Policy Research, 1986–2022.” Political Studies.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\nTai, Yuehong Cassandra. 2025. “Introducing the Trust in Government (TrustGov) Dataset: A New Resource for Cross-National Time-Series Trust Research.” Research & Politics 13(1).\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\nHu, Yue, Yuehong Cassandra Tai, Hyein Ko, Byung-Deuk Woo, and Frederick Solt. 2025. “An Incomplete Recipe: One-Dimensional Latent Variables Do Not Capture the Full Flavor of Democratic Support.” Research & Politics 12(2).\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\nHu, Yue and Frederick Solt. 2025. “Macrointerest Across Countries.” British Journal of Political Science 55, e71.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n CNM Database\n\n\n\n\n\n\n\nWoo, Byung-Deuk, Hyein Ko, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. 2024 “Public Support for Gay Rights Across Countries and Over Time.” Social Science Quarterly 106, e13478.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n SGR Database\n\n\n\n\n\n\n\nHu, Yue, Yuehong Cassandra Tai, and Frederick Solt. 2024. “Revisiting the Evidence on Thermostatic Response to Democratic Change: Degrees of Democratic Support or Researcher Degrees of Freedom?” Political Science Research and Methods 13(1), 237-243.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n\n\n\n\n\nTai, Yuehong ‘Cassandra’, Yue Hu, and Frederick Solt. 2024. “Democracy, Public Support, and Measurement Uncertainty.” American Political Science Review 118(1), 512-518.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n\n\n\n\n\nWoo, Byung-Deuk, Lindsey A. Goldberg, and Frederick Solt. 2023. “Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere.” British Journal of Political Science 53(2), 766-775.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n PGE Database\n\n\n\n\n\nNo matching items"
+    "text": "Ma, Haofeng, Jeongho Choi, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. 2026. “Macrodiscontent Across Countries.” European Political Science Review, 1-17.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n PPD Database\n\n\n\n\n\n\n\nTai, Yuehong Cassandra, and Frederick Solt. 2026. “Trust in Civil Servants: A Cross-National Dataset for Public Policy Research, 1986–2022.” Political Studies.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\nTai, Yuehong Cassandra. 2025. “Introducing the Trust in Government (TrustGov) Dataset: A New Resource for Cross-National Time-Series Trust Research.” Research & Politics 13(1).\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\nHu, Yue, Yuehong Cassandra Tai, Hyein Ko, Byung-Deuk Woo, and Frederick Solt. 2025. “An Incomplete Recipe: One-Dimensional Latent Variables Do Not Capture the Full Flavor of Democratic Support.” Research & Politics 12(2).\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n\n\n\n\n\nHu, Yue and Frederick Solt. 2025. “Macrointerest Across Countries.” British Journal of Political Science 55, e71.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n CNM Database\n\n\n\n\n\n\n\nWoo, Byung-Deuk, Hyein Ko, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. 2024 “Public Support for Gay Rights Across Countries and Over Time.” Social Science Quarterly 106, e13478.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n SGR Database\n\n\n\n\n\n\n\nHu, Yue, Yuehong Cassandra Tai, and Frederick Solt. 2024. “Revisiting the Evidence on Thermostatic Response to Democratic Change: Degrees of Democratic Support or Researcher Degrees of Freedom?” Political Science Research and Methods 13(1), 237-243.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n\n\n\n\n\nTai, Yuehong ‘Cassandra’, Yue Hu, and Frederick Solt. 2024. “Democracy, Public Support, and Measurement Uncertainty.” American Political Science Review 118(1), 512-518.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n\n\n\n\n\nWoo, Byung-Deuk, Lindsey A. Goldberg, and Frederick Solt. 2023. “Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere.” British Journal of Political Science 53(2), 766-775.\n\n\n\n\n\n Full details »\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n PGE Database\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications/index.html#working-papers",
@@ -732,7 +795,7 @@
     "href": "publications/published/discontent/short.html",
     "title": "Macrodiscontent Across Countries",
     "section": "",
-    "text": "Ma, Haofeng, Jeongho Choi, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. 2026. “Macrodiscontent Across Countries.” European Political Science Review, 1-17.\n\n\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Ma, Haofeng, Jeongho Choi, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. 2026. “Macrodiscontent Across Countries.” European Political Science Review, 1-17.\n\n\n\n\n Final version\n\n\n Preprint\n\n\n Code\n\n\n Dataverse\n\n\n PPD Database\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications/published/discontent/short.html#abstract",
@@ -978,75 +1041,5 @@
     "title": "Team",
     "section": "",
     "text": "Jeongho Choi\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHaofeng Ma\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHyein Ko\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nYuehong Cassandra Tai\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nByung-Deuk Woo\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nYue Hu\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFrederick Solt\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "data/ppd/index.html",
-    "href": "data/ppd/index.html",
-    "title": "PPD: Public Political Discontent",
-    "section": "",
-    "text": "The Public Political Discontent (PPD) Database\nPublic discontent with the political system has become an increasingly salient concern in recent years, with the argument that it undermines democratic stability and effective governance. Nevertheless, the understanding of the nature, trends, and drivers of political discontent remain debated, largely reflecting the constraints from available survey data and items in the construction of measurement. This article takes advantage of state-of-the-art latent-variable modeling to aggregate survey responses and a comprehensive collection of survey data to generate dynamic comparative estimates of public political discontent (PPD) for 136 countries and regions over 56 years (1968–2023). These PPD scores are validated with responses to the individual source-data survey items that were used to generate them as well as the democratic evaluation survey item that was not used in our estimation. Next, a cross-national and longitudinal analysis of PPD in advanced democracies (i.e., OECD countries) highlights that PPD has been on a rising trend, rather than merely trendless fluctuations. Our results reveal that these increased discontents are largely attributable to worsening economic conditions, including low average income, slow growth, and high unemployment rates.\nA full description of the PPD dataset, the source data used to generate it, and validations of its estimates is presented here:\nMa, Haofeng, Jeongho Choi, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. Forthcoming. “Macrodiscontent Across Countries.” European Political Science Review.\nThere are two ways of using the PPD data. To directly compare up to four countries in estimated levels and trends of public gender egalitarianism, use the PPD web app below. To use the PPD data in statistical analyses, datasets formatted for use in Stata and R are available for download.\n\n Download the PPD  PPD FAQ\n\n\n\n\nPowered by RStudio.\nPlease cite the PPD as follows:\nMa, Haofeng, Jeongho Choi, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. Forthcoming. Macrodiscontent Across Countries. European Political Science Review Published online 2026:1-17. doi:10.1017/S1755773926100599 PPD Version 1.0, August 2026."
-  },
-  {
-    "objectID": "data/ppd/ppd_faq/index.html#how-to-.-.-.",
-    "href": "data/ppd/ppd_faq/index.html#how-to-.-.-.",
-    "title": "PPD Frequently Asked Questions",
-    "section": "How to . . .",
-    "text": "How to . . .\n\n\n\n\n\n\n\n\n\n\nWait, how can I download the data again?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nI imported the ppd_summary.csv file, but the data seem wrong. How can I interpret these data?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow can I merge my other data into the PPD using ISO or other country codes?\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "data/ppd/ppd_faq/index.html#the-pge-data",
-    "href": "data/ppd/ppd_faq/index.html#the-pge-data",
-    "title": "PGE Frequently Asked Questions",
-    "section": "The PGE Data",
-    "text": "The PGE Data\n\n\n\n\n\n\n\n\n\n\nWhat about Russia and the rest of the former Soviet Union? Yugoslavia? Czechoslovakia? Pakistan? Sudan? Ethiopia? Why are there estimates for successor states before they actually existed?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe estimates for Ruritania, among others, have changed since the previous version. Why is that?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow is Germany treated in the PPD? Where’s East Germany?\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "data/ppd/ppd_faq/posts/data/changes-between-versions.html",
-    "href": "data/ppd/ppd_faq/posts/data/changes-between-versions.html",
-    "title": "The estimates for Ruritania, among others, have changed since the previous version. Why is that?",
-    "section": "",
-    "text": "There are two reasons why estimates change from one version of the PPD to the next. The first reason is that we have incorporated new source survey data for the country. Adding more source data for a country, particularly when previously available data was very scant, holds the potential that the estimates will change.\nThe second, less obvious, reason for changes is the availability of more source data for other countries. The PPD estimates of public political discontent depend on the DCPO routine’s estimates of the difficulty and dispersion of each survey item. When additional data is added for a given survey item (or, in fact, for other survey items in overlapping country-years), its difficulty and dispersion estimates may change see Ma et al. 2026, in turn influencing the PPD estimates based on responses to this survey item. This means that, given the scarcity of data on Ruritania, more data can lead to substantial changes in the PGE estimates for Ruritania."
-  },
-  {
-    "objectID": "data/ppd/ppd_faq/posts/how-to/download-ppd.html",
-    "href": "data/ppd/ppd_faq/posts/how-to/download-ppd.html",
-    "title": "Wait, how can I download the data again?",
-    "section": "",
-    "text": "First, click on this link. Scroll down past the description until you see a list of files. The dataset is a .zip file, the latest version will be listed first. Clicking on the big downward-pointing-arrow icon on the right side of this line will show a menu; choosing “ZIP Archive” will download the file."
-  },
-  {
-    "objectID": "data/ppd/ppd_faq/posts/how-to/country-codes.html",
-    "href": "data/ppd/ppd_faq/posts/how-to/country-codes.html",
-    "title": "How can I merge my other data into the PPD using ISO or other country codes?",
-    "section": "",
-    "text": "First, add whatever country codes are needed to the PPD data: there are routines for both Stata (kountry; type findit kountry in Stata’s command window to install) and R (countrycode, on CRAN) to generate many commonly used country codes. Then follow the instructions for merging data into the PPD found in the “stata_ppd.pdf” or “R_ppd.pdf” files included in the data download."
-  },
-  {
-    "objectID": "data/ppd/ppd_faq/posts/how-to/csv-format.html",
-    "href": "data/ppd/ppd_faq/posts/how-to/csv-format.html",
-    "title": "I imported the ppd_summary.csv file, but the data seem wrong. How can I interpret these data?",
-    "section": "",
-    "text": "The issue here is that the ppd_summary.csv file is saved using RFC 4180 csv conventions, that is, with a dot marking the decimal and a comma separating values. If you are in a locale that observes different conventions—many countries use commas to indicate the decimal and semicolons to separate values—your software’s default settings may not read the data correctly. Be sure to specify the decimal marker and value delimiter appropriately when loading the file: all PPD values fall between zero and one hundred."
-  },
-  {
-    "objectID": "data/ppd/ppd_faq/posts/data/partition-and-successors.html",
-    "href": "data/ppd/ppd_faq/posts/data/partition-and-successors.html",
-    "title": "What about Russia and the rest of the former Soviet Union? Yugoslavia? Czechoslovakia? Pakistan? Sudan? Ethiopia? Why are there estimates for successor states before they actually existed?",
-    "section": "",
-    "text": "For countries that have undergone partition, the PPD estimates for a given year include all of the origin country’s then-current territories. This means that for dates before partition, all of the once united territory is included: estimates for Sudan before 2011, for example, include present-day South Sudan.\nWhere survey data are available from before the breakup for the territory of successor states, these data have been used to generate PPD estimates like anything else in the source data (the DCPO routine does not make any effort to incorporate information from the origin state into estimates for the successor state)."
-  },
-  {
-    "objectID": "data/ppd/ppd_faq/posts/data/germany.html",
-    "href": "data/ppd/ppd_faq/posts/data/germany.html",
-    "title": "How is Germany treated in the PPD? Where’s East Germany?",
-    "section": "",
-    "text": "Germany is West Germany only before 1991 and (united) Germany from that point forward. The PPD includes no estimates for East Germany; we just haven’t found much to include in the source data. If you know of a survey with East German data, email us with the details, and we’ll be happy to get it into the next version."
-  },
-  {
-    "objectID": "data/ppd/ppd_faq/index.html#the-ppd-data",
-    "href": "data/ppd/ppd_faq/index.html#the-ppd-data",
-    "title": "PPD Frequently Asked Questions",
-    "section": "The PPD Data",
-    "text": "The PPD Data\n\n\n\n\n\n\n\n\n\n\nWhat about Russia and the rest of the former Soviet Union? Yugoslavia? Czechoslovakia? Pakistan? Sudan? Ethiopia? Why are there estimates for successor states before they actually existed?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe estimates for Ruritania, among others, have changed since the previous version. Why is that?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow is Germany treated in the PPD? Where’s East Germany?\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]

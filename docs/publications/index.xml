@@ -16,8 +16,8 @@
 <height>63</height>
 <width>144</width>
 </image>
-<generator>quarto-1.7.32</generator>
-<lastBuildDate>Wed, 12 Aug 2026 05:00:00 GMT</lastBuildDate>
+<generator>quarto-1.9.37</generator>
+<lastBuildDate>Tue, 11 Aug 2026 16:00:00 GMT</lastBuildDate>
 <item>
   <title>Macrodiscontent Across Countries</title>
   <dc:creator>Haofeng Ma</dc:creator>
@@ -53,6 +53,9 @@
 <li class="project-link">
 <a href="https://doi.org/10.7910/DVN/0II26W"><i class="fas fa-table"></i> Dataverse</a>
 </li>
+<li class="project-link">
+<a href="https://dcpo.org/data/ppd/"><i class="fa-solid fa-database"></i> PPD Database</a>
+</li>
 </ul>
 </div>
 <div class="publication-extra">
@@ -84,7 +87,7 @@
 </section>
 <section id="bibtex-citation" class="level2">
 <h2 class="anchored" data-anchor-id="bibtex-citation">BibTeX citation</h2>
-<div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
 background-color: null;
 font-style: inherit;">@misc</span>{<span class="ot" style="color: #003B4F;
 background-color: null;
@@ -116,7 +119,7 @@ font-style: inherit;">number</span>={},</span>
 <span id="cb1-10"> <span class="dt" style="color: #AD0000;
 background-color: null;
 font-style: inherit;">pages</span>={1--17}</span>
-<span id="cb1-11">}</span></code></pre></div>
+<span id="cb1-11">}</span></code></pre></div></div>
 
 
 
@@ -128,7 +131,7 @@ font-style: inherit;">pages</span>={1--17}</span>
   <category>measurement</category>
   <category>dcpo</category>
   <guid>https://dcpo.org/publications/published/discontent/</guid>
-  <pubDate>Wed, 12 Aug 2026 05:00:00 GMT</pubDate>
+  <pubDate>Tue, 11 Aug 2026 16:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Trust in Civil Servants: A Cross-National Dataset for Public Policy Research, 1986–2022</title>
@@ -202,7 +205,7 @@ font-style: inherit;">pages</span>={1--17}</span>
 </section>
 <section id="bibtex-citation" class="level2">
 <h2 class="anchored" data-anchor-id="bibtex-citation">BibTeX citation</h2>
-<div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
 background-color: null;
 font-style: inherit;">@misc</span>{<span class="ot" style="color: #003B4F;
 background-color: null;
@@ -228,7 +231,7 @@ font-style: inherit;">url</span>={https://doi.org/10.1177/00323217261450953},</s
 <span id="cb1-8"> <span class="dt" style="color: #AD0000;
 background-color: null;
 font-style: inherit;">doi</span>={10.1177/00323217261450953}</span>
-<span id="cb1-9">}</span></code></pre></div>
+<span id="cb1-9">}</span></code></pre></div></div>
 
 
 
@@ -239,7 +242,7 @@ font-style: inherit;">doi</span>={10.1177/00323217261450953}</span>
   <category>measurement</category>
   <category>dcpo</category>
   <guid>https://dcpo.org/publications/published/trust_bureaucracy/</guid>
-  <pubDate>Tue, 30 Jun 2026 05:00:00 GMT</pubDate>
+  <pubDate>Mon, 29 Jun 2026 16:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Introducing the Trust in Government (TrustGov) Dataset: A New Resource for Cross-National Time-Series Trust Research</title>
@@ -306,7 +309,7 @@ font-style: inherit;">doi</span>={10.1177/00323217261450953}</span>
 </section>
 <section id="bibtex-citation" class="level2">
 <h2 class="anchored" data-anchor-id="bibtex-citation">BibTeX citation</h2>
-<div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
 background-color: null;
 font-style: inherit;">@misc</span>{<span class="ot" style="color: #003B4F;
 background-color: null;
@@ -338,7 +341,7 @@ font-style: inherit;">doi</span> = {10.1177/20531680261432469},</span>
 <span id="cb1-10"> <span class="dt" style="color: #AD0000;
 background-color: null;
 font-style: inherit;">url</span> = {https://doi.org/10.1177/20531680261432469}</span>
-<span id="cb1-11">}</span></code></pre></div>
+<span id="cb1-11">}</span></code></pre></div></div>
 
 
 
@@ -349,7 +352,7 @@ font-style: inherit;">url</span> = {https://doi.org/10.1177/20531680261432469}</
   <category>measurement</category>
   <category>dcpo</category>
   <guid>https://dcpo.org/publications/published/trust_gov/</guid>
-  <pubDate>Sun, 01 Mar 2026 06:00:00 GMT</pubDate>
+  <pubDate>Sat, 28 Feb 2026 16:00:00 GMT</pubDate>
 </item>
 <item>
   <title>An Incomplete Recipe: One-Dimensional Latent Variables Do Not Capture the Full Flavor of Democratic Support</title>
@@ -426,7 +429,7 @@ font-style: inherit;">url</span> = {https://doi.org/10.1177/20531680261432469}</
 </section>
 <section id="bibtex-citation" class="level2">
 <h2 class="anchored" data-anchor-id="bibtex-citation">BibTeX citation</h2>
-<div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
 background-color: null;
 font-style: inherit;">@misc</span>{<span class="ot" style="color: #003B4F;
 background-color: null;
@@ -456,7 +459,7 @@ font-style: inherit;">url</span>={doi.org/10.1177/20531680251341857},</span>
 background-color: null;
 font-style: inherit;">doi</span>={10.1177/20531680251341857</span>
 <span id="cb1-10">}</span>
-<span id="cb1-11">}</span></code></pre></div>
+<span id="cb1-11">}</span></code></pre></div></div>
 
 
 
@@ -468,7 +471,7 @@ font-style: inherit;">doi</span>={10.1177/20531680251341857</span>
   <category>measurement</category>
   <category>dcpo</category>
   <guid>https://dcpo.org/publications/published/demsupport_data/</guid>
-  <pubDate>Tue, 27 May 2025 05:00:00 GMT</pubDate>
+  <pubDate>Mon, 26 May 2025 16:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Macrointerest Across Countries</title>
@@ -542,7 +545,7 @@ font-style: inherit;">doi</span>={10.1177/20531680251341857</span>
 </section>
 <section id="bibtex-citation" class="level2">
 <h2 class="anchored" data-anchor-id="bibtex-citation">BibTeX citation</h2>
-<div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
 background-color: null;
 font-style: inherit;">@article</span>{<span class="ot" style="color: #003B4F;
 background-color: null;
@@ -571,7 +574,7 @@ font-style: inherit;">number</span> = {},</span>
 <span id="cb1-9"> <span class="dt" style="color: #AD0000;
 background-color: null;
 font-style: inherit;">pages</span> = {e71}</span>
-<span id="cb1-10">}</span></code></pre></div>
+<span id="cb1-10">}</span></code></pre></div></div>
 
 
 
@@ -583,7 +586,7 @@ font-style: inherit;">pages</span> = {e71}</span>
   <category>measurement</category>
   <category>dcpo</category>
   <guid>https://dcpo.org/publications/published/macrointerest/</guid>
-  <pubDate>Mon, 28 Apr 2025 05:00:00 GMT</pubDate>
+  <pubDate>Sun, 27 Apr 2025 16:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Public Support for Gay Rights Across Countries and Over Time</title>
@@ -666,7 +669,7 @@ font-style: inherit;">pages</span> = {e71}</span>
 </section>
 <section id="bibtex-citation" class="level2">
 <h2 class="anchored" data-anchor-id="bibtex-citation">BibTeX citation</h2>
-<div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
 background-color: null;
 font-style: inherit;">@article</span>{<span class="ot" style="color: #003B4F;
 background-color: null;
@@ -698,7 +701,7 @@ font-style: inherit;">doi</span> = {10.1111/ssqu.13478},</span>
 <span id="cb1-10"> <span class="dt" style="color: #AD0000;
 background-color: null;
 font-style: inherit;">url</span> = {https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.13478}</span>
-<span id="cb1-11">}</span></code></pre></div>
+<span id="cb1-11">}</span></code></pre></div></div>
 
 
 
@@ -710,7 +713,7 @@ font-style: inherit;">url</span> = {https://onlinelibrary.wiley.com/doi/abs/10.1
   <category>measurement</category>
   <category>dcpo</category>
   <guid>https://dcpo.org/publications/published/gayrights/</guid>
-  <pubDate>Fri, 20 Dec 2024 06:00:00 GMT</pubDate>
+  <pubDate>Thu, 19 Dec 2024 16:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Revisiting the Evidence on Thermostatic Response to Democratic Change: Degrees of Democratic Support or Researcher Degrees of Freedom?</title>
@@ -776,7 +779,7 @@ font-style: inherit;">url</span> = {https://onlinelibrary.wiley.com/doi/abs/10.1
 </section>
 <section id="bibtex-citation" class="level2">
 <h2 class="anchored" data-anchor-id="bibtex-citation">BibTeX citation</h2>
-<div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
 background-color: null;
 font-style: inherit;">@article</span>{<span class="ot" style="color: #003B4F;
 background-color: null;
@@ -805,7 +808,7 @@ font-style: inherit;">pages</span> = {237-243},</span>
 <span id="cb1-9"><span class="dt" style="color: #AD0000;
 background-color: null;
 font-style: inherit;">doi</span>={10.1017/psrm.2024.16}</span>
-<span id="cb1-10">}</span></code></pre></div>
+<span id="cb1-10">}</span></code></pre></div></div>
 
 
 
@@ -817,7 +820,7 @@ font-style: inherit;">doi</span>={10.1017/psrm.2024.16}</span>
   <category>measurement</category>
   <category>dcpo</category>
   <guid>https://dcpo.org/publications/published/dem_mood/</guid>
-  <pubDate>Thu, 02 May 2024 05:00:00 GMT</pubDate>
+  <pubDate>Wed, 01 May 2024 16:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Democracy, Public Support, and Measurement Uncertainty</title>
@@ -878,7 +881,7 @@ font-style: inherit;">doi</span>={10.1017/psrm.2024.16}</span>
 </section>
 <section id="bibtex-citation" class="level2">
 <h2 class="anchored" data-anchor-id="bibtex-citation">BibTeX Citation</h2>
-<div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
 background-color: null;
 font-style: inherit;">@article</span>{<span class="ot" style="color: #003B4F;
 background-color: null;
@@ -906,7 +909,7 @@ background-color: null;
 font-style: inherit;">pages</span> = {512-518},</span>
 <span id="cb1-9">    <span class="dt" style="color: #AD0000;
 background-color: null;
-font-style: inherit;">doi</span> = {doi.org/10.1017/S0003055422000429}}</span></code></pre></div>
+font-style: inherit;">doi</span> = {doi.org/10.1017/S0003055422000429}}</span></code></pre></div></div>
 
 
 
@@ -918,7 +921,7 @@ font-style: inherit;">doi</span> = {doi.org/10.1017/S0003055422000429}}</span></
   <category>attitudes</category>
   <category>measurement</category>
   <guid>https://dcpo.org/publications/published/dem_support/</guid>
-  <pubDate>Mon, 29 May 2023 05:00:00 GMT</pubDate>
+  <pubDate>Sun, 28 May 2023 16:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Public Gender Egalitarianism: A Dataset of Dynamic Comparative Public Opinion Toward Egalitarian Gender Roles in the Public Sphere</title>
@@ -1024,7 +1027,7 @@ font-style: inherit;">doi</span> = {10.1017/S0007123422000436}}</span></code></p
 
  ]]></description>
   <guid>https://dcpo.org/publications/published/pge/</guid>
-  <pubDate>Sun, 28 May 2023 05:00:00 GMT</pubDate>
+  <pubDate>Sat, 27 May 2023 16:00:00 GMT</pubDate>
 </item>
 <item>
   <title>On Data ‘Janitor Work’ in Political Science: The Case of Thermostatic Support for Democracy</title>
@@ -1128,7 +1131,7 @@ font-style: inherit;">doi</span>={10.31235/osf.io/kd7mu}</span>
   <category>measurement</category>
   <category>dcpo</category>
   <guid>https://dcpo.org/publications/working-papers/janitor_work/</guid>
-  <pubDate>Mon, 30 May 2022 05:00:00 GMT</pubDate>
+  <pubDate>Sun, 29 May 2022 16:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Modeling Dynamic Comparative Public Opinion</title>
@@ -1181,7 +1184,7 @@ font-style: inherit;">doi</span>={10.31235/osf.io/kd7mu}</span>
 </section>
 <section id="bibtex-citation" class="level2">
 <h2 class="anchored" data-anchor-id="bibtex-citation">BibTeX citation</h2>
-<div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
 background-color: null;
 font-style: inherit;">@misc</span>{<span class="ot" style="color: #003B4F;
 background-color: null;
@@ -1207,7 +1210,7 @@ font-style: inherit;">url</span>={osf.io/preprints/socarxiv/d5n9p},</span>
 <span id="cb1-8"> <span class="dt" style="color: #AD0000;
 background-color: null;
 font-style: inherit;">doi</span>={10.31235/osf.io/d5n9p}</span>
-<span id="cb1-9">}</span></code></pre></div>
+<span id="cb1-9">}</span></code></pre></div></div>
 
 
 
@@ -1215,7 +1218,7 @@ font-style: inherit;">doi</span>={10.31235/osf.io/d5n9p}</span>
 
  ]]></description>
   <guid>https://dcpo.org/publications/working-papers/dcpo_article/</guid>
-  <pubDate>Sun, 12 Jan 2020 06:00:00 GMT</pubDate>
+  <pubDate>Sat, 11 Jan 2020 16:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
