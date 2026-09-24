@@ -1,0 +1,5 @@
+---
+title: "PPD: Public Political Discontent"
+header-includes: |
+  <meta http-equiv="Refresh" content="0; URL=https://doi.org/10.7910/DVN/0II26W">
+---

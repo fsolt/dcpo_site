@@ -208,5 +208,16 @@
       "/team/hu.html",
       "/team/fsolt.html"
     ]
+  },
+  {
+    "listing": "/data/ppd/ppd_faq/index.html",
+    "items": [
+      "/data/ppd/ppd_faq/posts/data/partition-and-successors.html",
+      "/data/ppd/ppd_faq/posts/data/changes-between-versions.html",
+      "/data/ppd/ppd_faq/posts/data/germany.html",
+      "/data/ppd/ppd_faq/posts/how-to/download-ppd.html",
+      "/data/ppd/ppd_faq/posts/how-to/csv-format.html",
+      "/data/ppd/ppd_faq/posts/how-to/country-codes.html"
+    ]
   }
 ]

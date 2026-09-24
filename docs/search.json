@@ -978,5 +978,75 @@
     "title": "Team",
     "section": "",
     "text": "Jeongho Choi\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHaofeng Ma\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHyein Ko\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nYuehong Cassandra Tai\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nByung-Deuk Woo\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nYue Hu\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFrederick Solt\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "data/ppd/index.html",
+    "href": "data/ppd/index.html",
+    "title": "PPD: Public Political Discontent",
+    "section": "",
+    "text": "The Public Political Discontent (PPD) Database\nPublic discontent with the political system has become an increasingly salient concern in recent years, with the argument that it undermines democratic stability and effective governance. Nevertheless, the understanding of the nature, trends, and drivers of political discontent remain debated, largely reflecting the constraints from available survey data and items in the construction of measurement. This article takes advantage of state-of-the-art latent-variable modeling to aggregate survey responses and a comprehensive collection of survey data to generate dynamic comparative estimates of public political discontent (PPD) for 136 countries and regions over 56 years (1968–2023). These PPD scores are validated with responses to the individual source-data survey items that were used to generate them as well as the democratic evaluation survey item that was not used in our estimation. Next, a cross-national and longitudinal analysis of PPD in advanced democracies (i.e., OECD countries) highlights that PPD has been on a rising trend, rather than merely trendless fluctuations. Our results reveal that these increased discontents are largely attributable to worsening economic conditions, including low average income, slow growth, and high unemployment rates.\nA full description of the PPD dataset, the source data used to generate it, and validations of its estimates is presented here:\nMa, Haofeng, Jeongho Choi, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. Forthcoming. “Macrodiscontent Across Countries.” European Political Science Review.\nThere are two ways of using the PPD data. To directly compare up to four countries in estimated levels and trends of public gender egalitarianism, use the PPD web app below. To use the PPD data in statistical analyses, datasets formatted for use in Stata and R are available for download.\n\n Download the PPD  PPD FAQ\n\n\n\n\nPowered by RStudio.\nPlease cite the PPD as follows:\nMa, Haofeng, Jeongho Choi, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. Forthcoming. Macrodiscontent Across Countries. European Political Science Review Published online 2026:1-17. doi:10.1017/S1755773926100599 PPD Version 1.0, August 2026."
+  },
+  {
+    "objectID": "data/ppd/ppd_faq/index.html#how-to-.-.-.",
+    "href": "data/ppd/ppd_faq/index.html#how-to-.-.-.",
+    "title": "PPD Frequently Asked Questions",
+    "section": "How to . . .",
+    "text": "How to . . .\n\n\n\n\n\n\n\n\n\n\nWait, how can I download the data again?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nI imported the ppd_summary.csv file, but the data seem wrong. How can I interpret these data?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow can I merge my other data into the PPD using ISO or other country codes?\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "data/ppd/ppd_faq/index.html#the-pge-data",
+    "href": "data/ppd/ppd_faq/index.html#the-pge-data",
+    "title": "PGE Frequently Asked Questions",
+    "section": "The PGE Data",
+    "text": "The PGE Data\n\n\n\n\n\n\n\n\n\n\nWhat about Russia and the rest of the former Soviet Union? Yugoslavia? Czechoslovakia? Pakistan? Sudan? Ethiopia? Why are there estimates for successor states before they actually existed?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe estimates for Ruritania, among others, have changed since the previous version. Why is that?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow is Germany treated in the PPD? Where’s East Germany?\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "data/ppd/ppd_faq/posts/data/changes-between-versions.html",
+    "href": "data/ppd/ppd_faq/posts/data/changes-between-versions.html",
+    "title": "The estimates for Ruritania, among others, have changed since the previous version. Why is that?",
+    "section": "",
+    "text": "There are two reasons why estimates change from one version of the PPD to the next. The first reason is that we have incorporated new source survey data for the country. Adding more source data for a country, particularly when previously available data was very scant, holds the potential that the estimates will change.\nThe second, less obvious, reason for changes is the availability of more source data for other countries. The PPD estimates of public political discontent depend on the DCPO routine’s estimates of the difficulty and dispersion of each survey item. When additional data is added for a given survey item (or, in fact, for other survey items in overlapping country-years), its difficulty and dispersion estimates may change see Ma et al. 2026, in turn influencing the PPD estimates based on responses to this survey item. This means that, given the scarcity of data on Ruritania, more data can lead to substantial changes in the PGE estimates for Ruritania."
+  },
+  {
+    "objectID": "data/ppd/ppd_faq/posts/how-to/download-ppd.html",
+    "href": "data/ppd/ppd_faq/posts/how-to/download-ppd.html",
+    "title": "Wait, how can I download the data again?",
+    "section": "",
+    "text": "First, click on this link. Scroll down past the description until you see a list of files. The dataset is a .zip file, the latest version will be listed first. Clicking on the big downward-pointing-arrow icon on the right side of this line will show a menu; choosing “ZIP Archive” will download the file."
+  },
+  {
+    "objectID": "data/ppd/ppd_faq/posts/how-to/country-codes.html",
+    "href": "data/ppd/ppd_faq/posts/how-to/country-codes.html",
+    "title": "How can I merge my other data into the PPD using ISO or other country codes?",
+    "section": "",
+    "text": "First, add whatever country codes are needed to the PPD data: there are routines for both Stata (kountry; type findit kountry in Stata’s command window to install) and R (countrycode, on CRAN) to generate many commonly used country codes. Then follow the instructions for merging data into the PPD found in the “stata_ppd.pdf” or “R_ppd.pdf” files included in the data download."
+  },
+  {
+    "objectID": "data/ppd/ppd_faq/posts/how-to/csv-format.html",
+    "href": "data/ppd/ppd_faq/posts/how-to/csv-format.html",
+    "title": "I imported the ppd_summary.csv file, but the data seem wrong. How can I interpret these data?",
+    "section": "",
+    "text": "The issue here is that the ppd_summary.csv file is saved using RFC 4180 csv conventions, that is, with a dot marking the decimal and a comma separating values. If you are in a locale that observes different conventions—many countries use commas to indicate the decimal and semicolons to separate values—your software’s default settings may not read the data correctly. Be sure to specify the decimal marker and value delimiter appropriately when loading the file: all PPD values fall between zero and one hundred."
+  },
+  {
+    "objectID": "data/ppd/ppd_faq/posts/data/partition-and-successors.html",
+    "href": "data/ppd/ppd_faq/posts/data/partition-and-successors.html",
+    "title": "What about Russia and the rest of the former Soviet Union? Yugoslavia? Czechoslovakia? Pakistan? Sudan? Ethiopia? Why are there estimates for successor states before they actually existed?",
+    "section": "",
+    "text": "For countries that have undergone partition, the PPD estimates for a given year include all of the origin country’s then-current territories. This means that for dates before partition, all of the once united territory is included: estimates for Sudan before 2011, for example, include present-day South Sudan.\nWhere survey data are available from before the breakup for the territory of successor states, these data have been used to generate PPD estimates like anything else in the source data (the DCPO routine does not make any effort to incorporate information from the origin state into estimates for the successor state)."
+  },
+  {
+    "objectID": "data/ppd/ppd_faq/posts/data/germany.html",
+    "href": "data/ppd/ppd_faq/posts/data/germany.html",
+    "title": "How is Germany treated in the PPD? Where’s East Germany?",
+    "section": "",
+    "text": "Germany is West Germany only before 1991 and (united) Germany from that point forward. The PPD includes no estimates for East Germany; we just haven’t found much to include in the source data. If you know of a survey with East German data, email us with the details, and we’ll be happy to get it into the next version."
+  },
+  {
+    "objectID": "data/ppd/ppd_faq/index.html#the-ppd-data",
+    "href": "data/ppd/ppd_faq/index.html#the-ppd-data",
+    "title": "PPD Frequently Asked Questions",
+    "section": "The PPD Data",
+    "text": "The PPD Data\n\n\n\n\n\n\n\n\n\n\nWhat about Russia and the rest of the former Soviet Union? Yugoslavia? Czechoslovakia? Pakistan? Sudan? Ethiopia? Why are there estimates for successor states before they actually existed?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe estimates for Ruritania, among others, have changed since the previous version. Why is that?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow is Germany treated in the PPD? Where’s East Germany?\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]
