@@ -45,7 +45,7 @@ links:
   url: "https://doi.org/10.7910/DVN/0II26W"
   icon: fas fa-table
 - name: PPD Database
-  url: https://dcpo.org/data/ppd/
+  url: ../../../data/ppd/
   icon: fa-solid fa-database
 # - name: Dataverse
 #   url: ""
